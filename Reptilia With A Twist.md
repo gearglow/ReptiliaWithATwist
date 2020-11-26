@@ -20,17 +20,12 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 > OPTIONAL: Dumbledore's manipulations can be a factor in Harry's premature demises."
 
 ### Changes and Adjustments
-+ Make A Wish: What if Harry really was just that good?
-
-+ Can't keep timeline memories, but can train up in the afterlife and keep that.
-  
-  + Training includes mind magics
-  
-+ Can make a plan with whichever advisors are desired. The plan lives in Harry's mindscape and can only be accessed during occlumentic meditation.
-
-+ Death (Eleanor?) grants a boon: limited precognition so Harry (almost) always sees a direct attack coming far enough in advance to counter it. This might just be on an instinctive level, or it might go so far as to be a full-blown vision, depending on the attack.
-
-+ No way is Eleanor getting fired, but she's a romantic at heart (and *really* wants to hook up with Destiny if she can help her latest pet project along).
+> + Make A Wish: What if Harry really was just that good?
+>+ Can't keep timeline memories, but can train up in the afterlife and keep that. 
+>    + Training includes mind magics 
+>+ Can make a plan with whichever advisors are desired. The plan lives in Harry's mindscape and can only be accessed during occlumentic meditation.
+>+ Death (Eleanor?) grants a boon: limited precognition so Harry (almost) always sees a direct attack coming far enough in advance to counter it. This might just be on an instinctive level, or it might go so far as to be a full-blown vision, depending on the attack.
+>+ No way is Eleanor getting fired, but she's a romantic at heart (and *really* wants to hook up with Destiny if she can help her latest pet project along).
 
   
 
@@ -124,5 +119,6 @@ Eleanor thought for a minute, then grinned. "Janet!"
 
 
 
-Janet, it turned out, was a hyper-evolved sentient interface to the sum total of all knowledge in the universe, and very friendly too. Between the three of them, a plan was soon formed.
+Janet, it turned out, was a hyper-evolved sentient interface to the sum total of all knowledge in the universe, and an absolute sweetheart too. Between the three of them, a plan was soon formed.
 
+"Just sign here, here, and here," Janet said, handing Harry a contract detailing the whole thing. "This should keep the Judge happy."
