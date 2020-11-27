@@ -133,10 +133,6 @@ Harry smiled nervously. "It's better than going back blind like before, I suppos
 
 
 
-+++++
-
-
-
 ## Chapter 2: Making Memories
 
 "This. Is. Awesome!" Harry gushed, looking around her own personal Elysium. There was a cozy-looking cottage, some lightly-forested grounds at the edge of a crystal-clear lake, and a *quidditch pitch!* The lake had a small cabana on its beach, a fire pit next to some log benches, and a few large boulders perfect for sunning or diving. The grounds had a large grassy clearing, with a perfectly round border of white stone.
@@ -150,3 +146,18 @@ They walked into the cottage and Harry *squealed.*
 The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a well-lit library, with a large desk and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions lab. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
 
 "I should hope so," Janet said. "I got it from your past lives' daydreams about having a place of your own. With a few modifications for the training you'll be undertaking, of course."
+
+"Oh, right. About that," Harry said. "What's the plan?"
+
+Janet and Eleanor looked at each other and grinned.
+
+"Montage?"
+
+"Montage."
+
+
+
++++++
+
+
+
