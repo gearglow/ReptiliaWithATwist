@@ -33,7 +33,7 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 
 
 
-## Chapter 1
+## Chapter 1: Wait, what?
 
 The first thing Harry saw was a white wall with green letters, which said, *Welcome! Everything is fine.*
 
@@ -121,4 +121,32 @@ Eleanor thought for a minute, then grinned. "Janet!"
 
 Janet, it turned out, was a hyper-evolved sentient interface to the sum total of all knowledge in the universe, and an absolute sweetheart too. Between the three of them, a plan was soon formed.
 
-"Just sign here, here, and here," Janet said, handing Harry a contract detailing the whole thing. "This should keep the Judge happy."
+"Just sign here, here, and here," Janet said, handing Harry a contract. "This should keep the Judge happy. It says that, while you won't remember your last life, you can keep your training from here in the Good Place in your subconscious, and a plan of action in your occlumency mindscape. Basically, you'll get mind magic training first, and everything after that gets tucked away in the mindscape you'll build as part of that. You'll still have any instincts and muscle memory that result from any training you do here, and the actual knowledge will come to you if you focus on it. But you won't remember your time here, or anything like that. Just your training, and not as lived experience. It might feel weird at first when you go back."
+
+Harry smiled nervously. "It's better than going back blind like before, I suppose."
+
+"Right?" Eleanor said. "Well! That's settled. Let's get to it! Janet made a sweet little place for you to train, and... 'live,' I guess? I mean, you're dead, but..."
+
+"The word you're looking for is 'reside,' Eleanor," Janet interjected with a smile.
+
+"Thanks, babe," Eleanor said. "Anyway, she named it Elysium after some ancient Greek idea of a hero's afterlife. Seemed fitting."
+
+
+
++++++
+
+
+
+## Chapter 2: Making Memories
+
+"This. Is. Awesome!" Harry gushed, looking around her own personal Elysium. There was a cozy-looking cottage, some lightly-forested grounds at the edge of a crystal-clear lake, and a *quidditch pitch!* The lake had a small cabana on its beach, a fire pit next to some log benches, and a few large boulders perfect for sunning or diving. The grounds had a large grassy clearing, with a perfectly round border of white stone.
+
+Janet had a smug smile, and Eleanor was grinning like a Cheshire cat. "Wait 'til you see the inside!"
+
+They walked into the cottage and Harry *squealed.*
+
+"Oh Merlin, it's *wonderful!*"
+
+The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a well-lit library, with a large desk and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions lab. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
+
+"I should hope so," Janet said. "I got it from your past lives' daydreams about having a place of your own. With a few modifications for the training you'll be undertaking, of course."
