@@ -33,7 +33,7 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 
 
 
-## Chapter 1: Wait, what?
+## Chapter 1: Making Memories
 
 The first thing Harry saw was a white wall with green letters, which said, *Welcome! Everything is fine.*
 
@@ -133,7 +133,9 @@ Harry smiled nervously. "It's better than going back blind like before, I suppos
 
 
 
-## Chapter 2: Making Memories
++++++
+
+
 
 "This. Is. Awesome!" Harry gushed, looking around her own personal Elysium. There was a cozy-looking cottage, some lightly-forested grounds at the edge of a crystal-clear lake, and a *quidditch pitch!* The lake had a small cabana on its beach, a fire pit next to some log benches, and a few large boulders perfect for sunning or diving. The grounds had a large grassy clearing, with a perfectly round border of white stone.
 
@@ -160,4 +162,20 @@ Janet and Eleanor looked at each other and grinned.
 +++++
 
 
+
+Time, such as it was in the Afterlife, passed in a blur.
+
+It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well. But she also got to spend time with her parents. 
+
+James and Lily were both brilliant, though each had their specialties. And it turned out that both were brilliant flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention Animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was.
+
+And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too.
+
+She trained in mental magic, logic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wards, enchanting, engineering, math, science, rhetoric, poise, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
+
+Eventually, after a time impossible to quantify by mortal standards, she was ready.
+
+
+
+## Chapter 2
 
