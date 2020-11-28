@@ -35,6 +35,8 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 
 ## Chapter 1: Making Memories
 
+### ?????	????/??/??	??:??
+
 The first thing Harry saw was a white wall with green letters, which said, *Welcome! Everything is fine.*
 
 *That's nice,* Harry thought. *I wonder where I am, though?* The room looked like a generic waiting room in a generic office, with a generic sofa facing the wall with its soothing message.
@@ -145,7 +147,7 @@ They walked into the cottage and Harry *squealed.*
 
 "Oh Merlin, it's *wonderful!*"
 
-The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a well-lit library, with a large desk and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions lab. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
+The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a huge, well-lit library, with big bay windows with reading nooks, a large desk, and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions and enchanting workshop. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
 
 "I should hope so," Janet said. "I got it from your past lives' daydreams about having a place of your own. With a few modifications for the training you'll be undertaking, of course."
 
@@ -163,15 +165,15 @@ Janet and Eleanor looked at each other and grinned.
 
 
 
-Time, such as it was in the Afterlife, passed in a blur.
+Time, such as it was in the Afterlife, passed in a blur. (And frequently with an '80s rock backing track, courtesy of Janet.)
 
 It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well. But she also got to spend time with her parents. 
 
-James and Lily were both brilliant, though each had their specialties. And it turned out that both were brilliant flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention Animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was.
+James and Lily were both brilliant, though each had their specialties. And it turned out that both were brilliant flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention Animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution.
 
 And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too.
 
-She trained in mental magic, logic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wards, enchanting, engineering, math, science, rhetoric, poise, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
+She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wards, enchanting, engineering, math, science, logic, rhetoric, deportment, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
 
 Eventually, after a time impossible to quantify by mortal standards, she was ready.
 
@@ -179,3 +181,10 @@ Eventually, after a time impossible to quantify by mortal standards, she was rea
 
 ## Chapter 2
 
+### #4 Privet Drive, Surrey	1994/06/26	04:30
+
+Harry woke with a start. 
+
+Fading moonlight streamed through the window, making the sleeping Hedwig's feathers glow softly. 
+
+Checking the time on the battered old alarm clock Dudley had thrown against the wall one morning because he hadn't wanted to get up for school, Harry saw that it was still a couple of hours before sunrise.
