@@ -147,7 +147,7 @@ They walked into the cottage and Harry *squealed.*
 
 "Oh Merlin, it's *wonderful!*"
 
-The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a huge, well-lit library, with big bay windows with reading nooks, a large desk, and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions and enchanting workshop. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
+The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a huge, well-lit study, with shelves and shelves of books, big bay windows with reading nooks, a large desk, and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions and enchanting workshop. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
 
 "I should hope so," Janet said. "I got it from your past lives' daydreams about having a place of your own. With a few modifications for the training you'll be undertaking, of course."
 
@@ -169,17 +169,17 @@ Time, such as it was in the Afterlife, passed in a blur. (And frequently with an
 
 It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well. But she also got to spend time with her parents. 
 
-James and Lily were both brilliant, though each had their specialties. And it turned out that both were brilliant flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention Animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution.
+James and Lily were both brilliant, though each had their specialties. And it turned out that both were brilliant flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution.
 
-And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too.
+And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too. This, coupled with her animagus training, of course led to some interesting possibilities which were thoroughly explored.
 
-She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wards, enchanting, engineering, math, science, logic, rhetoric, deportment, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
+She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, deportment, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
 
 Eventually, after a time impossible to quantify by mortal standards, she was ready.
 
 
 
-## Chapter 2
+## Chapter 2: Keep In Mind
 
 ### #4 Privet Drive, Surrey	1994/06/26	04:30
 
@@ -187,4 +187,178 @@ Harry woke with a start.
 
 Fading moonlight streamed through the window, making the sleeping Hedwig's feathers glow softly. 
 
-Checking the time on the battered old alarm clock Dudley had thrown against the wall one morning because he hadn't wanted to get up for school, Harry saw that it was still a couple of hours before sunrise.
+Checking the time on the battered old alarm clock Dudley had thrown against the wall one morning because he hadn't wanted to get up for school, Harry saw that it was still a couple of hours before sunrise. Hogwarts had let out only yesterday, and normally he slept like the dead that first night back.
+
+Wait, *'he?'* Why did that feel so much more uncomfortable than usual?
+
+A sudden headache stabbed his brain all over, and he fell back to the mattress with a groan.
+
+"Hi, I'm Janet!"
+
+"Aagh!" Harry yelped, jolting upright. She looked around in a confused panic. *Wait, 'she?'*
+
+She found herself sprawled on an almost unnaturally green lawn, with a rustic-looking cottage to one side and a lake-side cabana to the other. Standing over her was a pretty brunette with a clipboard.
+
+Harry scrambled to her feet as the brunette -- Janet, presumably -- continued speaking. "Welcome to your mindscape, your own personal Elysium!"
+
+"We -- we're in my mind?" Harry asked.
+
+"Yup!" Janet chirped. "And I'm a personification of your subconscious. Walk with me, Harry." She started towards the cottage. "Long story short, you died. Again. We decided to give you an edge on your next life through, and all this" -- she waved vaguely around at the cottage they'd just entered -- "is part of that." She sat primly on one of the squashy sofas near the hearth and patted the seat next to her.
+
+Harry sat. "So... why am I a girl here?"
+
+"We're in *your* head, Harry. You tell me," Janet answered.
+
+"... Oh. Huh. That explains a lot, I guess. So I'm dead?"
+
+"No, not anymore, Harry," Janet replied. "You got sent back to get it right this time. You can't remember the past lives, though, because it would destroy the space-time continuum, so we sort of *cheated.* A little bit."
+
+Harry raised an eyebrow.
+
+"It's all here," Janet continued. "You left yourself a to-do list and some pointers. Most of the training-specific stuff is tucked away in your subconscious, tied to specific triggers; we didn't want to overwhelm you. But there are a couple of things you need to know up front."
+
+"Like that I'm a girl?" Harry asked.
+
+"No, that one was going to bubble up around this time in your life regardless. Puberty, don'tcha know. So we tied this first mindscape entrance to that realization as a trigger, since thanks to your between-lives training you can do something about it now."
+
+"Really?" Harry said. A cold prickling sensation washed over her scalp. "Wait, don't tell me. I'm a shape-shifter, right?"
+
+Janet stood with a smile. "Pretty much! Come on, it's time to show you the study."
+
+They went down the hallway to a huge room filled with books, expansive bay windows with cozy-looking reading nooks, a substantial desk, and a floor safe tucked away in a corner. A black leather binder with a lock was sitting on the desk. Janet gestured to it. "Here's the list! It's full of useful foreknowledge, but you'll only be able to read the parts you can act on or already know about at any given time. Too much future knowledge cam mess you up. Your last self said it wouldn't do to have you too far out of sync with your peers, after all; you're too isolated as it is."
+
+Harry nodded and opened the binder.
+
+> #### To Do
+>
+> - Find and read the primer on Mind Magic
+>- Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
+> - Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+>- Find and read the primers on runes, wards, and enchanting
+> - Find and read the primer on Wandless Magic
+>- Find and read Harry's Combat Style: Stage 1
+> - Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance
+>- Bind Dobby as your house elf
+> - Take the Knight Bus to Gringotts ASAP and get a full accounting
+>- Establish a fitness regimen (see Appendix A)
+
+"The primers contain the sum total of knowledge and training from your past life on that subject," Janet said. "You and your advisors decided the first order of business was a degree of independence, so everything on this first list is to make you more capable of fending for yourself without setting off the Trace or relying on the adults in your life who have proven less than helpful."
+
+"Dobby, huh?" Harry said. "Why didn't I think of that?"
+
+"You did," Janet smirked. "Anyway, as the personification of your subconscious, I can dig up anything in your mind you ask me to, unless there's a god reason not to. If that's the case, I'll tell you so."
+
+"Thanks, Janet," Harry smiled.
+
+Janet waved a hand, and a pile of books appeared next to one of the reading nooks. Harry spent the next little while flipping through them, realizing that far more knowledge was pouring into her mind than was written on the page. By the time she was finished with the first book, she understood why.
+
+> To Do
+>
+> - ~~Find and read the primer on Mind Magic~~
+
+"Bloody hell!" Harry exclaimed. "What a rush!"
+
+"Wait 'til you read the next set,'" Janet grinned.
+
+Harry dove right in, with a fervor that would have put Hermione Granger to shame.
+
+> To Do
+>
+> - ~~Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)~~
+>- ~~Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema~~
+> - ~~Find and read the primers on runes, wards, and enchanting~~
+>- ~~Find and read the primer on Wandless Magic~~
+> - ~~Find and read Harry's Combat Style: Stage 1~~
+
+"Woah," Harry said when she finally came up for air.
+
+Janet placed a steadying hand on Harry's shoulder. "Now, remember, you don't have the physical or magical development yet to take full advantage of all you've just learned. Go slowly at first."
+
+Harry nodded, with a huge grin on her face. "That's what the fitness regimen is for, yeah?"
+
+Janet nodded. "You'll want to take care of the Gringotts business first, so you and Dobby can get any equipment you'll need."
+
+"Gotcha."
+
+Harry dove back in.
+
+> To Do
+>
+> - ~~Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance~~
+
+"The sun's coming up, Harry," Janet said as Harry finished the last of the books. 
+
+"What? I've been here for hours!" Harry exclaimed. "Wait, I remember now. Time's different in a mind-scape, isn't it?"
+
+"It is," Janet confirmed. "But that's all the books on that first list, so I'd say we timed things out rather well, wouldn't you?"
+
+"You -- I -- we *timed* this? Merlin!"
+
+"He helped."
+
+"I.... sort of remember that?" Harry said hesitantly. "Like a dream, almost."
+
+"You weren't allowed to keep most of your memories of the afterlife," Janet said. "Some of them, yes, such as that needed to effectively use your training, and a few of the people you trained with. Merlin, Morgana, Bruce Lee, the Founders... you'll remember bits and pieces, especially if it becomes relevant, but the only clear memories you were allowed to keep were of your parents."
+
+"My... my parents?" Harry stammered.
+
+"Go look in the bedroom," Janet replied with a soft smile.
+
+
+
++++++
+
+
+
+The bedroom, it turned out, was empty. The deck beyond the French doors, however, was not.
+
+"Mum? Dad?" Harry choked out, rushing to the deck.
+
+James and Lily Potter turned and engulfed their child in a crushing hug.
+
+Eventually, Harry pulled herself together. "You... aren't really here, are you? You're just personifications of my afterlife memories of you?"
+
+"Pretty much," James shrugged. But there're a lot of those. Enough for us to *effectively* be here for you in Elysium, your mindscape, even if the real us can't be. Those versions of us are watching over you, though. You can be sure of that."
+
+"We're so proud of you, honey!" Lily cried, squeezing Harry again. Harry squeezed back.
+
+A trickle of memories crawled over Harry's scalp, helping to temper her emotions at seeing her parents again. *For the first time in this lifetime,* her memories whispered, *but not the last. They're right here!* She squeezed them one last time. "I guess it's time to get things moving," she said.
+
+Her parents nodded, her dad with a devilish grin and her mom with a decidedly Slytherin smirk. "They won't know what hit them, Nemesis," she said.
+
+James patted her on the back. "Go get 'em, kiddo!'"
+
+
+
+## Chapter 3: Harry and Dobby
+
+Opening her eyes with a start, Harry looked down at herself. She was in boy-mode again; as uncomfortable as it was, she knew she would have to stay boy-shaped for awhile. All the more reason to get some independence, she supposed.
+
+She went through her morning routine, including the silent treatment at breakfast with the Dursleys, then headed to the park down Wisteria Walk. Tucking herself away among a cluster of bushes, she called out softly, "Dobby!"
+
+With a quiet *pop,* Dobby the House-Elf appeared. "Great Harry Potter Sir is calling for Dobby!" He gushed, bowing so low that his long, floppy ears brushed the ground.
+
+"Dobby," Harry said, "How would you like to be my elf?"
+
+Dobby nodded frantically, so overcome he could only squeak.
+
+"Dobby, I claim you as my elf," Harry said, remembering the formal oath from her earlier reading. "My magic to your magic, my strength to your strength, my secrets to your secrets. Henceforth, you shall be known as a Potter elf. And as a part of my family," Harry added, though this wasn't in the formal oath. "So mote it be!"
+
+A soft glow surrounded the two for a moment, and as it faded Dobby leapt to embrace Harry.
+
+"*Family* to the Great Harry Potter! Dobby is... *overcome!*"
+
+Harry hugged back and smiled. "Me too, Dobby. We're going to really shake things up together, you and I."
+
+"Great Harry Potter Miss has plans?"
+
+Harry thought for a second. "First, Dobby, nobody else knows I'm a girl yet, and I want to keep it that way for now. Just call me Harry. We *are* family now, after all."
+
+Dobby nodded, tears in his eyes and a smile on his face.
+
+"Second," Harry continued, "I know that your speech patterns are because of your time with the Malfoys, but you're part of the Potter family now. You're not a servant, not a lesser being. You are Dobby Potter, and as such you're expected to stand tall and speak with confidence."
+
+"I understand, Harry," Dobby said.
+
+"I'm still working on that myself," Harry mused with a smile. "We can help each other out on that, yeah?"
+
