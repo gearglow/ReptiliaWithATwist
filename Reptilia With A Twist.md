@@ -334,7 +334,9 @@ James patted her on the back. "Go get 'em, kiddo!'"
 
 Opening her eyes with a start, Harry looked down at herself. She was in boy-mode again; as uncomfortable as it was, she knew she would have to stay boy-shaped for awhile. All the more reason to get some independence, she supposed.
 
-She went through her morning routine, including the silent treatment at breakfast with the Dursleys, then headed to the park down Wisteria Walk. Tucking herself away among a cluster of bushes, she called out softly, "Dobby!"
+>!! TODO Where is the trunk at this point? !!
+
+She went through her morning routine, including the silent treatment at breakfast with the Dursleys, then dug her Gringotts key out of her trunk and headed to the park down Wisteria Walk. Tucking herself away among a cluster of bushes, she called out softly, "Dobby!"
 
 With a quiet *pop,* Dobby the House-Elf appeared. "Great Harry Potter Sir is calling for Dobby!" He gushed, bowing so low that his long, floppy ears brushed the ground.
 
@@ -362,3 +364,18 @@ Dobby nodded, tears in his eyes and a smile on his face.
 
 "I'm still working on that myself," Harry mused with a smile. "We can help each other out on that, yeah?"
 
+"Okay," Dobby agreed.
+
+"Thanks, Dobby. Now, I've got some plans for today. I want to end the day with more independence than I started it with, and the next step is to see what resources we have. So we're off to Gringotts," Harry said. "What do you think is the best way to do this? The Knight Bus, maybe?"
+
+"Dobby can -- err, *I* can bring you straight to Gringotts, Harry. We elves has -- *have* our own kind of magic. Like apparition, only not, you see."
+
+"That sounds good," Harry replied. "Shall we?" 
+
+Dobby wrapped Harry in a hug, and they were off to Diagon Alley.
+
++++++
+
+They reappeared with a *pop* in a cordoned-off section of the Gringotts lobby, and Dobby immedately dragged Harry over to one of the lines. "So the next person doesn't be landing on you," he said. After a short wait, they got to a teller, who glared down at them from the abnormally high counter.
+
+"Yes?" The goblin asked, in a rather put-out voice. 
