@@ -515,5 +515,8 @@ The trunk had a few convenience enchantments which were standard for most high-e
 
 They proceeded to Harry's trust vault, where Harry gathered a stack of 1,000 galleons with Dobby's help. Once back at the main floor, they bade Lockjaw farewell and stood in line to change half of the galleons to pound notes.
 
-Back in Diagon Alley proper, it was time to find a replacement runestone. 
+Back in Diagon Alley proper, it was time to find a replacement runestone. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank runestones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions. Aside from expecting to need them after the intense training she was planning, she also picked up a stock of nutrient potions to help make up for her years of malnutrition.
 
+Finally, finished with the magical shopping, they decided to head into the Muggle world. Stepping out of the Leaky Cauldron, Harry shifted into proper girl-form, with longer auburn hair. She looked around for Dobby, and found instead a boy who could've been her twin brother. He had hair the same auburn as hers, though cut in a high-and-tight. He was even wearing a similar outfit.
+
+"Wha- Dobby? Is that you?" Harry yelped.
