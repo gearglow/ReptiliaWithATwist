@@ -241,7 +241,7 @@ Harry nodded and opened the binder.
 > - Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance
 > - Bind Dobby as your house elf
 > - Take the Knight Bus to Gringotts ASAP and get a full accounting
-> - Establish a fitness regimen (see Appendix A)
+> - Establish a training regimen (see Appendix A)
 
 "The primers contain the sum total of knowledge and training from your past life on that subject," Janet said. "You and your advisors decided the first order of business was a degree of independence, so everything on this first list is to make you more capable of fending for yourself without setting off the Trace or relying on the adults in your life who have proven less than helpful."
 
@@ -272,11 +272,11 @@ Harry dove right in, with a fervor that would have put Hermione Granger to shame
 > - ~~Find and read the primer on Illusions and Glamours~~
 > - ~~Find and read Harry's Combat Style: Stage 1~~
 
-"Woah," Harry said when she finally came up for air.
+"Woah," Harry said when she finally came up for air. "I know kung fu."
 
 Janet placed a steadying hand on Harry's shoulder. "Now, remember, you don't have the physical or magical development yet to take full advantage of all you've just learned. Go slowly at first."
 
-Harry nodded, with a huge grin on her face. "That's what the fitness regimen is for, yeah?"
+Harry nodded, with a huge grin on her face. "That's what the training regimen is for, yeah?"
 
 Janet nodded. "You'll want to take care of the Gringotts business first, so you and Dobby can get any equipment you'll need."
 
@@ -392,7 +392,7 @@ Harry handed over the key. The goblin took it and did something behind the count
 
 Another goblin, Lockjaw presumably, led them through an opulent door into a maze of opulent hallways. Eventually, they came to another opulent door, which Lockjaw led them through before ducking back out.
 
-Another goblin was seated behind a desk, with a gas-lamp and several ledgers on it. He gestured to the chairs in front of the desk and introduced himself. "I am Claymore, the account manager for the Potter estate. I wasn't expecting you for a few more years, Mr. Potter."
+Another goblin, built like a knarled old oak tree with a bushy white beard, was seated behind a desk, with a gas-lamp and several ledgers on it. He gestured to the chairs in front of the desk and introduced himself. "I am Claymore, the account manager for the Potter estate. I wasn't expecting you for a few more years, Mr. Potter."
 
 Harry inwardly cringed at being addressed as 'Mr.' but shrugged it off. *Not yet,* she told herself. "Harry is fine, Claymore," she told the goblin. "May this meeting bring profits to our clans and ruin to our enemies." So saying, she had a seat in one chair and gestured for Dobby to take the other. "This is Dobby, my friend and advisor."
 
@@ -414,7 +414,7 @@ Lockjaw entered the room a few minutes later, handed over a folder, and left aga
 
 > ### Holdings and Estate of the House of Potter
 >
-> #### Main Vault (#016) (10% interest, compounded annually)
+> #### Main Vault (#016) (2% interest, compounded annually)
 >
 > - 2,350,132 Galleons
 > - 16,362 Sickles
@@ -446,9 +446,9 @@ The rest of the folder was fine-print regarding the farm and business, but what 
 
 "Once we're finished here, please. One last thing - I note that there is a significant amount of liquid assets in the main vault which are not being put to work. Is there anything we can do about that right now?"
 
-"Very astute for one so young," Claymore nodded in approval. "Unfortunately, as far as the law is concerned, investment counts as withdrawal, so until you reach your majority neither you nor your guardians can do anything with it."
+"Very astute for one so young," Claymore nodded in approval. "Unfortunately, as far as the law is concerned, investment counts as withdrawal, so until you reach your majority neither you nor your guardians can do anything with it. Pity. That was mostly old Fleamont's proceeds from selling off his potions company when he retired. James, your father, never had a chance to do anything with it either. That money's been sitting idle for close to 30 years by now."
 
-"How about the trust vault? What can you do with, say, 25,000 galleons? Something with aggressive earning potential, I'd hope. At, oh, 40% commission?"
+"How about the trust vault? What can you do with, say, 25,000 galleons? Something with aggressive earning potential, I'd hope. At, oh, 40% commission? That should leave enough interest income for discretionary spending, too."
 
 "Now you're speaking my language, lad!" Claymore laughed. "Any particulars, or shall I use my best judgement?"
 
@@ -507,7 +507,7 @@ She emerged wearing close-fitting jeans, a black v-neck t-shirt, and the Ironbel
 > - ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
 > - Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
 >
-> - Establish a fitness regimen (see Appendix A)
+> - Establish a training regimen (see Appendix A)
 
 The trunk had a few convenience enchantments which were standard for most high-end magical luggage. Self-shrinking, featherlight, and so forth. As such, once they'd gathered everything they wanted to bring from the vault during this trip, Harry shrank the trunk and slipped it into a pocket.
 
@@ -535,10 +535,94 @@ Finally, finished with the magical shopping, they decided to head into the Muggl
 
 And so Ellie and Robbie set off down Charing Cross Road.
 
+
+## Chapter 4
+
+After a quick stop for lunch, the two wandered the shops for the rest of the afternoon. Elysia managed to find a full set of free-weights and some gym mats, as well as both a heavy bag and a speed-bag. Gloves were a non-issue as she could simply shift them into place as needed.
+
+They also found more clothes. Both Elysia and Robbie were reveling in the ability to wear what they wanted to for once. Robbie, in particular, had a *penchánt* for socks with loud patterns, while Elysia enjoyed more form-fitting apparel after being saddled with horribly-oversized cast-offs all her life.
+
+Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room #4 Privet Drive.
+
+Robby, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new runestones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
+
+It was late into the night before she was finished. Hedwig had returned from hunting all day and was snoozing, head tucked under one wing, on the perch near the window, before Elysia sat back and called Robbie over.
+
+"What do you think, are we ready to pop this in?" She asked, gesturing to the runestone.
+
+He leaned over it, muttering quietly under his breath, and then nodded. "I don't see any problems. I've gone over the trunk, and it's charged and ready."
+
+"Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the runestone, which was roughly the size of the Dursley's big-screen TV, settled into the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
+
+When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, and so on. Through the door was a spacious living room, with a stairwell leading up out of the trunk and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a study with a workshop area, and a spacious training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
+
+The living area was piled high with all of the spoils from the day's errands, but between the two of them they made short work of it all. In less than an hour, everything was squared away, and they fell into their beds exhausted but delighted. It was, Elysia thought to herself as she drifted off, going to be the best summer ever.
+
 > To Do
+>
 > - ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
 
 
 
-## Chapter 4
++++++
+
+
+
+### #4 Privet Drive, Surrey	1994/06/27	6:30
+
+The next morning, after the usual morning ablutions and a quick breakfast of porridge, fresh fruit, and a nutrient potion, Elysia sat in the training room to meditate. After the initial grounding, centering, and contemplation of emptiness, she decided to pop into her mindscape.
+
+"Hello!" Janet greeted her, as soon as she opened her eyes. She'd appeared back in the study. "Great work yesterday! Good use of resources, too. The bond with Dobby -- well, Robbie now, which is a very good thing -- anyway, *that* was unexpected."
+
+Elysia raised an eyebrow. "Oh? What do you mean?"
+
+Janet assumed a preparing-to-give-a-lecture pose. "If you recall, there is a formal oath to bind a house elf. You can think of this an the Bond of Agency, for reference. It makes the elf an agent of the House, so that it may act in service to the House. It does not make the elf a *member* of the House. When you added in the line about being part of the family, the nature of the bond changed. Instead of a Bond of Agency, it became a Bond of Brotherhood. While you both now act in the interests of House Potter -- especially as the last two members of House Potter -- there is no subservience. This is a bond of equals. As far as Magic is concerned, you two are siblings now."
+
+Elysia's eyes widened at that. "Woah! I have a brother!? This is so cool! I've always wanted a proper family..."
+
+Janet smiled. "More than that, Ellie. The bond now acts more like a twin bond than a house-elf bond."
+
+"Like the Weasley Twins?"
+
+Janet nodded. "Just like that. A bit stronger, actually, thanks to how house-elf magic works. You can already share your subconscious knowledge library. You'll eventually be able to communicate telepathically, with enough practice, even without linking mindscapes."
+
+"Wait, I can link mindscapes?"
+
+Janet looked confused for a moment. "Oh, right, we weren't expecting this to come up yet. You weren't supposed to have to worry about symmetrical bonds like this until bonding with your soul-mates."
+
+Elysia shook her head. "Wait, soul-*mates?* As in, more than one?"
+
+"That's right," Janet replied. "You have two potential soul-mates that you are likely to meet in this phase of your life. It's not some mystical bond in and of itself; it just means that you're extremely compatible. You'll just *get* each other more easily. That said, that compatibility lends itself to certain kinds of magical bond-oaths. The most common is the magical Marriage Vows; most magical married couples can at least sense their partner's moods through this bond, although usually by the point that's even an option they've been able to read each other's body language well enough already."
+
+"Okay, so are you saying that that's a lower end on the abilities of a bond like that?"
+
+Janet smiled. "Exactly! Because of how in sync you are, there's less interference over the bond connection. That makes it more efficient, and so you can do more with that connection. Linking mindscapes is one of the more complex possibilities, as is sharing magic."
+
+"Robbie did that with me yesterday."
+
+"Yes, and that's a pretty common manifestation of a twin bond too. It all comes down to harmonics and thaumic resonance, really, for *any* bond. The more in-tune the ends are with each other, the better the connection."
+
+"Okay, that's sounding like it's not limited to two people." Elysia said.
+
+"It's not," Janet agreed. "There have been triad bonds, pack bonds, and House bonds before, for example. Obviously, the more people in the bond, the harder it is to get everyone in tune with each other, and therefore the less capable the bond becomes. Practically speaking, four is usually the upper limit for anything truly useful."
+
+"That makes sense," Elysia said. "So, to compare this to light, or a radio, this is more about the frequency than the power?"
+
+"You got it!" Janet exclaimed. "Power is more a function of your individual *internal* harmony. That's why magic is so heavily intent-based. The stronger your intent, the more *unified* you are in your intent, the more powerful your magic is. You should add the books about this to your list."
+
+Elysia nodded. "I should just read them right now, honestly."
+
+"I'll leave you to it, then," Janet replied, and vanished.
+
+Elysia opened the binder on the desk.
+
+> To Do
+>
+> - Find and read the primers on Bonds and Soul Magic
+> - Establish a training regimen (see Appendix A)
+> - Check out The Kiln at Red Wharf Bay
+
+After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
+
+From yesterday's reading, she knew that, while she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
 
