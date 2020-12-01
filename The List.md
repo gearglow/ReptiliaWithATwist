@@ -492,7 +492,7 @@ Dobby squinted at it, then climbed down to examine the locus pedestal more close
 
 Harry nodded. "I guess we're taking it with us today, then! We'll have to pick up a new control stone before we leave the Alley. Now, what about some of this furniture?"
 
-In the end, they'd managed to find enough furniture to outfit a small two-bedroom apartment, journals from both James and Lily, several volumes of Potter Family grimoires, some House Potter elf uniforms (one of which Dobby promptly exchanged for his current garb) and several articles of clothing that looked to be close enough in size for Harry to shift herself into a perfect fit without it being obvious. The dragon-hide boots and matching jacket (Ukrainian Ironbelly) were a particularly nice find, and even had resizing charms worked into them. Harry decided to change out of Dudley's cast-offs before they continued their errands, and ducked into the trunk.
+In the end, they'd managed to find enough furniture to outfit a small two-bedroom apartment, journals from both James and Lily, several volumes of Potter Family grimoires, some House Potter elf uniforms (one of which Dobby promptly exchanged for his current garb) and several articles of clothing that looked to be close enough in size for Harry to shift herself into a perfect fit without it being obvious. The dragon-hide boots and matching jackets (a set each of Ukrainian Ironbelly and Hebridean Black) were a particularly nice find, and even had resizing charms worked into them. Harry decided to change out of Dudley's cast-offs before they continued their errands, and ducked into the trunk.
 
 She emerged wearing close-fitting jeans, a black v-neck t-shirt, and the Ironbelly boots and jacket. She'd also shifted her hair into a rakish mop, making the usual messy bird's nest look intentional. In all, she felt comfortably androgynous. It wasn't quite as feminine as she'd've liked, but she felt far better than before.
 
@@ -535,12 +535,13 @@ Finally, finished with the magical shopping, they decided to head into the Muggl
 
 And so Ellie and Robbie set off down Charing Cross Road.
 
-
-## Chapter 4
+## Chapter 4: Harmony
 
 After a quick stop for lunch, the two wandered the shops for the rest of the afternoon. Elysia managed to find a full set of free-weights and some gym mats, as well as both a heavy bag and a speed-bag. Gloves were a non-issue as she could simply shift them into place as needed.
 
 They also found more clothes. Both Elysia and Robbie were reveling in the ability to wear what they wanted to for once. Robbie, in particular, had a *penchánt* for socks with loud patterns, while Elysia enjoyed more form-fitting apparel after being saddled with horribly-oversized cast-offs all her life.
+
+It also turned out that, thanks to her shifting ability, she no longer needed glasses. Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them for with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
 
 Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room #4 Privet Drive.
 
@@ -576,7 +577,7 @@ The next morning, after the usual morning ablutions and a quick breakfast of por
 
 Elysia raised an eyebrow. "Oh? What do you mean?"
 
-Janet assumed a preparing-to-give-a-lecture pose. "If you recall, there is a formal oath to bind a house elf. You can think of this an the Bond of Agency, for reference. It makes the elf an agent of the House, so that it may act in service to the House. It does not make the elf a *member* of the House. When you added in the line about being part of the family, the nature of the bond changed. Instead of a Bond of Agency, it became a Bond of Brotherhood. While you both now act in the interests of House Potter -- especially as the last two members of House Potter -- there is no subservience. This is a bond of equals. As far as Magic is concerned, you two are siblings now."
+Janet assumed a preparing-to-give-a-lecture pose. "If you recall, there is a formal oath to bind a house elf. You can think of this an the Bond of Agency, for reference. It makes the elf an agent of the House, so that it may act in service to the House. It does not make the elf a *member* of the House. When you added in the line about being part of the family, the nature of the bond changed. Instead of a Bond of Agency, it became a Bond of Brotherhood. While you both now act in the interests of House Potter -- especially as the last two members of House Potter -- there is no subservience. This is a bond of equals. As far as Magic is concerned, you two are siblings now. And thanks to the bond, you two will begin to instinctively act as siblings towards each other."
 
 Elysia's eyes widened at that. "Woah! I have a brother!? This is so cool! I've always wanted a proper family..."
 
@@ -619,10 +620,173 @@ Elysia opened the binder on the desk.
 > To Do
 >
 > - Find and read the primers on Bonds and Soul Magic
+> - Find and read the primer on Apparition
 > - Establish a training regimen (see Appendix A)
 > - Check out The Kiln at Red Wharf Bay
 
-After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
+After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
 
 From yesterday's reading, she knew that, while she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
 
+Popping back to the real world, she got on with it. Robbie joined her, and the two even sparred for a bit. This was complicated by the bond, as not only had the knowledge and instincts been shared, but so had the combo patterns. They found themselves throwing the same moves at the same time more often than not, and Elysia made a note for them both to work on that.
+
+> To Do
+>
+> - ~~Find and read the primers on Bonds and Soul Magic~~
+> - ~~Find and read the primer on Apparition~~
+> - ~~Establish a training regimen (see Appendix A)~~
+> - Check out The Kiln at Red Wharf Bay
+
+Finally, after they were done training, Elysia shifted back to Harry-form and headed out into Durzkaban to borrow the phone. She'd had the idea that her friends might want to come along to check out the Red Wharf property. There wasn't enough time to send Hedwig with a letter asking Ron, nor did she have access to a floo. Hermione, on the other hand, lived in a muggle house, and had a telephone. And she'd given Elysia her number (and address) after the debacle with the bars and the flying car two summers ago.
+
+Thankfully, Dudley was still at Smeltings until July, and Vernon was at work. Petunia was out in the garden, though it was nearing noon so she'd have to be quick before her aunt came back in out of the heat.
+
+"Granger residence," Hermione's voice said.
+
+"Hey, Hermione," Elysia said.
+
+"Harry! Somehow I never expected you to call. You always send Hedwig, and I suppose I've just gotten so used to the way witches and wizards do things, it's always such an adjustment being back from Hogwarts over the summers."
+
+"Breathe, Hermione," Elysia laughed. Hermione made a little *hmph* noise as she continued. "Anyway, you doing anything today? I stopped by Gringotts yesterday to see if anything of my parents' was in storage -- after last year, I got curious about the Marauders and all that -- and it turns out there was!"
+
+"Ooh! Like what, Harry?" Hermione asked.
+
+"Like a lot of things," Elysia replied. "Like years' worth of journals for both of them, and the deed to some place in Wales from my gran-da. There's a portkey at Gringotts, and I was planning on taking it down this afternoon to look around. Interested in coming with? You can meet Robbie, too."
+
+"Robbie? Who's Robbie? Harry, it's been all of a day!" Hermione said.
+
+"If you come with, you can find out," Elysia teased.
+
+"Okay, fine," Hermione huffed. "What time?"
+
+"Noon or so? We can grab lunch in Soho or something, make an afternoon of it."
+
+"Harry, it's almost noon now! How're you going to get here so quickly?"
+
+"You'll find out. See you in a bit, Hermione."
+
+Ending the call, Elysia made it back to her room just as she heard Aunt Petunia coming in through the back door.
+
+
+
++++++
+
+
+
+### Granger House, Crawley	1994/06/27	12:01
+
+Robbie popped the two of them to Hermione's doorstep. Elysia wasn't sure how Robbie knew where it was -- she hadn't even seen him check a map. And yet here they were.
+
+Robbie had shifted into his human form again, and Elysia was back in the androgynous look she'd left Gringotts in yesterday. They were both dressed in the same outfits as yesterday -- jeans, t-shirts, and the dragonhide boots and jackets (Robbie had laid claim on the Hebridean Black, while Elysia preferred the Ukrainian Ironbelly). Elysia wore a heather-grey v-neck, but Robbie's t-shirt said "Frankie Says Relax" in big letters across the chest.
+
+The door burst open at Elysia's knock. "Harry!" Hermione flew at her, engulfing her in a classic Hermione-hug. It struck Elysia then just how off-kilter she always felt over the summer, because all of a sudden, *she didn't.*
+
+Hermione disengaged the hug and held Elysia at arm's length. "Harry," she said, "what happened? You look *fantastic!* It's only been a day! How have you changed so much in only a day? And who is this?" She asked, turning to Robbie.
+
+Elysia smiled. "Hullo, 'Mione. This is Robbie. My brother."
+
+Hermione gasped. "Your what? Harry, I thought all your family was *dead!* Aside from those dreadful Dursleys, of course."
+
+"It's a long story," Elysia said. "What say I fill you in over lunch? Robbie and I found this little sushi joint 'round the corner from the Leaky."
+
+
+
++++++
+
+
+
+"So because you changed the words of the bond oath, you and Robbie have a twin bond now?" Hermione asked, nibbling on a piece of pickled ginger.
+
+"Pretty much," Elysia said. She and Robbie had filled Hermione in over several rolls of sushi. It was a good thing Robbie had put a notice-me-not on their table after their food arrived, because Hermione simply could not contain herself. Her eyes got bigger and bigger as Elysia went on, and at several points she couldn't help but exclaim out loud.
+
+"And you have memory-constructs of your parents in your mindscape?" She went on. 
+
+Elysia nodded. 
+
+"And a library in your head full of *more knowledge than Hogwarts!?*" Hermione exclaimed. 
+
+Elysia nodded again.
+
+"And on top of that you're set for life, money-wise," Hermione continued. "Are there any *other* Earth-shattering revelations you need to tell me?"
+
+Elysia took a deep breath. "Just one more. Hermione, I'm a girl."
+
+Hermione gasped. "What? Harry, what do you mean?"
+
+"It's Elysia now, or Ellie for short, not Harry. At least, not when I don't have to be." She shifted into girl-form, letting her hair lengthen but keeping it her usual black. She swept her glasses off and leaned intently across the table towards Hermione. "You're the *only* person who knows so far, besides Robbie. I haven't even told Ron yet."
+
+"Merlin," Hermione stammered, blushing. *Wow she's pretty,* she caught herself thinking.
+
+Elysia shifted back, replacing her glasses. "Hermione? Please say something?" She said hesitantly.
+
+"I... wow. Somehow, it makes sense," Hermione said. "So, are you, what's the word... transgender?"
+
+Elysia shrugged. "I guess? Is that the word for not knowing you're a girl at first?"
+
+"Pretty much," Hermione said. "I bet being able to shift like that helps a lot, huh?"
+
+"Like you wouldn't believe."
+
+
+
++++++
+
+
+
+After activating the portkey at Gringotts, the three of them appeared in an unpaved lane across from a fenced plot of land. A branch of the lane led into the property, with an arched gate proclaiming 'The Kiln.' In the distance, they could see a building of some sort.
+
+Elysia immediately shifted back to girl-shape, and Robbie back to elf-shape. "Ah, much better," they both said, then looked at each other and burst out laughing. 
+
+Hermione just gave them a look, though Elysia noticed her lips twitching.
+
+They eventually made it to the end of the drive, to find that there were actually several buildings. One was a barn, painted a weathered red. Another was what looked like a distillery, with various faucets and fittings sticking from the walls. A third was a nondescript wooden building that nevertheless fairly shone when Elysia looked at it under mage-sight (as she'd learned from yesterday's primers).
+
+The final building was a cozy-looking one-story farmhouse. It too shone under mage-sight, though not as brightly as the other building. In fact, that building reminded Elysia of something...
+
+"Hey, you lot, I think that building's like the trunk," Elysia said to the others.
+
+"Ooh!" Hermione squealed, and darted over to it.
+
+The other two joined her as she tugged open the door. Inside, visible through the daylight streaming in behind them, was a runestone pedestal nearly identical to the one in Elysia's residential trunk.
+
+Elysia cast a few wandless *lumos* orbs as Hermione dashed over to take a closer look. Robbie started examining the walls, and Elysia sent a few more orbs his way before joining Hermione.
+
+"Thanks, Ellie," he murmured absently.
+
+"Sure, bro," she replied, just as absently.
+
+"Merlin's beard, you really weren't kidding about that bond," Hermione said.
+
+"Huh?"
+
+"Ellie, you just called Robbie 'bro.'"
+
+"... I did? Huh. You OK with that, Robbie?" She called.
+
+"Sure, Ellie. Hey, I think the runestone overloaded," He replied.
+
+Elysia squinted at the pedestal. "You know, I think you're right. There're blast marks on the pedestal, and some rock dust."
+
+Robbie nodded. "There's bits of rock all over the floor, too, and some of these traces are burned out. A *lot* of them, actually."
+
+"I wonder what happened?" Hermione murmured.
+
+"Dunno," Elysia shrugged. "One of Grandpa Fleamont's experiments, I suppose."
+
+"Ellie," Hermione said, stifling a giggle, "your grandfather's name is *Fleamont?*"
+
+
+
++++++
+
+
+
+After that, the actual cottage was disconcertingly normal. The front door opened into a greatroom, with a kitchen area on one side, a dining area with a round six-seat table, a couple of leather sofas and a matching armchair, and a large, floo-size hearth. A hallway led to four bedrooms, two bathrooms, and the master suite. The whole place was very cozy, but also absolutely *covered* in decades' worth of dust. And aside from the larger pieces of furniture, completely empty. No beds, no dressers or wardrobes, not even a desk. No personal effects. They made a quick circuit through the place and darted back outside, sneezing the whole way.
+
+Robbie and Elysia looked at each other once the sneezes stopped. "Aerial survey?" "Uh-huh."
+
+Elysia turned to Hermione. "Wanna come along?"
+
+"What do you mean?" Hermione asked nervously. "You're not going to make me ride a broom, are you?"
+
+Elysia winked at her and shifted into a hippogriff. 
