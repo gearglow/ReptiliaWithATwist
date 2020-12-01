@@ -232,6 +232,7 @@ Harry nodded and opened the binder.
 > #### To Do
 >
 > - Find and read the primer on Mind Magic
+> - Find and read How To Learn
 > - Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
 > - Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
 > - Find and read the primers on Runes, Wards, and Enchanting
@@ -264,6 +265,8 @@ Janet waved a hand, and a pile of books appeared next to one of the reading nook
 Harry dove right in, with a fervor that would have put Hermione Granger to shame.
 
 > To Do
+>
+> - ~~Find and read How To Learn~~
 >
 > - ~~Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)~~
 > - ~~Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema~~
@@ -492,7 +495,7 @@ Dobby squinted at it, then climbed down to examine the locus pedestal more close
 
 Harry nodded. "I guess we're taking it with us today, then! We'll have to pick up a new control stone before we leave the Alley. Now, what about some of this furniture?"
 
-In the end, they'd managed to find enough furniture to outfit a small two-bedroom apartment, journals from both James and Lily, several volumes of Potter Family grimoires, some House Potter elf uniforms (one of which Dobby promptly exchanged for his current garb) and several articles of clothing that looked to be close enough in size for Harry to shift herself into a perfect fit without it being obvious. The dragon-hide boots and matching jackets (a set each of Ukrainian Ironbelly and Hebridean Black) were a particularly nice find, and even had resizing charms worked into them. Harry decided to change out of Dudley's cast-offs before they continued their errands, and ducked into the trunk.
+In the end, they'd managed to find enough furniture to outfit a small two-bedroom apartment; journals from James, Lily, and both of James' parents; several volumes of Potter Family grimoires; Lily's old textbooks, along with her reference library; some House Potter elf uniforms (one of which Dobby promptly exchanged for his current garb); and several articles of clothing that looked to be close enough in size for Harry to shift herself into a perfect fit without it being obvious. The dragon-hide boots and matching jackets (a set each of Ukrainian Ironbelly and Hebridean Black) were a particularly nice find, and even had resizing charms worked into them. Harry decided to change out of Dudley's cast-offs before they continued their errands, and ducked into the trunk.
 
 She emerged wearing close-fitting jeans, a black v-neck t-shirt, and the Ironbelly boots and jacket. She'd also shifted her hair into a rakish mop, making the usual messy bird's nest look intentional. In all, she felt comfortably androgynous. It wasn't quite as feminine as she'd've liked, but she felt far better than before.
 
@@ -619,7 +622,7 @@ Elysia opened the binder on the desk.
 
 > To Do
 >
-> - Find and read the primers on Bonds and Soul Magic
+> - Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic
 > - Find and read the primer on Apparition
 > - Establish a training regimen (see Appendix A)
 > - Check out The Kiln at Red Wharf Bay
@@ -632,7 +635,7 @@ Popping back to the real world, she got on with it. Robbie joined her, and the t
 
 > To Do
 >
-> - ~~Find and read the primers on Bonds and Soul Magic~~
+> - ~~Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic~~
 > - ~~Find and read the primer on Apparition~~
 > - ~~Establish a training regimen (see Appendix A)~~
 > - Check out The Kiln at Red Wharf Bay
@@ -771,7 +774,7 @@ Robbie nodded. "There's bits of rock all over the floor, too, and some of these 
 
 "I wonder what happened?" Hermione murmured.
 
-"Dunno," Elysia shrugged. "One of Grandpa Fleamont's experiments, I suppose."
+"Dunno," Elysia shrugged. "One of Grandpa Fleamont's experiments, I suppose. Or Grandma Euphemia's."
 
 "Ellie," Hermione said, stifling a giggle, "your grandfather's name is *Fleamont?*"
 
@@ -807,7 +810,7 @@ Elysia could only chirp in agreement.
 
 They landed in front of the pedestal building.
 
-"Don't tell Ron I rode you," Hermione said, with a blushing smirk. "His head might explode."
+"Don't tell Ron you let me ride you," Hermione said, with a blushing smirk. "His head might explode."
 
 Elysia flushed deep red, gaping. "I- Um. I think *my* head might explode."
 
@@ -815,11 +818,15 @@ Robbie laughed so hard he fell over.
 
 
 
+> To Do
+>
+> - ~~Check out The Kiln at Red Wharf Bay~~
+
 ## Chapter 5
 
-The summer fell into a rhythm fairly quickly. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+The summer fell into a rhythm fairly quickly. She'd gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style, stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-Hermione had expressed desire to learn some of what Elysia could now do (very fervently and at substantial length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
+Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
 
 They still made sure to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
 
@@ -835,14 +842,59 @@ By now, Robbie and Elysia's bond had progressed to the point that they could, wi
 
 "Just teasing me a bit, is all," Elysia said. "It's amazing to see how much more self-assured he is compared to two years ago."
 
-"I'll have to take your word for it. Is that the bond's doing, or just different circumstances?"
+"You too, Ellie. Is that the bond's doing, do you think, or just different circumstances?"
 
-"A bit of both, I suppose. Anyone'd do better away from the Malfoys. But the bond probably has a pretty big effect too. I know my work ethic's increased, too, probably as a side-effect. Did I tell you I wrote McGonagall? She's letting me drop Divination if I can test into Arithmancy. Which I can. I could test *out* of Arithmancy if I read far enough in my mindscape library, but if I do that for classes I'm actually taking, school will be *so boring.*"
+"A bit of both, I suppose. Anyone'd do better away from the Malfoys or Durzkaban. But the bond probably has a pretty big effect. I know my work ethic's increased, too, probably as a side-effect. Did I tell you I wrote McGonagall? She's letting me drop Divination if I can test into Arithmancy. Which I can. I could test *out* of Arithmancy if I read far enough in my mindscape library, but if I do that for classes I'm actually taking, school will be *so boring.* As it is, I do have the math down, just not the applications."
 
 "And also, this way we share a class just the two of us," Hermione smiled.
 
-"That too, yeah." Elysia smiled back.
+"That too, yeah." Elysia smiled back. They both blushed and looked away.
 
-"*Ahem.* So, the bond. How exactly does that impact your and Robbie's personalities so much?"
+"*Ahem.* So, the bond," Hermione said quickly. "How exactly does that impact your and Robbie's personalities so much?"
 
-"There's a few things that go into it."
+"There's a few things that go into it, really. Do they go over the waveform model of magic in third-year Arithmancy?"
+
+"The what?"
+
+Elysia sighed. "Okay, this is going to be more complicated than I'd thought. Let's see, analogies... D'you know how light and radio and magnetism and all that can be thought of as waves? Well, magic is like that too."
+
+Hermione looked startled, then got a thoughtful expression on her face. "Go on."
+
+"The other thing you need to know is that magic comes from the soul, more-or-less. Power comes from internal harmony of intent. The stronger, more unified, more *in sync,* I guess, your intent is, the more powerful the magic is as a direct result."
+
+"More focused, maybe?" Hermione queried. "Like a laser?"
+
+"Exactly!" Elysia exclaimed. "Past a certain threshold, it starts to self-reinforce. A bond is similar. And since the parameters of the bond are defined by the oath, it tends to reinforce things related to the oath. The Waveform model makes a whole lot of things about magic make more sense, really, even if it *is* just an abstraction and not totally accurate. ...What?" She asked, warily, as Hermione was staring at her with a funny look on her face.
+
+"I like this new you," Hermione said. "I always knew you were smart, but it's *wonderful* to be able to have conversations like this with you. Before this summer, most of our conversations were taken up with homework, quidditch, or whatever crisis of the moment. Now... you just seem more comfortable in your own skin. More confident, more driven. More playful, too. Happier. I don't know, maybe that's just growing up. But I don't think it's *only* that."
+
+Elysia was silent for a little while, thinking. She hadn't thought about it much after the first couple of days, but she really had changed a *lot* over the summer. Her birthday had been a couple of weeks ago, her first as Elysia, and all of the cards and such were addressed to 'Harry.' It was jarring to think that that name still referred to her, and by necessity would continue to until she could change it upon reaching her majority.
+
+She still hadn't told Ron about most of it, either. Not that she was a girl, nor that she was a shifter, nor the past-life knowledge. She'd mentioned Robbie, and some of the things from the vault (though not the money or the trunk), but not the Kiln or all the time she was spending with Hermione. And none of that had occurred to her *at all* until just now. It struck her all at once that she was growing apart from her first friend, and she *really* didn't know how to feel about that.
+
+"Merlin and Morgana, I really *have* changed," she breathed. "Hermione, I've not told Ron about hardly *any* of this!"
+
+"I can just see his eyes glazing over if you did, though," Hermione replied.
+
+"No, I mean hardly *anything* about this summer. I haven't even told him I'm a girl!"
+
+Hermione stopped dead in her tracks.
+
+"Or the past-life knowledge, or the shifting, or even the trunk!" Elysia continued, before noticing that Hermione wasn't beside her anymore. "Um, Hermione?"
+
+"Oh no, I forgot you're famous! And I know how much you hate all of that, but Ellie, you *know* people are going to make a fuss about anything you do. And how do magicals even think about trans people, anyway? Is it even an issue? So much else is pre-Victorian, so maybe not, but..."
+
+Elysia couldn't help but smile. "Breathe, Hermione. I got through that Heir of Slytherin hogwash, didn't I?"
+
+Hermione took a deep breath, and smiled sheepishly. "You're right, it's not quite life-or-death, is it?"
+
+"I don't suppose so," Elysia said. "Still, it's something I should have at least given *some* thought before now. I guess I just felt that if *you* were okay with it all, the rest didn't really matter."
+
+Hermione blushed. "I'm flattered."
+
+"Still, that's not really fair to Ron, is it?" Elysia continued.
+
+"Well, maybe not, but he *is* a bloke," Hermione said. "And Ron can be a particularly *insensitive* bloke."
+
+"That's true. By the way, I'm sorry for being such a git over that Firebolt last Christmas. You were only looking out for me, like you always do. You deserve better than my throwing a tantrum over it."
+
