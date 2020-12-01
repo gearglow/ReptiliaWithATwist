@@ -817,10 +817,32 @@ Robbie laughed so hard he fell over.
 
 ## Chapter 5
 
-The summer fell into a rhythm fairly quickly. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and occasionally meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+The summer fell into a rhythm fairly quickly. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione dragged them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
+Hermione had expressed desire to learn some of what Elysia could now do (very fervently and at substantial length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
 
-Robbie had wanted to examine the pedestal building at The Kiln (and give the two friends some time without Elysia's 'brother' tagging along, he confided to her), so Elysia and Hermione saw *Black Beauty* just the two of them.
+They still made sure to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
 
-*Why does this feel like a date?* They both thought, walking out of the theater.
+Robbie had wanted to examine the pedestal building at The Kiln again (and give the two friends some time without Elysia's 'brother' tagging along, he confided to her), so Elysia and Hermione saw *Black Beauty* just the two of them.
+
+*Why does this feel like a date?* They both thought, walking out of the theater. Their hands had kept brushing while they had been sharing a tub of popcorn, and neither girl was sure if it had been entirely accidental or not.
+
+By now, Robbie and Elysia's bond had progressed to the point that they could, with effort, send messages to each other telepathically. So when Hermione asked if Elysia would stay for dinner, she let Robbie know and barely avoided blushing visibly at the smirk he sent back.
+
+"Ugh, brothers," she grumbled good-naturedly to Hermione, as they walked through Crawley back to the Granger residence.
+
+"What about Robbie now?" Hermione asked.
+
+"Just teasing me a bit, is all," Elysia said. "It's amazing to see how much more self-assured he is compared to two years ago."
+
+"I'll have to take your word for it. Is that the bond's doing, or just different circumstances?"
+
+"A bit of both, I suppose. Anyone'd do better away from the Malfoys. But the bond probably has a pretty big effect too. I know my work ethic's increased, too, probably as a side-effect. Did I tell you I wrote McGonagall? She's letting me drop Divination if I can test into Arithmancy. Which I can. I could test *out* of Arithmancy if I read far enough in my mindscape library, but if I do that for classes I'm actually taking, school will be *so boring.*"
+
+"And also, this way we share a class just the two of us," Hermione smiled.
+
+"That too, yeah." Elysia smiled back.
+
+"*Ahem.* So, the bond. How exactly does that impact your and Robbie's personalities so much?"
+
+"There's a few things that go into it."
