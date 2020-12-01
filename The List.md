@@ -790,3 +790,37 @@ Elysia turned to Hermione. "Wanna come along?"
 "What do you mean?" Hermione asked nervously. "You're not going to make me ride a broom, are you?"
 
 Elysia winked at her and shifted into a hippogriff. 
+
+
+
++++++
+
+
+
+Despite managing to keep from squeezing her eyes shut, Hermione maintained a death-grip on Elysia's neck despite the wandless sticking charm as she and Robbie, also shifted to hippogriff, flew around the property.
+
+Most of the land was sectioned off for crops, though the fields had obviously lain fallow for a long time. In the middle of the property, though, hidden behind the cottage, was a rusted and overgrown quidditch pitch and a ramshackle broom-shed.
+
+"Ron would love this!" Hermione yelled over the rushing air.
+
+Elysia could only chirp in agreement.
+
+They landed in front of the pedestal building.
+
+"Don't tell Ron I rode you," Hermione said, with a blushing smirk. "His head might explode."
+
+Elysia flushed deep red, gaping. "I- Um. I think *my* head might explode."
+
+Robbie laughed so hard he fell over.
+
+
+
+## Chapter 5
+
+The summer fell into a rhythm fairly quickly. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and occasionally meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+
+It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione dragged them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
+
+Robbie had wanted to examine the pedestal building at The Kiln (and give the two friends some time without Elysia's 'brother' tagging along, he confided to her), so Elysia and Hermione saw *Black Beauty* just the two of them.
+
+*Why does this feel like a date?* They both thought, walking out of the theater.
