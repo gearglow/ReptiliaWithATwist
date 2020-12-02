@@ -976,7 +976,7 @@ Elysia smiled in relief. Hermione patted her arm, and said, "Well, after we eat,
 
 
 
-After dinner, they all moved into the living room, where Hermione showed off some wandless magic, Elysia turned into various animals, and the two of them demonstrated a magically-augmented round of a tai chi exercise called Push Hands. Just as they finished, Hedwig flew in with letters from Ron for the two girls.
+After dinner, they all moved into the living room, where Hermione showed off some wandless magic, Elysia turned into various animals, and the two of them demonstrated a magically-augmented round of a tai chi exercise called Push Hands. Just as they finished, Hedwig and a tiny little ball of energy that may or may not have been an owl flew in with letters from Ron for the two girls.
 
 > Harry,
 >
@@ -994,7 +994,7 @@ Elysia and Hermione looked at each other.
 
 "You're not going to subject Mr. Weasley and the Dursleys to each other, are you, Ellie?" Hermione asked.
 
-"Merlin, no! Mr. Weasley's a sweet man, but he's a bit... bemusing when it comes to Muggle things," Elysia responded. "Uncle Vernon would have a stroke. Robbie?"
+"Merlin, no! Mr. Weasley's a sweet man, but he's a bit... *something* when it comes to Muggle things," Elysia responded. "Uncle Vernon would have a stroke. Robbie?"
 
 Robbie popped into the Grangers' living room. "You rang, Ellie?"
 
@@ -1030,5 +1030,58 @@ That night, Elysia popped into her mindscape to speak with the memory-constructs
 
 ## Chapter 6
 
-...
+The next morning, Elysia wrote to her godfather, Sirius Black. While they'd exchanged a couple of letters over the summer, she'd told him even less than she had Ron thus far. She thought about it, sure, but so much had happened that she didn't even know where to start. She finally wrote about the Quidditch World Cup and that she and Hermione could be reached care of the Weasleys for the rest of the summer, and sent Hedwig on her way.
 
+There being nothing to pack, what with all her and Robbie's worldly possessions fitting handily in the magically-expanded residential trunk, the two spent the morning in their usual training routine. When noon rolled around, Elysia shifted into her androgynous Harry-shape and, after shrinking the trunk and pocketing it, headed downstairs to inform her relatives that she would be leaving for the rest of the summer. She found them at the table, just starting in on lunch.
+
+"Where'd you get those clothes!?" Dudley accused.
+
+"Stole them, no doubt," Vernon said.
+
+"Birthday present from my godfather," Elysia lied smoothly. "You know, Sirius Black? The escaped mass-murdering convict?"
+
+The Dursleys paled. "Er, right," Vernon choked out.
+
+"Anyway, just wanted to let you know. I'm leaving to stay with some school friends for the rest of the summer, and I'll get to the school from there on my own."
+
+"What makes you think you're in any position to just come in here and *tell* us what you're doing, *boy?*" Vernon growled.
+
+"I learned something interesting this summer," Elysia said, grinning evilly. "You know how I'm not allowed to use a wand outside of school?"
+
+Vernon nodded cautiously.
+
+Elysia snapped her fingers, conjuring a ball of Hermione's favorite bluebell flame in the palm of her hand. "I don't need a wand to do magic. Between that and Sirius, I rather think *you're* the ones who need to re-think their positions, don't you?"
+
+Petunia gasped. Vernon nodded quickly, his many chins jiggling grotesquely. Dudley simply bolted up the stairs.
+
+"Go on, then," Vernon snapped. 
+
+Before he could say anything further, Elysia disapparated.
+
+
+
+### Granger House, Crawley	1994/08/21	11:59
+
+Elysia and Robbie appeared on the Grangers' doorstep with twin *pops* of displaced air. As Elysia was just about to knock, the door flew open and, with a cry of "Ellie!" suddenly her arms were full of her favorite bushy-haired brunette.
+
+"Hey, 'Mione," Elysia said, squeezing her back. "Ready to go?"
+
+She nodded, finally letting Elysia go before leading the way inside. "Thank you for teaching me that wandless shrinking charm, Ellie! I managed to fit so many more books in my trunk!"
+
+Elysia giggled. "Of course you did. Hullo, Mr. & Mrs. Granger!"
+
+"Hello, Ellie," Mrs. Granger replied.
+
+"Long time no see," Mr. Granger grinned.
+
+"Ellie, I've just thought of something," Hermione said. "You're not out to the Weasleys yet. Should I call you 'Harry' again until that changes?"
+
+Elysia thought for a bit. "Yeah, probably. We still don't know how the magical world takes transgender people in general, much less their beloved *Boy-Who-Lived.*" She sneered the last part.
+
+Hermione patted her arm comfortingly. "Well, whatever happens, we'll get through it together."
+
+
+
+### The Burrow, Ottery St. Catch-Pole	1994/08/21	12:05
+
+After saying their goodbyes to Hermione's parents, Robbie popped the three of them to the lane outside the Burrow's front gate.
