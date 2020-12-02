@@ -1018,7 +1018,7 @@ Elysia and Mr. Granger shared a grin. "Never change, Hermione," Elysia said fond
 
 
 
-That night, Elysia popped into Elysium to speak with her parents' memory-constructs. At the same time, Hermione sought out her own parents.
+That night, Elysia popped into her mindscape to speak with the memory-constructs of her parents. At the same time, Hermione sought out her own parents.
 
 "Mum, Dad, can I talk to you?"
 
@@ -1031,3 +1031,4 @@ That night, Elysia popped into Elysium to speak with her parents' memory-constru
 ## Chapter 6
 
 ...
+
