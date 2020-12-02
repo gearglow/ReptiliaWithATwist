@@ -909,3 +909,44 @@ Hermione stuck her tongue out, then giggled. "I didn't know you'd seen Babylon 5
 "Maybe it'll be out on tape someday and we can watch it together, then. I wonder..."
 
 "Are you thinking about how to get a VHS and a telly to work inside Hogwarts too?"
+
+Hermione smirked. "Maybe..."
+
+By this time, they'd made it back to the Granger residence. They were just about to enter when Hermione suddenly spun around and hugged Elysia tightly.
+
+"Um, 'Mione?" Elysia asked as the other witch let go. "What was that for?"
+
+"Do I need a reason to hug my best friend?" She replied. "Besides, are you really objecting?"
+
+"Never," Elysia stated firmly. "You couldn't *Imperio* me to object to one of your hugs."
+
+Smiling brightly, Hermione led the way inside.
+
+
+
+### Granger House, Crawley	1994/08/16	17:36
+
+Elysia was nervous. Since they both worked, she'd only met Hermione's parents a couple of times before, and never had a chance for much in the way of conversation with them. And now she was staring down the barrel of not only an entire meal's worth of such, but also coming out to them.
+
+*Breathe,* she told herself. *Hermione's right here. She's got your back. She always does.*
+
+Hermione's parents were just finishing up in the kitchen. "Hey, kids," her mom called. "You're just in time."
+
+They all sat around the dinner table as Mr. Granger set a roast down.
+
+"So," he said as he took his seat. "You're the mysterious Elysia we've been hearing so much about this summer."
+
+"It's so lovely to see Hermione having a friend to do things with in the summer," Mrs. Granger gushed. "How did you two meet, anyway?"
+
+"Um, we met on the train to Hogwarts back in first year, Mrs. Granger," Elysia said hesitantly.
+
+"Oh? Odd that she's never mentioned you before now," Mrs. Granger said.
+
+"Only ever those two boys, Ron and Harry," Mr. Granger said. "Mostly Harry, really," he added with a smirk at his daughter.
+
+Elysia gave Hermione a look, one eyebrow raised high. Hermione blushed and refused to meet Elysia's eyes.
+
+"Why Hermione, I didn't know you cared," she said, winking. Turning back to Mr. & Mrs. Granger, she said, "As it happens, she *has* mentioned me. I'm Harry. Or, I was, I suppose. I'm transgender. Didn't click that I was a girl 'til after all the fuss up at school was over for the year, but then once I twigged to it, things moved pretty fast."
+
+The Granger parents seemed shocked, but not, Elysia hoped, in a bad way.
+
