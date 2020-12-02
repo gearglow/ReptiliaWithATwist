@@ -822,7 +822,7 @@ Robbie laughed so hard he fell over.
 >
 > - ~~Check out The Kiln at Red Wharf Bay~~
 
-## Chapter 5
+## Chapter 5: Was This A Date?
 
 The summer fell into a rhythm fairly quickly. She'd gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style, stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
@@ -894,7 +894,18 @@ Hermione blushed. "I'm flattered."
 
 "Still, that's not really fair to Ron, is it?" Elysia continued.
 
-"Well, maybe not, but he *is* a bloke," Hermione said. "And Ron can be a particularly *insensitive* bloke."
+"Well, maybe not, but he *is* a bloke," Hermione said. "And Ron can be a particularly *insensitive* bloke sometimes."
 
-"That's true. By the way, I'm sorry for being such a git over that Firebolt last Christmas. You were only looking out for me, like you always do. You deserve better than my throwing a tantrum over it."
+"That's true. By the way, I'm sorry for being such a git over that Firebolt last Christmas. You were only looking out for me, like you always do. You deserve better than my throwing a tantrum over it. And anyway, you were right," she grinned, "it *was* sent by Sirius."
 
+"Of course I was right. I'm *always* right," Hermione said with mock solemnity.
+
+"We'll have to make that the Hogwarts Mantra," Elysia said. "'Hermione is always right. I will listen to Hermione. I will not ignore Hermione's recommendations. Hermione is God. If this ever happens again, Hermione will personally rip your lungs out.'"
+
+Hermione stuck her tongue out, then giggled. "I didn't know you'd seen Babylon 5!"
+
+"I haven't, not really. Just heard a bit here and there when Dudley had the telly up too loud."
+
+"Maybe it'll be out on tape someday and we can watch it together, then. I wonder..."
+
+"Are you thinking about how to get a VHS and a telly to work inside Hogwarts too?"
