@@ -73,7 +73,7 @@ Harry's jaw dropped. "You mean Voldemort *won!?*" She buried her face in her han
 
 "'Fraid so, kiddo. But don't worry! We got that horcrux out of you and you're in the Good Place now. Well, for the moment."
 
-Harry looked up, hands still poised in case of further bouts of screaming. "For the moment? Wha-?"
+Harry looked up, hands still poised in case of further bouts of screaming. "For the moment?"
 
 Eleanor sighed, and slapped her hands on the desk. "Look, kid, I'm going to level with you. Most people, they kick the bucket, show up here or " -- she blew a raspberry and gave a thumbs-down -- "the Bad Place, work through a few Purgatory cycles, and move on. You're not most people. You got whammied by Destiny, so you get to go back and try again until you get whatever Destiny has in store for you out of the way." 
 
@@ -123,7 +123,7 @@ Eleanor thought for a minute, then grinned. "Janet!"
 
 Janet, it turned out, was a hyper-evolved sentient interface to the sum total of all knowledge in the universe, and an absolute sweetheart too. Between the three of them, a plan was soon formed.
 
-"Just sign here, here, and here," Janet said, handing Harry a contract. "This should keep the Judge happy. It says that, while you won't remember your last life, you can keep your training from here in the Good Place in your subconscious, and a plan of action in your occlumency mindscape. Basically, you'll get mind magic training first, and everything after that gets tucked away in the mindscape you'll build as part of that. You'll still have any instincts and muscle memory that result from any training you do here, and the actual knowledge will come to you if you focus on it. But you won't remember your time here, or anything like that. Just your training, and not as lived experience. It might feel weird at first when you go back."
+"Just sign here, here, and here," Janet said, handing Harry a contract. "This should keep the Judge happy. It says that, while you won't remember your last life, you can keep your training from here in the Good Place in your subconscious, and a plan of action in your occlumency mindscape. Basically, you'll get mind magic training first, and everything after that gets tucked away in the mindscape you'll build as part of that. You'll still have any instincts and muscle memory that result from any training you do here, and the actual knowledge will come to you if you focus on it. But you won't really remember your time here, or anything like that. Just your training, and not as lived experience. It might feel weird at first when you go back."
 
 Harry smiled nervously. "It's better than going back blind like before, I suppose."
 
@@ -225,7 +225,7 @@ Harry raised an eyebrow.
 
 Janet stood with a smile. "Pretty much! Come on, it's time to show you the study."
 
-They went down the hallway to a huge room filled with books, expansive bay windows with cozy-looking reading nooks, a substantial desk, and a floor safe tucked away in a corner. A black leather binder with a lock was sitting on the desk. Janet gestured to it. "Here's the list! It's full of useful foreknowledge, but you'll only be able to read the parts you can act on or already know about at any given time. Too much future knowledge cam mess you up. Your last self said it wouldn't do to have you too far out of sync with your peers, after all; you're too isolated as it is."
+They went down the hallway to a huge room filled with books, expansive bay windows with cozy-looking reading nooks, a substantial desk, and a floor safe tucked away in a corner. A black leather binder was sitting on the desk. Janet gestured to it. "Here's the list! It's full of useful foreknowledge, but you'll only be able to read the parts you can act on or already know about at any given time. Too much future knowledge cam mess you up. Your last self said it wouldn't do to have you too far out of sync with your peers, after all; you're too isolated as it is."
 
 Harry nodded and opened the binder.
 
@@ -248,7 +248,7 @@ Harry nodded and opened the binder.
 
 "Dobby, huh?" Harry said. "Why didn't I think of that?"
 
-"You did," Janet smirked. "Anyway, as the personification of your subconscious, I can dig up anything in your mind you ask me to, unless there's a god reason not to. If that's the case, I'll tell you so."
+"You did," Janet smirked. "Anyway, as the personification of your subconscious, I can dig up anything in your mind you ask me to, unless there's a good reason not to. If that's the case, I'll tell you so."
 
 "Thanks, Janet," Harry smiled.
 
@@ -293,7 +293,7 @@ Harry dove back in.
 
 "The sun's coming up, Harry," Janet said as Harry finished the last of the books. 
 
-"What? I've been here for hours!" Harry exclaimed. "Wait, I remember now. Time's different in a mind-scape, isn't it?"
+"What, barely? I've been here for hours!" Harry exclaimed. "Wait, I remember now. Time's different in a mind-scape, isn't it?"
 
 "It is," Janet confirmed. "But that's all the books on that first list, so I'd say we timed things out rather well, wouldn't you?"
 
@@ -329,7 +329,7 @@ Eventually, Harry pulled herself together. "You... aren't really here, are you? 
 
 A trickle of memories crawled over Harry's scalp, helping to temper her emotions at seeing her parents again. *For the first time in this lifetime,* her memories whispered, *but not the last. They're right here!* She squeezed them one last time. "I guess it's time to get things moving," she said.
 
-Her parents nodded, her dad with a devilish grin and her mom with a decidedly Slytherin smirk. "They won't know what hit them, Nemesis," she said.
+Her parents nodded, her dad with a devilish grin and her mom with a decidedly Slytherin smirk. "They won't know what hit them, Nemesis," Lily said.
 
 James patted her on the back. "Go get 'em, kiddo!'"
 
@@ -395,7 +395,7 @@ Harry handed over the key. The goblin took it and did something behind the count
 
 Another goblin, Lockjaw presumably, led them through an opulent door into a maze of opulent hallways. Eventually, they came to another opulent door, which Lockjaw led them through before ducking back out.
 
-Another goblin, built like a knarled old oak tree with a bushy white beard, was seated behind a desk, with a gas-lamp and several ledgers on it. He gestured to the chairs in front of the desk and introduced himself. "I am Claymore, the account manager for the Potter estate. I wasn't expecting you for a few more years, Mr. Potter."
+Another goblin, built like a gnarled old oak tree with a bushy white beard, was seated behind a desk, with a gas-lamp and several ledgers on it. He gestured to the chairs in front of the desk and introduced himself. "I am Claymore, the account manager for the Potter estate. I wasn't expecting you for a few more years, Mr. Potter."
 
 Harry inwardly cringed at being addressed as 'Mr.' but shrugged it off. *Not yet,* she told herself. "Harry is fine, Claymore," she told the goblin. "May this meeting bring profits to our clans and ruin to our enemies." So saying, she had a seat in one chair and gestured for Dobby to take the other. "This is Dobby, my friend and advisor."
 
@@ -436,7 +436,7 @@ Lockjaw entered the room a few minutes later, handed over a folder, and left aga
 >
 > #### Notable Business Concerns
 >
-> - Fleamont's Pharmaceuticals - 10% ownership - see page 8
+> - Fleamont's Filtres- 10% ownership - see page 8
 > - Other aggregate shares - see page 12
 
 The rest of the folder was fine-print regarding the farm and business, but what caught Harry's attention (aside from the sheer amount) was that note about personal effects. *Perhaps something of my parents'?* Catching Claymore's attention, she asked, "Claymore, a couple of things have caught my attention. First, the portkey to the property at Red Wharf. Am I able to request use of that now, or do I need to wait until I come of age?"
@@ -449,7 +449,7 @@ The rest of the folder was fine-print regarding the farm and business, but what 
 
 "Once we're finished here, please. One last thing - I note that there is a significant amount of liquid assets in the main vault which are not being put to work. Is there anything we can do about that right now?"
 
-"Very astute for one so young," Claymore nodded in approval. "Unfortunately, as far as the law is concerned, investment counts as withdrawal, so until you reach your majority neither you nor your guardians can do anything with it. Pity. That was mostly old Fleamont's proceeds from selling off his potions company when he retired. James, your father, never had a chance to do anything with it either. That money's been sitting idle for close to 30 years by now."
+"Very astute for one so young," Claymore nodded in approval. "Unfortunately, as far as the law is concerned, investment counts as withdrawal, so until you reach your majority neither you nor your guardians can do anything with it. Pity. That was mostly old Fleamont's proceeds from selling off his potions company when he retired. James, your father, never had a chance to do anything with it either. That money's been sitting idle for more than 15 years by now."
 
 "How about the trust vault? What can you do with, say, 25,000 galleons? Something with aggressive earning potential, I'd hope. At, oh, 40% commission? That should leave enough interest income for discretionary spending, too."
 
@@ -516,9 +516,9 @@ The trunk had a few convenience enchantments which were standard for most high-e
 
 "Thank you for indulging us, Lockjaw," Harry said as they exited the vault.
 
-They proceeded to Harry's trust vault, where Harry gathered a stack of 1,000 galleons with Dobby's help. Once back at the main floor, they bade Lockjaw farewell and stood in line to change half of the galleons to pound notes.
+They proceeded to Harry's trust vault, where Harry gathered a stack of 1,500 galleons with Dobby's help. Once back at the main floor, they bade Lockjaw farewell and stood in line to change half of the galleons to pound notes.
 
-Back in Diagon Alley proper, it was time to find a replacement runestone. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank runestones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions, expecting to need them after the intense training she was planning. She also picked up a stock of nutrient potions to help make up for her years of malnutrition.
+Back in Diagon Alley proper, it was time to find a replacement runestone. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank runestones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions, expecting to need them after the intense training she was planning. She also picked up a stock of nutrient potions to help make up for her years of malnutrition, and enough ingredients to stock a potions lab.
 
 Finally, finished with the magical shopping, they decided to head into the Muggle world. Stepping out of the Leaky Cauldron, but still within the pub's wards, Harry shifted into proper girl-form, with longer auburn hair. She looked around for Dobby, and found instead a boy who could've been her twin brother. He had hair the same auburn as hers, though cut in a shorter, more boyish style. He was even wearing a similar outfit.
 
@@ -544,7 +544,7 @@ After a quick stop for lunch, the two wandered the shops for the rest of the aft
 
 They also found more clothes. Both Elysia and Robbie were reveling in the ability to wear what they wanted to for once. Robbie, in particular, had a *penchánt* for socks with loud patterns, while Elysia enjoyed more form-fitting apparel after being saddled with horribly-oversized cast-offs all her life.
 
-It also turned out that, thanks to her shifting ability, she no longer needed glasses. Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them for with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
+It also turned out that, thanks to her shifting ability, she no longer needed glasses. Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
 
 Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room #4 Privet Drive.
 
@@ -580,7 +580,7 @@ The next morning, after the usual morning ablutions and a quick breakfast of por
 
 Elysia raised an eyebrow. "Oh? What do you mean?"
 
-Janet assumed a preparing-to-give-a-lecture pose. "If you recall, there is a formal oath to bind a house elf. You can think of this an the Bond of Agency, for reference. It makes the elf an agent of the House, so that it may act in service to the House. It does not make the elf a *member* of the House. When you added in the line about being part of the family, the nature of the bond changed. Instead of a Bond of Agency, it became a Bond of Brotherhood. While you both now act in the interests of House Potter -- especially as the last two members of House Potter -- there is no subservience. This is a bond of equals. As far as Magic is concerned, you two are siblings now. And thanks to the bond, you two will begin to instinctively act as siblings towards each other."
+Janet assumed a preparing-to-give-a-lecture pose. "If you recall, there is a formal oath to bind a house elf. You can think of this as the Bond of Agency, for reference. It makes the elf an agent of the House, so that it may act in service to the House. It does not make the elf a *member* of the House. When you added in the line about being part of the family, the nature of the bond changed. Instead of a Bond of Agency, it became a Bond of Brotherhood. While you both now act in the interests of House Potter -- especially as the last two members of House Potter -- there is no subservience. This is a bond of equals. As far as Magic is concerned, you two are siblings now. And thanks to the bond, you two will begin to instinctively act as siblings towards each other."
 
 Elysia's eyes widened at that. "Woah! I have a brother!? This is so cool! I've always wanted a proper family..."
 
@@ -654,7 +654,7 @@ Thankfully, Dudley was still at Smeltings until July, and Vernon was at work. Pe
 
 "Ooh! Like what, Harry?" Hermione asked.
 
-"Like a lot of things," Elysia replied. "Like years' worth of journals for both of them, and the deed to some place in Wales from my gran-da. There's a portkey at Gringotts, and I was planning on taking it down this afternoon to look around. Interested in coming with? You can meet Robbie, too."
+"Like a lot of things," Elysia replied. "Like years' worth of journals for both of them, and the deed to some place in Wales from my grandfather. There's a portkey at Gringotts, and I was planning on taking it down this afternoon to look around. Interested in coming with? You can meet Robbie, too."
 
 "Robbie? Who's Robbie? Harry, it's been all of a day!" Hermione said.
 
@@ -680,7 +680,7 @@ Ending the call, Elysia made it back to her room just as she heard Aunt Petunia 
 
 Robbie popped the two of them to Hermione's doorstep. Elysia wasn't sure how Robbie knew where it was -- she hadn't even seen him check a map. And yet here they were.
 
-Robbie had shifted into his human form again, and Elysia was back in the androgynous look she'd left Gringotts in yesterday. They were both dressed in the same outfits as yesterday -- jeans, t-shirts, and the dragonhide boots and jackets (Robbie had laid claim on the Hebridean Black, while Elysia preferred the Ukrainian Ironbelly). Elysia wore a heather-grey v-neck, but Robbie's t-shirt said "Frankie Says Relax" in big letters across the chest.
+Robbie had shifted into his human form again, and Elysia was back in the androgynous look she'd left Gringotts in yesterday. They were both dressed in the same outfits as yesterday -- jeans, t-shirts, and the dragonhide boots and jackets (Robbie had laid claim on the Hebridean Black, while Elysia preferred the Ukrainian Ironbelly). Elysia wore a plain heather-grey v-neck, but Robbie's t-shirt said "Frankie Says Relax" in big letters across the chest.
 
 The door burst open at Elysia's knock. "Harry!" Hermione flew at her, engulfing her in a classic Hermione-hug. It struck Elysia then just how off-kilter she always felt over the summer, because all of a sudden, *she didn't.*
 
@@ -742,7 +742,7 @@ Elysia immediately shifted back to girl-shape, and Robbie back to elf-shape. "Ah
 
 Hermione just gave them a look, though Elysia noticed her lips twitching.
 
-They eventually made it to the end of the drive, to find that there were actually several buildings. One was a barn, painted a weathered red. Another was what looked like a distillery, with various faucets and fittings sticking from the walls. A third was a nondescript wooden building that nevertheless fairly shone when Elysia looked at it under mage-sight (as she'd learned from yesterday's primers).
+They eventually made it to the end of the drive, to find that there were actually several buildings. One was a barn, painted a weathered red. Another was what looked like a distillery, with various faucets and fittings sticking from the walls. A third was a nondescript wooden building that nevertheless fairly shone when Elysia looked at it under mage-sight (which she'd learned from yesterday's primers).
 
 The final building was a cozy-looking one-story farmhouse. It too shone under mage-sight, though not as brightly as the other building. In fact, that building reminded Elysia of something...
 
@@ -784,9 +784,13 @@ Robbie nodded. "There's bits of rock all over the floor, too, and some of these 
 
 
 
-After that, the actual cottage was disconcertingly normal. The front door opened into a greatroom, with a kitchen area on one side, a dining area with a round six-seat table, a couple of leather sofas and a matching armchair, and a large, floo-size hearth. A hallway led to four bedrooms, two bathrooms, and the master suite. The whole place was very cozy, but also absolutely *covered* in decades' worth of dust. And aside from the larger pieces of furniture, completely empty. No beds, no dressers or wardrobes, not even a desk. No personal effects. They made a quick circuit through the place and darted back outside, sneezing the whole way.
+After that, the actual cottage was disconcertingly normal. The front door opened into a greatroom, with a kitchen area on one side, a dining area with a heavily-scuffed round six-seat table, a couple of beat-up leather sofas and a matching armchair, and a large, floo-size hearth. A hallway led to four bedrooms, two bathrooms, and the master suite. The whole place was very cozy, but also absolutely *covered* in decades' worth of dust. And aside from the table, sofas, and armchair, completely empty. No beds, no dressers or wardrobes, not even a desk. No personal effects. They made a quick circuit through the place and darted back outside, sneezing the whole way.
 
-Robbie and Elysia looked at each other once the sneezes stopped. "Aerial survey?" "Uh-huh."
+Robbie and Elysia looked at each other once the sneezes stopped. 
+
+"Aerial survey?" 
+
+"Uh-huh."
 
 Elysia turned to Hermione. "Wanna come along?"
 
@@ -800,7 +804,7 @@ Elysia winked at her and shifted into a hippogriff.
 
 
 
-Despite managing to keep from squeezing her eyes shut, Hermione maintained a death-grip on Elysia's neck despite the wandless sticking charm as she and Robbie, also shifted to hippogriff, flew around the property.
+Despite managing to keep from squeezing her eyes shut, Hermione maintained a death-grip on Elysia's neck despite the wandless sticking charm on her jeans as the girls and Robbie, also shifted to hippogriff, flew around the property.
 
 Most of the land was sectioned off for crops, though the fields had obviously lain fallow for a long time. In the middle of the property, though, hidden behind the cottage, was a rusted and overgrown quidditch pitch and a ramshackle broom-shed.
 
@@ -812,7 +816,7 @@ They landed in front of the pedestal building.
 
 "Don't tell Ron you let me ride you," Hermione said, with a blushing smirk. "His head might explode."
 
-Elysia flushed deep red, gaping. "I- Um. I think *my* head might explode."
+Elysia flushed deep red, gaping. "I. Um. I think *my* head might explode."
 
 Robbie laughed so hard he fell over.
 
@@ -824,15 +828,15 @@ Robbie laughed so hard he fell over.
 
 ## Chapter 5: Was This A Date?
 
-The summer fell into a rhythm fairly quickly. She'd gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style, stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
 Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
 
-They still made sure to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
+They still made time to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
 
 Robbie had wanted to examine the pedestal building at The Kiln again (and give the two friends some time without Elysia's 'brother' tagging along, he confided to her), so Elysia and Hermione saw *Black Beauty* just the two of them.
 
-*Why does this feel like a date?* They both thought, walking out of the theater. Their hands had kept brushing while they had been sharing a tub of popcorn, and neither girl was sure if it had been entirely accidental or not.
+*Why does this feel like a date?* They both thought, walking out of the theater. Not that either of them had ever actually been on a date, but their hands had kept brushing while they were sharing a tub of popcorn, and neither girl was sure if it had been entirely accidental or not.
 
 By now, Robbie and Elysia's bond had progressed to the point that they could, with effort, send messages to each other telepathically. So when Hermione asked if Elysia would stay for dinner, she let Robbie know and barely avoided blushing visibly at the smirk he sent back.
 
@@ -840,7 +844,7 @@ By now, Robbie and Elysia's bond had progressed to the point that they could, wi
 
 "What about Robbie now?" Hermione asked.
 
-"Just teasing me a bit, is all," Elysia said. "It's amazing to see how much more self-assured he is compared to two years ago."
+"Just teasing me a bit, is all," Elysia said. "It's amazing to see how much more self-assured he is compared to two years ago, or even the beginning of summer hols."
 
 "You too, Ellie. Is that the bond's doing, do you think, or just different circumstances?"
 
@@ -868,9 +872,9 @@ Hermione looked startled, then got a thoughtful expression on her face. "Go on."
 
 "I like this new you," Hermione said. "I always knew you were smart, but it's *wonderful* to be able to have conversations like this with you. Before this summer, most of our conversations were taken up with homework, quidditch, or whatever crisis of the moment. Now... you just seem more comfortable in your own skin. More confident, more driven. More playful, too. Happier. I don't know, maybe that's just growing up. But I don't think it's *only* that."
 
-Elysia was silent for a little while, thinking. She hadn't thought about it much after the first couple of days, but she really had changed a *lot* over the summer. Her birthday had been a couple of weeks ago, her first as Elysia, and all of the cards and such were addressed to 'Harry.' It was jarring to think that that name still referred to her, and by necessity would continue to until she could change it upon reaching her majority.
+Elysia was silent for a little while, thinking. She hadn't thought about it much after the first couple of days, but she really had changed a *lot* over the summer. Her birthday had been a couple of weeks ago, her first as Elysia, and all of the cards and such were addressed to 'Harry.' Her Hogwarts letter, which had also arrived that day, was the same. It was jarring to think that that name still referred to her, and by necessity would continue to until she could change it upon reaching her majority.
 
-She still hadn't told Ron about most of it, either. Not that she was a girl, nor that she was a shifter, nor the past-life knowledge. She'd mentioned Robbie, and some of the things from the vault (though not the money or the trunk), but not the Kiln or all the time she was spending with Hermione. And none of that had occurred to her *at all* until just now. It struck her all at once that she was growing apart from her first friend, and she *really* didn't know how to feel about that.
+She still hadn't told Ron about most of it, either. Not that she was a girl, nor that she was a shifter, nor the past-life knowledge. She'd mentioned Robbie, and some of the things from the vault (though not the money or the trunk), but not The Kiln or all the time she was spending with Hermione. And none of that had occurred to her *at all* until just now. It struck her all at once that she was growing apart from her first friend, and she *really* didn't know how to feel about that.
 
 "Merlin and Morgana, I really *have* changed," she breathed. "Hermione, I've not told Ron about hardly *any* of this!"
 
@@ -924,7 +928,7 @@ Smiling brightly, Hermione led the way inside.
 
 
 
-### Granger House, Crawley	1994/08/16	17:36
+### Granger House, Crawley	1994/08/20	17:36
 
 Elysia was nervous. Since they both worked, she'd only met Hermione's parents a couple of times before, and never had a chance for much in the way of conversation with them. And now she was staring down the barrel of not only an entire meal's worth of such, but also coming out to them.
 
@@ -932,7 +936,7 @@ Elysia was nervous. Since they both worked, she'd only met Hermione's parents a 
 
 Hermione's parents were just finishing up in the kitchen. "Hey, kids," her mom called. "You're just in time."
 
-They all sat around the dinner table as Mr. Granger set a roast down.
+They all sat around the dinner table as Mr. Granger brought in the main course, a pot roast.
 
 "So," he said as he took his seat. "You're the mysterious Elysia we've been hearing so much about this summer."
 
@@ -944,9 +948,86 @@ They all sat around the dinner table as Mr. Granger set a roast down.
 
 "Only ever those two boys, Ron and Harry," Mr. Granger said. "Mostly Harry, really," he added with a smirk at his daughter.
 
-Elysia gave Hermione a look, one eyebrow raised high. Hermione blushed and refused to meet Elysia's eyes.
+Elysia gave Hermione a look, one eyebrow raised high. Hermione blushed and busied herself with her food, refusing to meet Elysia's eyes.
 
-"Why Hermione, I didn't know you cared," she said, winking. Turning back to Mr. & Mrs. Granger, she said, "As it happens, she *has* mentioned me. I'm Harry. Or, I was, I suppose. I'm transgender. Didn't click that I was a girl 'til after all the fuss up at school was over for the year, but then once I twigged to it, things moved pretty fast."
+"Why Hermione, I didn't know you cared," she teased. Turning back to Mr. & Mrs. Granger, she said, "As it happens, she *has* mentioned me. I'm Harry. Or, I was, I suppose. I'm transgender. Didn't click that I was a girl 'til after all the fuss up at school was over for the year, but then once I twigged to it, things moved pretty fast."
 
 The Granger parents seemed shocked, but not, Elysia hoped, in a bad way.
 
+"It turns out I have latent shape-shifting abilities," she continued. "Found my parents' journals, put a few things together, and, well..." She shifted into Harry-shape and waved shyly at them before shifting back.
+
+"My goodness!" Mrs. Granger gasped. 
+
+"Well. This is a lot to take in," Mr. Granger said. "But I thought you kids weren't allowed to use magic outside of school?"
+
+"We're not allowed to use *wands* outside of school, Mr. Granger, aside from in an emergency," Elysia replied. "There are plenty of other ways to use magic -- such as runes, potions, wandless casting, and innate abilities like my shifting."
+
+"How fascinating! Could you possibly show us some of that? We've never had a chance to see what Hermione's been learning up at that school because of that law," Mrs. Granger said.
+
+Elysia was nonplussed. "You're really okay with me being a girl? Just like that?"
+
+"You *do* seem much happier, dear, and that's the important thing," Mrs. Granger replied. 
+
+Elysia smiled in relief. Hermione patted her arm, and said, "Well, after we eat, how about we show you what Ellie's been teaching me this summer?"
+
+
+
++++++
+
+
+
+After dinner, they all moved into the living room, where Hermione showed off some wandless magic, Elysia turned into various animals, and the two of them demonstrated a magically-augmented round of a tai chi exercise called Push Hands. Just as they finished, Hedwig flew in with letters from Ron for the two girls.
+
+> Harry,
+>
+> Dad's managed to get tickets to the Quidditch World Cup final, and Top Box at that! Someone at work owed him a favor, so we're all going ('cept Mum), and there's tickets for you and Hermione too. He even made sure there was room for Robbie, though since he's a house-elf he won't need a ticket.
+>
+> Anyway, the match is the day after tomorrow, and Mum says you and Hermione can stay with us for the rest of Break. 
+>
+> Dad said he can pick you up from the Dursleys, but it might be easier if Robbie could bring you. You know how Dad gets.
+>
+> See you soon!
+>
+> ​    - Ron
+
+Elysia and Hermione looked at each other.
+
+"You're not going to subject Mr. Weasley and the Dursleys to each other, are you, Ellie?" Hermione asked.
+
+"Merlin, no! Mr. Weasley's a sweet man, but he's a bit... bemusing when it comes to Muggle things," Elysia responded. "Uncle Vernon would have a stroke. Robbie?"
+
+Robbie popped into the Grangers' living room. "You rang, Ellie?"
+
+"Hey, bro. Robbie, these are Hermione's parents." Elysia said, making introductions. "Anyway, Ron's invited us -- you, me, and Hermione -- to stay for the rest of summer, and to join them at the Quidditch World Cup final. Top Box, even. Mr. Weasley offered to pick us up, but..."
+
+Robbie snorted. "But the Dursleys. No worries, I'll just pop us over and save everyone the trouble. Noon-ish?"
+
+"Works for me. Hermione? Mr. & Mrs. Granger?"
+
+Hermione turned honest-to-Morgana *puppy eyes* on her parents. "Please, Mum and Dad?"
+
+Hermione's parents looked at each other and laughed. "Goodness, Hermione, I thought you didn't like quidditch if Har - er, Elysia wasn't playing," Mrs. Granger teased.
+
+Hermione blushed. "But, Mum, it's an international event! Think of the cultural mingling!"
+
+Elysia and Mr. Granger shared a grin. "Never change, Hermione," Elysia said fondly.
+
+
+
++++++
+
+
+
+That night, Elysia popped into Elysium to speak with her parents' memory-constructs. At the same time, Hermione sought out her own parents.
+
+"Mum, Dad, can I talk to you?"
+
+"Of course, sweetie, what is it?"
+
+"... I think I'm starting to fall for my best friend."
+
+
+
+## Chapter 6
+
+...
