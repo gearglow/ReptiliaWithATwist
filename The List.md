@@ -1084,4 +1084,7 @@ Hermione patted her arm comfortingly. "Well, whatever happens, we'll get through
 
 ### The Burrow, Ottery St. Catch-Pole	1994/08/21	12:05
 
-After saying their goodbyes to Hermione's parents, Robbie popped the three of them to the lane outside the Burrow's front gate.
+After saying their goodbyes to Hermione's parents, Robbie popped the three of them to the lane outside the Burrow's front gate. Elysia was still in Harry-shape, and Robbie was still in human-shape as they'd come from a muggle area. Over their bond, the two giggled at how the Weasleys might react to Robbie's appearance as they walked toward the Burrow's front door.
+
+Arthur Weasley opened the door as they approached. "Hello, Harry, Hermione, a- Oh my. Molly?" He called back into the house. "Does Ron have a twin I didn't know about?" He winked at them. "Come in, you lot. Molly's just finished making lunch."
+
