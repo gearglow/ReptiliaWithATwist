@@ -1151,3 +1151,11 @@ Ron fixed her with an odd look. "In your trunk? Bit cramped, innit? Wait, what t
 Elysia grinned and pulled her shrunken trunk from a pocket and set it down on one of the beds. With a tap of her finger, the trunk expanded. Opening the lid, she gestured to the now-revealed stairway. "See? I'll give you the tour after lunch."
 
 Ron's eyes bugged out. 
+
+
+
++++++
+
+
+
+Lunch was a raucous affair. 
