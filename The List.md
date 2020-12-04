@@ -1008,7 +1008,7 @@ Hermione turned honest-to-Morgana *puppy eyes* on her parents. "Please, Mum and 
 
 Hermione's parents looked at each other and laughed. "Goodness, Hermione, I thought you didn't like quidditch if Har - er, Elysia wasn't playing," Mrs. Granger teased.
 
-Hermione blushed. "But, Mum, it's an international event! Think of the cultural mingling!"
+Hermione blushed. "But, Mum, it's an international event! Think of the cultural experience!"
 
 Elysia and Mr. Granger shared a grin. "Never change, Hermione," Elysia said fondly.
 
@@ -1028,7 +1028,9 @@ That night, Elysia popped into her mindscape to speak with the memory-constructs
 
 
 
-## Chapter 6
+## Chapter 6: To The Burrow
+
+### #4 Privet Drive, Little Whinging, Surrey	1994/08/21	11:55
 
 The next morning, Elysia wrote to her godfather, Sirius Black. While they'd exchanged a couple of letters over the summer, she'd told him even less than she had Ron thus far. She thought about it, sure, but so much had happened that she didn't even know where to start. She finally wrote about the Quidditch World Cup and that she and Hermione could be reached care of the Weasleys for the rest of the summer, and sent Hedwig on her way.
 
@@ -1074,9 +1076,9 @@ Elysia giggled. "Of course you did. Hullo, Mr. & Mrs. Granger!"
 
 "Long time no see," Mr. Granger grinned.
 
-"Ellie, I've just thought of something," Hermione said. "You're not out to the Weasleys yet. Should I call you 'Harry' again until that changes?"
+"Ellie, I've just thought of something," Hermione said. "You're not out to the Weasleys yet. Should Robbie and I call you 'Harry' again until that changes?"
 
-Elysia thought for a bit. "Yeah, probably. We still don't know how the magical world takes transgender people in general, much less their beloved *Boy-Who-Lived.*" She sneered the last part.
+Elysia thought for a bit. "Yeah, probably, at least when it's not just us. We still don't know how the magical world takes transgender people in general, much less their beloved *Boy-Who-Lived.*" She sneered the last part.
 
 Hermione patted her arm comfortingly. "Well, whatever happens, we'll get through it together."
 
@@ -1084,7 +1086,68 @@ Hermione patted her arm comfortingly. "Well, whatever happens, we'll get through
 
 ### The Burrow, Ottery St. Catch-Pole	1994/08/21	12:05
 
-After saying their goodbyes to Hermione's parents, Robbie popped the three of them to the lane outside the Burrow's front gate. Elysia was still in Harry-shape, and Robbie was still in human-shape as they'd come from a muggle area. Over their bond, the two giggled at how the Weasleys might react to Robbie's appearance as they walked toward the Burrow's front door.
+After saying their goodbyes to Hermione's parents, Robbie popped the three of them to the lane outside the Burrow's front gate. Elysia was still in Harry-shape, and Robbie was still in human-shape as they'd come from a muggle area. Over their bond, the two giggled at how the Weasleys might react to Robbie's appearance as they walked toward the Burrow's front door. Hermione set Crookshanks down, and, spotting a gnome, he darted off to chase it.
 
 Arthur Weasley opened the door as they approached. "Hello, Harry, Hermione, a- Oh my. Molly?" He called back into the house. "Does Ron have a twin I didn't know about?" He winked at them. "Come in, you lot. Molly's just finished making lunch."
 
+The Burrow was more crowded than usual. It turned out that, when Ron had said that "we're all going ('cept Mum)," he'd meant *all* of the Weasleys (aside from Molly). Ron, Ginny, and the Twins were in the living room chatting with the two oldest Weasley boys, Bill and Charlie.
+
+Ron looked caught sight of them and stopped mid-word, gaping like a particularly large-mouthed fish. "Harry? Bloody hell, mate!"
+
+Ginny looked up, caught sight of Elysia, and blushed bright red.
+
+"Language, Ronald!" Hermione snapped, but she was smirking as she did.
+
+"See, Hermione? I told you it'd be funny," Robbie said.
+
+"Hullo, Weasleys!" Elysia said. "This is Robbie."
+
+Robbie finally shifted back to elf-shape and bowed elaborately, giggling all the while. The twins applauded.
+
+"Quite the entrance, wouldn't you say, Forge?"
+
+"Yes, indeed, Gred."
+
+"Anyway, honorary Weasleys, meet the oldest of the bunch --"
+
+"Bill --"
+
+"And Charlie."
+
+The twins gestured to the oldest two in the room. Charlie was built like the twins: stocky and strong, with callouses visible across the room and a shiny burn on one arm. He had a broad, good-natured face which was covered in freckles. 
+
+Bill was a surprise. Elysia'd expected an older version of Percy from what Ron had said about him in the past: Head Boy, worked for Gringotts. She'd imagined someone fussy, bossy, and self-important. The reality, though, was that though he was tall and lanky like Percy (and Ron, for that matter) he could easily have been Percy's evil twin. He had long hair pulled back in a ponytail, dragonhide boots, and an earring with what looked like a fang dangling from it. All in all, the impression was more rock-star than anything else.
+
+"Nice boots," he said.
+
+Charlie leaned forward excitedly. "Ooh, are those Ukrainian Ironbelly? Ooh, and Hebridean Black?" He added, catching sight of Robbie's ensemble. "Where did you find these?"
+
+"My family's storage vault," Elysia answered. "I got curious after everything last year, and first day back Robbie and I went to Gringotts to see if there was anything interesting. Found a bunch of clothes, my parents' and grandparents' journals, and even a trunk! I think that was an experiment of my grandmum's, actually."
+
+Ron had made his way over finally, having replaced his jaw. "Well, you look great, mate," he said, clapping Elysia on the back. "Been awhile since I've seen you so happy."
+
+"Lunch is ready, everyone! Please help carry it all out!" Mrs. Weasley called, appearing from the Kitchen. "Oh, hello, dears. We're eating out in the garden; there's too many to fit comfortably inside."
+
+Robbie darted over. "I'll bring everything out for you, Mrs. Weasley."
+
+"Thank you... Robbie, I presume?" Mrs. Weasley said. "Harry, Hermione, why don't you take your things up? Harry, you're in Ron's room, and Hermione, you're with Ginny. And bring Percy down with you when you're done, please." She turned back to the kitchen. "Merlin knows that boy works so hard; he needs his energy."
+
+
+
++++++
+
+
+
+Elysia, Hermione, Ron, and Ginny trooped up the stairs. Ginny and Hermione split off at the first door up the stairs, which was Ginny's room, while the other two continued to the top of the stairs, where Ron's room was.
+
+Elysia hadn't been here since the summer before last, when Ron and the twins had broken her out of Durzkaban after Robbie had ruined one of Vernon's business dinners. It was still awash in Chudley Cannons Orange. Scabbers' -- Wormtail's, rather -- old cage was gone; in its place was a cage containing the ball of owl-shaped energy which had delivered Hermione's invitation last night. The owl was bouncing around the cage and twittering excitedly.
+
+"It's a bit tight in here, sorry," Ron said, squeezing his way in. Somehow there'd been four beds stuffed inside the room. "Fred and George are in here too, because Bill and Charlie have their room," he explained. "Percy gets to keep his all to himself, though, because *he* has to *work.* Git. He *has* an office, you know!"
+
+"Ron, this is ridiculous," Elysia said. "Let's get one of these cots out of here. I'll just sleep in my grandmum's trunk like I've been doing all summer."
+
+Ron fixed her with an odd look. "In your trunk? Bit cramped, innit? Wait, what trunk?"
+
+Elysia grinned and pulled her shrunken trunk from a pocket and set it down on one of the beds. With a tap of her finger, the trunk expanded. Opening the lid, she gestured to the now-revealed stairway. "See? I'll give you the tour after lunch."
+
+Ron's eyes bugged out. 
