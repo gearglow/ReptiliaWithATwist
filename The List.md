@@ -147,7 +147,7 @@ They walked into the cottage and Harry *squealed.*
 
 "Oh Merlin, it's *wonderful!*"
 
-The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a huge, well-lit study, with shelves and shelves of books, big bay windows with reading nooks, a large desk, and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a fully-appointed basement potions and enchanting workshop. Last there was a door across the den area which led to a large bedroom with a king-size four-poster, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
+The door opened into a main room with a sunken den area, ringed with squashy sofas, facing a hearth with several hooks on swiveling arms mounted to one side. Through one doorway was a roomy, well-appointed kitchen with plenty of counter space, and through another was a huge, well-lit study, with shelves and shelves of books, big bay windows with reading nooks, a large desk, and several squashy armchairs. A door in the kitchen turned out to be a staircase down to a basement workshop, with fully-appointed potions and enchanting areas. Last there was a door across the den area which led to a large bedroom with a king-size four-poster bed, with French doors opening onto a deck facing the lake. Across from the French doors was a bathroom with a sunken jacuzzi tub. The whole place had a cozy, rustic aesthetic which Harry found thoroughly comforting.
 
 "I should hope so," Janet said. "I got it from your past lives' daydreams about having a place of your own. With a few modifications for the training you'll be undertaking, of course."
 
@@ -165,7 +165,7 @@ Janet and Eleanor looked at each other and grinned.
 
 
 
-Time, such as it was in the Afterlife, passed in a blur. (And frequently with an '80s rock backing track, courtesy of Janet.)
+Time, such as it was in the Afterlife, passed in a blur. (And frequently with an '80s rock-inspired backing track, courtesy of Janet.)
 
 It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well. But she also got to spend time with her parents. 
 
@@ -532,7 +532,7 @@ Finally, finished with the magical shopping, they decided to head into the Muggl
 
 "Robbie it is, then!" Harry said. "Hmm. I suppose I can't really answer to 'Harry' like this, either. Can't wait to be rid of that name for good, but for now..." She sighed, leaning against the wall of the pub. "Wish there was some clue from Elysium."
 
-"Elysiu- your mindscape?" Robbie asked.
+"Elysiu- oh, your mindscape?" Robbie asked.
 
 "Yeah, there's all kinds of ideas kicking around in there," she replied absently. "Wait, that's it! 'Elysia!' Robbie, you're a genius!" She spun him around in a hug. "Just call me 'Ellie' for short!"
 
@@ -774,7 +774,7 @@ Robbie nodded. "There's bits of rock all over the floor, too, and some of these 
 
 "I wonder what happened?" Hermione murmured.
 
-"Dunno," Elysia shrugged. "One of Grandpa Fleamont's experiments, I suppose. Or Grandma Euphemia's."
+"Dunno," Elysia shrugged. "One of Grandpa Fleamont's experiments, I suppose. Or Grandma Euphemia's, more likely."
 
 "Ellie," Hermione said, stifling a giggle, "your grandfather's name is *Fleamont?*"
 
@@ -828,7 +828,7 @@ Robbie laughed so hard he fell over.
 
 ## Chapter 5: Was This A Date?
 
-The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent reading her family's journals, writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent reading her family's journals, writing to friends, fiddling around with projects (such as adding night-vision runes to her glasses), finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
 Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
 
@@ -1034,7 +1034,55 @@ That night, Elysia popped into her mindscape to speak with the memory-constructs
 
 The next morning, Elysia wrote to her godfather, Sirius Black. While they'd exchanged a couple of letters over the summer, she'd told him even less than she had Ron thus far. She thought about it, sure, but so much had happened that she didn't even know where to start. She finally wrote about the Quidditch World Cup and that she and Hermione could be reached care of the Weasleys for the rest of the summer, and sent Hedwig on her way.
 
-TODO warnings about Dumbledore and the Weasleys' blind trust in him; primer: detecting potions
+That done, she decided to pop into Elysium and check in with Janet. As she appeared in the study, Janet walked in from the hallway. "Oh good, you're here. There are some important things you need to know before you return to the magical world."
+
+Elysia got comfortable in one of the chairs as Janet assumed her lecturing stance. "First, Albus Dumbledore is not your friend. He's manipulated you since before you were even born."
+
+Elysia gasped, whether in shock our outrage she wasn't sure.
+
+"There was a prophecy made about you and Voldemort," Janet continued, "and he's taken it to mean that you need to sacrifice yourself in order for Voldemort to finally be defeated for good. So he manipulated events to, first, bring the child of the prophecy to light -- it could have been either you or Neville Longbottom -- and then, once it was clear (to him, anyway) that the prophecy referred to you, he had you raised in such a way that you'd be willing to sacrifice yourself to defeat Voldemort without a second thought. He's desperate, not necessarily malicious, but the road to Hell is paved with good intentions, after all."
+
+"But... *why?* Why does he think that I have to die?"
+
+"Because of the piece of Voldemort's soul that was in your scar, that anchors him to this world. He can't die while they still exist. He's made several, through the darkest of magic, but the one in your scar was unintentional and he never even knew about it. We'll get back to the others, but the one on your scar was removed before you were sent back."
+
+"But Dumbledore doesn't know that, right?"
+
+"Exactly, so he'll still try and manipulate you to his own ends. In your last life, he even resorted to potions after this year to prevent any attachments strong enough to give you the desire to live instead of sacrificing yourself. You've changed enough already that he might do that sooner, so you need to know how to counteract them. And teach Hermione too; she's close enough to you that she's a target for him as well. And one other, but you haven't met her yet."
+
+"Not Ron?" Elysia asked.
+
+"No, not Ron," Janet confirmed. "The entire Weasley family has unquestioning faith in Dumbledore. Even if they knew about his meddling, they'd think it for the best, and go along with it without a second thought."
+
+"So, what, should I just walk away from the whole family because they're too trusting? From my first friend?"
+
+"No, of course not," Janet said. "Just don't expect them to pick you over the Headmaster if it comes to that. He's infallible to them, despite all evidence to the contrary. People believe what they want to believe, and magicals are even more prone to this sort of thinking. Culturally speaking."
+
+"I should probably act like as little has changed as possible, then," Elysia mused. "Show too much independence and it sounds like he'll start getting heavy-handed."
+
+"Most likely," Janet confirmed. "He *is* the one who went against your parents' wills and had you placed with the Dursleys. Left you on the doorstep in a basket, in *November,* no less. And he sealed the wills so nobody would find out."
+
+"So what's this about soul pieces, then?" Elysia asked, changing the subject. She was feeling betrayed, and didn't want to deal with it yet.
+
+"They're called horcruxes," Janet said. "Voldemort made six intentionally. You already destroyed one, the diary in your second year."
+
+"Merlin! And there are *five more* of those things lying around?" Elysia exclaimed. "Glad I got to enjoy this summer, because it sounds like it was the last carefree one I'm going to get for awhile."
+
+"That's why you insisted we give you this one," Janet agreed. "Anyway, The List has an appendix on the details of the horcruxes. You won't be able to much about most of them yet, but The List will update when you can."
+
+Elysia threw herself backwards into the chair. "No pressure, then," she said morosely.
+
+> To Do
+>
+> - ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
+> - ~~Find and read the primer on Acting Naturally~~
+> - ~~Find and read the primers on Strategy, Tactics, and the Art of War~~
+
+
+
++++++
+
+
 
 There being nothing to pack, what with all her and Robbie's worldly possessions fitting handily in the magically-expanded residential trunk, the two spent the morning in their usual training routine. When noon rolled around, Elysia shifted into her androgynous Harry-shape and, after shrinking the trunk and pocketing it, headed downstairs to inform her relatives that she would be leaving for the rest of the summer. She found them at the table, just starting in on lunch.
 
@@ -1080,7 +1128,7 @@ Elysia giggled. "Of course you did. Hullo, Mr. & Mrs. Granger!"
 
 "Ellie, I've just thought of something," Hermione said. "You're not out to the Weasleys yet. Should Robbie and I call you 'Harry' again until that changes?"
 
-Elysia thought for a bit. "Yeah, probably, at least when it's not just us. We still don't know how the magical world takes transgender people in general, much less their beloved *Boy-Who-Lived.*" She sneered the last part.
+Elysia thought for a bit. "Yeah, probably, at least when it's not just us. Not sure I want to let on how much I've changed yet; you know how Ron can get. And anyway, we still don't know how the magical world takes transgender people in general, much less their beloved *Boy-Who-Lived.*" She sneered the last part.
 
 Hermione patted her arm comfortingly. "Well, whatever happens, we'll get through it together."
 
@@ -1124,9 +1172,9 @@ Bill was a surprise. Elysia'd expected an older version of Percy from what Ron h
 
 Charlie leaned forward excitedly. "Ooh, are those Ukrainian Ironbelly? Ooh, and Hebridean Black?" He added, catching sight of Robbie's ensemble. "Where did you find these?"
 
-"My family's storage vault," Elysia answered. "I got curious after everything last year, and first day back Robbie and I went to Gringotts to see if there was anything interesting. Found a bunch of clothes, my parents' and grandparents' journals, and even a trunk! I think that was an experiment of my grandmum's, actually."
+"My family's storage vault," Elysia answered. "I got curious after everything last year, so first day back Robbie and I went to Gringotts to see if there was anything interesting. Found a bunch of clothes, my parents' and grandparents' journals, and a few other odds and ends. It's nice to have clothes that actually fit."
 
-Ron had made his way over finally, having replaced his jaw. "Well, you look great, mate," he said, clapping Elysia on the back. "Been awhile since I've seen you so happy."
+Ron had made his way over finally, having replaced his jaw. "Well, you look great, mate," he said, clapping Elysia on the back.
 
 "Lunch is ready, everyone! Please help carry it all out!" Mrs. Weasley called, appearing from the Kitchen. "Oh, hello, dears. We're eating out in the garden; there's too many to fit comfortably inside."
 
@@ -1146,13 +1194,7 @@ Elysia hadn't been here since the summer before last, when Ron and the twins had
 
 "It's a bit tight in here, sorry," Ron said, squeezing his way in. Somehow there'd been four beds stuffed inside the room. "Fred and George are in here too, because Bill and Charlie have their room," he explained. "Percy gets to keep his all to himself, though, because *he* has to *work.* Git. He *has* an office, you know!"
 
-"Ron, this is ridiculous," Elysia said. "Let's get one of these cots out of here. I'll just sleep in my grandmum's trunk like I've been doing all summer."
-
-Ron fixed her with an odd look. "In your trunk? Bit cramped, innit? Wait, what trunk?"
-
-Elysia grinned and pulled her shrunken trunk from a pocket and set it down on one of the beds. With a tap of her finger, the trunk expanded. Opening the lid, she gestured to the now-revealed stairway. "See? I'll give you the tour after lunch."
-
-Ron's eyes bugged out. 
+Elysia just rolled her eyes, pulled out her trunk, un-shrunk it, and shoved it under the bed next to Ron's.
 
 
 
@@ -1161,3 +1203,8 @@ Ron's eyes bugged out.
 
 
 Lunch was a raucous affair. 
+
+It started with Bill and Charlie making the tabled duel out on the lawn, causing Percy to stick his head out the window and yell at them to stop making so much noise. Then, with a squeak, Mrs. Weasley's wand turned into a giant rubber mouse, causing her to yell at the twins about something called 'Weasley's Wizard Wheezes.' 
+
+Eventually, everyone had taken their seats. Elysia was seated with Hermione on her right and Robbie on her left, with Bill, Ron, and Ginny across from them.
+
