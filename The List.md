@@ -828,7 +828,7 @@ Robbie laughed so hard he fell over.
 
 ## Chapter 5: Was This A Date?
 
-The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent reading her family's journals, writing to friends, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
 Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
 
@@ -1033,6 +1033,8 @@ That night, Elysia popped into her mindscape to speak with the memory-constructs
 ### #4 Privet Drive, Little Whinging, Surrey	1994/08/21	11:55
 
 The next morning, Elysia wrote to her godfather, Sirius Black. While they'd exchanged a couple of letters over the summer, she'd told him even less than she had Ron thus far. She thought about it, sure, but so much had happened that she didn't even know where to start. She finally wrote about the Quidditch World Cup and that she and Hermione could be reached care of the Weasleys for the rest of the summer, and sent Hedwig on her way.
+
+TODO warnings about Dumbledore and the Weasleys' blind trust in him; primer: detecting potions
 
 There being nothing to pack, what with all her and Robbie's worldly possessions fitting handily in the magically-expanded residential trunk, the two spent the morning in their usual training routine. When noon rolled around, Elysia shifted into her androgynous Harry-shape and, after shrinking the trunk and pocketing it, headed downstairs to inform her relatives that she would be leaving for the rest of the summer. She found them at the table, just starting in on lunch.
 
