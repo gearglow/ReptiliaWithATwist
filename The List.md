@@ -1204,7 +1204,150 @@ Elysia just rolled her eyes, pulled out her trunk, un-shrunk it, and shoved it u
 
 Lunch was a raucous affair. 
 
-It started with Bill and Charlie making the tabled duel out on the lawn, causing Percy to stick his head out the window and yell at them to stop making so much noise. Then, with a squeak, Mrs. Weasley's wand turned into a giant rubber mouse, causing her to yell at the twins about something called 'Weasley's Wizard Wheezes.' 
+It started with Bill and Charlie making the tables duel out on the lawn, causing Percy to stick his head out the window and yell at them to stop making so much noise. Then, with a squeak, Mrs. Weasley's wand turned into a giant rubber mouse, causing her to yell at the twins about something called 'Weasley's Wizard Wheezes.' 
 
-Eventually, everyone had taken their seats. Elysia was seated with Hermione on her right and Robbie on her left, with Bill, Ron, and Ginny across from them.
+Eventually, everyone had taken their seats. Elysia had Hermione on her right and Robbie on her left, with Bill, Ron, and Ginny across from them. The conversation wandered all over, from Charlie's work with dragons in Romania to Bill's curse-breaking adventures for Gringotts in Egypt, to some of the adventures Elysia, Hermione, and Ron had had at Hogwarts. 
 
+"Wait, the basilisk was *how big?*" Charlie exclaimed.
+
+"'Bout five feet wide, maybe sixty long?" Elysia replied. "Didn't exactly stop to check, you see, on account of the *fangs the size of my arm.*"
+
+"Bloody hell," Charlie breathed.
+
+"Can we change the subject?" Hermione asked, nodding at Ginny, who had gone pale and shaky.
+
+"Please," Elysia said.
+
+"Alright, then," Charlie agreed. "Sorry, Gin. Harry, heard you're Gryffindor's new seeker."
+
+"Youngest in a century," Ron bragged. "He's never failed to catch the snitch, either. Well," he amended, "except for that one time when the dementors swarmed him."
+
+"Not *helping,* Ron," Elysia said through gritted teeth.
+
+"Anyway," Charlie continued, "I was a pretty fair seeker myself, in my day. Care for a seeker's duel?"
+
+Elysia smirked. "You're on!"
+
+
+
++++++
+
+
+
+When lunch was over, and the aftermath cleared away, everyone trooped down to the clearing in the orchard which was used as a makeshift quidditch pitch by the Weasley kids.
+
+Charlie, astride a Cleansweep 7, pulled out a snitch and grinned. "Gotta keep in practice, eh, Potter?"
+
+Elysia pulled out her shrunken Firebolt. Leaping astride even as it unshrank, she grinned devilishly. "You talk too much, Weasley," she snarked.
+
+Charlie's eyes bugged out, and he gulped. "A *Firebolt?* You have a *Firebolt!?*" He squeaked.
+
+Ron cackled.
+
+It was a short duel.
+
+
+
++++++
+
+
+
+They all went to bed early that night. Mrs. Weasley had offered to pick up Elysia and Hermione's school things, but Elysia was using her mother's old textbooks and Hermione had gone with her parents as soon as the letters had arrived.
+
+"Even the dress robes?" Mrs. Weasley asked Elysia.
+
+"Yes, Mrs. Weasley," Elysia said. "I found some in my parents' storage vault that suit very nicely."
+
+"Well, if you're sure, dear," she said. "Now, get to bed. You'll be up at the crack of dawn to get to the Cup."
+
+
+
++++++
+
+
+
+"Harry seems different," Ginny said to Hermione as they lay awake that night.
+
+"Oh?" Hermione replied. "How so?"
+
+Ginny tossed and turned for a bit, then rolled over to face Hermione. "Lots of ways. He seems more self-assured, but also less... edgy, I guess? Kind of girly, actually. Not that he's ever been all that buff or anything, just..." She shrugged. "It's weird. I thought boys were supposed to get handsome as they got older. Him? First word that comes to mind to describe him is 'pretty.' It's confusing, if I'm honest."
+
+"Still crushing on the Boy-Who-Lived, Gin?"
+
+"And the boy who saved my life two years ago," Ginny retorted."You should've seen him, Hermione, with that sword in his hands and that giant snake dead behind him. It was like something out of one of those *Harry Potter* storybooks, only better!"
+
+"I *have* seen him, remember? He saved me from that troll in first year, and he even ran off over a hundred dementors with a single *Patronus* just a few months ago." Hermione sighed. "You know Harry doesn't think he's anything special. He *hates* how famous he is, and how much of a fuss everyone makes over the Boy-Who-Lived stuff. Even if he *is* a hero in his own right."
+
+"D'you think... maybe he's started to accept that finally, and that's why he's changing?"
+
+Hermione snorted. "That or puberty. Honestly, my money's on the latter."
+
+Ginny sighed.
+
+"You really need to let that crush go, Ginny. Has he shown any sign at all that it's requited?"
+
+"No, I don't suppose he has," Ginny said sadly. "He treats me like I'm his little sister. As if I need yet another big brother!"
+
+"You could do worse for a brother than Harry."
+
+Ginny scoffed. "I have! You've met Percy! Git has barely said two words to any of us that wasn't yelling at us to be quiet since he started at the Ministry."
+
+"Still," Ginny said after a moment, "if Harry *does* turn out a girl, I don't suppose it would change my chances one way or another. Naught times naught is still nothing. But it *does* have me thinking. *Do* I like girls? I suppose even thinking about it means I probably do, at least a little bit."
+
+Hermione hummed noncommittally.
+
+"What about you, Hermione?" Ginny continued.
+
+"What *about* me?" Hermione retorted.
+
+"Do *you* like girls?"
+
+Hermione thought for a while. "Well... perhaps. I've certainly never found any *wizards* all that attractive."
+
+"Oh really?" Ginny said. "What about Lockheart? I recall you being quite starry-eyed at Flourish & Blotts that year."
+
+"That tosser?" Hermione scoffed. "He wrote the books. I always get a little bit star-struck when I get to meet an author. There was certainly no *attraction* there." She shuddered.
+
+"Alright, alright," Ginny said. "Then what about girls?"
+
+"What about them?"
+
+"Hermione, you know what I mean! Stop trying to wriggle out of it!" Ginny stuck her tongue out.
+
+Hermione stuck hers out right back, surprising the younger girl.
+
+"You've changed too, Hermione," Ginny said softly.
+
+"In a good way, I hope?" Hermione asked, hesitantly.
+
+"Yeah." Ginny said, smiling softly. "Even if you *are* still a swot."
+
+Hermione huffed. "Oh, *I'm* a swot? D'you know what Harry wants to do after Hogwarts?"
+
+"Play quidditch for England?" Ginny asked.
+
+Hermione snorted. "Enchanting. He wants to be an enchanter. Or 'artificer,' as he calls it. Apparently the two are different somehow."
+
+"But don't you need Runes and Arithmancy for that?" Ginny asked, surprise colouring her tone.
+
+"He got McGonagall to let him drop Divination and test into them instead."
+
+"Wow, wonder what brought *that* on," Ginny mused.
+
+"His grandmother's journals, probably," Hermione answered. "She was apparently quite good at it. Had some novel ideas about modular rune schemes."
+
+Ginny hummed. "You're still dodging the question, you prat!"
+
+Hermione huffed. "Fine. Sure. 'I cannot weave – slender Aphrodite has overcome me with longing for a girl.' Is that a problem?"
+
+"Why would it be?" Ginny asked, confused.
+
+"It's controversial in the muggle world," Hermione said. "I wasn't sure how the magical world felt about sexuality and gender identity and all that."
+
+"Nobody cares, as long as the bloodlines are continued," Ginny responded, "and there's rituals and such for any families that can't or won't have a child the usual way."
+
+"Huh," Hermione said.
+
+
+
+## Chapter 7
