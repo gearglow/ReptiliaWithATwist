@@ -1236,7 +1236,7 @@ Elysia smirked. "You're on!"
 
 When lunch was over, and the aftermath cleared away, everyone trooped down to the clearing in the orchard which was used as a makeshift quidditch pitch by the Weasley kids.
 
-Charlie, astride a Cleansweep 7, pulled out a snitch and grinned. "Gotta keep in practice, eh, Potter?"
+Charlie, riding a Cleansweep 7, pulled out a snitch and grinned. "Gotta keep in practice, eh, Potter?"
 
 Elysia pulled out her shrunken Firebolt. Leaping astride even as it unshrank, she grinned devilishly. "You talk too much, Weasley," she snarked.
 
@@ -1288,11 +1288,11 @@ Ginny sighed.
 
 "No, I don't suppose he has," Ginny said sadly. "He treats me like I'm his little sister. As if I need yet another big brother!"
 
-"You could do worse for a brother than Harry."
+"He's always wanted siblings. And anyway you could do worse for a brother than Harry."
 
 Ginny scoffed. "I have! You've met Percy! Git has barely said two words to any of us that wasn't yelling at us to be quiet since he started at the Ministry."
 
-"Still," Ginny said after a moment, "if Harry *does* turn out a girl, I don't suppose it would change my chances one way or another. Naught times naught is still nothing. But it *does* have me thinking. *Do* I like girls? I suppose even thinking about it means I probably do, at least a little bit."
+"Still," She continued after a moment, "if Harry *does* turn out a girl, I don't suppose it would change my chances one way or another. Naught times naught is still nothing; pretty sure even *Charlie* has a better shot than me at this point. But it *does* have me thinking. *Do* I like girls? I suppose even thinking about it means I probably do, at least a little bit."
 
 Hermione hummed noncommittally.
 
@@ -1301,6 +1301,10 @@ Hermione hummed noncommittally.
 "What *about* me?" Hermione retorted.
 
 "Do *you* like girls?"
+
+"Why Miss Weasley, are you coming on to me?" Hermione teased.
+
+Ginny blushed. "No! You're like my sister. Answer the question."
 
 Hermione thought for a while. "Well... perhaps. I've certainly never found any *wizards* all that attractive."
 
@@ -1336,9 +1340,9 @@ Hermione snorted. "Enchanting. He wants to be an enchanter. Or 'artificer,' as h
 
 "His grandmother's journals, probably," Hermione answered. "She was apparently quite good at it. Had some novel ideas about modular rune schemes."
 
-Ginny hummed. "You're still dodging the question, you prat!"
+Ginny hummed. "You're still dodging the question, you prat! Do you or do you not play for the Harpies?"
 
-Hermione huffed. "Fine. Sure. 'I cannot weave – slender Aphrodite has overcome me with longing for a girl.' Is that a problem?"
+Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'I cannot weave -- slender Aphrodite has overcome me with longing for a girl.' Is that a problem?"
 
 "Why would it be?" Ginny asked, confused.
 
@@ -1351,3 +1355,8 @@ Hermione huffed. "Fine. Sure. 'I cannot weave – slender Aphrodite has overcome
 
 
 ## Chapter 7
+
+Morning came early even for the habitually-early-rising Elysia. The sky was still dark when Mrs. Weasley shook everyone awake.
+
+"It's time, dears," she said. "You've got a bit of a hike ahead of you."
+
