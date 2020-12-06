@@ -1416,7 +1416,7 @@ Hermione smirked.
 
 "Methinks the Weasley doth protest too much," Hermione snarked.
 
-"I think you're right," Elysia smirked. "You sure you're not into blokes, Ron? Victor Krum, maybe?"
+"I think you're right," Elysia smirked. "You sure you're not into blokes, Ron? Viktor Krum, maybe?"
 
 Ron scowled.
 
@@ -1448,5 +1448,23 @@ They returned to find Mr. Weasley playing with matches, and the twins 'supervisi
 
 Bill, Charlie, and Percy walked up from the woods just as the coals were ready. They all sat around the fire cooking sausages on sticks (the sandwiches Mrs. Weasley'd sent them with having been devoured long since).
 
-Ludo Bagman, the head of the Department of Games and Sports at the Ministry, dropped by and tried to get them to bet on the match. Mr. Weasley bet a galleon on Ireland to win. Fred and George almost bet their life savings on Ireland to win but Krum catching the snitch, but Elysia took them aside and mentioned that she'd heard rumors that Bagman liked to pay out his books with leprechaun gold, and the goblins weren't too happy about that. So they bet 20 galleons and a fake wand instead, and Elysia promised, if their business plan was good enough, she'd invest enough in Weasley's Wizard Wheezes for them to set up shop.
+Ludo Bagman, the head of the Department of Games and Sports at the Ministry, dropped by and tried to get them to bet on the match. Mr. Weasley bet a galleon on Ireland to win. Fred and George almost bet their life savings on Ireland to win but Krum catching the snitch, but Elysia took them aside and mentioned that she'd heard rumors that Bagman liked to pay out his books with leprechaun gold, and the goblins weren't too happy about that. So they bet 20 galleons and a fake wand instead, and Elysia promised, if their business plan was good enough, when she reached her majority she'd invest enough in Weasley's Wizard Wheezes for them to set up shop.
+
+Then Bartemius Crouch, Percy's boss and the head of the Department of International Magical Cooperation, apparated in and dragged Bagman away, berating him over the Bulgarian delegation requesting twelve more seats in the Top Box. Bagman went, dropping hints about some big mystery event at Hogwarts this year.
+
+Elysia decided she'd better pop into her mindscape and see if there were any more language books, and leaned back in her seat with closed eyes.
+
+> To Do
+>
+> - ~~Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German~~
+
+As the afternoon wore on, the lanes between the tents began to fill with salesmen, with souvenirs of all sorts. Ron purchased a dancing shamrock hat; an animated figurine of Viktor Krum, the Bulgarian seeker; and a large green luminous rosette.
+
+Elysia's attention was drawn to a cart full of brass binoculars covered in dials and knobs. The saleswizard called them 'omnioculars,' and explained all about the functions. Elysia decided to buy a set for everyone in their party. Ron tried to argue, but she insisted. "Consider it my way of paying your family back for getting me a seat in the Top Box."
+
+They got back to their campsite, where Elysia handed around the omnioculars. They'd just gotten everything squared away when a gong boomed out through the campsite, and green and red lanterns lit a path through the woods.
+
+"It's time!" Mr. Weasley exclaimed, leading them excitedly down the path.
+
+On the other side of the wood stood a *massive* stadium which seemed to be made of gold. They climbed all the way up to the Top Box, which was situated exactly halfway between the goalposts on either end of the pitch.
 
