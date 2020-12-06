@@ -1342,7 +1342,7 @@ Hermione snorted. "Enchanting. He wants to be an enchanter. Or 'artificer,' as h
 
 Ginny hummed. "You're still dodging the question, you prat! Do you or do you not play for the Harpies?"
 
-Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'I cannot weave -- slender Aphrodite has overcome me with longing for a girl.' Is that a problem?"
+Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'Sweet mother, I cannot weave -- slender Aphrodite has overcome me with longing for a girl.' Is that a problem?"
 
 "Why would it be?" Ginny asked, confused.
 
@@ -1359,4 +1359,94 @@ Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'I can
 Morning came early even for the habitually-early-rising Elysia. The sky was still dark when Mrs. Weasley shook everyone awake.
 
 "It's time, dears," she said. "You've got a bit of a hike ahead of you."
+
+Eventually all of the kids in the house were roused, readied, and rounded up.
+
+"Why aren't Bill, Charlie, and Percy awake yet?" Ron asked petulantly.
+
+"Well, they're of-age, aren't they?" Mrs. Weasley answered. "They're apparating later. You lot need to catch the portkey."
+
+Ron grumbled incoherently under his breath.
+
+Mrs. Weasley gave them each a hug and a bundle of egg sandwiches as she chivvied them out the door.
+
+After hiking through the cold darkness of the pre-dawn morning, up a dew-slippery hillside for nearly an hour, they finally reached the top of Stoatshead Hill, where they encountered the Diggories -- Amos, the father, who had a bad habit of bragging about his son to the detriment of everyone else, especially Elysia. Cedric, the son, for his part was thoroughly embarrassed about it, but Hermione locked eyes with Elysia and, over passive legilimency, sent: *doesn't he just have the most* punchable *face?*
+
+Eventually, everyone managed to arrange themselves so they could all reach the portkey, which turned out to be a mangy old boot. Elysia and Hermione bent their knees and, alone of the group, managed to stay standing when they arrived at their destination.
+
+"Seven past five from Stoatshead Hill," a voice said.
+
+Mr. Weasley chatted with the two wizards who seemed to be coordinating portkey arrivals, getting directions to their campsite. After checking in with the muggle in charge of the site, who kept needing to be *obliviated* (according to one of the Ministry workers, anyway), they finally reached the field where all of the tents were.
+
+Elysia could see why the muggles kept catching on. Most of the tents looked as if they'd at least *started* as normal, non-magical tents, but here and there someone had slipped up and added something absurd, such as a chimney or a weather-vane. And there were a few which were so outré they could only be magical. There was one which looked straight from *Arabian Nights,* with striped silk awnings and several live peacocks tethered by the door. Another resembled nothing so much as a miniature castle, with three floors and honest-to-Merlin *turrets.* 
+
+Eventually, they reached a plot next to a wood, with a sign planted in it saying WEEZLY.
+
+"Best spot in the place," Mr. Weasley said happily. "Now, strictly speaking, we shouldn't use magic while we're out on muggle land in these numbers. We'll have to put the tents up by hand!"
+
+"Oh," Robbie said. "Oops?"
+
+They all turned to find that Robbie had already set up the two tents they'd brought. Mr. Weasley looked a bit disappointed, but the relief on his children's faces was plain.
+
+"Um, Mr. Weasley?" Hermione asked. "How're we going to fit so many people into only two tents?"
+
+"Why don't you take a look inside?" Mr. Weasley said with a wink.
+
+Elysia and Hermione entered one of the tents to find what appeared to be a three-bedroom flat, complete with kitchenette and bathroom.
+
+"It's like my trunk, then," Elysia murmured to Hermione quietly.
+
+"One day you're going to have to give me the tour," Hermione replied.
+
+Mr. Weasley roped Elysia, Hermione, and Ron into going to collect water for tea, largely as an excuse for them to explore.
+
+They ran across several classmates: fellow Gryffindor Seamus Finnegan, whose tent was covered in Shamrocks, sitting with his mum and his best friend, Dean Thomas; Oliver Wood, Gryffindor's former quidditch captain, who had just signed to Puddlemere United; Ernie Macmillan, who was a Hufflepuff in their year; and Cho Chang, a pretty girl who was the seeker for Ravenclaw's quidditch team. She waved to Elysia, who winked back flirtingly, causing her to blush and Hermione to giggle.
+
+"Bloody hell, mate, you're a dangerous one," Ron quipped. "Where'd *that* come from?"
+
+Hermione smirked.
+
+"It's easier when it doesn't matter, I guess," Elysia said.
+
+"Doesn't *matter?*" Ron retorted, incredulously. "What, are you into blokes or something? That's *Cho Chang!* She's the prettiest girl in school!"
+
+"To you, maybe," Elysia said. "And no, I'm not into blokes. She's just not my type, I guess." She shrugged. "Besides, isn't she with Diggory?"
+
+"Yeah, so? She's still gorgeous!" Ron said.
+
+"Methinks the Weasley doth protest too much," Hermione snarked.
+
+"I think you're right," Elysia smirked. "You sure you're not into blokes, Ron? Victor Krum, maybe?"
+
+Ron scowled.
+
+"Maybe just Harry," Hermione laughed.
+
+Elysia winked at Ron, grinning, and waggled her eyebrows. 
+
+Ron flushed. "Prat!" He said, stomping off ahead of them.
+
+Elysia rolled her eyes. "Boy takes himself way too seriously for someone related to Fred & George."
+
+"Percy," Hermione retorted. "And to be fair," Hermione continued, blushing, "you *are* much too good at that look."
+
+"It's not so hard," Elysia scoffed. "You try."
+
+"I don't think that's really my style," Hermione replied.
+
+Elysia looked at her for a moment. "Fair enough. You're more the 'doe-eyed innocence with a hidden wicked streak' type, I think."
+
+Hermione assumed a 'who, me?' face, but it failed miserably as her lip kept twitching. They both burst out laughing.
+
+
+
++++++
+
+
+
+They returned to find Mr. Weasley playing with matches, and the twins 'supervising.' Hermione took over, and eventually they had a fire going. Mr. Weasley kept up a running commentary on all the Ministry workers passing by as they waited for the fire to die down to cooking coals.
+
+Bill, Charlie, and Percy walked up from the woods just as the coals were ready. They all sat around the fire cooking sausages on sticks (the sandwiches Mrs. Weasley'd sent them with having been devoured long since).
+
+Ludo Bagman, the head of the Department of Games and Sports at the Ministry, dropped by and tried to get them to bet on the match. Mr. Weasley bet a galleon on Ireland to win. Fred and George almost bet their life savings on Ireland to win but Krum catching the snitch, but Elysia took them aside and mentioned that she'd heard rumors that Bagman liked to pay out his books with leprechaun gold, and the goblins weren't too happy about that. So they bet 20 galleons and a fake wand instead, and Elysia promised, if their business plan was good enough, she'd invest enough in Weasley's Wizard Wheezes for them to set up shop.
 
