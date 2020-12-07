@@ -1609,7 +1609,7 @@ The conversation, though stilted at first, slowly grew more spirited again as th
 
 Elysia, however, remembered Janet's warning, and began carving border stones for an anti-apparition ward. When the screams started and Mr. Weasley came in to tell them all to run, she dutifully woke everyone, then told Robbie to lay the stones around the Death Eaters.
 
-Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion was. All in all it took maybe five minutes.
+Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion-self was. All in all it took maybe five minutes.
 
 "Harry? You okay?" Hermione called at the loud crack that sounded as Elysia joined them.
 
@@ -1623,7 +1623,7 @@ A beam of light shone from the tip, illuminating Draco Malfoy leaning casually a
 
 "Hermione's a witch!" Ron growled.
 
-"And anyway, I don't think they're hunting much of anything anymore. D'you hear any more screams?" Elysia taunted. "Might want to go check on your daddy." She made her eyes flash green with a surreptitious wandless illusion, grinning at Malfoy's flinch.
+"And anyway, I don't think they're hunting much of anything anymore. D'you hear any more screams? Or spellfire?" Elysia taunted. "Might want to go check on your daddy." She made her eyes flash green with a surreptitious wandless illusion, grinning maliciously at Malfoy's flinch.
 
 Before things could escalate, they heard a hoarse shout from deeper in the woods. "*Morsmordre!*"
 
@@ -1632,6 +1632,40 @@ Before things could escalate, they heard a hoarse shout from deeper in the woods
 +++++
 
 
+
+Later, Mr. Weasley told them that they'd found Winky the house-elf with Ron's wand, and that, while the wand showed the Dark Mark spell when checked, nobody honestly believed that either Ron (who had witnesses as to his whereabouts the whole time) nor Winky had actually cast it. Winky, who turned out to be Bartemius Crouch's elf, had been summarily given clothes and dismissed.
+
+"It was a sorry sight," he lamented. "Poor thing was sobbing her heart out."
+
+Eventually everything settled down enough that they could return to the tents and get some sleep. It was still an early morning, though, as Mr. Weasley woke them before sunrise to catch the return portkey back to Stoatshead Hill.
+
+A distraught Mrs. Weasley greeted them on their return, waving the morning edition of the Daily Prophet. The headline blared: "DARK MARK OVER WORLD CUP! DEATH EATERS PETRIFIED UNDER MYSTERIOUS CIRCUMSTANCES!"
+
+"Arthur!" She called out as they approached. "Is everyone okay?"
+
+"Fine, Molly," he replied. "It was the strangest thing. By the time we got to the Death Eaters, they were almost all petrified. Oh, there were a few left, but none of them even tried to disapparate. We managed to catch every single one."
+
+*Did you manage to clear out the anti-apparition stones before the clean-up crew got there?* Elysia asked Robbie over their bond.
+
+*Yup!* He answered proudly.
+
+*Awesome! Thanks, bro!*
+
+"What're you grinning about?" Ron asked suspiciously.
+
+"Mr. Weasley," Elysia asked, with a pointed look at Ron. "Was one of those caught a certain Lucius Malfoy, by any chance?"
+
+A look of understanding dawned on Ron's face.
+
+"Well," Mr. Weasley replied, "can't say for sure. Ongoing investigation and all, y'see, and none of them have been un-petrified yet. But I wouldn't be surprised," he said with malicious glee. "Rumor has it that the Malfoys had broken camp sometime in the night, and aren't reachable this morning."
+
+Everyone in earshot smirked at that, even Mrs. Weasley. There was no love lost between the two families.
+
+The moment was broken when Elysia let out an enormous yawn, and Mrs. Weasley sent them all up to bed. Elysia realized she'd not had a proper night's sleep in two days, and was out as soon as her head hit the pillow.
+
+
+
+## Chapter 8
 
 
 
