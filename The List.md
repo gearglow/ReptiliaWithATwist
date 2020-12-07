@@ -233,6 +233,7 @@ Harry nodded and opened the binder.
 >
 > - Find and read the primer on Mind Magic
 > - Find and read How To Learn
+> - Find and read Processing Complex PTSD and Abuse
 > - Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
 > - Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
 > - Find and read the primers on Runes, Wards, and Enchanting
@@ -267,7 +268,7 @@ Harry dove right in, with a fervor that would have put Hermione Granger to shame
 > To Do
 >
 > - ~~Find and read How To Learn~~
->
+>- ~~Find and read Processing Complex PTSD and Abuse~~
 > - ~~Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)~~
 > - ~~Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema~~
 > - ~~Find and read the primers on runes, wards, and enchanting~~
@@ -1274,7 +1275,7 @@ Ginny tossed and turned for a bit, then rolled over to face Hermione. "Lots of w
 
 "Still crushing on the Boy-Who-Lived, Gin?"
 
-"And the boy who saved my life two years ago," Ginny retorted."You should've seen him, Hermione, with that sword in his hands and that giant snake dead behind him. It was like something out of one of those *Harry Potter* storybooks, only better!"
+"And the boy who saved my life two years ago," Ginny retorted. "You should've seen him, Hermione, with that sword in his hands and that giant snake dead behind him. It was like something out of one of those *Harry Potter* storybooks, only better!"
 
 "I *have* seen him, remember? He saved me from that troll in first year, and he even ran off over a hundred dementors with a single *Patronus* just a few months ago." Hermione sighed. "You know Harry doesn't think he's anything special. He *hates* how famous he is, and how much of a fuss everyone makes over the Boy-Who-Lived stuff. Even if he *is* a hero in his own right."
 
@@ -1306,9 +1307,9 @@ Hermione hummed noncommittally.
 
 Ginny blushed. "No! You're like my sister. Answer the question."
 
-Hermione thought for a while. "Well... perhaps. I've certainly never found any *wizards* all that attractive."
+Hermione thought for a while. "Well... I don't know. I've certainly never found any *wizards* all that attractive."
 
-"Oh really?" Ginny said. "What about Lockheart? I recall you being quite starry-eyed at Flourish & Blotts that year."
+"Oh really?" Ginny said. "What about Lockhart? I recall you being quite starry-eyed at Flourish & Blotts that year."
 
 "That tosser?" Hermione scoffed. "He wrote the books. I always get a little bit star-struck when I get to meet an author. There was certainly no *attraction* there." She shuddered.
 
@@ -1356,7 +1357,7 @@ Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'Sweet
 
 ## Chapter 7
 
-Morning came early even for the habitually-early-rising Elysia. The sky was still dark when Mrs. Weasley shook everyone awake.
+Morning came too soon even Elysia, who was already in the habit of rising early. The sky was still dark when Mrs. Weasley shook everyone awake.
 
 "It's time, dears," she said. "You've got a bit of a hike ahead of you."
 
@@ -1370,7 +1371,7 @@ Ron grumbled incoherently under his breath.
 
 Mrs. Weasley gave them each a hug and a bundle of egg sandwiches as she chivvied them out the door.
 
-After hiking through the cold darkness of the pre-dawn morning, up a dew-slippery hillside for nearly an hour, they finally reached the top of Stoatshead Hill, where they encountered the Diggories -- Amos, the father, who had a bad habit of bragging about his son to the detriment of everyone else, especially Elysia. Cedric, the son, for his part was thoroughly embarrassed about it, but Hermione locked eyes with Elysia and, over passive legilimency, sent: *doesn't he just have the most* punchable *face?*
+After hiking through the cold darkness of the pre-dawn morning, up a dew-slippery hillside for nearly an hour, they finally reached the top of Stoatshead Hill, where they encountered the Diggories. Amos, the father, had a bad habit of bragging about his son to the detriment of everyone else, especially Elysia. Cedric, the son, for his part was thoroughly embarrassed about it, but Hermione locked eyes with Elysia and, over passive legilimency, sent: *doesn't he just have the most* punchable *face?*
 
 Eventually, everyone managed to arrange themselves so they could all reach the portkey, which turned out to be a mangy old boot. Elysia and Hermione bent their knees and, alone of the group, managed to stay standing when they arrived at their destination.
 
@@ -1410,7 +1411,7 @@ Hermione smirked.
 
 "Doesn't *matter?*" Ron retorted, incredulously. "What, are you into blokes or something? That's *Cho Chang!* She's the prettiest girl in school!"
 
-"To you, maybe," Elysia said. "And no, I'm not into blokes. She's just not my type, I guess." She shrugged. "Besides, isn't she with Diggory?"
+"To you, maybe," Elysia said. "And no, I'm definitely not into blokes. She's just not my type, I guess." She shrugged. "Besides, isn't she with Diggory?"
 
 "Yeah, so? She's still gorgeous!" Ron said.
 
@@ -1446,7 +1447,7 @@ Hermione assumed a 'who, me?' face, but it failed miserably as her lip kept twit
 
 They returned to find Mr. Weasley playing with matches, and the twins 'supervising.' Hermione took over, and eventually they had a fire going. Mr. Weasley kept up a running commentary on all the Ministry workers passing by as they waited for the fire to die down to cooking coals.
 
-Bill, Charlie, and Percy walked up from the woods just as the coals were ready. They all sat around the fire cooking sausages on sticks (the sandwiches Mrs. Weasley'd sent them with having been devoured long since).
+Bill, Charlie, and Percy walked up from the apparition point in the woods just as the coals were ready. They all sat around the fire cooking sausages on sticks (the sandwiches Mrs. Weasley'd sent them with having been devoured long since).
 
 Ludo Bagman, the head of the Department of Games and Sports at the Ministry, dropped by and tried to get them to bet on the match. Mr. Weasley bet a galleon on Ireland to win. Fred and George almost bet their life savings on Ireland to win but Krum catching the snitch, but Elysia took them aside and mentioned that she'd heard rumors that Bagman liked to pay out his books with leprechaun gold, and the goblins weren't too happy about that. So they bet 20 galleons and a fake wand instead, and Elysia promised, if their business plan was good enough, when she reached her majority she'd invest enough in Weasley's Wizard Wheezes for them to set up shop.
 
@@ -1466,5 +1467,103 @@ They got back to their campsite, where Elysia handed around the omnioculars. The
 
 "It's time!" Mr. Weasley exclaimed, leading them excitedly down the path.
 
-On the other side of the wood stood a *massive* stadium which seemed to be made of gold. They climbed all the way up to the Top Box, which was situated exactly halfway between the goalposts on either end of the pitch.
+
+
+### World Cup Stadium	1994/08/22	20:00
+
+On the other side of the wood stood a *massive* stadium which seemed to be made of gold. They climbed all the way up to the Top Box, which was situated exactly halfway between the goalposts on either end of the pitch. The box had an open area in the back, where they all entered, and two rows of ten seats each up front, overlooking the pitch.
+
+They were almost the first to arrive, so they all filed into the front row. Robbie conjured a seat on the left end, with Hermione next, then Elysia, then Ron next to her. In the second row, behind Hermione, sat the only other occupant of the box -- another house elf, who was trying valiantly to ignore the exceedingly high view over the railing.
+
+"Winky?" Robbie said, surprised.
+
+"Dobby?" The other elf said. "But -- you is wearing clothes!"
+
+"It's Robbie now," Robbie replied. "I'm a Potter elf." For Robbie was wearing the uniform he'd found in the storage vault, with the Potter crest displayed proudly upon the left breast. He was still wearing his dragonskin boots and jacket, though. "And Harry's brother," he added proudly.
+
+Winky gasped. "Is this true, sir?" She asked, turning to Elysia. "Is Harry Potter taking in a trouble-maker like this one and giving him ideas above his station?"
+
+"Robbie is family," Elysia said firmly. "We take care of each other. I don't think Robbie's a trouble-maker at all, or at least no more than I am."
+
+Hermione snorted softly at that.
+
+"And I'm sure I don't know what you mean by 'ideas above his station,'" Elysia continued. "Magic says he's my brother, and he behaves as a brother should."
+
+"Brother!" Winky squeaked. "Begging yous pardon, but Harry Potter bes just as odd as Robbie."
+
+"Why thank you," Elysia grinned.
+
+Winky shuddered and went back to hiding from the heights.
+
+
+
++++++
+
+
+
+The box slowly filled over the next half hour. Mr. Weasley and Percy kept shaking hands with VIPs as they entered. Minister Fudge came in with the Bulgarian Minister, who seemed to not speak a word of English.
+
+"Ah, Harry, my boy!" Fudge exclaimed by way of greeting.
+
+"Good evening, Minister," Elysia replied. "No dementor bodyguard this time?" 
+
+Fudge scowled. "Now see here --"
+
+She cut Fudge off by turning to the Bulgarian minister, and greeted him in his native tongue. *"Good evening, sir. I'm sorry for your loss."*
+
+*"What loss?"*
+
+*"Why, the hours of your life you'll never get back from having to deal with the shameless exhibition of incompetence we Brits are unfortunate enough to call our Minister."*
+
+The Bulgarian minister and his staff roared with laughter.
+
+*"What's this about a dementor bodyguard?"* He asked.
+
+*"He put dementors around Hogwarts all last year,"* Elysia said. *"Nearly killed me and many other children on several occasions. And all to catch a Lord of an Ancient and Noble House who'd never even had a trial. Bit of a habit with him, from what I've seen. Makes you wonder if the man can even tie his own shoes without nearly asphyxiating himself."*
+
+The entire Bulgarian delegation turned to face Fudge with menacing glares.
+
+"When did you learn Bulgarian?" Hermione hissed. "And what did you say?"
+
+"Tell you later, 'Mione," Elysia whispered back.
+
+"Ah, Fudge," Lucius Malfoy said as he swept in with his family. Elysia was doubly disappointed, both for the presence of the Malfoys and the defusing of the rising tensions between Fudge and the Bulgarians.
+
+Mr. Malfoy introduced his wife and son to the Minister. Draco caught sight of Elysia and blushed, but turned away with a scowl when she smirked at him.
+
+Before tensions could ramp up again, Ludo Bagman waltzed in. "Everyone ready?" He said excitedly. 
+
+"Please, Ludo," Fudge said.
+
+Once everyone had finished taking their seats, Mr. Bagman cast a *sonorus* on himself and introduced the Bulgarian mascots.
+
+The mascots turned out to be a hundred veela, who began to dance enticingly. Elysia could feel the magic of their allure tickle the edge of her mind, but it couldn't get through her occlumency shields. Still, she found the display enjoyable. Then she noticed Hermione leaning forward far enough to be dangerous, and pulled her back.
+
+"Down, girl. You're drooling a bit," she murmured into Hermione's ear. "Put your shields up and watch the boys make fools of themselves."
+
+Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and Draco, though both Lucius and Mr. Weasley seemed unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
+
+"*Ahem.* And now," Mr. Bagman said, his voice cracking at first, "the Irish National Team Mascots!"
+
+Elysia, Hermione, and Robbie giggled to each other as everyone else seemed to shake themselves from their daze embarrassedly.
+
+The Irish mascots, a swarm of leprechauns, put on a spectacular display of aerial acrobatics, showering the crowd with gold coins in the process. Ron hurriedly gathered up all he could, until Hermione leaned over and told him that it would disappear in a few hours anyway.
+
+And then the game began in earnest.
+
+It was a brutal affair, with the quaffle moving so fast it was only due to the omnioculars that anyone could keep track of it. Krum managed to pull off a Wronski Feint against Lynch, the Irish seeker, causing him to crash into the ground at full speed. Ireland began to pull ahead, and the game only got dirtier from there. Bludgers flew every which way, penalties mounted, the mascots began to fight, and finally, with the score 170 to 10 favoring Ireland, Krum managed to plow Lynch into the ground again and grab the snitch, ending the game before it could turn into a full-on rout. 
+
+"Vell, ve fought bravely," the Bulgarian Minister said.
+
+"You can speak English!?" Fudge said incredulously. "You've been letting me mime everything all day!"
+
+The Bulgarian Minister shrugged. "It vos funny." 
+
+Elysia caught his eye and burst out laughing.
+
+
+
++++++
+
+
 
