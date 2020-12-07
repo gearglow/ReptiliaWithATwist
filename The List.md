@@ -1061,17 +1061,25 @@ Elysia gasped, whether in shock our outrage she wasn't sure.
 
 "I should probably act like as little has changed as possible, then," Elysia mused. "Show too much independence and it sounds like he'll start getting heavy-handed."
 
-"Most likely," Janet confirmed. "He *is* the one who went against your parents' wills and had you placed with the Dursleys. Left you on the doorstep in a basket, in *November,* no less. And he sealed the wills so nobody would find out."
+"Most likely," Janet confirmed. "He *is* the one who went against your parents' wills and had you placed with the Dursleys. Left you on the doorstep in a basket, in *November,* no less. And he sealed the wills so nobody would find out. Also, he's the one who cast the *Fidelius* charm to hide your parents. He *knew* Sirius was innocent."
 
-"So what's this about soul pieces, then?" Elysia asked, changing the subject. She was feeling betrayed, and didn't want to deal with it yet.
+"What!?" Elysia shrieked.
+
+"He'd claim Sirius' incarceration was a 'necessary evil' to keep you safely hidden under impenetrable blood-wards tied to your mother's sacrifice. He's not a malicious man, Elysia. He has good intentions. But as the saying goes, the road to Hell is paved with those, and Dumbledore is rather far down his own personal highway."
+
+"Lovely. So what's this about soul pieces, then?" Elysia asked, changing the subject. She was feeling horribly betrayed, and didn't want to deal with it yet.
 
 "They're called horcruxes," Janet said. "Voldemort made six intentionally. You already destroyed one, the diary in your second year."
 
 "Merlin! And there are *five more* of those things lying around?" Elysia exclaimed. "Glad I got to enjoy this summer, because it sounds like it was the last carefree one I'm going to get for awhile."
 
-"That's why you insisted we give you this one," Janet agreed. "Anyway, The List has an appendix on the details of the horcruxes. You won't be able to much about most of them yet, but The List will update when you can."
+"That's why you insisted we give you this one," Janet agreed. "Anyway, The List has an appendix on the details of the horcruxes. You won't be able to do much about most of them yet, but The List will update when you can."
 
 Elysia threw herself backwards into the chair. "No pressure, then," she said morosely.
+
+"Oh, and one more thing," Janet added. "There's going to be a bit of a Death Eater reunion the night of the match. Someone will cast the Dark Mark which will cause them all to apparate away. Plan accordingly."
+
+
 
 > To Do
 >
@@ -1143,7 +1151,7 @@ Arthur Weasley opened the door as they approached. "Hello, Harry, Hermione, a- O
 
 The Burrow was more crowded than usual. It turned out that, when Ron had said that "we're all going ('cept Mum)," he'd meant *all* of the Weasleys (aside from Molly). Ron, Ginny, and the Twins were in the living room chatting with the two oldest Weasley boys, Bill and Charlie.
 
-Ron looked caught sight of them and stopped mid-word, gaping like a particularly large-mouthed fish. "Harry? Bloody hell, mate!"
+Ron looked caught sight of them and stopped mid-word, looking back and forth between Elysia and Robbie, and gaping like a particularly large-mouthed fish. "Harry? Bloody hell, mate!"
 
 Ginny looked up, caught sight of Elysia, and blushed bright red.
 
@@ -1167,7 +1175,7 @@ Robbie finally shifted back to elf-shape and bowed elaborately, giggling all the
 
 The twins gestured to the oldest two in the room. Charlie was built like the twins: stocky and strong, with callouses visible across the room and a shiny burn on one arm. He had a broad, good-natured face which was covered in freckles. 
 
-Bill was a surprise. Elysia'd expected an older version of Percy from what Ron had said about him in the past: Head Boy, worked for Gringotts. She'd imagined someone fussy, bossy, and self-important. The reality, though, was that though he was tall and lanky like Percy (and Ron, for that matter) he could easily have been Percy's evil twin. He had long hair pulled back in a ponytail, dragonhide boots, and an earring with what looked like a fang dangling from it. All in all, the impression was more rock-star than anything else.
+Bill was a surprise. Elysia'd expected an older version of Percy from what Ron had said about him in the past: Head Boy, worked for Gringotts. She'd imagined someone fussy, bossy, and self-important. The reality, though, was that while he was tall and lanky like Percy (and Ron, for that matter) he could easily have been Percy's evil twin. He had long hair pulled back in a ponytail, dragonhide boots, and an earring with what looked like a fang dangling from it. All in all, the impression was more rock-star than anything else.
 
 "Nice boots," he said.
 
@@ -1311,7 +1319,7 @@ Hermione thought for a while. "Well... I don't know. I've certainly never found 
 
 "Oh really?" Ginny said. "What about Lockhart? I recall you being quite starry-eyed at Flourish & Blotts that year."
 
-"That tosser?" Hermione scoffed. "He wrote the books. I always get a little bit star-struck when I get to meet an author. There was certainly no *attraction* there." She shuddered.
+"That ponce?" Hermione scoffed. "He wrote the books. I always get a little bit star-struck when I get to meet an author. There was certainly no *attraction* there." She shuddered.
 
 "Alright, alright," Ginny said. "Then what about girls?"
 
@@ -1355,7 +1363,7 @@ Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'Sweet
 
 
 
-## Chapter 7
+## Chapter 7: The Quidditch World Cup
 
 Morning came too soon even Elysia, who was already in the habit of rising early. The sky was still dark when Mrs. Weasley shook everyone awake.
 
@@ -1519,7 +1527,7 @@ The Bulgarian minister and his staff roared with laughter.
 
 *"What's this about a dementor bodyguard?"* He asked.
 
-*"He put dementors around Hogwarts all last year,"* Elysia said. *"Nearly killed me and many other children on several occasions. And all to catch a Lord of an Ancient and Noble House who'd never even had a trial. Bit of a habit with him, from what I've seen. Makes you wonder if the man can even tie his own shoes without nearly asphyxiating himself."*
+*"He put dementors around Hogwarts all last year,"* Elysia said. *"Nearly killed me and many other children on several occasions. And all to catch a Lord of an Ancient and Noble House who'd never even had a trial. Bit of a habit with him, from what I've seen. Makes you wonder if the man can even tie his own shoes without nearly asphyxiating himself and throwing the cobbler in prison."*
 
 The entire Bulgarian delegation turned to face Fudge with menacing glares.
 
@@ -1541,7 +1549,7 @@ The mascots turned out to be a hundred veela, who began to dance enticingly. Ely
 
 "Down, girl. You're drooling a bit," she murmured into Hermione's ear. "Put your shields up and watch the boys make fools of themselves."
 
-Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and Draco, though both Lucius and Mr. Weasley seemed unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
+Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and Draco, though Lucius Malfoy, Charlie, and Mr. Weasley all seemed unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
 
 "*Ahem.* And now," Mr. Bagman said, his voice cracking at first, "the Irish National Team Mascots!"
 
@@ -1567,3 +1575,78 @@ Elysia caught his eye and burst out laughing.
 
 
 
+They were still too keyed up when they finally made it back to camp, so they all sat around the campfire with mugs of hot cocoa.
+
+"Harry," Hermione said, "what did you say to the Bulgarian Minister? And since when do you speak Bulgarian, anyway?"
+
+"The 'how' is that my grandparents invented something called '[Language Lozenges](^1),'" Elysia answered, lying through her teeth. "Don't think they ever got the chance to market them; Grandmum's journal mentions them right near the end, just before they caught the dragon pox that killed them."
+
+"So, what, you found a stash of prototypes or something?" Hermione asked.
+
+"Yup!" Elysia said. "Russian, both Irish and Scots Gaelic, Bulgarian, Polish, Hebrew, French, Spanish... all kinds, really. It's brilliant. Maybe someday I'll be able to actually understand the formula."
+
+Hermione nodded.
+
+"Anyway," Elysia continued, "I took a few before I left the Dursleys. Figure, the Cup is an international event, right? Might be nice to understand some of the more international discussions."
+
+"You're mental, mate," Ron said.
+
+Elysia smirked. "No, 'mental' is what I said to the Bulgarian Minister." She relayed what she'd said.
+
+"Harry James Potter! You did *not* just instigate an international incident!" Hermione admonished, laughing.
+
+"Hey, Fudge is the dementor-happy one!" Elysia retorted. "I was just telling it like it is!"
+
+"You have no proof of Sirius Black's innocence, Harry," Percy admonished.
+
+"Proof?" Elysia said. "My own experiences last year aside, which I will swear to, or testify on under veritaserum? It's right there in black-and-white in my parents' wills. Which were sealed on Dumbledore's orders, by the way. And guess who cast the *Fidelius* in the first place?"
+
+Mr. Weasley looked uncomfortable. "I'm sure he had his reasons."
+
+Elysia scoffed. "I'm sure he did. But that doesn't change the facts. Not like I can do anything about it anyway. So how about that Wronski Feint?"
+
+The conversation, though stilted at first, slowly grew more spirited again as they recounted the match. Until, that is, Ginny started snoring. Mr. Weasley finally sent them all to bed.
+
+Elysia, however, remembered Janet's warning, and began carving border stones for an anti-apparition ward. When the screams started and Mr. Weasley came in to tell them all to run, she dutifully woke everyone, then told Robbie to lay the stones around the Death Eaters.
+
+Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion was. All in all it took maybe five minutes.
+
+"Harry? You okay?" Hermione called at the loud crack that sounded as Elysia joined them.
+
+"Stepped on a branch," Elysia replied, thankful it was so dark in the woods. She'd not been missed.
+
+"Oh, this is stupid," Hermione said, pulling out her wand. "*Lumos.*"
+
+A beam of light shone from the tip, illuminating Draco Malfoy leaning casually against a tree.
+
+"Careful, Granger," he taunted. "Wouldn't want to call attention to yourself with that lot. They're hunting muggles, you know."
+
+"Hermione's a witch!" Ron growled.
+
+"And anyway, I don't think they're hunting much of anything anymore. D'you hear any more screams?" Elysia taunted. "Might want to go check on your daddy." She made her eyes flash green with a surreptitious wandless illusion, grinning at Malfoy's flinch.
+
+Before things could escalate, they heard a hoarse shout from deeper in the woods. "*Morsmordre!*"
+
+
+
++++++
+
+
+
+
+
+
+
+
+
+
+
+
+
++++++++
+
+
+
+# Footnotes:
+
+[^1]:Partially-Kissed Hero by Perfect Lionheart (https://www.fanfiction.net/s/4240771/1/Partially-Kissed-Hero)
