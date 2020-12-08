@@ -1731,11 +1731,67 @@ Elysia wrote Professor McGonagall as soon as dinner was finished. The next day, 
 
 "How do you mean?" Hermione asked.
 
-In answer, Elysia shifted her hair to auburn, then shifted some black streaks in, then swapped the colors.
+In answer, Elysia shifted her still-short hair to auburn, then shifted some black streaks in, then shifted to black hair with auburn tips.
 
 "Oh, I like that last one," Hermione said. "It's quite striking."
 
 Elysia shifted back. "I'll have to duck out for a day to give myself an alibi, then. Robbie can take me; that should reassure Mrs. Weasley."
+
+"What are you going to *actually* do?" Hermione asked.
+
+"Well, you *do* have a birthday coming up..."
+
+
+
++++++
+
+
+
+Wednesday, August 31^st^ arrived. The Weasleys had adjusted to Elysia's girl-hood almost immediately, though Ginny was still awkward around her. They made it to Platform 9^3/4^ with only 10 minutes to spare. As they made their way down the train, Fred and George broke off to sit with Lee Jordan and the girls from the Gryffindor quidditch team. Elysia, Hermione, Ron, and Ginny continued on, finding that all of the compartments were full.
+
+Finally, they came to one with only a single occupant: a girl with long, pale blonde hair and wide blue eyes, who was reading a magazine upside-down.
+
+"Hello, Luna," Ginny said, opening the door. "May we join you?"
+
+Luna looked up from the magazine she was reading. "Certainly," she replied in a dreamy voice.
+
+"Everyone, this is Luna Lovegood. She's in my year," Ginny said, introducing them to Luna as they all filed in.
+
+Elysia took the seat next to Luna, with Hermione on her other side and Ron and Ginny across from them.
+
+"Whatcha reading?" She asked, leaning over.
+
+Luna smiled absently. "The Quibbler. My father runs it."
+
+"Neat," Elysia said. "Ooh, is that a rune puzzle?"
+
+"So *that's* why it's upside-down," Hermione muttered under her breath.
+
+"Yes," Luna said airily. Hermione blushed at being overheard. "Mother was a spell-crafter before she died, and she taught me Runes and Arithmancy ever since I was old enough to remember."
+
+"I'm starting those subjects this year," Elysia said. "Professor McGonagall let me test into the 4^th^-year classes."
+
+"Me too!" Luna exclaimed, pleased. "Well, I have yet to take the qualifying exams, of course, but I don't expect any problems."
+
+"Same," Elysia said. "Hermione's made sure I haven't missed anything."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
