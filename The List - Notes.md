@@ -16,7 +16,7 @@ Analytical thinker. (how does it do what it does?)
 
 ### Luna
 
-Soul-mate #2. Enby. Pansexual.
+Soul-mate #2. Enby. Nominsexual.
 
 Observational thinker (what is it like?)
 

@@ -1643,7 +1643,7 @@ A distraught Mrs. Weasley greeted them on their return, waving the morning editi
 
 "Arthur!" She called out as they approached. "Is everyone okay?"
 
-"Fine, Molly," he replied. "It was the strangest thing. By the time we got to the Death Eaters, they were almost all petrified. Oh, there were a few left, but none of them even tried to disapparate. We managed to catch every single one."
+"Fine, Molly," he replied. "It was the strangest thing. By the time we got to the Death Eaters, they were almost all petrified. Oh, there were a few left, but none of them even tried to disapparate. We managed to catch every single one, aside from whoever conjured that Dark Mark."
 
 *Did you manage to clear out the anti-apparition stones before the clean-up crew got there?* Elysia asked Robbie over their bond.
 
@@ -1667,7 +1667,25 @@ The moment was broken when Elysia let out an enormous yawn, and Mrs. Weasley sen
 
 ## Chapter 8
 
+The remainder of the summer passed quickly. Percy and Mr. Weasley were at the Ministry more often than not, dealing with the aftermath of the World Cup and the Death Eaters.
 
+Much to the delight of everyone, Lucius Malfoy had indeed been one of those petrified in full Death Eater regalia. He, along with the rest of those captured, were sentenced to five years for muggle-baiting and causing an international incident, among other things -- they all were raided by the DMLE for cause, as well.
+
+"Couldn't happen to a nicer bloke," Ron said when he heard.
+
+"Wonder how Draco's going to handle it," Elysia mused. "My money is either he'll be keeping his head down or on a hair-trigger."
+
+The other big thing that happened occurred at dinner the day after they returned from the World Cup, after Hermione had relayed the relevant part of her and Ginny's conversation from the other night.
+
+"Hey, everyone? This summer's been an interesting one, and I've learned a lot about myself. And I need to share one of those things with you all." She took a deep breath. "I'm a girl. My name's Elysia now, or Ellie for short."
+
+"Well *that* figures," Ginny said, then blushed deeply when she realized she'd said it out loud.
+
+Ron looked conflicted, alternating between relief and worry. Elysia, noticing, grinned. "Steady on," she told him. "Still not into blokes."
+
+Hermione got a thoughtful look on her face. "So what're you going to do about Hogwarts?"
+
+Elysia hummed. "Good question. I suppose I should write Professor McGonagall."
 
 
 
