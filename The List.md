@@ -1673,7 +1673,7 @@ Much to the delight of everyone, Lucius Malfoy had indeed been one of those petr
 
 "Couldn't happen to a nicer bloke," Ron said when he heard.
 
-"Wonder how Draco's going to handle it," Elysia mused. "My money is either he'll be keeping his head down or on a hair-trigger."
+"Wonder how Draco's going to handle it," Elysia mused. "I imagine either he'll be keeping his head down or he'll be on a hair-trigger."
 
 The other big thing that happened occurred at dinner the day after they returned from the World Cup, after Hermione had relayed the relevant part of her and Ginny's conversation from the other night.
 
@@ -1685,13 +1685,57 @@ Ron looked conflicted, alternating between relief and worry. Elysia, noticing, g
 
 Hermione got a thoughtful look on her face. "So what're you going to do about Hogwarts?"
 
-Elysia hummed. "Good question. I suppose I should write Professor McGonagall."
+Elysia hummed. "Good question. I suppose I should write Professor McGonagall again."
+
+"Again?" Asked Fred. "And why --"
+
+"-- would you be --" George continued.
+
+"-- writing our esteemed professor --"
+
+"-- this summer?"
+
+"Because I wanted out of Divination," Elysia answered. "She said I can test into Arithmancy and Runes, and if I do I can drop Divination."
+
+"Have you gone shopping for girl clothes yet?" Ginny asked.
+
+"Some," Elysia shrugged. "I rather like the androgynous look, though. It gets some pretty great reactions."
+
+Every single Weasley in the room except the adults blushed bright red at that. 
+
+Hermione couldn't keep the smirk from her face. "It kind of says, 'I don't care what your sexuality is, you're definitely questioning it now.'"
+
+Elysia raised an eyebrow at her, grinning. "Oh *really?*"
+
+Hermione blushed the brightest of them all.
 
 
 
++++++
 
 
 
+Elysia wrote Professor McGonagall as soon as dinner was finished. The next day, her answer came while Elysia and Hermione were sitting in the back garden, going over what Elysia would need for the Arithmancy and Runes qualifiers. The Weasleys gave them a wide berth; none of them wanted to spend the last few precious days of summer *studying.*
+
+> Ms. Potter,
+>
+> Thank you for informing me of this change. I'll update your file and accommodations accordingly. Will you be undergoing the transition ritual at St. Mungo's before term starts?
+>
+>  -- Prof. Minerva McGonagall
+>   Deputy Headmistress
+>   Hogwarts School of Witchcraft & Wizardry
+
+"There's a ritual for that?" Hermione asked.
+
+"Apparently," Elysia said. "I'll just tell her yes. No need to tip my hand about the shifting just yet. D'you think I should change my hair, though?"
+
+"How do you mean?" Hermione asked.
+
+In answer, Elysia shifted her hair to auburn, then shifted some black streaks in, then swapped the colors.
+
+"Oh, I like that last one," Hermione said. "It's quite striking."
+
+Elysia shifted back. "I'll have to duck out for a day to give myself an alibi, then. Robbie can take me; that should reassure Mrs. Weasley."
 
 
 
