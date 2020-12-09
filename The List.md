@@ -1814,4 +1814,5 @@ Neville blushed. "Do I know you -- *Harry!?*"
 
 # Footnotes:
 
-[^1]:Partially-Kissed Hero by Perfect Lionheart (https://www.fanfiction.net/s/4240771/1/Partially-Kissed-Hero)
+[^1]:Language Lozenges borrowed from the fic [Partially-Kissed Hero](https://www.fanfiction.net/s/4240771/1/Partially-Kissed-Hero) by Perfect Lionheart
+
