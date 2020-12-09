@@ -20,9 +20,10 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 > OPTIONAL: Dumbledore's manipulations can be a factor in Harry's premature demises."
 
 ### Changes and Adjustments
+
 > + Make A Wish: What if Harry really was just that good?
 >+ Can't keep timeline memories, but can train up in the afterlife and keep that. 
->    + Training includes mind magics 
+>   + Training includes mind magics 
 >+ Can make a plan with whichever advisors are desired. The plan lives in Harry's mindscape and can only be accessed during occlumentic meditation.
 >+ Death (Eleanor?) grants a boon: limited precognition so Harry (almost) always sees a direct attack coming far enough in advance to counter it. This might just be on an instinctive level, or it might go so far as to be a full-blown vision, depending on the attack.
 >+ No way is Eleanor getting fired, but she's a romantic at heart (and *really* wants to hook up with Destiny if she can help her latest pet project along).
@@ -1579,7 +1580,7 @@ They were still too keyed up when they finally made it back to camp, so they all
 
 "Harry," Hermione said, "what did you say to the Bulgarian Minister? And since when do you speak Bulgarian, anyway?"
 
-"The 'how' is that my grandparents invented something called '[Language Lozenges](^1),'" Elysia answered, lying through her teeth. "Don't think they ever got the chance to market them; Grandmum's journal mentions them right near the end, just before they caught the dragon pox that killed them."
+"The 'how' is that my grandparents invented something called 'Language Lozenges[^1],'" Elysia answered, lying through her teeth. "Don't think they ever got the chance to market them; Grandmum's journal mentions them right near the end, just before they caught the dragon pox that killed them."
 
 "So, what, you found a stash of prototypes or something?" Hermione asked.
 
@@ -1781,7 +1782,7 @@ A few minutes later, Neville Longbottom joined them, taking the empty seat betwe
 
 "Oh, hullo, Nev," Elysia said.
 
-Neville blushed. "Do I know you -- *Harry?*"
+Neville blushed. "Do I know you -- *Harry!?*"
 
 "It's Elysia now," she replied. 
 
