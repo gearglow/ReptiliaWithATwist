@@ -1665,7 +1665,7 @@ The moment was broken when Elysia let out an enormous yawn, and Mrs. Weasley sen
 
 
 
-## Chapter 8
+## Chapter 8: The New Girl
 
 The remainder of the summer passed quickly. Percy and Mr. Weasley were at the Ministry more often than not, dealing with the aftermath of the World Cup and the Death Eaters.
 
@@ -1715,7 +1715,7 @@ Hermione blushed the brightest of them all.
 
 
 
-Elysia wrote Professor McGonagall as soon as dinner was finished. The next day, her answer came while Elysia and Hermione were sitting in the back garden, going over what Elysia would need for the Arithmancy and Runes qualifiers. The Weasleys gave them a wide berth; none of them wanted to spend the last few precious days of summer *studying.*
+Elysia wrote Professor McGonagall (and Sirius, while she was at it) as soon as dinner was finished. The next day, her answer came while Elysia and Hermione were sitting in the back garden, going over what Elysia would need for the Arithmancy and Runes qualifiers. The Weasleys gave them a wide berth; none of them wanted to spend the last few precious days of summer *studying.*
 
 > Ms. Potter,
 >
@@ -1788,6 +1788,12 @@ Neville blushed. "Do I know you -- *Harry?*"
 "Oh," Neville said faintly.
 
 "Hi, Neville," Hermione said, stifling a giggle. "How was your summer?"
+
+
+
++++++
+
+
 
 
 

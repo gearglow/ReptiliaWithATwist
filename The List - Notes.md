@@ -1,5 +1,13 @@
 # The List - Notes
 
+## Plot Points
+
+- What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
+
+- Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
+
+
+
 ## Characters
 
 ### Elysia
@@ -16,7 +24,7 @@ Analytical thinker. (how does it do what it does?)
 
 ### Luna
 
-Soul-mate #2. Enby. Nominsexual.
+Soul-mate #2. Enby (girlfae). Nominsexual.
 
 Observational thinker (what is it like?)
 
