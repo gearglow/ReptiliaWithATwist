@@ -550,7 +550,7 @@ It also turned out that, thanks to her shifting ability, she no longer needed gl
 
 Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room #4 Privet Drive.
 
-Robby, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new runestones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
+Robbie, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new runestones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
 
 It was late into the night before she was finished. Hedwig had returned from hunting all day and was snoozing, head tucked under one wing, on the perch near the window, before Elysia sat back and called Robbie over.
 
