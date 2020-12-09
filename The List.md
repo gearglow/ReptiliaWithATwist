@@ -1747,8 +1747,9 @@ Elysia shifted back. "I'll have to duck out for a day to give myself an alibi, t
 +++++
 
 
+### Hogwarts Express    1994/08/31  10:50
 
-Wednesday, August 31^st^ arrived. The Weasleys had adjusted to Elysia's girl-hood almost immediately, though Ginny was still awkward around her. They made it to Platform 9^3/4^ with only 10 minutes to spare. As they made their way down the train, Fred and George broke off to sit with Lee Jordan and the girls from the Gryffindor quidditch team. Elysia, Hermione, Ron, and Ginny continued on, finding that all of the compartments were full.
+They made it to Platform 9^3/4^ with only 10 minutes to spare. As they made their way down the train, Fred and George broke off to sit with Lee Jordan and the girls from the Gryffindor quidditch team. Elysia, Hermione, Ron, and Ginny continued on, finding that all of the compartments were full.
 
 Finally, they came to one with only a single occupant: a girl with long, pale blonde hair and wide blue eyes, who was reading a magazine upside-down.
 
