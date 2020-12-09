@@ -1775,13 +1775,19 @@ Luna smiled absently. "The Quibbler. My father runs it."
 
 "Same," Elysia said. "Hermione's made sure I haven't missed anything."
 
+The three began discussing both Runes and Arithmancy with much enthusiasm. Ron and Ginny looked at each other in bemusement.
 
+A few minutes later, Neville Longbottom joined them, taking the empty seat between Ron and Ginny. The discussion was already going so strongly, none of the three even noticed at first, until Neville spoke up to say hello.
 
+"Oh, hullo, Nev," Elysia said.
 
+Neville blushed. "Do I know you -- *Harry?*"
 
+"It's Elysia now," she replied. 
 
+"Oh," Neville said faintly.
 
-
+"Hi, Neville," Hermione said, stifling a giggle. "How was your summer?"
 
 
 
