@@ -1698,6 +1698,8 @@ Elysia hummed. "Good question. I suppose I should write Professor McGonagall aga
 
 "Because I wanted out of Divination," Elysia answered. "She said I can test into Arithmancy and Runes, and if I do I can drop Divination."
 
+"Well, we'll move you into Ginny's room with the other girls while you're here, dear," Mrs. Weasley said.
+
 "Have you gone shopping for girl clothes yet?" Ginny asked.
 
 "Some," Elysia shrugged. "I rather like the androgynous look, though. It gets some pretty great reactions."
@@ -1749,9 +1751,9 @@ Elysia shifted back. "I'll have to duck out for a day to give myself an alibi, t
 
 ### Hogwarts Express    1994/08/31  10:50
 
-They made it to Platform 9^3/4^ with only 10 minutes to spare. As they made their way down the train, Fred and George broke off to sit with Lee Jordan and the girls from the Gryffindor quidditch team. Elysia, Hermione, Ron, and Ginny continued on, finding that all of the compartments were full.
+Despite Mr. Weasley being called into work for an emergency that morning, they still made it to Platform 9^3/4^ with 10 minutes to spare. As they made their way down the train, Fred and George broke off to sit with Lee Jordan and the girls from the Gryffindor quidditch team. Elysia, Hermione, Ron, and Ginny continued on, finding that all of the compartments were full.
 
-Finally, they came to one with only a single occupant: a girl with long, pale blonde hair and wide blue eyes, who was reading a magazine upside-down.
+Finally, they came to one with only a single occupant: a girl with long, pale blonde hair and wide blue eyes, wearing a Ravenclaw tie, who was reading a magazine upside-down.
 
 "Hello, Luna," Ginny said, opening the door. "May we join you?"
 
@@ -1813,9 +1815,67 @@ As she retook her seat, the compartment exploded in laughter.
 
 
 
+The rest of the trip passed uneventfully, though pleasantly. Elysia's newfound confidence helped draw out the normally-shy Neville, and Luna found much in the way of common ground with both Elysia and Hermione. Her tendency to talk about creatures nobody else could see, or believed existed, notwithstanding, she easily kept pace with the two older girls intellectually.
+
+Finally, they arrived at Hogsmeade Station and disembarked, with a wave to Hagrid which made the large man do a double-take. As the six of them approached the horseless carriages, Luna made a detour to the front of one, tugging Hermione's hand.
+
+"Here, pet this," she said, placing Hermione's hand on *something.* Elysia raised an eyebrow. While she couldn't *see* anything, it was apparent that Hermione could *feel* something under her hand.
+
+"Luna, I..." Hermione said. "I'm sorry I doubted you. What *are* they?"
+
+"They're thestrals," Luna answered softly.
+
+"I know about those!" Neville said. "You can only see them if you've seen someone die."
+
+"Yes," Luna said wistfully. "They have a bad reputation because of that. But really they're quite gentle."
+
+Elysia stepped closer to pet the thestral. Luna guided her hand to its flank. "It's kind of leathery, but soft," she told the others. 
+
+Hermione had stepped back and was studying Luna. "Your mother?"
+
+Luna nodded. "When I was nine. There was nothing I could do."
+
+Hermione gently hugged the younger girl. "I'm sorry," she said softly.
+
+They filed into the carriage after a last pat for the loyal thestral, and made their way up to the castle.
 
 
 
++++++
+
+
+
+The storm that had been threatening all day finally broke on the short trek up from Hogsmeade, and despite the short dash from the carriages to the entry hall, they were all soaked to the skin by the time they made it indoors.
+
+Just when they thought they were safe, water balloons began pelting them from above, soaking them once more -- not that Elysia felt it made much difference, really.
+
+"PEEVES!" McGonagall yelled, dashing out of the great hall. 
+
+After chasing Peeves off, the students were ushered into the Great Hall.
+
+"Great, now I'm soggy *and* starving," Ron grumbled. The others could only agree.
+
+Luna split off to the Ravenclaw table, and the others took seats midway down the Gryffindor table. Elysia scanned the staff table, noting that there were more empty seats than usual. One, she presumed, was Prof. McGonagall's, and another was Hagrid's, as both were busy with the first-years. And then it clicked: the remaining empty seat was the Defense Against the Dark Arts teacher.
+
+"Wonder who they got for DADA this year," she murmured to the others.
+
+"Maybe they couldn't find anyone," Hermione said pensively.
+
+"Maybe Peeves got them," Ron said. "Wish they'd hurry up with the sorting, I'm ravenous!"
+
+Elysia scanned the staff table again, and caught the eye of Professor Snape. She'd seen plenty of people do double-takes over her this summer, but this was the first time she'd someone pale so drastically at the same time. *Looks like he's seen a ghost,* she thought to herself.
+
+Prof. McGonagall entered with the first-years, and as Hagrid took his seat the Sorting commenced. It was the first one since Elysia's own that she'd managed to see, as the past two years something had always come up. Colin Creevy's little brother, Dennis, was sorted into Gryffindor, and Elysia giggled to herself as Colin tried to point out 'the famous Harry Potter' to him but didn't recognize her.
+
+The Sorting wrapped up, and the feast appeared. Everyone dove in with relish, and Elysia pondered how it was that she could be so hungry after stuffing herself silly with snacks on the train ride.
+
+Finally, dessert was devoured and the plates cleared. Dumbledore stood, and gave out his usual start-of-term notices. "It is my painful duty to inform you that there will be no Inter-House Quidditch Cup this year," he added, "due to an event starting this Halloween and continuing through the rest of the year. It is my great pleasure to announce that this year, Hogwarts --"
+
+Several things happened at once, and Elysia couldn't help but admire the theatricality of it all. Thunder crashed, the doors to the Great Hall flew open, and a bolt of lightning flashed in the enchanted ceiling, illuminating a figure who looked as if he'd been born to the storm. His face was scarred, weathered, and craggy, with one piercing blue eye, which rolled around independently of the other, which was a beady black and much more normal for all that. He had a peg leg, shaggy hair the dark grey of storm-clouds, and a black travelling cloak billowing in the door's backdraft. All in all, Elysia thought even Snape would be hard-pressed to make a more dramatic entrance.
+
+The figure made his way down the Hall to Prof. Dumbledore, with whom he spoke quietly for a moment before taking the vacant DADA seat at the staff table.
+
+"May I introduce Alastor Moody," Prof. Dumbledore said, "our new professor of Defense Against the Dark Arts."
 
 
 
