@@ -1666,6 +1666,10 @@ The moment was broken when Elysia let out an enormous yawn, and Mrs. Weasley sen
 
 
 
+[^1]:Language Lozenges borrowed from the fic [Partially-Kissed Hero](https://www.fanfiction.net/s/4240771/1/Partially-Kissed-Hero) by Perfect Lionheart
+
+
+
 ## Chapter 8: The New Girl
 
 The remainder of the summer passed quickly. Percy and Mr. Weasley were at the Ministry more often than not, dealing with the aftermath of the World Cup and the Death Eaters.
@@ -1869,7 +1873,7 @@ Prof. McGonagall entered with the first-years, and as Hagrid took his seat the S
 
 The Sorting wrapped up, and the feast appeared. Everyone dove in with relish, and Elysia pondered how it was that she could be so hungry after stuffing herself silly with snacks on the train ride.
 
-Finally, dessert was devoured and the plates cleared. Dumbledore stood, and gave out his usual start-of-term notices. "It is my painful duty to inform you that there will be no Inter-House Quidditch Cup this year," he added, "due to an event starting this Halloween and continuing through the rest of the year. It is my great pleasure to announce that this year, Hogwarts --"
+Finally, dessert was devoured and the plates cleared. Dumbledore stood, and gave out his usual start-of-term notices. "It is my painful duty to inform you that there will be no Inter-House Quidditch Cup this year," he added, amid rising murmurs of shock and dismay from across the Hall, "due to an event starting this Halloween and continuing through the rest of the year. It is my great pleasure to announce that this year, Hogwarts --"
 
 Several things happened at once, and Elysia couldn't help but admire the theatricality of it all. Thunder crashed, the doors to the Great Hall flew open, and a bolt of lightning flashed in the enchanted ceiling, illuminating a figure who looked as if he'd been born to the storm. His face was scarred, weathered, and craggy, with one piercing blue eye, which rolled around independently of the other, which was a beady black and much more normal for all that. He had a peg leg, shaggy hair the dark grey of storm-clouds, and a black travelling cloak billowing in the door's backdraft. All in all, Elysia thought even Snape would be hard-pressed to make a more dramatic entrance.
 
@@ -1877,17 +1881,21 @@ The figure made his way down the Hall to Prof. Dumbledore, with whom he spoke qu
 
 "May I introduce Alastor Moody," Prof. Dumbledore said, "our new professor of Defense Against the Dark Arts."
 
+The students' whispering among themselves reached a crescendo. Moody himself ignored them, and looked to be casting detection spells on his dinner. As Elysia watched, he took as swig from a hip flask.
+
+"*Mad-Eye* Moody?" Ron said incredulously. "*That's* our new DADA professor?"
+
+"The one your dad was called about this morning?" Hermione inquired.
+
+Ron nodded. "That's him. He's supposed to be a legendary auror; caught more than his fair share of Death Eaters back in the war."
+
+"As I was saying," Dumbledore was saying, "Hogwarts will this year play host to the newly-reconstituted Tri-Wizard Tournament."
+
+A chill of foreboding trickled down Elysia's spine.
 
 
 
++++++
 
 
-
-+++++++
-
-
-
-# Footnotes:
-
-[^1]:Language Lozenges borrowed from the fic [Partially-Kissed Hero](https://www.fanfiction.net/s/4240771/1/Partially-Kissed-Hero) by Perfect Lionheart
 
