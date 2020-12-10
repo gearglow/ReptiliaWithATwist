@@ -3,8 +3,8 @@
 ## Plot Points
 
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
-
 - Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
+- Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 
 
 
