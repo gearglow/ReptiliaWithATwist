@@ -1752,8 +1752,7 @@ Elysia shifted back. "I'll have to duck out for a day to give myself an alibi, t
 
 +++++
 
-
-### Hogwarts Express    1994/08/31  10:50
+### Hogwarts Express    1994/09/01  10:50
 
 Despite Mr. Weasley being called into work for an emergency that morning, they still made it to Platform 9^3/4^ with 10 minutes to spare. As they made their way down the train, Fred and George broke off to sit with Lee Jordan and the girls from the Gryffindor quidditch team. Elysia, Hermione, Ron, and Ginny continued on, finding that all of the compartments were full.
 

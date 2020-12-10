@@ -36,6 +36,20 @@ Optimizing thinker. (where are the bottlenecks?)
 
 
 
+## Elysia's Course Schedule, '94 - '95 Academic Year
+
+| MONDAY                                        | TUESDAY          | WEDNESDAY     | THURSDAY        | FRIDAY                      |
+| --------------------------------------------- | ---------------- | ------------- | --------------- | --------------------------- |
+| Herbology with the Hufflepuffs                | History of Magic |               | Transfiguration | History of Magic            |
+| break                                         | break            | break         | break           | break                       |
+| Care of Magical Creatures with the Slytherins |                  | Charms        |                 | Charms                      |
+| lunch                                         | lunch            | lunch         | lunch           | lunch                       |
+| Arithmancy                                    | Potions          | Arithmancy    | DADA            | Potions with the Slytherins |
+| Ancient Runes                                 |                  | Ancient Runes |                 |                             |
+| dinner                                        | dinner           | dinner        | dinner          | dinner                      |
+
+
+
 ## Waveform Model of Magic
 
 Magic operates similarly to, but distinct from, electromagnetic radiation.
