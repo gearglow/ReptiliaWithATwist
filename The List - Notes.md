@@ -38,15 +38,15 @@ Optimizing thinker. (where are the bottlenecks?)
 
 ## Elysia's Course Schedule, '94 - '95 Academic Year
 
-| MONDAY                                        | TUESDAY          | WEDNESDAY     | THURSDAY        | FRIDAY                      |
-| --------------------------------------------- | ---------------- | ------------- | --------------- | --------------------------- |
-| Herbology with the Hufflepuffs                | History of Magic |               | Transfiguration | History of Magic            |
-| break                                         | break            | break         | break           | break                       |
-| Care of Magical Creatures with the Slytherins |                  | Charms        |                 | Charms                      |
-| lunch                                         | lunch            | lunch         | lunch           | lunch                       |
-| Arithmancy                                    | Potions          | Arithmancy    | DADA            | Potions with the Slytherins |
-| Ancient Runes                                 |                  | Ancient Runes |                 |                             |
-| dinner                                        | dinner           | dinner        | dinner          | dinner                      |
+| MONDAY                                        | TUESDAY                     | WEDNESDAY     | THURSDAY        | FRIDAY                      |
+| --------------------------------------------- | --------------------------- | ------------- | --------------- | --------------------------- |
+| Herbology with the Hufflepuffs                | History of Magic            | free period   | Transfiguration | History of Magic            |
+| break                                         | break                       | break         | break           | break                       |
+| Care of Magical Creatures with the Slytherins | free period                 | Charms        | free period     | Charms                      |
+| lunch                                         | lunch                       | lunch         | lunch           | lunch                       |
+| Arithmancy                                    | Potions with the Slytherins | Arithmancy    | DADA            | Potions with the Slytherins |
+| Ancient Runes                                 | free period                 | Ancient Runes | DADA            | Potions with the Slytherins |
+| dinner                                        | dinner                      | dinner        | dinner          | dinner                      |
 
 
 

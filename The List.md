@@ -1898,3 +1898,30 @@ A chill of foreboding trickled down Elysia's spine.
 
 
 
+The conversation was of the upcoming tournament as they all made their way to Gryffindor Tower. Ron and the twins were lamenting that they were too young, and discussing schemes to get around the Headmaster's Age Line.
+
+"Better you than me, mate," Elysia said. "I'd rather a nice normal year for once."
+
+Elysia almost followed Ron to the boys' dorms, but remembered at the last minute and turned to follow Hermione instead. *That's going to take some getting used to,* she thought to herself.
+
+The girls' dorms were a mirror image to the boys' dorms. Hermione had the bed by the window, and Elysia's bed had been inserted between hers and Parvati Patil's.
+
+"I was wondering whose bed that was," Parvati said. "Hello, new girl!"
+
+Elysia grinned at her. "Hullo, Parvati. How was your summer?"
+
+Parvati squinted at her. "How do you know my name -- wait a minute. *Harry!?*"
+
+"It's Elysia now," she responded. "Or Ellie for short. Turns out that was a nickname of my mum's back in the day."
+
+"Damn," Parvati said. "Right heart-breaker, you are. D'you have any idea how many girls are going to be disappointed that you've turned out to be a girl?"
+
+Lavender came in from the bathroom, took one look at Elysia, blushed furiously, and ducked back into the bathroom.
+
+Elysia smirked. "Probably not that one?"
+
+Hermione couldn't contain her giggles anymore. "That never gets old, Ellie!"
+
+Elysia waggled her eyebrows at her, and over passive legilimency, sent, *especially when it's you doing the blushing.*
+
+Hermione's eyes widened and she flushed deeply. "Um. I." Her brow furrowed. "Damn it, Ellie!"
