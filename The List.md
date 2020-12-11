@@ -1350,7 +1350,7 @@ Hermione snorted. "Enchanting. He wants to be an enchanter. Or 'artificer,' as h
 
 "His grandmother's journals, probably," Hermione answered. "She was apparently quite good at it. Had some novel ideas about modular rune schemes."
 
-Ginny hummed. "You're still dodging the question, you prat! Do you or do you not play for the Harpies?"
+"Okay, so you're a swot and he's a boffin," Ginny hummed. "You're still dodging the question, you prat! Do you or do you not play for the Harpies?"
 
 Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'Sweet mother, I cannot weave -- slender Aphrodite has overcome me with longing for a girl.' Is that a problem?"
 
@@ -1908,7 +1908,7 @@ The girls' dorms were a mirror image to the boys' dorms. Hermione had the bed by
 
 "I was wondering whose bed that was," Parvati said. "Hello, new girl!"
 
-Elysia grinned at her. "Hullo, Parvati. How was your summer?"
+Elysia grinned as she loosened her tie. "Hullo, Parvati. How was your summer?"
 
 Parvati squinted at her. "How do you know my name -- wait a minute. *Harry!?*"
 
@@ -1916,7 +1916,7 @@ Parvati squinted at her. "How do you know my name -- wait a minute. *Harry!?*"
 
 "Damn," Parvati said. "Right heart-breaker, you are. D'you have any idea how many girls are going to be disappointed that you've turned out to be a girl?"
 
-Lavender came in from the bathroom, took one look at Elysia, blushed furiously, and ducked back into the bathroom.
+Lavender Brown came in from the bathroom, took one look at Elysia, blushed furiously, and ducked back into the bathroom.
 
 Elysia smirked. "Probably not that one?"
 
@@ -1924,4 +1924,43 @@ Hermione couldn't contain her giggles anymore. "That never gets old, Ellie!"
 
 Elysia waggled her eyebrows at her, and over passive legilimency, sent, *especially when it's you doing the blushing.*
 
-Hermione's eyes widened and she flushed deeply. "Um. I." Her brow furrowed. "Damn it, Ellie!"
+Hermione's eyes widened and she squeaked, flushing deeply. "Um. I." Her brow furrowed and she squeezed her eyes shut. "Damn it, Ellie!"
+
+Elysia laughed. "Language, 'Mione!"
+
+Parvati giggled. "Woah, there, Heart-Breaker. You still need to sleep here, y'know."
+
+Elysia favored her with a raised eyebrow. "What'd *I* do?"
+
+Parvati crossed her arms and mock-glared. "You know what you did, young lady," she said sternly, waggling a finger. All three of them burst into giggles as Lavender braved joining them again, mock-pouting.
+
+"It's just plain *unfair,*" she said, flopping down on the bed nearest the door. "You were so striking as a boy, and now you're *this* cute? The boys won't know what hit them."
+
+"Ugh, do I give off straight vibes?" Elysia grumbled.
+
+"Well, no, not so much I suppose," Lavender answered. "But you know how boys are."
+
+"I guess," Elysia said. "Can't say they've ever made much sense to me."
+
+"'Straight vibes?' Wait a minute..." Lavender said, then promptly blushed again.
+
+"How *do* you flag for Sapphic-ness in the magical world?" Hermione mused. "In the muggle world there's things like accent nails and the handkerchief code."
+
+"Short fingernails?" Lavender shrugged. They all blushed as the implications hit.
+
+"Dunno that anyone thinks enough of it to feel like they need to," Parvati mused. "Signaling's a thing for muggles because of the controversy, right? But it's not controversial for us, so no need to be covert about things."
+
+"It's more about how you behave and who you flirt with," Lavender added. "Though that tomboy look you've got is uncommon enough that you'll probably get lots of attention from everyone anyway."
+
+Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun when it's not because of that Boy-Who-Lived stuff, or because people are afraid of me, like when everyone thought I was the Heir of Slytherin. Hey, Lavender, Parvati?" She asked. "Can you not let everyone know about my transition? I want to enjoy their reactions while I can." She grinned mischievously.
+
+"Sure thing, Heart-Breaker," Parvati said. "This is gonna be *good.*"
+
+
+
++++++
+
+
+
+
+
