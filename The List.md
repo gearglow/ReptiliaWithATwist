@@ -1952,9 +1952,9 @@ Parvati crossed her arms and mock-glared. "You know what you did, young lady," s
 
 "It's more about how you behave and who you flirt with," Lavender added. "Though that tomboy look you've got is uncommon enough that you'll probably get lots of attention from everyone anyway."
 
-Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun when it's not because of that Boy-Who-Lived stuff, or because people are afraid of me, like when everyone thought I was the Heir of Slytherin. Hey, Lavender, Parvati?" She asked. "Can you not let everyone know about my transition? I want to enjoy their reactions while I can." She grinned mischievously.
+Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun when it's not because of that Boy-Who-Lived stuff, or because people are afraid of me, like when everyone thought I was the Heir of Slytherin. Hey, Lavender, Parvati?" She asked. "Can you not let everyone know about my transition? I want to enjoy their individual reactions while I can." She grinned mischievously.
 
-"Sure thing, Heart-Breaker," Parvati said. "This is gonna be *good.*"
+"Sure thing, Heart-Breaker," Parvati said, grinning back. "This is gonna be *good.*"
 
 
 
