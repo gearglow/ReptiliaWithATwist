@@ -1152,7 +1152,7 @@ Arthur Weasley opened the door as they approached. "Hello, Harry, Hermione, a- O
 
 The Burrow was more crowded than usual. It turned out that, when Ron had said that "we're all going ('cept Mum)," he'd meant *all* of the Weasleys (aside from Molly). Ron, Ginny, and the Twins were in the living room chatting with the two oldest Weasley boys, Bill and Charlie.
 
-Ron looked caught sight of them and stopped mid-word, looking back and forth between Elysia and Robbie, and gaping like a particularly large-mouthed fish. "Harry? Bloody hell, mate!"
+Ron looked up and caught sight of them. He stopped mid-word, looking back and forth between Elysia and Robbie, and gaping like a particularly large-mouthed fish. "Harry? Bloody hell, mate!"
 
 Ginny looked up, caught sight of Elysia, and blushed bright red.
 
@@ -1964,5 +1964,17 @@ Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun
 
 
 
+The next day was a Friday, and the first day of classes.
 
+"History of Magic first thing? *And* double Potions? Great start to the year," Ron groused.
+
+"At least we get a weekend right after," Elysia said, as she took a seat at the Gryffindor table next to Hermione.
+
+"Ellie? Where were you this morning?" Hermione asked, handing Elysia her schedule.
+
+"Working out," Elysia answered, filling her plate. In past years, she'd leaned towards the traditional pancakes, sausages, and other less-than-healthy breakfast foods, but this morning Hermione noticed a much more balanced selection. "Got into the habit over the summer. Especially with quidditch cancelled this year, I need it to burn off the stress."
+
+"What're *you* stressed about?" Ron asked. "It's barely the first day back!"
+
+Elysia shrugged. "Nothing, yet. But you know how Hogwarts can be. And I've already got the habit; seems easier to just keep going with it."
 
