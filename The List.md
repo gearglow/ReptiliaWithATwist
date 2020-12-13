@@ -1948,6 +1948,8 @@ Parvati crossed her arms and mock-glared. "You know what you did, young lady," s
 
 "Short fingernails?" Lavender shrugged. They all blushed as the implications hit.
 
+"Not ready for that one any time soon," Elysia said. The others all nodded, avoiding each other's eyes.
+
 "Dunno that anyone thinks enough of it to feel like they need to," Parvati mused. "Signaling's a thing for muggles because of the controversy, right? But it's not controversial for us, so no need to be covert about things."
 
 "It's more about how you behave and who you flirt with," Lavender added. "Though that tomboy look you've got is uncommon enough that you'll probably get lots of attention from everyone anyway."
