@@ -1280,7 +1280,7 @@ They all went to bed early that night. Mrs. Weasley had offered to pick up Elysi
 
 "Oh?" Hermione replied. "How so?"
 
-Ginny tossed and turned for a bit, then rolled over to face Hermione. "Lots of ways. He seems more self-assured, but also less... edgy, I guess? Kind of girly, actually. Not that he's ever been all that buff or anything, just..." She shrugged. "It's weird. I thought boys were supposed to get handsome as they got older. Him? First word that comes to mind to describe him is 'pretty.' It's confusing, if I'm honest."
+Ginny tossed and turned for a bit, then rolled over to face Hermione. "Lots of ways. New clothes and such aside, he seems more self-assured, but also less... edgy, I guess? Kind of girly, actually. Not that he's ever been all that buff or anything, just..." She shrugged. "It's weird. I thought boys were supposed to get handsome as they got older. Him? First word that comes to mind to describe him is 'pretty.' It's confusing, if I'm honest."
 
 "Still crushing on the Boy-Who-Lived, Gin?"
 
@@ -1302,7 +1302,7 @@ Ginny sighed.
 
 Ginny scoffed. "I have! You've met Percy! Git has barely said two words to any of us that wasn't yelling at us to be quiet since he started at the Ministry."
 
-"Still," She continued after a moment, "if Harry *does* turn out a girl, I don't suppose it would change my chances one way or another. Naught times naught is still nothing; pretty sure even *Charlie* has a better shot than me at this point. But it *does* have me thinking. *Do* I like girls? I suppose even thinking about it means I probably do, at least a little bit."
+"Still," She continued after a moment, "the ways he's changed remind me of a friend of mine." She sighed. "If Harry *does* turn out a girl, like her, I don't suppose it would change my chances one way or another. Naught times naught is still nothing; pretty sure even *Charlie* has a better shot than me at this point. But it *does* have me thinking. *Do* I like girls? I suppose even thinking about it means I probably do, at least a little bit."
 
 Hermione hummed noncommittally.
 
