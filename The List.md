@@ -1978,3 +1978,21 @@ The next day was a Friday, and the first day of classes.
 
 Elysia shrugged. "Nothing, yet. But you know how Hogwarts can be. And I've already got the habit; seems easier to just keep going with it."
 
+"Good morning," Luna said from behind them.
+
+Hermione jumped. "Luna!" She gasped. "Don't *do* that!"
+
+Luna wrinkled her nose. "Say good morning?"
+
+Hermione blushed. "No, not that, I meant sneaking up on me."
+
+"I'm sorry, Hermione, I didn't mean to," Luna said. "The wrackspurts do seem thicker than usual around here for this early in the term, so maybe that's why you didn't notice?"
+
+"Maybe," Hermione agreed with a bemused smile. "Luna, what exactly *are* wrackspurts, anyway?"
+
+
+
++++++
+
+
+

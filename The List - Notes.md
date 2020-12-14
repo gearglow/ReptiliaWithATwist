@@ -24,7 +24,7 @@ Analytical thinker. (how does it do what it does?)
 
 ### Luna
 
-Soul-mate #2. Enby (girlfae). Nominsexual.
+Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
 
 Observational thinker (what is it like?)
 
