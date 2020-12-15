@@ -2,9 +2,9 @@
 
 ## Summary
 
-Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously like The Good Place). The usual Reptilia28 challenge ensues, with a twist or two.
+Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously like The Good Place). The usual Reptilia28 Don't Fear the Reaper challenge ensues, with a twist or two.
 
-### Reptilia28 Challenge Details
+### Reptilia28 Don't Fear the Reaper Challenge Details
 
 > Harry is killed at 17 during the fight with Voldemort. He's sent to his Death's office (explained later) and finds out that this isn't the first time that this has happened.
 >
@@ -1994,7 +1994,4 @@ Hermione blushed. "No, not that, I meant sneaking up on me."
 
 ## Chapter 9
 
-
-
-
-
+History was uneventful, aside from the many odd looks people kept giving the 'new girl.' Charms, on the other hand... When Prof. Flitwick called out "Potter, Elysia" during roll, many of those looks changed to shock, and Elysia heard more than one person mutter, "oh, that's just *unfair!*"
