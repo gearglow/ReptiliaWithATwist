@@ -1674,7 +1674,7 @@ The moment was broken when Elysia let out an enormous yawn, and Mrs. Weasley sen
 
 The remainder of the summer passed quickly. Percy and Mr. Weasley were at the Ministry more often than not, dealing with the aftermath of the World Cup and the Death Eaters.
 
-Much to the delight of everyone, Lucius Malfoy had indeed been one of those petrified in full Death Eater regalia. He, along with the rest of those captured, were sentenced to five years for muggle-baiting and causing an international incident, among other things -- they all were raided by the DMLE for cause, as well.
+Much to the delight of everyone, Lucius Malfoy had indeed been one of those petrified in full Death Eater regalia. He, along with the rest of those captured, were sentenced to a minimum of three years for muggle-baiting and causing an international incident, among other things -- they all were raided by the DMLE for cause, as well.
 
 "Couldn't happen to a nicer bloke," Ron said when he heard.
 
@@ -1960,7 +1960,7 @@ Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun
 
 
 
-+++++
+### Hogwarts, Great Hall	1994/09/02	07:15
 
 
 
@@ -1994,4 +1994,20 @@ Hermione blushed. "No, not that, I meant sneaking up on me."
 
 ## Chapter 9
 
+### Hogwarts, Potions Classroom	1994/09/02	13:00
+
 History was uneventful, aside from the many odd looks people kept giving the 'new girl.' Charms, on the other hand... When Prof. Flitwick called out "Potter, Elysia" during roll, many of those looks changed to shock, and Elysia heard more than one person mutter, "oh, that's just *unfair!*"
+
+But all of that was nothing compared to Potions. Friday afternoons were double periods with the Slytherins (*always the Slytherins,* thought Elysia. *Are they* trying *to cause explosions?*), and the look on Malfoy's face as she entered was *priceless.*
+
+"Didn't realize Malfoy could get any more pale," Ron muttered.
+
+"And now he's blushing," Hermione added.
+
+Elysia smirked as the trio took their seats, Hermione sharing a table with Neville and Elysia with Ron. "He didn't even glare at me in the Great Hall today. Must've shaken him more than I thought on the train."
+
+"I'd've thought Hermione's right hook would've done that last year," Ron replied.
+
+"His daddy wasn't doing time in Azkaban last year, though," Elysia said.
+
+Just then Professor Snape swept into the room, in his usual dramatic fashion, caught sight of Elysia, turned around, and walked right back out again, the expression on his face never changing.

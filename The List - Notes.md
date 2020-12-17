@@ -5,6 +5,8 @@
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
 - Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
+- Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. Hogwarts has wards to protect from lightning strikes, and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together.
+- Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
 
 
 
@@ -38,15 +40,15 @@ Optimizing thinker. (where are the bottlenecks?)
 
 ## Elysia's Course Schedule, '94 - '95 Academic Year
 
-| MONDAY                                        | TUESDAY                     | WEDNESDAY     | THURSDAY        | FRIDAY                      |
-| --------------------------------------------- | --------------------------- | ------------- | --------------- | --------------------------- |
-| Herbology with the Hufflepuffs                | History of Magic            | free period   | Transfiguration | History of Magic            |
-| break                                         | break                       | break         | break           | break                       |
-| Care of Magical Creatures with the Slytherins | free period                 | Charms        | free period     | Charms                      |
-| lunch                                         | lunch                       | lunch         | lunch           | lunch                       |
-| Arithmancy                                    | Potions with the Slytherins | Arithmancy    | DADA            | Potions with the Slytherins |
-| Ancient Runes                                 | free period                 | Ancient Runes | DADA            | Potions with the Slytherins |
-| dinner                                        | dinner                      | dinner        | dinner          | dinner                      |
+| MONDAY                                        | TUESDAY                                | WEDNESDAY                  | THURSDAY                            | FRIDAY                      |
+| --------------------------------------------- | -------------------------------------- | -------------------------- | ----------------------------------- | --------------------------- |
+| Herbology with the Hufflepuffs                | History of Magic                       | free period                | Transfiguration with the Ravenclaws | History of Magic            |
+| break                                         | break                                  | break                      | break                               | break                       |
+| Care of Magical Creatures with the Slytherins | Transfiguration with the Ravenclaws    | Charms with the Ravenclaws | Herbology with the Hufflepuffs      | Charms with the Ravenclaws  |
+| lunch                                         | lunch                                  | lunch                      | lunch                               | lunch                       |
+| Arithmancy                                    | Potions with the Slytherins            | Arithmancy                 | DADA                                | Potions with the Slytherins |
+| Ancient Runes                                 | Astronomy (23:00) with the Hufflepuffs | Ancient Runes              | DADA                                | Potions with the Slytherins |
+| dinner                                        | dinner                                 | dinner                     | dinner                              | dinner                      |
 
 
 
