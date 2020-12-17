@@ -2011,3 +2011,17 @@ Elysia smirked as the trio took their seats, Hermione sharing a table with Nevil
 "His daddy wasn't doing time in Azkaban last year, though," Elysia said.
 
 Just then Professor Snape swept into the room, in his usual dramatic fashion, caught sight of Elysia, turned around, and walked right back out again, the expression on his face never changing.
+
+The students all looked at each other, most of them trying their hardest not to giggle. Finally, Elysia caught Neville's eye and they both burst out laughing.
+
+"What just happened?" Neville wheezed, finally catching his breath.
+
+"Wish I knew," Ron said.
+
+They'd all just settled down again when Professor Snape came back in, pointedly avoiding looking in Elysia's direction.
+
+"Potter, stay after class. Now, everyone turn to page..."
+
+
+
++++++
