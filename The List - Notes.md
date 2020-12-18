@@ -7,6 +7,7 @@
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 - Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. Hogwarts has wards to protect from lightning strikes, and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together.
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
+- Blaise's Pocket Boggart (a la [All According to Plan](https://www.fanfiction.net/s/13001792/1/All-According-to-Plan)) but the boggart turns into Blaise pulling out a pocket boggart, which turns into Blaise... *ad nauseum.*
 
 
 

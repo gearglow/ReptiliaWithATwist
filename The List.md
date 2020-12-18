@@ -2025,3 +2025,8 @@ They'd all just settled down again when Professor Snape came back in, pointedly 
 
 
 +++++
+
+
+
+Elysia packed up with the rest of the class, but stayed seated as the other students filed out. Finally, only she and Snape remained, eyeing each other warily.
+
