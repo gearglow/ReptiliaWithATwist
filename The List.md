@@ -2028,5 +2028,16 @@ They'd all just settled down again when Professor Snape came back in, pointedly 
 
 
 
-Elysia packed up with the rest of the class, but stayed seated as the other students filed out. Finally, only she and Snape remained, eyeing each other warily.
+Elysia packed up with the rest of the class, but stayed seated as the other students filed out. Finally, only she and Prof. Snape remained, eyeing each other warily.
 
+She wasn't really surprised when she felt the legilimency probe. She'd always figured that if *anyone* could read minds, it was Snape, and now that she knew what to look for, she could follow the probe straight back to its source.
+
+Apparently her resemblance to one Lily Evans was much more obvious now, and it had shaken him.
+
+*Subtle, Russ,* she sent along the commandeered probe. She watched gleefully as his eyes widened in shock, and smirked in a particularly Lily-ish way.
+
+"You- I- Oh Circe," Snape muttered, burying his face in his hands. "Lily?"
+
+"Um, no," Elysia said, with a hint of faux-innocence. "Lily's my mother. Or did you forget, for all these years?" She added pointedly.
+
+Snape glared at her.

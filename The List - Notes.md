@@ -5,9 +5,10 @@
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
 - Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
-- Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. Hogwarts has wards to protect from lightning strikes, and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together.
+- Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
 - Blaise's Pocket Boggart (a la [All According to Plan](https://www.fanfiction.net/s/13001792/1/All-According-to-Plan)) but the boggart turns into Blaise pulling out a pocket boggart, which turns into Blaise... *ad nauseum.*
+- Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindy following Dumbledore.
 
 
 
