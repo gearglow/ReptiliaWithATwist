@@ -417,29 +417,29 @@ Claymore knocked on a bronze pipe which was sticking out of the wall, then yelle
 
 Lockjaw entered the room a few minutes later, handed over a folder, and left again.
 
-> ### Holdings and Estate of the House of Potter
->
+#### Holdings and Estate of the House of Potter
+
 > #### Main Vault (#016) (2% interest, compounded annually)
 >
 > - 2,350,132 Galleons
-> - 16,362 Sickles
+>- 16,362 Sickles
 > - 1,793 Knuts
->
+> 
 > #### Storage Vault (#015) (safety deposit)
 >
 > - Deed: The Kiln, Red Wharf Bay, Wales (wards: Unplottable, Muggle-Repelling, security suite) 5mi^2^ - reusable portkey on file - see page 2
-> - Various personal effects - see page 6
->
+>- Various personal effects - see page 6
+> 
 > #### Trust Vault: Harry James Potter (#687) (5% interest, compounded annually)
 >
 > - 99,913 Galleons
-> - 2,064 Sickles
+>- 2,064 Sickles
 > - 1,683 Knuts
->
+> 
 > #### Notable Business Concerns
 >
 > - Fleamont's Filtres- 10% ownership - see page 8
-> - Other aggregate shares - see page 12
+>- Other aggregate shares - see page 12
 
 The rest of the folder was fine-print regarding the farm and business, but what caught Harry's attention (aside from the sheer amount) was that note about personal effects. *Perhaps something of my parents'?* Catching Claymore's attention, she asked, "Claymore, a couple of things have caught my attention. First, the portkey to the property at Red Wharf. Am I able to request use of that now, or do I need to wait until I come of age?"
 
@@ -1087,6 +1087,7 @@ Elysia threw herself backwards into the chair. "No pressure, then," she said mor
 > - ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
 > - ~~Find and read the primer on Acting Naturally~~
 > - ~~Find and read the primers on Strategy, Tactics, and the Art of War~~
+> - ~~Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup~~
 
 
 
@@ -1382,6 +1383,8 @@ Mrs. Weasley gave them each a hug and a bundle of egg sandwiches as she chivvied
 
 After hiking through the cold darkness of the pre-dawn morning, up a dew-slippery hillside for nearly an hour, they finally reached the top of Stoatshead Hill, where they encountered the Diggories. Amos, the father, had a bad habit of bragging about his son to the detriment of everyone else, especially Elysia. Cedric, the son, for his part was thoroughly embarrassed about it, but Hermione locked eyes with Elysia and, over passive legilimency, sent: *doesn't he just have the most* punchable *face?*
 
+It was all Elysia could do not to laugh out loud at that.
+
 Eventually, everyone managed to arrange themselves so they could all reach the portkey, which turned out to be a mangy old boot. Elysia and Hermione bent their knees and, alone of the group, managed to stay standing when they arrived at their destination.
 
 "Seven past five from Stoatshead Hill," a voice said.
@@ -1608,7 +1611,7 @@ Elysia scoffed. "I'm sure he did. But that doesn't change the facts. Not like I 
 
 The conversation, though stilted at first, slowly grew more spirited again as they recounted the match. Until, that is, Ginny started snoring. Mr. Weasley finally sent them all to bed.
 
-Elysia, however, remembered Janet's warning, and began carving border stones for an anti-apparition ward. When the screams started and Mr. Weasley came in to tell them all to run, she dutifully woke everyone, then told Robbie to lay the stones around the Death Eaters.
+Elysia, however, remembered Janet's warning, and began carving border stones for an anti-apparition ward. When the screams started and Mr. Weasley came in to tell them all to run, she told Robbie to lay the stones around the Death Eaters, then dutifully woke everyone.
 
 Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion-self was. All in all it took maybe five minutes.
 
@@ -1912,7 +1915,7 @@ Elysia grinned as she loosened her tie. "Hullo, Parvati. How was your summer?"
 
 Parvati squinted at her. "How do you know my name -- wait a minute. *Harry!?*"
 
-"It's Elysia now," she responded. "Or Ellie for short. Turns out that was a nickname of my mum's back in the day."
+"It's Elysia now," she responded. "Or Ellie for short. Turns out that was a nickname of my mum's back in the day. Y'know, L. E.? Lily Evans?"
 
 "Damn," Parvati said. "Right heart-breaker, you are. D'you have any idea how many girls are going to be disappointed that you've turned out to be a girl?"
 
@@ -1998,7 +2001,7 @@ Hermione blushed. "No, not that, I meant sneaking up on me."
 
 History was uneventful, aside from the many odd looks people kept giving the 'new girl.' Charms, on the other hand... When Prof. Flitwick called out "Potter, Elysia" during roll, many of those looks changed to shock, and Elysia heard more than one person mutter, "oh, that's just *unfair!*"
 
-But all of that was nothing compared to Potions. Friday afternoons were double periods with the Slytherins (*always the Slytherins,* thought Elysia. *Are they* trying *to cause explosions?*), and the look on Malfoy's face as she entered was *priceless.*
+But all of that was nothing compared to Potions. Friday afternoons were double periods with the Slytherins (*always the Slytherins,* thought Elysia. *Are they* trying *to set us up for confrontations?*), and the look on Malfoy's face as she entered was *priceless.*
 
 "Didn't realize Malfoy could get any more pale," Ron muttered.
 
@@ -2008,9 +2011,11 @@ Elysia smirked as the trio took their seats, Hermione sharing a table with Nevil
 
 "I'd've thought Hermione's right hook would've done that last year," Ron replied.
 
-"His daddy wasn't doing time in Azkaban last year, though," Elysia said.
+Hermione blushed at that, while Neville's eyes went wide. "Wait, what? When did you *punch Malfoy?*"
 
-Just then Professor Snape swept into the room, in his usual dramatic fashion, caught sight of Elysia, turned around, and walked right back out again, the expression on his face never changing.
+"His daddy wasn't doing time in Azkaban last year, though," Elysia said. "And it was after Creatures last year, Nev, when Hagrid found out that Buckbeak was going to be put down. Malfoy was gloating, and Hermione wasn't having it."
+
+Just then Professor Snape swept into the room, in his usual dramatic fashion. He caught sight of Elysia, turned around, and walked right back out again, the expression on his face never changing.
 
 The students all looked at each other, most of them trying their hardest not to giggle. Finally, Elysia caught Neville's eye and they both burst out laughing.
 
@@ -2041,3 +2046,5 @@ Apparently her resemblance to one Lily Evans was much more obvious now, and it h
 "Um, no," Elysia said, with a hint of faux-innocence. "Lily's my mother. Or did you forget, for all these years?" She added pointedly.
 
 Snape glared at her.
+
+"Anyway, was there something you wanted, professor?"
