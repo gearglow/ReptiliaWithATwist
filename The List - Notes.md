@@ -94,7 +94,6 @@ Power is more a function of your individual *internal* harmony. That's why magic
 - Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance
 - Bind Dobby as your house elf
 - Take the Knight Bus to Gringotts ASAP and get a full accounting
-- Establish a training regimen (see Appendix A)
 - Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
 - Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic
 - Find and read the primer on Apparition
@@ -108,7 +107,7 @@ Power is more a function of your individual *internal* harmony. That's why magic
 - Find and read the primer on Acting Naturally
 - Find and read the primers on Strategy, Tactics, and the Art of War
 - Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup
-- Plan accordingly
+  - Plan accordingly
 - Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German
 - Stop the Twins from betting and losing their life savings
 - Mess with Fudge
@@ -116,3 +115,4 @@ Power is more a function of your individual *internal* harmony. That's why magic
 - Come out to the Weasleys
 - Deal with transition and switching-electives paperwork for Hogwarts
 - Deal with Snape
+

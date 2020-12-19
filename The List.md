@@ -1088,6 +1088,7 @@ Elysia threw herself backwards into the chair. "No pressure, then," she said mor
 > - ~~Find and read the primer on Acting Naturally~~
 > - ~~Find and read the primers on Strategy, Tactics, and the Art of War~~
 > - ~~Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup~~
+>   - ~~Plan accordingly~~
 
 
 
@@ -1469,6 +1470,7 @@ Elysia decided she'd better pop into her mindscape and see if there were any mor
 
 > To Do
 >
+> - ~~Stop the Twins from betting and losing their life savings~~
 > - ~~Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German~~
 
 As the afternoon wore on, the lanes between the tents began to fill with salesmen, with souvenirs of all sorts. Ron purchased a dancing shamrock hat; an animated figurine of Viktor Krum, the Bulgarian seeker; and a large green luminous rosette.
@@ -1573,6 +1575,10 @@ The Bulgarian Minister shrugged. "It vos funny."
 
 Elysia caught his eye and burst out laughing.
 
+> To Do
+>
+> - ~~Mess with Fudge~~
+
 
 
 +++++
@@ -1614,6 +1620,10 @@ The conversation, though stilted at first, slowly grew more spirited again as th
 Elysia, however, remembered Janet's warning, and began carving border stones for an anti-apparition ward. When the screams started and Mr. Weasley came in to tell them all to run, she told Robbie to lay the stones around the Death Eaters, then dutifully woke everyone.
 
 Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion-self was. All in all it took maybe five minutes.
+
+> To Do
+>
+> - ~~Neutralize the rioting Death Eaters~~
 
 "Harry? You okay?" Hermione called at the loud crack that sounded as Elysia joined them.
 
@@ -1718,6 +1728,10 @@ Hermione couldn't keep the smirk from her face. "It kind of says, 'I don't care 
 Elysia raised an eyebrow at her, grinning. "Oh *really?*"
 
 Hermione blushed the brightest of them all.
+
+> To Do
+>
+> - ~~Come out to the Weasleys~~
 
 
 
