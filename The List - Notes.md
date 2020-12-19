@@ -9,7 +9,7 @@
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
 - Blaise's Pocket Boggart (a la [All According to Plan](https://www.fanfiction.net/s/13001792/1/All-According-to-Plan)) but the boggart turns into Blaise pulling out a pocket boggart, which turns into Blaise... *ad nauseum.*
 - Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindy following Dumbledore.
-
+- > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
 
 ## Characters
