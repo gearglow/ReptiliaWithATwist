@@ -2053,12 +2053,34 @@ She wasn't really surprised when she felt the legilimency probe. She'd always fi
 
 Apparently her resemblance to one Lily Evans was much more obvious now, and it had shaken him.
 
-*Subtle, Russ,* she sent along the commandeered probe. She watched gleefully as his eyes widened in shock, and smirked in a particularly Lily-ish way.
+*Subtle, Russ,* she sent along the commandeered probe, using the childhood nickname her mother had come up with for Snape. She watched gleefully as his eyes widened in shock, and smirked in a particularly Lily-ish way as she grabbed the probe and *tugged* Snape into Elysium.
 
-"You- I- Oh Circe," Snape muttered, burying his face in his hands. "Lily?"
+They manifested in the living room to find James and Lily waiting for them. Before anyone else could say anything, James stood.
 
-"Um, no," Elysia said, with a hint of faux-innocence. "Lily's my mother. Or did you forget, for all these years?" She added pointedly.
+"Severus, I owe you an apology for everything back in our school days. We were all terrible and for my part I'm sorry."
 
-Snape glared at her.
+Snape abruptly sat down, gaping, as his knees gave out. "What-? How-?"
 
-"Anyway, was there something you wanted, professor?"
+"I think you broke him, Dad," Elysia giggled.
+
+Snape shook his head abruptly. "Where are we? How are you here, now, *speaking* to me?"
+
+"We're in my mindscape, Professor," Elysia answered. "Long story short, I died, got a whole bunch of afterlife training stuffed into my subconscious, and got sent back to the start of this past summer with a mindscape and memory-constructs of my parents. For all intents and purposes, they *are* my parents, at least their minds."
+
+Snape stared. "*Mindscape? Memory-constructs?*"
+
+"I don't actually *remember* the afterlife," Elysia continued, "or any past lives. But this way I at least have them around to give me parental guidance. Not like the Dursleys were ever any good for that, certainly."
+
+"You live with *Petunia?*" Snape said. "I'm going to *kill* Albus."
+
+"Get in line," Lily said. "And on that note, I've got a bone to pick with you."
+
+Snape gulped.
+
+James ushered Elysia outside. "We don't need to be there for this part," he said. "What say we go flying 'til they're done?"
+
+
++++++
+
+
+...
