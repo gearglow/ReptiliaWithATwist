@@ -77,6 +77,29 @@ To compare this to light, or a radio, this is more about the frequency than the 
 Power is more a function of your individual *internal* harmony. That's why magic is so heavily intent-based. The stronger your intent, the more focused and *unified* you are in your intent, the more powerful your magic is.
 
 
+## Politics
+
+### Factions
+
+#### The Light 
+
+Dumbledore's faction. Traditionalist, authoritarian. Claim to be progressive, but are actually centrist. Paternalistic about the Statute, muggles, blood purity... everything, really. Pro-censorship. Pro-restriction on personal freedoms.
+
+
+#### The Dark
+
+The Death Eater faction. Traditionalist, authoritarian. Conservative extremists. Fascists, really. Against restrictions on personal freedoms and censorship, but only for purebloods. Didn't start out that way, but the polarizing effect of Voldemort's Blood War affected The Dark particularly strongly.
+
+
+#### The Grey
+
+Minority Progressives. Pragmatic. Pro-Reform (or revolution if the opportunity arises) about pretty much everything Traditionalist. Anti-Authoritarian, Anti-Statute, Anti-Blood-Puritan. Against restrictions on personal freedoms and censorship for everyone, not just purebloods.
+
+
+#### Unaligned
+
+What it says on the tin.
+
 
 ## The List
 

@@ -2071,7 +2071,7 @@ Snape stared. "*Mindscape? Memory-constructs?*"
 
 "I don't actually *remember* the afterlife," Elysia continued, "or any past lives. But this way I at least have them around to give me parental guidance. Not like the Dursleys were ever any good for that, certainly."
 
-"You live with *Petunia?*" Snape said. "I'm going to *kill* Albus."
+"Wait. You live with *Petunia?*" Snape exclaimed, aghast. "I'm going to *kill* Albus."
 
 "Get in line," Lily said. "And on that note, I've got a bone to pick with you."
 
@@ -2083,4 +2083,22 @@ James ushered Elysia outside. "We don't need to be there for this part," he said
 +++++
 
 
-...
+Eventually Elysia and Snape returned from Elysia's mindscape, only a minute or two after they'd entered.
+
+"Ms. Potter," Snape said, somewhat hesitantly. "It seems I owe you an apology for my treatment of you these past years. There was no excuse and I shall endeavor to better my behaviour, both towards you and in general."
+
+"Mum set you straight?" Elysia asked, trying to suppress a grin.
+
+"At great length and substantial volume," Snape agreed sardonically.
+
+"Can't say better than that," Elysia said with a shrug. "Clean slate, Professor?"
+
+"I would very much appreciate that, Ms. Potter," Snape replied. "Now off to dinner with you."
+
+"Yes, sir," she said. "And maybe someday you'll be comfortable telling me why you hated me so much in the first place."
+
+
++++++
+
+
+Elysia caught up with Ron and Hermione outside the Great Hall.
