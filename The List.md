@@ -624,7 +624,7 @@ Elysia opened the binder on the desk.
 
 > To Do
 >
-> - Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic
+> - Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic
 > - Find and read the primer on Apparition
 > - Establish a training regimen (see Appendix A)
 > - Check out The Kiln at Red Wharf Bay
@@ -637,7 +637,7 @@ Popping back to the real world, she got on with it. Robbie joined her, and the t
 
 > To Do
 >
-> - ~~Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic~~
+> - ~~Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic~~
 > - ~~Find and read the primer on Apparition~~
 > - ~~Establish a training regimen (see Appendix A)~~
 > - Check out The Kiln at Red Wharf Bay
@@ -830,7 +830,42 @@ Robbie laughed so hard he fell over.
 
 ## Chapter 5: Was This A Date?
 
-The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent reading her family's journals, writing to friends, fiddling around with projects (such as adding night-vision runes to her glasses), finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+The next day, Elysia noticed an addition to her to-do list. *Wait, blood wards? Is* that *why Dumbledore keeps sending me back here?*
+
+> To Do
+>
+> - Find and read Divination And Privacy: Information Assurance In The Magical World
+> - Examine the blood wards Dumbledore claims to have put on #4 Privet Drive
+
+After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible. Such as ward-lines, which in this case glowed an angry blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
+
+Flipping it over, they found a relatively straightforward ward schema and a smear of red. She checked the adjacent stones, too, just in case, but they were blank. *Hmm, possibilities,* she thought.
+
+Between the two of them, they were able to decode the ward schema. It was, in Elysia's divinely-expert opinion, amateurish at best. "Mage-repelling -- inverted muggle-repelling, really -- with a whitelist, some ties to what I'm assuming is my blood there... a life-monitor, remote notifier link, an arithmantic descriptor array -- for the blood protection thing, looks like..."
+
+"Are those *emotion-amplifiers?*" Robbie gasped incredulously.
+
+"What the -- they *are!* And linked to the familial descriptor array, as if it's meant to amplify familial bonds, but... I'm not in that array. And it amplifies *all* emotions, not just positive ones. And that's only linked as 'targets,' not with any specifics... Oh, that's just *sloppy!*"
+
+"That explains why the Dursleys are such caricatures of normality, I suppose," Robbie said.
+
+"Right, then, one more summer project. Fixing this absolute *garbage* schema. Think we can do it without tripping the notifier?" Elysia said, grinning impishly.
+
+"Definitely," Robbie said, grinning back.
+
+
+
++++++
+
+
+
+The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent on everything else: reading her family's journals, writing to friends, fiddling around with projects, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
+
+Elysia found that she really enjoyed runecraft, and aside from making some enhancements to her new glasses (such as adding night-vision, Mage Sight, and a thaumic analytics HUD) she and Robbie also made quite a few adjustments to the wards at the Dursley residence. 
+
+They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped.
+
+They also added Trace shielding, which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
 
 Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
 
@@ -2063,7 +2098,7 @@ Snape abruptly sat down, gaping, as his knees gave out. "What-? How-?"
 
 "I think you broke him, Dad," Elysia giggled.
 
-Snape shook his head abruptly. "Where are we? How are you here, now, *speaking* to me?"
+Snape shook his head to clear it. "Where are we? How are you here, now, *speaking* to me?"
 
 "We're in my mindscape, Professor," Elysia answered. "Long story short, I died, got a whole bunch of afterlife training stuffed into my subconscious, and got sent back to the start of this past summer with a mindscape and memory-constructs of my parents. For all intents and purposes, they *are* my parents, at least their minds."
 

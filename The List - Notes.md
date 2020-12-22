@@ -118,13 +118,15 @@ What it says on the tin.
 - ~~Bind Dobby as your house elf~~
 - ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
 - ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
-- ~~Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic~~
+- ~~Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic~~
 - ~~Find and read the primer on Apparition~~
 - ~~Establish a training regimen (see Appendix A)~~
 - ~~Check out The Kiln at Red Wharf Bay~~
 - ~~Find and read the primers on Jiu Jitsu, Krav Maga, Shaolin Kung Fu, and Other Hard-Style Martial Arts~~
 - ~~Find and read the primer on Jeet Kun Do and Elysia's Combat Style: Stage 2~~
 - ~~Read the family journals from the vault~~
+- ~~Find and read Divination And Privacy: Information Assurance In The Magical World~~
+- ~~Examine the wards Dumbledore claims to have put on #4 Privet Drive~~
 - ~~Train Hermione in mind magic, wandless casting, and tai chi~~
 - ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
 - ~~Find and read the primer on Acting Naturally~~
