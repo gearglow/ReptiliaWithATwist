@@ -174,7 +174,7 @@ James and Lily were both brilliant, though each had their specialties. And it tu
 
 And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too. This, coupled with her animagus training, of course led to some interesting possibilities which were thoroughly explored.
 
-She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, deportment, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
+She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, decorum, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
 
 Eventually, after a time impossible to quantify by mortal standards, she was ready.
 
@@ -2080,10 +2080,13 @@ Snape gulped.
 James ushered Elysia outside. "We don't need to be there for this part," he said. "What say we go flying 'til they're done?"
 
 
+
+
 +++++
 
 
-Eventually Elysia and Snape returned from Elysia's mindscape, only a minute or two after they'd entered.
+
+Eventually Elysia and a much-chastened Snape returned from Elysia's mindscape, only a minute or two after they'd entered.
 
 "Ms. Potter," Snape said, somewhat hesitantly. "It seems I owe you an apology for my treatment of you these past years. There was no excuse and I shall endeavor to better my behaviour, both towards you and in general."
 
@@ -2098,7 +2101,10 @@ Eventually Elysia and Snape returned from Elysia's mindscape, only a minute or t
 "Yes, sir," she said. "And maybe someday you'll be comfortable telling me why you hated me so much in the first place."
 
 
+
+
 +++++
+
 
 
 Elysia caught up with Ron and Hermione outside the Great Hall.

@@ -105,37 +105,57 @@ What it says on the tin.
 
 #### To Do
 
-- Find and read the primer on Mind Magic
-- Find and read How To Learn
-- Find and read Processing Complex PTSD and Abuse
-- Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
-- Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
-- Find and read the primers on Runes, Wards, and Enchanting
-- Find and read the primer on Wandless Magic
-- Find and read the primer on Illusions and Glamours
-- Find and read Harry's Combat Style: Stage 1
-- Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance
-- Bind Dobby as your house elf
-- Take the Knight Bus to Gringotts ASAP and get a full accounting
-- Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
-- Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic
-- Find and read the primer on Apparition
-- Establish a training regimen (see Appendix A)
-- Check out The Kiln at Red Wharf Bay
-- Find and read the primers on Jiu Jitsu, Krav Maga, Shaolin Kung Fu, and Other Hard-Style Martial Arts
-- Find and read the primer on Jeet Kun Do and Elysia's Combat Style: Stage 2
-- Read the family journals from the vault
-- Train Hermione in mind magic, wandless casting, and tai chi
-- Find and read the primer on Countering Control: Potions, Spells, and Debts
-- Find and read the primer on Acting Naturally
-- Find and read the primers on Strategy, Tactics, and the Art of War
-- Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup
-  - Plan accordingly
-- Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German
-- Stop the Twins from betting and losing their life savings
-- Mess with Fudge
-- Neutralize the rioting Death Eaters
-- Come out to the Weasleys
-- Deal with transition and switching-electives paperwork for Hogwarts
-- Deal with Snape
+- ~~Find and read the primer on Mind Magic~~
+- ~~Find and read How To Learn~~
+- ~~Find and read Processing Complex PTSD and Abuse~~
+- ~~Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)~~
+- ~~Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema~~
+- ~~Find and read the primers on Runes, Wards, and Enchanting~~
+- ~~Find and read the primer on Wandless Magic~~
+- ~~Find and read the primer on Illusions and Glamours~~
+- ~~Find and read Harry's Combat Style: Stage 1~~
+- ~~Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance~~
+- ~~Bind Dobby as your house elf~~
+- ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
+- ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
+- ~~Find and read the primers on Math, Signal Processing, Bonds, and Soul Magic~~
+- ~~Find and read the primer on Apparition~~
+- ~~Establish a training regimen (see Appendix A)~~
+- ~~Check out The Kiln at Red Wharf Bay~~
+- ~~Find and read the primers on Jiu Jitsu, Krav Maga, Shaolin Kung Fu, and Other Hard-Style Martial Arts~~
+- ~~Find and read the primer on Jeet Kun Do and Elysia's Combat Style: Stage 2~~
+- ~~Read the family journals from the vault~~
+- ~~Train Hermione in mind magic, wandless casting, and tai chi~~
+- ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
+- ~~Find and read the primer on Acting Naturally~~
+- ~~Find and read the primers on Strategy, Tactics, and the Art of War~~
+- ~~Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup~~
+  - ~~Plan accordingly~~
+- ~~Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German~~
+- ~~Stop the Twins from betting and losing their life savings~~
+- ~~Mess with Fudge~~
+- ~~Neutralize the rioting Death Eaters~~
+- ~~Come out to the Weasleys~~
+- ~~Deal with transition and switching-electives paperwork for Hogwarts~~
+- ~~Deal with Snape~~
+- Figure out things with Hermione and Luna
+- Talk to Janet about the Triwizard Tournament and fallout thereof
+- Leverage being roped into the Tournament to become emancipated
+- Take over the affairs of House Potter
+- Find and read Curse-Breaking For Fun and Profit
+- Find and read The Horcrux-Hunting Handbook
+- Deal with the dragon in the First Task
+- Dazzle at the Yule Ball
+- Rescue the hostage in the Second Task
+- Seek & Destroy the horcrux in Slytherin's Locket
+  - Get Sirius to help access 12 Grimmauld Place 
+- Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
+- Seek & Destroy the horcrux in Ring (Gaunt Shack)
+- Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
+- Get to the Triwizard Cup first in the Third Task
+- Seek & Destroy the Snake (Little Hangleton Graveyard)
+- Seek & Destroy Voldemort (_after_ he reincorporates)
+- Capture Peter Pettigrew
+- Disarm Dumbledore and take ownership of the Elder Wand
+- Break Dumbledore's hold on society
 
