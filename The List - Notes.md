@@ -125,7 +125,7 @@ What it says on the tin.
 - ~~Find and read the primers on Jiu Jitsu, Krav Maga, Shaolin Kung Fu, and Other Hard-Style Martial Arts~~
 - ~~Find and read the primer on Jeet Kun Do and Elysia's Combat Style: Stage 2~~
 - ~~Read the family journals from the vault~~
-- ~~Find and read Divination And Privacy: Information Assurance In The Magical World~~
+- ~~Find and read Divination And Privacy: Information Control In The Magical World~~
 - ~~Examine the wards Dumbledore claims to have put on #4 Privet Drive~~
 - ~~Train Hermione in mind magic, wandless casting, and tai chi~~
 - ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
@@ -140,11 +140,13 @@ What it says on the tin.
 - ~~Come out to the Weasleys~~
 - ~~Deal with transition and switching-electives paperwork for Hogwarts~~
 - ~~Deal with Snape~~
+- Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 - Figure out things with Hermione and Luna
 - Talk to Janet about the Triwizard Tournament and fallout thereof
 - Leverage being roped into the Tournament to become emancipated
 - Take over the affairs of House Potter
 - Find and read Curse-Breaking For Fun and Profit
+- Find and read Magica Obscura: Shadow Magic, Rune-Casting, And Other Arts The Ministry Doesn't Want You To Know
 - Find and read The Horcrux-Hunting Handbook
 - Deal with the dragon in the First Task
 - Dazzle at the Yule Ball

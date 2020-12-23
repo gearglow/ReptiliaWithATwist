@@ -834,7 +834,7 @@ The next day, Elysia noticed an addition to her to-do list. *Wait, blood wards? 
 
 > To Do
 >
-> - Find and read Divination And Privacy: Information Assurance In The Magical World
+> - Find and read Divination And Privacy: Information Control In The Magical World
 > - Examine the blood wards Dumbledore claims to have put on #4 Privet Drive
 
 After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible. Such as ward-lines, which in this case glowed an angry blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
@@ -2143,3 +2143,7 @@ Eventually Elysia and a much-chastened Snape returned from Elysia's mindscape, o
 
 
 Elysia caught up with Ron and Hermione outside the Great Hall.
+
+"What'd Snape want?" Ron asked.
+
+Elysia thought for a moment. "Honestly? I think he had a bit of an identity crisis seeing me not looking like my dad anymore. Anyway, we cleared the air a bit."
