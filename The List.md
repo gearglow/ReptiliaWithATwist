@@ -841,7 +841,7 @@ After reading the primer and finishing their morning workout, she and Robbie sta
 
 Flipping it over, they found a relatively straightforward ward schema and a smear of red. She checked the adjacent stones, too, just in case, but they were blank. *Hmm, possibilities,* she thought.
 
-Between the two of them, they were able to decode the ward schema. It was, in Elysia's divinely-expert opinion, amateurish at best. "Mage-repelling -- inverted muggle-repelling, really -- with a whitelist, some ties to what I'm assuming is my blood there... a life-monitor, remote notifier link, an arithmantic descriptor array -- for the blood protection thing, looks like..."
+Between the two of them, they were able to decode the ward schema. It was, in Elysia's divinely-expert opinion, amateurish at best. "Mage-repelling -- inverted muggle-repelling, really -- with a whitelist, some ties to what I'm assuming is my blood there... a life-monitor, remote notifier link, ooh, *nasty* anti-Dark Mark ward... an arithmantic descriptor array -- for the blood protection thing, looks like..."
 
 "Are those *emotion-amplifiers?*" Robbie gasped incredulously.
 
@@ -861,9 +861,9 @@ Between the two of them, they were able to decode the ward schema. It was, in El
 
 The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent on everything else: reading her family's journals, writing to friends, fiddling around with projects, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-Elysia found that she really enjoyed runecraft, and aside from making some enhancements to her new glasses (such as adding night-vision, Mage Sight, and a thaumic analytics HUD) she and Robbie also made quite a few adjustments to the wards at the Dursley residence. 
+Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, Mage Sight, and a thaumic analytics HUD -- with which she was particularly pleased, as it tied back to a separate schema stone she'd shrunk down and wore as a pendant. This gave her lots of room to add features later, too. 
 
-They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped.
+She and Robbie also made quite a few adjustments to the wards at the Dursley residence. They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped, and by the time next summer came around, hopefully they wouldn't be nearly as hostile.
 
 They also added Trace shielding, which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
 
