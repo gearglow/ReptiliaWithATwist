@@ -12,6 +12,46 @@
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
 
+## Cool Magic Elysia Can Do
+
+- Contingent spells
+- Space-warping (even redirects Unforgivables)
+- Touch spell channeling
+- Shifting into magical (or not!) beings complete with powers (gorgon's petrifying gaze, banshee's killing scream, etc.)
+- Partial shifting (basilisk gaze in otherwise human shape, etc.)
+- Runic Casting - carve runic schema into the aether
+- Rune-Hacking - break, hijack, and reshape existing wards and enchantments
+- Mage-Sight - see and interpret magic
+- Wandless and wordless casting, inc. freeform effects
+- On-the-fly spell-hacking
+- Scrying
+- Unasisted flight
+- Healing Arts
+- Mind Magic in all its overpowered glory
+  - Knowledge transfer, both ways
+  - Reading surface thoughts, emotions, etc.
+  - Projecting surface thoughts, emotions, etc.
+  - Affecting others' thoughts (compulsion, domination, etc.)
+  - Control over instincts
+  - Memory modification (and blocking)
+  - Dream-walking
+  - Viewing/copying memories
+  - Speed-reading
+  - Eidetic memory
+  - Rapid learning
+  - Altered time perception and reactions
+  - Defence against mind magic
+  - Line-of-sight or Bond-linked telepathy
+- "Dark" Arts (restricted, banned, or lost magic)
+  - Blood Magic
+  - Shadow Walking
+  - Subsumation
+  - Soul Magic
+  - Bio-alchemy
+  - Rituals
+  - Necromancy
+  - Sympathetic Magic
+
 ## Characters
 
 ### Elysia
@@ -93,7 +133,7 @@ The Death Eater faction. Traditionalist, authoritarian. Conservative extremists.
 
 #### The Grey
 
-Minority Progressives. Pragmatic. Pro-Reform (or revolution if the opportunity arises) about pretty much everything Traditionalist. Anti-Authoritarian, Anti-Statute, Anti-Blood-Puritan. Against restrictions on personal freedoms and censorship for everyone, not just purebloods.
+Minority Progressives. Pragmatic. Pro-Reform (or revolution if the opportunity arises) about pretty much everything Traditionalist. Anti-Authoritarian, Anti-Statute, Anti-Blood-Puritan. Against restrictions on personal freedoms and censorship for everyone, not just purebloods. Not anti-Tradition *per se,* but pro-reform for a less toxic society. Ancoms, really, in the more extreme members. This is the leftist party.
 
 
 #### Unaligned
@@ -145,6 +185,7 @@ What it says on the tin.
 - Talk to Janet about the Triwizard Tournament and fallout thereof
 - Leverage being roped into the Tournament to become emancipated
 - Take over the affairs of House Potter
+- Find and read Magician, Heal Thyself
 - Find and read Curse-Breaking For Fun and Profit
 - Find and read Magica Obscura: Shadow Magic, Rune-Casting, And Other Arts The Ministry Doesn't Want You To Know
 - Find and read The Horcrux-Hunting Handbook
