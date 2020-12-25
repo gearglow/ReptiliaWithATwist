@@ -3,7 +3,8 @@
 ## Plot Points
 
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
-- Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
+- Neville x Ron? - they balance each other out in temperament, and commiserate over their self-esteem issues.
+- Draco x Ron - they really are rather similar in a lot of ways... 
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 - Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
@@ -22,9 +23,9 @@
 - Partial shifting (basilisk gaze in otherwise human shape, etc.)
 - Runic Casting - carve runic schema into the aether
 - Rune-Hacking - break, hijack, and reshape existing wards and enchantments
+- On-the-fly spell-hacking
 - Mage-Sight - see and interpret magic
 - Wandless and wordless casting, inc. freeform effects
-- On-the-fly spell-hacking
 - Scrying
 - Unassisted flight
 - Healing Arts
