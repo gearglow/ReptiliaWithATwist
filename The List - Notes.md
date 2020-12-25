@@ -11,6 +11,7 @@
 - Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindy following Dumbledore.
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
+- "Look! Up in the sky!" "It's a bird!" "It's a plane!" Colin Creevey yelled. "It's Beauxbatons!"
 
 ## Cool Magic Elysia Can Do
 
@@ -25,7 +26,7 @@
 - Wandless and wordless casting, inc. freeform effects
 - On-the-fly spell-hacking
 - Scrying
-- Unasisted flight
+- Unassisted flight
 - Healing Arts
 - Mind Magic in all its overpowered glory
   - Knowledge transfer, both ways
@@ -91,6 +92,14 @@ Optimizing thinker. (where are the bottlenecks?)
 | Arithmancy                                    | Potions with the Slytherins            | Arithmancy                 | DADA                                | Potions with the Slytherins |
 | Ancient Runes                                 | Astronomy (23:00) with the Hufflepuffs | Ancient Runes              | DADA                                | Potions with the Slytherins |
 | dinner                                        | dinner                                 | dinner                     | dinner                              | dinner                      |
+
+
+
+## Elysia's Training Routine
+
+> A comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm (or several, at more advanced stages) for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
+
+> While she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
 
 
 

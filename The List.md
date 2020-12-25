@@ -629,7 +629,7 @@ Elysia opened the binder on the desk.
 > - Establish a training regimen (see Appendix A)
 > - Check out The Kiln at Red Wharf Bay
 
-After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
+After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm (or several, at more advanced stages) for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
 
 From yesterday's reading, she knew that, while she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
 
@@ -2142,8 +2142,40 @@ Eventually Elysia and a much-chastened Snape returned from Elysia's mindscape, o
 
 
 
-Elysia caught up with Ron and Hermione outside the Great Hall.
+Elysia caught up with Ron and Hermione at the doors to the Great Hall.
 
 "What'd Snape want?" Ron asked.
 
 Elysia thought for a moment. "Honestly? I think he had a bit of an identity crisis seeing me not looking like my dad anymore. Anyway, we cleared the air a bit."
+
+"Think you can clear the *way* a bit, while you're at it?" Malfoy's voice said from behind them. "Some of us would like dinner."
+
+"Shove off, Malfoy," Ron started, stepping towards him.
+
+"Ron --" Elysia started, even as she and Hermione stepped out of the doorway. But it was too late, Malfoy and Ron were already hurling insults and ignoring everyone else.
+
+"Honestly, those two," Hermione muttered to her, rolling her eyes.
+
+"Right? They're like sodium and water," Elysia replied. "You'd think their flirting would've moved past tugging on each other's pig-tails by now," she added, rather more loudly.
+
+Hermione burst out laughing, even as both Ron and Malfoy both shot her a dirty look.
+
+"And anyway," Ron said, turning back to Malfoy, "at least *my* dad's not in the paper for being an evil git! Does you mum prefer him as a glorified lawn ornament, or as dementor chow? My bet's the statue -- probably the only time it's gotten hard since she had you!"
+
+Ron had clearly gone too far. With an inarticulate growl, Malfoy leapt at him, knocking them both to the floor, scattering students in their wake as they wrestled around.
+
+"Here now, what's all this? Break it up, you two!" Professor Moody came down the stairs. The boys ignored him, so with a grunt he drew his wand and cast a stream of pale blue spellfire at them. Elysia's glasses identified it as a freeform human-to-animal transfiguration, and sure enough when the light faded they saw two long, furry creatures, still locked in combat. One had white fur, the other red.
+
+"Break it up, I said!" Professor Moody waved his wand again, and the two creatures began bouncing up and down on the floor of the Entrance Hall, exactly as if Moody were dribbling a basketball.
+
+"Alastor!" Prof. McGonagall shouted, dashing down the stairs towards them. "What in Merlin's name are you doing?"
+
+"Teaching," Moody answered, still focusing on the two bouncing creatures.
+
+"Are those *students!?*" McGonagall shrieked, launching into a rant about the proper way to discipline students, which apparently was _not this._
+
+As Moody's distraction caused the bouncing to let up, Elysia and Hermione scooped up the creatures and petted them soothingly on the back. "Aww, you're so much more pleasant like this," Elysia cooed to the white ferret she was holding.
+
+"Maybe we should ask Professor McGonagall to leave them like this for a bit," Hermione suggested with a smirk. 
+
+The white one actually seemed to relax a bit at that, but the red one started squirming frantically and making an odd growling noise.
