@@ -114,7 +114,7 @@ Harry looked even more confused, somehow. Eleanor sighed. "Jeez, kid, get a radi
 
 Harry shook her head. Pulling herself together finally, she asked, "So, what, I need to go back, kill the Dark Plonker once and for all, get the girl -- girls? -- *be* a girl, and live to a ripe old age? How am I supposed to do that if I keep forgetting everything every time I go back?"
 
-Eleanor thought for a minute, then grinned. "Janet!"
+Eleanor thought for a minute, then grinned. "Cheat like crazy. Janet!"
 
 
 
@@ -1686,7 +1686,7 @@ Later, Mr. Weasley told them that they'd found Winky the house-elf with Ron's wa
 
 "It was a sorry sight," he lamented. "Poor thing was sobbing her heart out."
 
-Eventually everything settled down enough that they could return to the tents and get some sleep. It was still an early morning, though, as Mr. Weasley woke them before sunrise to catch the return portkey back to Stoatshead Hill.
+Eventually everything settled down enough that they could return to the tents and get some sleep. Even Elysia managed, despite the shakes from an absolutely brutal adrenaline crash. It was still an early morning, though, as Mr. Weasley woke them before sunrise to catch the return portkey back to Stoatshead Hill.
 
 A distraught Mrs. Weasley greeted them on their return, waving the morning edition of the Daily Prophet. The headline blared: "DARK MARK OVER WORLD CUP! DEATH EATERS PETRIFIED UNDER MYSTERIOUS CIRCUMSTANCES!"
 
@@ -2172,10 +2172,21 @@ Ron had clearly gone too far. With an inarticulate growl, Malfoy leapt at him, k
 
 "Teaching," Moody answered, still focusing on the two bouncing creatures.
 
-"Are those *students!?*" McGonagall shrieked, launching into a rant about the proper way to discipline students, which apparently was _not this._
+"Are those *students!?*" McGonagall shrieked, launching into a rant about the proper way to discipline students, which was apparently _not this._
 
 As Moody's distraction caused the bouncing to let up, Elysia and Hermione scooped up the creatures and petted them soothingly on the back. "Aww, you're so much more pleasant like this," Elysia cooed to the white ferret she was holding.
 
 "Maybe we should ask Professor McGonagall to leave them like this for a bit," Hermione suggested with a smirk. 
 
 The white one actually seemed to relax a bit at that, but the red one started squirming frantically and making an odd growling noise.
+
+"Ugh, stop squirming! Okay, _fine,_ Ron!" Hermione said exasperatedly.
+
+"It's easier sometimes, not having to be a person, right?" Elysia murmured to the white ferret. "Nobody expects anything from you. Life is simpler."
+
+The little fur-ball looked up at her, surprise showing clearly even on its ferrety face.
+
+"Maybe you should give some thought to what _you_ want from your life," she continued, scritching the ferret behind the ears, "and not just what everyone _expects_ of you. Life might suck less. Or, you'll have to pretend to be someone you're not less often, which I think counts. Worked for me, at least. Anyway," Elysia said, setting the ferret down, "time to get changed back. But think about what I said, yeah?"
+
+The ferret looked at her for a long moment, then scampered over to where McGonagall was waving her wand over the red-furred weasel.
+

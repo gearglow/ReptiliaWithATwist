@@ -3,12 +3,23 @@
 ## Plot Points
 
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
+
+- Ginny x Draco/Dorea? Not immediately, of course, but as Draco realizes Lucius is out of the picture, and Narcissa walks away from her marriage once Sirius is exonerated, Draco starts thinking for themself. Ginny is still recovering from being possessed by the Diary, and the two find common ground in that process of rebuilding themselves.
+
 - Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
+
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
+
+- Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
+
 - Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
+
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
+
 - Blaise's Pocket Boggart (a la [All According to Plan](https://www.fanfiction.net/s/13001792/1/All-According-to-Plan)) but the boggart turns into Blaise pulling out a pocket boggart, which turns into Blaise... *ad nauseum.*
+
 - Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindy following Dumbledore.
+
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
 - "Look! Up in the sky!" "It's a bird!" "It's a plane!" Colin Creevey yelled. "It's Beauxbatons!"
