@@ -337,7 +337,7 @@ James patted her on the back. "Go get 'em, kiddo!'"
 
 
 
-## Chapter 3: Ellie and Robbie
+## Chapter 3: Ellie And Robbie
 
 Opening her eyes with a start, Harry looked down at herself. She was in boy-mode again; as uncomfortable as it was, she knew she would have to stay boy-shaped for awhile. All the more reason to get some independence, she supposed.
 
@@ -2044,7 +2044,7 @@ Hermione blushed. "No, not that, I meant sneaking up on me."
 
 
 
-## Chapter 9
+## Chapter 9: Clearing The Air
 
 ### Hogwarts, Potions Classroom	1994/09/02	13:00
 
@@ -2180,13 +2180,19 @@ As Moody's distraction caused the bouncing to let up, Elysia and Hermione scoope
 
 The white one actually seemed to relax a bit at that, but the red one started squirming frantically and making an odd growling noise.
 
-"Ugh, stop squirming! Okay, _fine,_ Ron!" Hermione said exasperatedly.
+"Ugh, stop squirming! Okay, _fine,_ Ron!" Hermione said exasperatedly, setting him down.
 
 "It's easier sometimes, not having to be a person, right?" Elysia murmured to the white ferret. "Nobody expects anything from you. Life is simpler."
 
 The little fur-ball looked up at her, surprise showing clearly even on its ferrety face.
 
-"Maybe you should give some thought to what _you_ want from your life," she continued, scritching the ferret behind the ears, "and not just what everyone _expects_ of you. Life might suck less. Or, you'll have to pretend to be someone you're not less often, which I think counts. Worked for me, at least. Anyway," Elysia said, setting the ferret down, "time to get changed back. But think about what I said, yeah?"
+"Maybe you should give some thought to what _you_ want from your life," she continued, scritching the ferret behind the ears, "and not just what everyone _expects_ of you. Life might suck less. Or, you won't have to pretend to be someone you're not as often, which I think counts. Worked for me, at least. Anyway," Elysia said, setting the ferret down, "time to get changed back. But think about what I said, yeah?"
 
 The ferret looked at her for a long moment, then scampered over to where McGonagall was waving her wand over the red-furred weasel.
+
+
+
++++++
+
+
 
