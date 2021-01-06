@@ -204,7 +204,7 @@ Harry scrambled to her feet as the brunette -- Janet, presumably -- continued sp
 
 "We -- we're in my mind?" Harry asked.
 
-"Yup!" Janet chirped. "And I'm a personification of your subconscious. Walk with me, Harry." She started towards the cottage. "Long story short, you died. Again. We decided to give you an edge on your next life through, and all this" -- she waved vaguely around at the cottage they'd just entered -- "is part of that." She sat primly on one of the squashy sofas near the hearth and patted the seat next to her.
+"Yup!" Janet chirped. "And I'm a personification of your subconscious. Walk with me, Harry." She started towards the cottage. "Long story short, you died. Again. We decided to give you an edge on your next life through -- since clearly you can't rely on the adults in your life to do anything but screw you over or get in the way, we decided to make you as self-sufficient as possible. And all this," she waved vaguely around at the cottage they'd just entered, "is part of that." She sat primly on one of the squashy sofas near the hearth and patted the seat next to her.
 
 Harry sat. "So... why am I a girl here?"
 
