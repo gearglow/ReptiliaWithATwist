@@ -179,7 +179,7 @@ What it says on the tin.
 - ~~Find and read the primer on Wandless Magic~~
 - ~~Find and read the primer on Illusions and Glamours~~
 - ~~Find and read Harry's Combat Style: Stage 1~~
-- ~~Find and read the primers on Goblins, House Elves, Public Speaking, Negotiation, and Finance~~
+- ~~Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance~~
 - ~~Bind Dobby as your house elf~~
 - ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
 - ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
