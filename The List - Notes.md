@@ -3,16 +3,13 @@
 ## Plot Points
 
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
-<<<<<<< HEAD
 
 - Ginny x Draco/Dorea? Not immediately, of course, but as Draco realizes Lucius is out of the picture, and Narcissa walks away from her marriage once Sirius is exonerated, Draco starts thinking for themself. Ginny is still recovering from being possessed by the Diary, and the two find common ground in that process of rebuilding themselves.
 
-- Neville x Ron - they balance each other out in temperament, and commiserate over their self-esteem issues.
-
-=======
 - Neville x Ron? - they balance each other out in temperament, and commiserate over their self-esteem issues.
+
 - Draco x Ron - they really are rather similar in a lot of ways... 
->>>>>>> f6bb682a270decdda4bb9a098ce5f76574168446
+
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 
 - Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
