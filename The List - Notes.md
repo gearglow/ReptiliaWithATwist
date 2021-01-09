@@ -12,6 +12,8 @@
 
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 
+- Eleanor is all for vengeance, and is well-versed in the Trolley Problem, so Elysia has no compunctions about not being entirely Light. Or even going full-on Dark, really. Assassinations won't be *common,* but they might just happen anyway.
+
 - Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
 
 - Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
@@ -177,7 +179,7 @@ What it says on the tin.
 - ~~Find and read the primer on Illusions and Glamours~~
 - ~~Find and read Harry's Combat Style: Stage 1~~
 - ~~Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance~~
-- ~~Bind Dobby as your house elf~~
+- ~~Bond with Dobby as your house elf~~
 - ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
 - ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
 - ~~Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic~~

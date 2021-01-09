@@ -114,7 +114,7 @@ Harry looked even more confused, somehow. Eleanor sighed. "Jeez, kid, get a radi
 
 Harry shook her head. Pulling herself together finally, she asked, "So, what, I need to go back, kill the Dark Plonker once and for all, get the girl -- girls? -- *be* a girl, and live to a ripe old age? How am I supposed to do that if I keep forgetting everything every time I go back?"
 
-Eleanor thought for a minute, then grinned. "Cheat like crazy. Janet!"
+Eleanor thought for a minute, then grinned. "Cheat like crazy. And remember, revenge is a dish best served when they don't see it coming. Oh, Janet!"
 
 
 
@@ -156,7 +156,7 @@ The door opened into a main room with a sunken den area, ringed with squashy sof
 
 Janet and Eleanor looked at each other and grinned.
 
-"Montage?"
+"Turn you into a force of nature. Montage?"
 
 "Montage."
 
@@ -168,13 +168,13 @@ Janet and Eleanor looked at each other and grinned.
 
 Time, such as it was in the Afterlife, passed in a blur. (And frequently with an '80s rock-inspired backing track, courtesy of Janet.)
 
-It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well. But she also got to spend time with her parents. 
+It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well (Bruce Lee was a particular favourite). But she also got to spend time with her parents. 
 
-James and Lily were both brilliant, though each had their specialties. And it turned out that both were brilliant flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution.
+James and Lily were both brilliant and terrifying, though each had their specialties. And it turned out that both were exceptional flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution.
 
 And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too. This, coupled with her animagus training, of course led to some interesting possibilities which were thoroughly explored.
 
-She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, decorum, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
+She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, etiquette, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
 
 Eventually, after a time impossible to quantify by mortal standards, she was ready.
 
@@ -216,7 +216,7 @@ Harry sat. "So... why am I a girl here?"
 
 Harry raised an eyebrow.
 
-"It's all here," Janet continued. "You left yourself a to-do list and some pointers. Most of the training-specific stuff is tucked away in your subconscious, tied to specific triggers; we didn't want to overwhelm you. But there are a couple of things you need to know up front."
+"Okay, fine, _a lot._ It's all here," Janet continued. "You left yourself a to-do list and some pointers. Most of the training-specific stuff is tucked away in your subconscious, tied to specific triggers; we didn't want to overwhelm you. But there are a couple of things you need to know up front."
 
 "Like that I'm a girl?" Harry asked.
 
@@ -242,7 +242,7 @@ Harry nodded and opened the binder.
 > - Find and read the primer on Illusions and Glamours
 > - Find and read Harry's Combat Style: Stage 1
 > - Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance
-> - Bind Dobby as your house elf
+> - Bond with Dobby as your house elf
 > - Take the Knight Bus to Gringotts ASAP and get a full accounting
 > - Establish a training regimen (see Appendix A)
 
@@ -381,7 +381,7 @@ Dobby wrapped Harry in a hug, and they were off to Diagon Alley.
 
 > To Do
 >
-> - ~~Bind Dobby as your house elf~~
+> - ~~Bond with Dobby as your house elf~~
 
 +++++
 
