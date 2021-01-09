@@ -205,6 +205,7 @@ What it says on the tin.
 - ~~Deal with transition and switching-electives paperwork for Hogwarts~~
 - ~~Deal with Snape~~
 - Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
+- Find and read Magical Mobility: From Apparition to Zero-Gravity
 - Figure out things with Hermione and Luna
 - Talk to Janet about the Triwizard Tournament and fallout thereof
 - Leverage being roped into the Tournament to become emancipated
