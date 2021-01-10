@@ -76,11 +76,15 @@ Protagonist. Shifter. Transfem. Nominsexual.
 
 Applied thinker. (how do I get it to do something?)
 
+Jill-of-all-trades. Great at putting the pieces together.
+
 ### Hermione
 
 Soul-mate #1. Cis. Nominsexual.
 
 Analytical thinker. (how does it do what it does?)
+
+Ward-cracker and curse-breaker extraordinaire.
 
 ### Luna
 
@@ -88,11 +92,15 @@ Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
 
 Observational thinker (what is it like?)
 
+Good enough to monkey-patch spellcode in flight.
+
 ### Robbie
 
 Twin-bond. House elf. Cishet.
 
 Optimizing thinker. (where are the bottlenecks?)
+
+
 
 
 

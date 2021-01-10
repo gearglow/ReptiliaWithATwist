@@ -2196,3 +2196,6 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 
 
+"Well, *that* was quite a first day back," Elysia said, flopping into the squashy sofa in front of the fireplace in Elysium. She'd still felt keyed-up after settling into bed, and decided a talk with her parents might help.
+
+"Seriously, kiddo," James said. 
