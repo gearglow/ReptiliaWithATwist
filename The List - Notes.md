@@ -28,6 +28,8 @@
 
 - "Look! Up in the sky!" "It's a bird!" "It's a plane!" Colin Creevey yelled. "It's Beauxbatons!"
 
+- Dealing with Dragons: H & L help E carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, E uses a tunneling spell to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
+
 ## Cool Magic Elysia Can Do
 
 - Contingent spells
