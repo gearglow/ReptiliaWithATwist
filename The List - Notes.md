@@ -12,7 +12,7 @@
 
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 
-- Eleanor is all for vengeance, and is well-versed in the Trolley Problem, so Elysia has no compunctions about not being entirely Light. Or even going full-on Dark, really. Assassinations won't be *common,* but they might just happen anyway.
+- Eleanor is all for vengeance, and is well-versed in the Trolley Problem, so Elysia has no compunctions about not being entirely Light. Or even going full-on Dark, really. Assassinations won't be *common,* but they might just happen anyway. Heists, on the other hand... *so many.*
 
 - Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
 
@@ -22,13 +22,13 @@
 
 - Blaise's Pocket Boggart (a la [All According to Plan](https://www.fanfiction.net/s/13001792/1/All-According-to-Plan)) but the boggart turns into Blaise pulling out a pocket boggart, which turns into Blaise... *ad nauseum.*
 
-- Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindy following Dumbledore.
+- [x] Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindly following Dumbledore.
 
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
 - "Look! Up in the sky!" "It's a bird!" "It's a plane!" Colin Creevey yelled. "It's Beauxbatons!"
 
-- Dealing with Dragons: H & L help E carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, E uses a tunneling spell to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
+- Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses a tunneling spell to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
 
 ## Cool Magic Elysia Can Do
 
@@ -36,8 +36,9 @@
 - Space-warping (even redirects Unforgivables)
 - Touch spell channeling
 - Shifting into magical (or not!) beings complete with powers (gorgon's petrifying gaze, banshee's killing scream, etc.)
+- Shifting into non-animal forms
 - Partial shifting (basilisk gaze in otherwise human shape, etc.)
-- Runic Casting - carve runic schema into the aether
+- Aetheric Rune Casting - carve runic schema into the aether
 - Rune-Hacking - break, hijack, and reshape existing wards and enchantments
 - On-the-fly spell-hacking
 - Mage-Sight - see and interpret magic
@@ -45,30 +46,30 @@
 - Scrying
 - Unassisted flight
 - Healing Arts
-- Mind Magic in all its overpowered glory
-  - Knowledge transfer, both ways
-  - Reading surface thoughts, emotions, etc.
-  - Projecting surface thoughts, emotions, etc.
-  - Affecting others' thoughts (compulsion, domination, etc.)
-  - Control over instincts
-  - Memory modification (and blocking)
-  - Dream-walking
-  - Viewing/copying memories
-  - Speed-reading
-  - Eidetic memory
-  - Rapid learning
-  - Altered time perception and reactions
-  - Defence against mind magic
-  - Line-of-sight or Bond-linked telepathy
 - "Dark" Arts (restricted, banned, or lost magic)
   - Blood Magic
-  - Shadow Walking
+  - Shadow Magic
   - Subsumation
   - Soul Magic
   - Bio-alchemy
   - Rituals
   - Necromancy
   - Sympathetic Magic
+  - Mind Magic in all its overpowered glory
+      - Knowledge transfer, both ways
+      - Reading surface thoughts, emotions, etc.
+      - Projecting surface thoughts, emotions, etc.
+      - Affecting others' thoughts (compulsion, domination, etc.)
+      - Control over instincts
+      - Memory modification (and blocking)
+      - Dream-walking
+      - Viewing/copying memories
+      - Speed-reading
+      - Eidetic memory
+      - Rapid learning
+      - Altered time perception and reactions
+      - Defence against mind magic
+      - Line-of-sight or Bond-linked telepathy
 
 ## Characters
 
@@ -80,6 +81,14 @@ Applied thinker. (how do I get it to do something?)
 
 Jill-of-all-trades. Great at putting the pieces together.
 
+Born 1980-07-31
+
+AKA:
+
+- Nemesis
+- Heart-Breaker (as Parvati calls her)
+- Ellie
+
 ### Hermione
 
 Soul-mate #1. Cis. Nominsexual.
@@ -88,6 +97,12 @@ Analytical thinker. (how does it do what it does?)
 
 Ward-cracker and curse-breaker extraordinaire.
 
+Born 1979-09-17
+
+AKA:
+
+- 'Mione
+
 ### Luna
 
 Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
@@ -95,6 +110,8 @@ Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
 Observational thinker (what is it like?)
 
 Good enough to monkey-patch spellcode in flight.
+
+Born 1980-10-11
 
 ### Robbie
 
@@ -128,13 +145,15 @@ Optimizing thinker. (where are the bottlenecks?)
 
 
 
-## Waveform Model of Magic
+## Magic Technicalities
+
+### Waveform Model of Magic
 
 Magic operates similarly to, but distinct from, electromagnetic radiation.
 
 
 
-## Bonds, Oaths, and Such
+### Bonds, Oaths, and Such
 
 A link (ie. legilimency) is like a radio broadcast, and is therefore subject to external interference.
 
@@ -155,7 +174,7 @@ Power is more a function of your individual *internal* harmony. That's why magic
 
 ### Factions
 
-#### The Light 
+#### The Light
 
 Dumbledore's faction. Traditionalist, authoritarian. Claim to be progressive, but are actually centrist. Paternalistic about the Statute, muggles, blood purity... everything, really. Pro-censorship. Pro-restriction on personal freedoms.
 
@@ -167,7 +186,7 @@ The Death Eater faction. Traditionalist, authoritarian. Conservative extremists.
 
 #### The Grey
 
-Minority Progressives. Pragmatic. Pro-Reform (or revolution if the opportunity arises) about pretty much everything Traditionalist. Anti-Authoritarian, Anti-Statute, Anti-Blood-Puritan. Against restrictions on personal freedoms and censorship for everyone, not just purebloods. Not anti-Tradition *per se,* but pro-reform for a less toxic society. Ancoms, really, in the more extreme members. This is the leftist party.
+Minority Progressives. Pragmatic. Pro-Reform (or revolution if the opportunity arises) about pretty much everything Traditionalist. Anti-Authoritarian, Anti-Statute, Anti-Blood-Puritan. Against restrictions on personal freedoms and censorship for everyone, not just purebloods. Not anti-Tradition *per se,* but pro-reform for a less toxic society. Ancoms, really, in the more extreme members. This is the leftist party. Does not yet exist until Elysia and co. start making waves.
 
 
 #### Unaligned
@@ -214,27 +233,27 @@ What it says on the tin.
 - ~~Come out to the Weasleys~~
 - ~~Deal with transition and switching-electives paperwork for Hogwarts~~
 - ~~Deal with Snape~~
-- Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 - Find and read Magical Mobility: From Apparition to Zero-Gravity
+- Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 - Figure out things with Hermione and Luna
 - Talk to Janet about the Triwizard Tournament and fallout thereof
 - Leverage being roped into the Tournament to become emancipated
 - Take over the affairs of House Potter
 - Find and read Magician, Heal Thyself
 - Find and read Curse-Breaking For Fun and Profit
-- Find and read Magica Obscura: Shadow Magic, Rune-Casting, And Other Arts The Ministry Doesn't Want You To Know
+- Find and read Magica Obscura: Shadow Magic, Necromancy, And Other Arts The Ministry Doesn't Want You To Know
 - Find and read The Horcrux-Hunting Handbook
+  - Seek & Destroy the horcrux in Slytherin's Locket
+    - Get Sirius to help access 12 Grimmauld Place 
+  - Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
+  - Seek & Destroy the horcrux in Ring (Gaunt Shack)
+  - Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
+  - Get to the Triwizard Cup first in the Third Task
+  - Seek & Destroy the Snake (Little Hangleton Graveyard)
+  - Seek & Destroy Voldemort (_after_ he reincorporates)
 - Deal with the dragon in the First Task
 - Dazzle at the Yule Ball
 - Rescue the hostage in the Second Task
-- Seek & Destroy the horcrux in Slytherin's Locket
-  - Get Sirius to help access 12 Grimmauld Place 
-- Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
-- Seek & Destroy the horcrux in Ring (Gaunt Shack)
-- Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
-- Get to the Triwizard Cup first in the Third Task
-- Seek & Destroy the Snake (Little Hangleton Graveyard)
-- Seek & Destroy Voldemort (_after_ he reincorporates)
 - Capture Peter Pettigrew
 - Disarm Dumbledore and take ownership of the Elder Wand
 - Break Dumbledore's hold on society

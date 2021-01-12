@@ -485,7 +485,7 @@ Dobby snagged the list and the two went over it for a bit, deciding what to focu
 
 The first thing Harry examined were the trunks. Most of them were the standard Hogwarts 'Firstie' trunk, but there were a few with substantial enhancements. A couple were even listed as "residential" trunks, which, when Harry opened them, turned out to contain an entire house's-worth of rooms inside. 
 
-"Dobby, come look at this and tell me what you think," Harry called. She'd found that one of the residential trunks was made of *lignum vitae* of all things, which, according to the primer on Enchanting she'd devoured this morning, meant it could handle a much larger amount of magic without overloading. It also seemed to have a rather sizable runestone locus, though she couldn't find the stone that should have been inside. With no runestones, the interior of the trunk defaulted to a 10ft^3^ room, containing only the locus pedestal and the ladder out.
+"Dobby, come look at this and tell me what you think," Harry called. She'd found that one of the residential trunks was made of *lignum vitae* of all things, which, according to the primer on Enchanting she'd devoured this morning, meant it could handle a much larger amount of magic without overloading. It also seemed to have a rather sizable rune schema locus, though she couldn't find the stone that should have been inside. With no rune schema, the interior of the trunk defaulted to a 10ft^3^ room, containing only the locus pedestal and the ladder out.
 
 "D'you think," she continued, "that a trunk like this could handle a dueling chamber without burning out?"
 
@@ -520,7 +520,7 @@ The trunk had a few convenience enchantments which were standard for most high-e
 
 They proceeded to Harry's trust vault, where Harry gathered a stack of 1,500 galleons with Dobby's help. Once back at the main floor, they bade Lockjaw farewell and stood in line to change half of the galleons to pound notes.
 
-Back in Diagon Alley proper, it was time to find a replacement runestone. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank runestones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions, expecting to need them after the intense training she was planning. She also picked up a stock of nutrient potions to help make up for her years of malnutrition, and enough ingredients to stock a potions lab.
+Back in Diagon Alley proper, it was time to find a replacement rune schema stone. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank schema stones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions, expecting to need them after the intense training she was planning. She also picked up a stock of nutrient potions to help make up for her years of malnutrition, and enough ingredients to stock a potions lab.
 
 Finally, finished with the magical shopping, they decided to head into the Muggle world. Stepping out of the Leaky Cauldron, but still within the pub's wards, Harry shifted into proper girl-form, with longer auburn hair. She looked around for Dobby, and found instead a boy who could've been her twin brother. He had hair the same auburn as hers, though cut in a shorter, more boyish style. He was even wearing a similar outfit.
 
@@ -550,15 +550,15 @@ It also turned out that, thanks to her shifting ability, she no longer needed gl
 
 Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room #4 Privet Drive.
 
-Robbie, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new runestones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
+Robbie, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new schema stones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
 
 It was late into the night before she was finished. Hedwig had returned from hunting all day and was snoozing, head tucked under one wing, on the perch near the window, before Elysia sat back and called Robbie over.
 
-"What do you think, are we ready to pop this in?" She asked, gesturing to the runestone.
+"What do you think, are we ready to pop this in?" She asked, gesturing to the schema stone.
 
 He leaned over it, muttering quietly under his breath, and then nodded. "I don't see any problems. I've gone over the trunk, and it's charged and ready."
 
-"Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the runestone, which was roughly the size of the Dursley's big-screen TV, settled into the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
+"Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the schema stone, which was roughly the size of the Dursley's big-screen TV, settled into the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
 
 When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, and so on. Through the door was a spacious living room, with a stairwell leading up out of the trunk and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a study with a workshop area, and a spacious training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
 
@@ -614,7 +614,7 @@ Janet smiled. "Exactly! Because of how in sync you are, there's less interferenc
 
 "That makes sense," Elysia said. "So, to compare this to light, or a radio, this is more about the frequency than the power?"
 
-"You got it!" Janet exclaimed. "Power is more a function of your individual *internal* harmony. That's why magic is so heavily intent-based. The stronger your intent, the more *unified* you are in your intent, the more powerful your magic is. You should add the books about this to your list."
+"You got it!" Janet exclaimed. "Power is more a function of your individual *internal* harmony. That's why magic is so heavily intent-based. The stronger your intent, the more *unified* you are in your intent, the more powerful your magic is. It all comes down to focus and willpower. You should add the books about this to your list."
 
 Elysia nodded. "I should just read them right now, honestly."
 
@@ -629,7 +629,7 @@ Elysia opened the binder on the desk.
 > - Establish a training regimen (see Appendix A)
 > - Check out The Kiln at Red Wharf Bay
 
-After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm (or several, at more advanced stages) for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
+After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm -- or several, at more advanced stages -- for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
 
 From yesterday's reading, she knew that, while she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
 
@@ -752,7 +752,7 @@ The final building was a cozy-looking one-story farmhouse. It too shone under ma
 
 "Ooh!" Hermione squealed, and darted over to it.
 
-The other two joined her as she tugged open the door. Inside, visible through the daylight streaming in behind them, was a runestone pedestal nearly identical to the one in Elysia's residential trunk.
+The other two joined her as she tugged open the door. Inside, visible through the daylight streaming in behind them, was a schema stone pedestal nearly identical to the one in Elysia's residential trunk.
 
 Elysia cast a few wandless *lumos* orbs as Hermione dashed over to take a closer look. Robbie started examining the walls, and Elysia sent a few more orbs his way before joining Hermione.
 
@@ -768,7 +768,7 @@ Elysia cast a few wandless *lumos* orbs as Hermione dashed over to take a closer
 
 "... I did? Huh. You OK with that, Robbie?" She called.
 
-"Sure, Ellie. Hey, I think the runestone overloaded," He replied.
+"Sure, Ellie. Hey, I think the schema stone overloaded," He replied.
 
 Elysia squinted at the pedestal. "You know, I think you're right. There're blast marks on the pedestal, and some rock dust."
 
@@ -861,9 +861,9 @@ Between the two of them, they were able to decode the ward schema. It was, in El
 
 The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent on everything else: reading her family's journals, writing to friends, fiddling around with projects, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, Mage Sight, and a thaumic analytics HUD -- with which she was particularly pleased, as it tied back to a separate schema stone she'd shrunk down and wore as a pendant. This gave her lots of room to add features later, too. 
+Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, Mage Sight augmentation, and a thaumic analytics HUD -- with which she was particularly pleased, as it tied back to a separate schema stone she'd shrunk down and wore as a pendant. This gave her lots of room to add features later, too.
 
-She and Robbie also made quite a few adjustments to the wards at the Dursley residence. They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped, and by the time next summer came around, hopefully they wouldn't be nearly as hostile.
+She and Robbie also made quite a few adjustments to the wards at the Dursley residence. They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, added negative impulse suppression, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped, and by the time next summer came around, hopefully they wouldn't be nearly as hostile.
 
 They also added Trace shielding, which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
 
@@ -905,7 +905,7 @@ Hermione looked startled, then got a thoughtful expression on her face. "Go on."
 
 "More focused, maybe?" Hermione queried. "Like a laser?"
 
-"Exactly!" Elysia exclaimed. "Past a certain threshold, it starts to self-reinforce. A bond is similar. And since the parameters of the bond are defined by the oath, it tends to reinforce things related to the oath. The Waveform model makes a whole lot of things about magic make more sense, really, even if it *is* just an abstraction and not totally accurate. ...What?" She asked, warily, as Hermione was staring at her with a funny look on her face.
+"Exactly!" Elysia exclaimed. "Focus and willpower. Past a certain threshold, it starts to self-reinforce. A bond is similar. And since the parameters of the bond are defined by the oath, it tends to reinforce things related to the oath. The Waveform model makes a whole lot of things about magic make more sense, really, even if it *is* just an abstraction and not totally accurate. ...What?" She asked, warily, as Hermione was staring at her with a funny look on her face.
 
 "I like this new you," Hermione said. "I always knew you were smart, but it's *wonderful* to be able to have conversations like this with you. Before this summer, most of our conversations were taken up with homework, quidditch, or whatever crisis of the moment. Now... you just seem more comfortable in your own skin. More confident, more driven. More playful, too. Happier. I don't know, maybe that's just growing up. But I don't think it's *only* that."
 
@@ -933,11 +933,11 @@ Hermione took a deep breath, and smiled sheepishly. "You're right, it's not quit
 
 Hermione blushed. "I'm flattered."
 
-"Still, that's not really fair to Ron, is it?" Elysia continued.
+"I don't suppose that's really fair to Ron, though, is it?" Elysia continued.
 
 "Well, maybe not, but he *is* a bloke," Hermione said. "And Ron can be a particularly *insensitive* bloke sometimes."
 
-"That's true. By the way, I'm sorry for being such a git over that Firebolt last Christmas. You were only looking out for me, like you always do. You deserve better than my throwing a tantrum over it. And anyway, you were right," she grinned, "it *was* sent by Sirius."
+"That's true. Oh, that reminds me. I wanted to apologize for being such a git over that Firebolt last Christmas. You were only looking out for me, like you always do. You deserve better than my throwing a tantrum over it. And anyway, you were right," she grinned, "it *was* sent by Sirius."
 
 "Of course I was right. I'm *always* right," Hermione said with mock solemnity.
 
@@ -1003,7 +1003,7 @@ The Granger parents seemed shocked, but not, Elysia hoped, in a bad way.
 
 Elysia was nonplussed. "You're really okay with me being a girl? Just like that?"
 
-"You *do* seem much happier, dear, and that's the important thing," Mrs. Granger replied. 
+"You *do* seem much happier than last we saw you, dear, and that's the important thing," Mrs. Granger replied. 
 
 Elysia smiled in relief. Hermione patted her arm, and said, "Well, after we eat, how about we show you what Ellie's been teaching me this summer?"
 
@@ -1137,7 +1137,7 @@ There being nothing to pack, what with all her and Robbie's worldly possessions 
 
 "Stole them, no doubt," Vernon said.
 
-"Birthday present from my godfather," Elysia lied smoothly. "You know, Sirius Black? The escaped mass-murdering convict?"
+"Birthday present from my godfather," Elysia lied smoothly. "You know, Sirius Black? The escaped mass-murderer?"
 
 The Dursleys paled. "Er, right," Vernon choked out.
 
@@ -1149,11 +1149,11 @@ The Dursleys paled. "Er, right," Vernon choked out.
 
 Vernon nodded cautiously.
 
-Elysia snapped her fingers, conjuring a ball of Hermione's favorite bluebell flame in the palm of her hand. "I don't need a wand to do magic. Between that and Sirius, I rather think *you're* the ones who need to re-think their positions, don't you?"
+Elysia snapped her fingers, conjuring a ball of Hermione's favorite bluebell flames in the palm of her hand. "I don't need a wand to do magic. Between that and Sirius, I rather think *you're* the ones who need to re-think their positions, don't you?"
 
 Petunia gasped. Vernon nodded quickly, his many chins jiggling grotesquely. Dudley simply bolted up the stairs.
 
-"Go on, then," Vernon snapped. 
+"Go on, then," Vernon snapped.
 
 Before he could say anything further, Elysia disapparated.
 
@@ -1213,7 +1213,7 @@ Robbie finally shifted back to elf-shape and bowed elaborately, giggling all the
 
 The twins gestured to the oldest two in the room. Charlie was built like the twins: stocky and strong, with callouses visible across the room and a shiny burn on one arm. He had a broad, good-natured face which was covered in freckles. 
 
-Bill was a surprise. Elysia'd expected an older version of Percy from what Ron had said about him in the past: Head Boy, worked for Gringotts. She'd imagined someone fussy, bossy, and self-important. The reality, though, was that while he was tall and lanky like Percy (and Ron, for that matter) he could easily have been Percy's evil twin. He had long hair pulled back in a ponytail, dragonhide boots, and an earring with what looked like a fang dangling from it. All in all, the impression was more rock-star than anything else.
+Bill was a surprise. Elysia had expected an older version of Percy from what Ron had said about him in the past: Head Boy, worked for Gringotts. She'd imagined someone fussy, bossy, and self-important. The reality, though, was that while he was tall and lanky like Percy (and Ron, for that matter) he could easily have been Percy's evil twin. He had long hair pulled back in a ponytail, dragonhide boots, and an earring with what looked like a fang dangling from it. All in all, the impression was more rock-star than anything else.
 
 "Nice boots," he said.
 
@@ -1385,7 +1385,7 @@ Hermione snorted. "Enchanting. He wants to be an enchanter. Or 'artificer,' as h
 
 "Wow, wonder what brought *that* on," Ginny mused.
 
-"His grandmother's journals, probably," Hermione answered. "She was apparently quite good at it. Had some novel ideas about modular rune schemes."
+"His grandmother's journals, probably," Hermione answered. "She was apparently quite good at it. Had some novel ideas about modular rune schema."
 
 "Okay, so you're a swot and he's a boffin," Ginny hummed. "You're still dodging the question, you prat! Do you or do you not play for the Harpies?"
 
@@ -1493,7 +1493,7 @@ Hermione assumed a 'who, me?' face, but it failed miserably as her lip kept twit
 
 
 
-They returned to find Mr. Weasley playing with matches, and the twins 'supervising.' Hermione took over, and eventually they had a fire going. Mr. Weasley kept up a running commentary on all the Ministry workers passing by as they waited for the fire to die down to cooking coals.
+They returned to find Mr. Weasley playing with matches, and the twins 'supervising.' Hermione took over, and, with a surreptitious wandless bluebell flame charm, eventually they had a fire going. Mr. Weasley kept up a running commentary on all the Ministry workers passing by as they waited for the fire to die down to cooking coals.
 
 Bill, Charlie, and Percy walked up from the apparition point in the woods just as the coals were ready. They all sat around the fire cooking sausages on sticks (the sandwiches Mrs. Weasley'd sent them with having been devoured long since).
 
@@ -1580,7 +1580,7 @@ The entire Bulgarian delegation turned to face Fudge with menacing glares.
 
 Mr. Malfoy introduced his wife and son to the Minister. Draco caught sight of Elysia and blushed, but turned away with a scowl when she smirked at him.
 
-Before tensions could ramp up again, Ludo Bagman waltzed in. "Everyone ready?" He said excitedly. 
+Before tensions could ramp up again, Ludo Bagman waltzed in. "Everyone ready?" He exclaimed.
 
 "Please, Ludo," Fudge said.
 
@@ -1590,7 +1590,7 @@ The mascots turned out to be a hundred veela, who began to dance enticingly. Ely
 
 "Down, girl. You're drooling a bit," she murmured into Hermione's ear. "Put your shields up and watch the boys make fools of themselves."
 
-Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and Draco, though Lucius Malfoy, Charlie, and Mr. Weasley all seemed unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
+Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and Draco, though Lucius Malfoy, Charlie, and Mr. Weasley all seemed more or less unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
 
 "*Ahem.* And now," Mr. Bagman said, his voice cracking at first, "the Irish National Team Mascots!"
 
@@ -1600,7 +1600,7 @@ The Irish mascots, a swarm of leprechauns, put on a spectacular display of aeria
 
 And then the game began in earnest.
 
-It was a brutal affair, with the quaffle moving so fast it was only due to the omnioculars that anyone could keep track of it. Krum managed to pull off a Wronski Feint against Lynch, the Irish seeker, causing him to crash into the ground at full speed. Ireland began to pull ahead, and the game only got dirtier from there. Bludgers flew every which way, penalties mounted, the mascots began to fight, and finally, with the score 170 to 10 favoring Ireland, Krum managed to plow Lynch into the ground again and grab the snitch, ending the game before it could turn into a full-on rout. 
+It was a brutal affair, with the quaffle moving so fast it was only due to the omnioculars that anyone could keep track of it. Viktor Krum managed to pull off a Wronski Feint against Aiden Lynch, the Irish seeker, causing him to crash into the ground at full speed. Ireland began to pull ahead, and the game only got dirtier from there. Bludgers flew every which way, penalties mounted, the mascots began to fight, and finally, with the score 170 to 10 favoring Ireland, Krum managed to plow Lynch into the ground again and grab the snitch, ending the game before it could turn into a full-on rout. 
 
 "Vell, ve fought bravely," the Bulgarian Minister said.
 
@@ -1672,7 +1672,7 @@ A beam of light shone from the tip, illuminating Draco Malfoy leaning casually a
 
 "Hermione's a witch!" Ron growled.
 
-"And anyway, I don't think they're hunting much of anything anymore. D'you hear any more screams? Or spellfire?" Elysia taunted. "Might want to go check on your daddy." She made her eyes flash green with a surreptitious wandless illusion, grinning maliciously at Malfoy's flinch.
+"And anyway, I don't think they're hunting much of anything anymore. D'you hear any screams? Or spellfire?" Elysia taunted. "Might want to go check on your daddy." She made her eyes flash green with a surreptitious wandless illusion, grinning maliciously at Malfoy's flinch.
 
 Before things could escalate, they heard a hoarse shout from deeper in the woods. "*Morsmordre!*"
 
@@ -1720,9 +1720,9 @@ The moment was broken when Elysia let out an enormous yawn, and Mrs. Weasley sen
 
 ## Chapter 8: The New Girl
 
-The remainder of the summer passed quickly. Percy and Mr. Weasley were at the Ministry more often than not, dealing with the aftermath of the World Cup and the Death Eaters.
+The remainder of the summer passed quickly. Percy and Mr. Weasley were at the Ministry more often than not, dealing with the aftermath of the World Cup and the Death Eaters, not to mention that mystery event everyone kept hinting at.
 
-Much to the delight of everyone, Lucius Malfoy had indeed been one of those petrified in full Death Eater regalia. He, along with the rest of those captured, were sentenced to a minimum of three years for muggle-baiting and causing an international incident, among other things -- they all were raided by the DMLE for cause, as well.
+Much to the delight of everyone, Lucius Malfoy had indeed been one of those petrified in full Death Eater regalia. He, along with the rest of those captured, were sentenced to a minimum of a year in Azkaban for muggle-baiting and causing an international incident, among other things -- they all were raided by the DMLE for cause, as well, leading Malfoy, at least, to a longer sentence.
 
 "Couldn't happen to a nicer bloke," Ron said when he heard.
 
@@ -1790,7 +1790,7 @@ Elysia wrote Professor McGonagall (and Sirius, while she was at it) as soon as d
 
 "How do you mean?" Hermione asked.
 
-In answer, Elysia shifted her still-short hair to auburn, then shifted some black streaks in, then shifted to black hair with auburn tips.
+In answer, Elysia shifted her still-short hair to auburn, then shifted some black streaks in, then shifted to black hair with bright red tips.
 
 "Oh, I like that last one," Hermione said. "It's quite striking."
 
@@ -1930,7 +1930,7 @@ Several things happened at once, and Elysia couldn't help but admire the theatri
 
 The figure made his way down the Hall to Prof. Dumbledore, with whom he spoke quietly for a moment before taking the vacant DADA seat at the staff table.
 
-"May I introduce Alastor Moody," Prof. Dumbledore said, "our new professor of Defense Against the Dark Arts."
+"Allow me to introduce Alastor Moody," Prof. Dumbledore said, "our new professor of Defense Against the Dark Arts."
 
 The students' whispering among themselves reached a crescendo. Moody himself ignored them, and looked to be casting detection spells on his dinner. As Elysia watched, he took as swig from a hip flask.
 
@@ -1966,7 +1966,7 @@ Parvati squinted at her. "How do you know my name -- wait a minute. *Harry!?*"
 
 "It's Elysia now," she responded. "Or Ellie for short. Turns out that was a nickname of my mum's back in the day. Y'know, L. E.? Lily Evans?"
 
-"Damn," Parvati said. "Right heart-breaker, you are. D'you have any idea how many girls are going to be disappointed that you've turned out to be a girl?"
+"Damn," Parvati said. "Right heart-breaker, you are. D'you have any idea how many girls are going to be disappointed that you've turned out to be one of us?"
 
 Lavender Brown came in from the bathroom, took one look at Elysia, blushed furiously, and ducked back into the bathroom.
 
@@ -2006,7 +2006,7 @@ Parvati crossed her arms and mock-glared. "You know what you did, young lady," s
 
 "It's more about how you behave and who you flirt with," Lavender added. "Though that tomboy look you've got is uncommon enough that you'll probably get lots of attention from everyone anyway."
 
-Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun when it's not because of that Boy-Who-Lived stuff, or because people are afraid of me, like when everyone thought I was the Heir of Slytherin. Hey, Lavender, Parvati?" She asked. "Can you not let everyone know about my transition? I want to enjoy their individual reactions while I can." She grinned mischievously.
+Elysia hummed. "Y'know, normally I don't like to stand out. But it's kind of fun when it's not because of that Boy-Who-Lived stuff, or because people are afraid of me, like when everyone thought I was the Heir of Slytherin. Hey, Lavender, Parvati?" She asked. "Can you not let everyone know about my transition? I want to enjoy their reactions while I can." She grinned mischievously.
 
 "Sure thing, Heart-Breaker," Parvati said, grinning back. "This is gonna be *good.*"
 
@@ -2050,7 +2050,7 @@ Hermione blushed. "No, not that, I meant sneaking up on me."
 
 History was uneventful, aside from the many odd looks people kept giving the 'new girl.' Charms, on the other hand... When Prof. Flitwick called out "Potter, Elysia" during roll, many of those looks changed to shock, and Elysia heard more than one person mutter, "oh, that's just *unfair!*"
 
-But all of that was nothing compared to Potions. Friday afternoons were double periods with the Slytherins (*always the Slytherins,* thought Elysia. *Are they* trying *to set us up for confrontations?*), and the look on Malfoy's face as she entered was *priceless.*
+But all of that was nothing compared to Potions. Friday afternoons were double periods with the Slytherins (*always the Slytherins,* thought Elysia. *Are they* trying *to set us up for problems?*), and the look on Malfoy's face as she entered was *priceless.*
 
 "Didn't realize Malfoy could get any more pale," Ron muttered.
 
@@ -2104,11 +2104,11 @@ Snape shook his head to clear it. "Where are we? How are you here, now, *speakin
 
 Snape stared. "*Mindscape? Memory-constructs?*"
 
-"I don't actually *remember* the afterlife," Elysia continued, "or any past lives. But this way I at least have them around to give me parental guidance. Not like the Dursleys were ever any good for that, certainly."
+"I don't actually *remember* the afterlife," Elysia continued, "or any past lives. But this way I at least have them around to give me parental guidance. Not like Aunt Petunia was ever any good for that, certainly."
 
 "Wait. You live with *Petunia?*" Snape exclaimed, aghast. "I'm going to *kill* Albus."
 
-"Get in line," Lily said. "And on that note, I've got a bone to pick with you."
+"Get in line," Lily growled. "And on that note, I've got a bone to pick with you."
 
 Snape gulped.
 
@@ -2132,8 +2132,6 @@ Eventually Elysia and a much-chastened Snape returned from Elysia's mindscape, o
 "Can't say better than that," Elysia said with a shrug. "Clean slate, Professor?"
 
 "I would very much appreciate that, Ms. Potter," Snape replied. "Now off to dinner with you."
-
-"Yes, sir," she said. "And maybe someday you'll be comfortable telling me why you hated me so much in the first place."
 
 
 
@@ -2176,9 +2174,9 @@ Ron had clearly gone too far. With an inarticulate growl, Malfoy leapt at him, k
 
 As Moody's distraction caused the bouncing to let up, Elysia and Hermione scooped up the creatures and petted them soothingly on the back. "Aww, you're so much more pleasant like this," Elysia cooed to the white ferret she was holding.
 
-"Maybe we should ask Professor McGonagall to leave them like this for a bit," Hermione suggested with a smirk. 
+"Maybe we should ask Professor McGonagall to leave them like this for awhile," Hermione suggested with a smirk. 
 
-The white one actually seemed to relax a bit at that, but the red one started squirming frantically and making an odd growling noise.
+The white one actually seemed to relax somewhat at that, but the red one started wriggling frantically and making an odd growling noise.
 
 "Ugh, stop squirming! Okay, _fine,_ Ron!" Hermione said exasperatedly, setting him down.
 
@@ -2192,10 +2190,21 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 
 
-+++++
+> To do:
+>
+> - ~~Deal with Snape~~
 
 
 
-"Well, *that* was quite a first day back," Elysia said, flopping into the squashy sofa in front of the fireplace in Elysium. She'd still felt keyed-up after settling into bed, and decided a talk with her parents might help.
+## Chapter 10
 
-"Seriously, kiddo," James said. 
+The dawning weekend found Elysia, Hermione, and Robbie going for their morning run around the lake. They'd just finished and were starting back up to the castle when they saw Luna walking towards them, carrying a sack.
+
+"Good morning, Luna!" Hermione called as they approached.
+
+"Good morning, Hermione, Elysia," Luna replied, blushing as she caught sight of their exercise outfits. "Who's your friend?"
+
+Elysia introduced Robbie, and asked, "What brings you out here so early, Luna?"
+
+"I'm off to visit the thestrals," Lunas replied, hefting the sack. "They deserve a treat after all their hard work bringing everyone through that storm the other day."
+
