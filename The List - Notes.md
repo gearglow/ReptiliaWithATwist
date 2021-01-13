@@ -12,7 +12,7 @@
 
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 
-- Eleanor is all for vengeance, and is well-versed in the Trolley Problem, so Elysia has no compunctions about not being entirely Light. Or even going full-on Dark, really. Assassinations won't be *common,* but they might just happen anyway. Heists, on the other hand... *so many.*
+- Eleanor is all for vengeance, and is well-versed in the Trolley Problem, so Elysia has no compunctions about not being entirely Light. Or even going full-on Dark, really. Assassinations won't be *common,* but they might just happen anyway. Heists, on the other hand... *hell yes.*
 
 - Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
 

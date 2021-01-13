@@ -2030,6 +2030,10 @@ The next day was a Friday, and the first day of classes.
 
 Elysia shrugged. "Nothing, yet. But you know how Hogwarts can be. And I've already got the habit; seems easier to just keep going with it."
 
+"Mind if I join you, then, Ellie?" Hermione asked.
+
+Elysia nodded, and was just about to reply, when -
+
 "Good morning," Luna said from behind them.
 
 Hermione jumped. "Luna!" She gasped. "Don't *do* that!"
@@ -2190,7 +2194,7 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 
 
-> To do:
+> To Do:
 >
 > - ~~Deal with Snape~~
 
@@ -2202,9 +2206,17 @@ The dawning weekend found Elysia, Hermione, and Robbie going for their morning r
 
 "Good morning, Luna!" Hermione called as they approached.
 
-"Good morning, Hermione, Elysia," Luna replied, blushing as she caught sight of their exercise outfits. "Who's your friend?"
+"Good morning, Hermione, Elysia," Luna replied, eyes wide as she caught sight of their exercise outfits. "Who's your friend?"
 
 Elysia introduced Robbie, and asked, "What brings you out here so early, Luna?"
 
 "I'm off to visit the thestrals," Lunas replied, hefting the sack. "They deserve a treat after all their hard work bringing everyone through that storm the other day."
+
+"Aww, that's sweet of you, Luna," Hermione said. "Do you mind if we join you?" She glanced hopefully at Elysia, a faint blush on her cheeks.
+
+*Oh my, does Hermione have a crush?* Elysia thought to herself. *Not that I blame her...*
+
+Luna must have caught Hermione's glance and blush, because she matched her blush before agreeing in her usual dreamy tones.
+
+Robbie caught Elysia's eye and grinned. "I've got a few things to take care of. Have fun, you three!" He waved merrily and popped away.
 
