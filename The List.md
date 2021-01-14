@@ -2125,7 +2125,7 @@ James ushered Elysia outside. "We don't need to be there for this part," he said
 
 
 
-Eventually Elysia and a much-chastened Snape returned from Elysia's mindscape, only a minute or two after they'd entered.
+Eventually Elysia and James returned to find a much-chastened Snape.
 
 "Ms. Potter," Snape said, somewhat hesitantly. "It seems I owe you an apology for my treatment of you these past years. There was no excuse and I shall endeavor to better my behaviour, both towards you and in general."
 
@@ -2135,7 +2135,15 @@ Eventually Elysia and a much-chastened Snape returned from Elysia's mindscape, o
 
 "Can't say better than that," Elysia said with a shrug. "Clean slate, Professor?"
 
-"I would very much appreciate that, Ms. Potter," Snape replied. "Now off to dinner with you."
+"I would very much appreciate that, Ms. Potter," Snape replied.
+
+
+
++++++
+
+
+
+{TODO elaborating on Snape's behavior; might need a rewrite of the next section}
 
 
 
