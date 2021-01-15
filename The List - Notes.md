@@ -32,6 +32,8 @@
 
 - CAST: Computer-Aided Spellcrafting and Thaumaturgy. Useful for virtual prototyping of spells and schema. (This needs to be in Elysiad, too.)
 
+- Personal ward amulet
+
 ## Cool Magic Elysia Can Do
 
 - Contingent spells
