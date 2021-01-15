@@ -363,7 +363,7 @@ Harry thought for a second. "First, Dobby, nobody else knows I'm a girl yet, and
 
 Dobby nodded, tears in his eyes and a smile on his face.
 
-"Second," Harry continued, "I know that your speech patterns are because of your time with the Malfoys, but you're part of the Potter family now. You're not a servant, not a lesser being. You are Dobby Potter, and as such you're expected to stand tall and speak with confidence."
+"Second," Harry continued, "I know that your speech patterns are because of your time with the Malfoys, but you're part of the Potter family now. You're not a servant, not a lesser being. You are a Potter, and as such you're expected to stand tall and speak with confidence."
 
 "I understand, Harry," Dobby said.
 
@@ -383,7 +383,7 @@ Dobby wrapped Harry in a hug, and they were off to Diagon Alley.
 >
 > - ~~Bond with Dobby as your house elf~~
 
-+++++
+
 
 They reappeared with a *pop* in a cordoned-off section of the Gringotts lobby, and Dobby immediately dragged Harry over to one of the lines. "So the next person doesn't be landing on you," he said. After a short wait, they got to a teller, who glared down at them from the abnormally high counter.
 
@@ -451,7 +451,7 @@ The rest of the folder was fine-print regarding the farm and business, but what 
 
 "Once we're finished here, please. One last thing - I note that there is a significant amount of liquid assets in the main vault which are not being put to work. Is there anything we can do about that right now?"
 
-"Very astute for one so young," Claymore nodded in approval. "Unfortunately, as far as the law is concerned, investment counts as withdrawal, so until you reach your majority neither you nor your guardians can do anything with it. Pity. That was mostly old Fleamont's proceeds from selling off his potions company when he retired. James, your father, never had a chance to do anything with it either. That money's been sitting idle for more than 15 years by now."
+"Very astute for one so young," Claymore nodded in approval. "Unfortunately, as far as the law is concerned, investment counts as withdrawal, so until you reach your majority neither you nor your guardians can do anything with it. Pity. That was mostly old Fleamont's proceeds from selling off his potions company when he retired. James, your father, never had a chance to do anything with it either. That money's been sitting idle for more than 20 years by now."
 
 "How about the trust vault? What can you do with, say, 25,000 galleons? Something with aggressive earning potential, I'd hope. At, oh, 40% commission? That should leave enough interest income for discretionary spending, too."
 
@@ -548,7 +548,7 @@ They also found more clothes. Both Elysia and Robbie were reveling in the abilit
 
 It also turned out that, thanks to her shifting ability, she no longer needed glasses. Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
 
-Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room #4 Privet Drive.
+Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room at #4 Privet Drive.
 
 Robbie, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new schema stones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
 
@@ -560,7 +560,7 @@ He leaned over it, muttering quietly under his breath, and then nodded. "I don't
 
 "Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the schema stone, which was roughly the size of the Dursley's big-screen TV, settled into the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
 
-When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, and so on. Through the door was a spacious living room, with a stairwell leading up out of the trunk and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a study with a workshop area, and a spacious training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
+When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, and so on. Through the door was a spacious living room, with an elevator platform leading up out of the trunk and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a study with a workshop area, and a spacious training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
 
 The living area was piled high with all of the spoils from the day's errands, but between the two of them they made short work of it all. In less than an hour, everything was squared away, and they fell into their beds exhausted but delighted. It was, Elysia thought to herself as she drifted off, going to be the best summer ever.
 
@@ -861,7 +861,7 @@ Between the two of them, they were able to decode the ward schema. It was, in El
 
 The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent on everything else: reading her family's journals, writing to friends, fiddling around with projects, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, Mage Sight augmentation, and a thaumic analytics HUD -- with which she was particularly pleased, as it tied back to a separate schema stone she'd shrunk down and wore as a pendant. This gave her lots of room to add features later, too.
+Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, thermal, zoom, Mage Sight augmentation, and a thaumic analytics HUD -- she was particularly pleased, as all of these were from a separate schema stone she'd shrunk down and wore as a pendant, and then tied into the glasses. This gave her lots of room to add features later, too.
 
 She and Robbie also made quite a few adjustments to the wards at the Dursley residence. They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, added negative impulse suppression, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped, and by the time next summer came around, hopefully they wouldn't be nearly as hostile.
 
