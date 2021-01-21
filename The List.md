@@ -2131,19 +2131,23 @@ Eventually Elysia and James returned to find a much-chastened Snape.
 
 "Mum set you straight?" Elysia asked, trying to suppress a grin.
 
-"At great length and substantial volume," Snape agreed sardonically.
+"At great length and substantial volume," Snape agreed sardonically. James stifled a laugh. Lily smacked him in the arm, trying (and failing) not to grin.
 
 "Can't say better than that," Elysia said with a shrug. "Clean slate, Professor?"
 
 "I would very much appreciate that, Ms. Potter," Snape replied.
 
+"Why'd you hate me so much, anyway?" Elysia asked. "If you don't mind me asking."
 
+Snape sighed. "It's not so much you as what you represented, really. When I looked at you, I saw proof that I'd lost my best friend, and that she'd taken up with one of the bullies who made my life miserable. I saw James Potter's taunting face every time, looking at me through Lily's eyes, and every time it reminded me that the only person who ever gave a damn about me was gone forever."
 
-+++++
+James looked stricken upon hearing this. Lily got up and gave Snape a hug. To Elysia's shock, he returned it.
 
+"And Neville?" Elysia asked, once Snape had regained his composure.
 
+"Aside from the fact that he's a bigger safety hazard than Seamus 'Sparky' Finnegan?" Snape said, with a grimace. "All I could think when I looked at him was, 'why couldn't _he_ have been the Prophecy Child?' And then I felt guilty for thinking that, and guilt and self-loathing lead to a rather unpleasant personality."
 
-{TODO elaborating on Snape's behavior; might need a rewrite of the next section}
+{ TODO Flesh this scene out more. }
 
 
 
