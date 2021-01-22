@@ -220,13 +220,13 @@ Harry raised an eyebrow.
 
 "Like that I'm a girl?" Harry asked.
 
-"No, that one was going to bubble up around this time in your life regardless. Puberty, don'tcha know. So we tied this first mindscape entrance to that realization as a trigger, since thanks to your between-lives training you can do something about it now."
+"No, that one was going to bubble up around this time in your life regardless. Puberty, don'tcha know. But before, you were so intent on not standing out that you just repressed it for the rest of your life. Now, though, since thanks to your between-lives training you can do something about it, we tied this first mindscape entrance to that realization as a trigger to bring you here."
 
 "Really?" Harry said. A cold prickling sensation washed over her scalp. "Wait, don't tell me. I'm a shape-shifter, right?"
 
 Janet stood with a smile. "Pretty much! Come on, it's time to show you the study."
 
-They went down the hallway to a huge room filled with books, expansive bay windows with cozy-looking reading nooks, a substantial desk, and a floor safe tucked away in a corner. A black leather binder was sitting on the desk. Janet gestured to it. "Here's the list! It's full of useful foreknowledge, but you'll only be able to read the parts you can act on or already know about at any given time. Too much future knowledge cam mess you up. Your last self said it wouldn't do to have you too far out of sync with your peers, after all; you're too isolated as it is."
+They went down the hallway to a huge room filled with books, expansive bay windows with cozy-looking reading nooks, a substantial desk, and a floor safe tucked away in a corner. A black leather binder was sitting on the desk. Janet gestured to it. "Here's The List!" Elysia could hear the capital letters. "It's full of useful foreknowledge, but you'll only be able to read the parts you can act on or already know about at any given time. Too much future knowledge can mess you up. Your last self said it wouldn't do to have you too far out of sync with your peers; after all, you're too isolated as it is."
 
 Harry nodded and opened the binder.
 
