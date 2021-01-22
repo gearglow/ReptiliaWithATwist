@@ -114,7 +114,7 @@ Harry looked even more confused, somehow. Eleanor sighed. "Jeez, kid, get a radi
 
 Harry shook her head. Pulling herself together finally, she asked, "So, what, I need to go back, kill the Dark Plonker once and for all, get the girl -- girls? -- *be* a girl, and live to a ripe old age? How am I supposed to do that if I keep forgetting everything every time I go back?"
 
-Eleanor thought for a minute, then grinned. "Cheat like crazy. And remember, revenge is a dish best served when they don't see it coming. Oh, Janet!"
+Eleanor thought for a minute, then grinned. "Cheat like mad. And remember, vengeance is a dish best served when they don't see it coming. Oh, Janet!"
 
 
 
@@ -2145,9 +2145,31 @@ James looked stricken upon hearing this. Lily got up and gave Snape a hug. To El
 
 "And Neville?" Elysia asked, once Snape had regained his composure.
 
-"Aside from the fact that he's a bigger safety hazard than Seamus 'Sparky' Finnegan?" Snape said, with a grimace. "All I could think when I looked at him was, 'why couldn't _he_ have been the Prophecy Child?' And then I felt guilty for thinking that, and guilt and self-loathing lead to a rather unpleasant personality."
+"Aside from the fact that he's a bigger lab safety hazard than Seamus 'Sparky' Finnegan?" Snape said, with a grimace. "All I could think when I looked at him was, 'why couldn't _he_ have been the Prophecy Child?' And then I felt guilty for thinking that, and guilt and self-loathing lead to a rather unpleasant personality."
 
-{ TODO Flesh this scene out more. }
+He sighed. "You and I, we have a lot in common, Potter. Elysia. We both grew up abused, neglected... unloved. Looking back, it was so obvious, and I could kick myself for ignoring the signs. It warps you, makes you think horrible things are normal." He looked at her with haunted eyes.
+
+She gazed back, eyes just as haunted. "It does. And it never really goes away, does it? The scars. The doubts. That endless refrain of 'what did I do to deserve this?'"
+
+Lily was silently weeping. 
+
+"You've changed, Elysia," Snape said. "Transition aside, you carry yourself differently. Like you know your own worth. And not in an over-compensating way; it's as if many of those scars have healed, much more than they ought to have in just a few short months."
+
+Elysia sat silently, gathering her thoughts, then snorted. "Honestly, sir, they were an eternity from my perspective. Janet?" She called.
+
+"Hi!" Janet said, popping into existence in the middle of the sunken living room. Her chipper demeanor was a sharp contrast to the somber mood of everyone else, and Elysia found it to be a welcome relief.
+
+"Janet," Elysia said, lip twitching with a repressed grin, "can you explain to Professor Snape how I'm no longer the hot mess I was last term?"
+
+Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book appeared in her hand, which she passed to Snape.
+
+"_Processing Complex PTSD and Abuse,_" he read. Opening the book, his eyes widened and he finished reading the entire volume in a matter of minutes.
+
+"How?" He gasped as he closed the book. "It's as if I've undergone _decades_ of therapy!"
+
+"There's more to mind magics than legilimency and occlumency, Professor," Elysia said. "Wasn't sure this would work, though, no matter what Janet said." She shot Janet a look, at which Janet stuck out her tongue.
+
+"Of course it worked!" Janet said. "We had all the time in the world to make sure of it."
 
 
 
@@ -2156,7 +2178,7 @@ James looked stricken upon hearing this. Lily got up and gave Snape a hug. To El
 
 
 
-Elysia caught up with Ron and Hermione at the doors to the Great Hall.
+After returning to the real world only a scant few minutes after entering Elysium, Elysia made her way to dinner as Professor Snape finished squaring away his classroom. She caught up with Ron and Hermione at the doors to the Great Hall.
 
 "What'd Snape want?" Ron asked.
 
