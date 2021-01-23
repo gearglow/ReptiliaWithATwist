@@ -34,6 +34,8 @@
 
 - Personal ward amulet
 
+- Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
+
 ## Cool Magic Elysia Can Do
 
 - Contingent spells
