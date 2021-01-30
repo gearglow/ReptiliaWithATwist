@@ -238,7 +238,7 @@ What it says on the tin.
 - ~~Neutralize the rioting Death Eaters~~
 - ~~Come out to the Weasleys~~
 - ~~Deal with transition and switching-electives paperwork for Hogwarts~~
-- ~~Deal with Snape~~
+- ~~Deal with the usual irritations from Snape and Draco~~
 - Find and read Magical Mobility: From Apparition to Zero-Gravity
 - Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 - Figure out things with Hermione and Luna

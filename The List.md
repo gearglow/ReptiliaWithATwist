@@ -2230,27 +2230,19 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 > To Do:
 >
-> - ~~Deal with Snape~~
+> - ~~Deal with the usual irritations from Snape and Draco~~
 
 
 
 ## Chapter 10
 
-The dawning weekend found Elysia, Hermione, and Robbie going for their morning run around the lake. They'd just finished and were starting back up to the castle when they saw Luna walking towards them, carrying a sack.
+The next morning, so early the sun hadn't yet crested the horizon, Elysia woke with a jolt. She'd been having such a compelling dream, but it was fading so fast... and it was gone. Damn.
 
-"Good morning, Luna!" Hermione called as they approached.
 
-"Good morning, Hermione, Elysia," Luna replied, eyes wide as she caught sight of their exercise outfits. "Who's your friend?"
 
-Elysia introduced Robbie, and asked, "What brings you out here so early, Luna?"
 
-"I'm off to visit the thestrals," Lunas replied, hefting the sack. "They deserve a treat after all their hard work bringing everyone through that storm the other day."
 
-"Aww, that's sweet of you, Luna," Hermione said. "Do you mind if we join you?" She glanced hopefully at Elysia, a faint blush on her cheeks.
-
-*Oh my, does Hermione have a crush?* Elysia thought to herself. *Not that I blame her...*
-
-Luna must have caught Hermione's glance and blush, because she matched her blush before agreeing in her usual dreamy tones.
-
-Robbie caught Elysia's eye and grinned. "I've got a few things to take care of. Have fun, you three!" He waved merrily and popped away.
-
+> To Do:
+>
+> - Find and read Magical Mobility: From Apparition to Zero-Gravity
+> - Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
