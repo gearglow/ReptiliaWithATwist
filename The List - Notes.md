@@ -34,6 +34,8 @@
 
 - Personal ward amulet
 
+- The Furies: Elysia's polycule and all-girl spec-ops team. They share power and abilities (like shifting) through a bond-oath. (Could be in Elysiad too, actually.)
+
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
 
 ## Cool Magic Elysia Can Do
@@ -204,63 +206,67 @@ What it says on the tin.
 
 #### To Do
 
-- ~~Find and read the primer on Mind Magic~~
-- ~~Find and read How To Learn~~
-- ~~Find and read Processing Complex PTSD and Abuse~~
-- ~~Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)~~
-- ~~Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema~~
-- ~~Find and read the primers on Runes, Wards, and Enchanting~~
-- ~~Find and read the primer on Wandless Magic~~
-- ~~Find and read the primer on Illusions and Glamours~~
-- ~~Find and read Harry's Combat Style: Stage 1~~
-- ~~Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance~~
-- ~~Bond with Dobby as your house elf~~
-- ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
-- ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
-- ~~Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic~~
-- ~~Find and read the primer on Apparition~~
-- ~~Establish a training regimen (see Appendix A)~~
-- ~~Check out The Kiln at Red Wharf Bay~~
-- ~~Find and read the primers on Jiu Jitsu, Krav Maga, Shaolin Kung Fu, and Other Hard-Style Martial Arts~~
-- ~~Find and read the primer on Jeet Kun Do and Elysia's Combat Style: Stage 2~~
-- ~~Read the family journals from the vault~~
-- ~~Find and read Divination And Privacy: Information Control In The Magical World~~
-- ~~Examine the wards Dumbledore claims to have put on #4 Privet Drive~~
-- ~~Train Hermione in mind magic, wandless casting, and tai chi~~
-- ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
-- ~~Find and read the primer on Acting Naturally~~
-- ~~Find and read the primers on Strategy, Tactics, and the Art of War~~
-- ~~Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup~~
-  - ~~Plan accordingly~~
-- ~~Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German~~
-- ~~Stop the Twins from betting and losing their life savings~~
-- ~~Mess with Fudge~~
-- ~~Neutralize the rioting Death Eaters~~
-- ~~Come out to the Weasleys~~
-- ~~Deal with transition and switching-electives paperwork for Hogwarts~~
-- ~~Deal with the usual irritations from Snape and Draco~~
-- Find and read Magical Mobility: From Apparition to Zero-Gravity
-- Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
-- Figure out things with Hermione and Luna
-- Talk to Janet about the Triwizard Tournament and fallout thereof
-- Leverage being roped into the Tournament to become emancipated
-- Take over the affairs of House Potter
-- Find and read Magician, Heal Thyself
-- Find and read Curse-Breaking For Fun and Profit
-- Find and read Magica Obscura: Shadow Magic, Necromancy, And Other Arts The Ministry Doesn't Want You To Know
-- Find and read The Horcrux-Hunting Handbook
-  - Seek & Destroy the horcrux in Slytherin's Locket
-    - Get Sirius to help access 12 Grimmauld Place 
-  - Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
-  - Seek & Destroy the horcrux in Ring (Gaunt Shack)
-  - Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
-  - Get to the Triwizard Cup first in the Third Task
-  - Seek & Destroy the Snake (Little Hangleton Graveyard)
-  - Seek & Destroy Voldemort (_after_ he reincorporates)
-- Deal with the dragon in the First Task
-- Dazzle at the Yule Ball
-- Rescue the hostage in the Second Task
-- Capture Peter Pettigrew
-- Disarm Dumbledore and take ownership of the Elder Wand
-- Break Dumbledore's hold on society
+- [x] Find and read the primer on Mind Magic
+- [x] Find and read How To Learn
+- [x] Find and read Processing Complex PTSD and Abuse
+- [x] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
+- [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+- [x] Find and read the primers on Runes, Wards, and Enchanting
+- [x] Find and read the primer on Wandless Magic
+- [x] Find and read the primer on Illusions and Glamours
+- [x] Find and read Harry's Combat Style: Stage 1
+- [x] Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance
+- [x] Bond with Dobby as your house elf
+- [x] Take the Knight Bus to Gringotts ASAP and get a full accounting
+- [x] Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
+- [x] Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic
+- [x] Find and read the primer on Apparition
+- [x] Establish a training regimen (see Appendix A)
+- [x] Check out The Kiln at Red Wharf Bay
+- [x] Find and read the primers on Jiu Jitsu, Krav Maga, Shaolin Kung Fu, and Other Hard-Style Martial Arts
+- [x] Find and read the primer on Jeet Kun Do and Elysia's Combat Style: Stage 2
+- [x] Read the family journals from the vault
+- [x] Find and read Divination And Privacy: Information Control In The Magical World
+- [x] Examine the wards Dumbledore claims to have put on #4 Privet Drive
+- [x] Train Hermione in mind magic, wandless casting, and martial arts
+- [x] Find and read the primer on Countering Control: Potions, Spells, and Debts
+- [x] Find and read the primer on Acting Naturally
+- [x] Find and read the primers on Strategy, Tactics, and the Art of War
+- [x] Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup
+  - [x] Plan accordingly
+- [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German
+- [x] Stop the Twins from betting and losing their life savings
+- [x] Mess with Fudge
+- [x] Neutralize the rioting Death Eaters
+- [x] Come out to the Weasleys
+- [x] Deal with transition and switching-electives paperwork for Hogwarts
+- [x] Deal with the usual irritations from Snape and Draco
+- [x] Find and read Magical Mobility: From Apparition to Zero-Gravity
+- [x] Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
+- [x] Find and read Elysia's Combat Style: Stage 3
+- [ ] Test into Runes and Arithmancy
+- [ ] Get some kind of therapy program in Hogwarts
+- [ ] Figure out things with Hermione and Luna
+- [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
+- [ ] Leverage being roped into the Tournament to become emancipated
+- [ ] Take over the affairs of House Potter
+- [ ] Find and read Magician, Heal Thyself
+- [ ] Find and read Curse-Breaking For Fun and Profit
+- [ ] Find and read Magica Obscura: Shadow Magic, Necromancy, And Other Arts The Ministry Doesn't Want You To Know
+- [ ] Find and read Elysia's Combat Style: Stage 4
+- [ ] Find and read The Horcrux-Hunting Handbook
+  - [ ] Seek & Destroy the horcrux in Slytherin's Locket
+    - [ ] Get Sirius to help access 12 Grimmauld Place 
+  - [ ] Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
+  - [ ] Seek & Destroy the horcrux in Ring (Gaunt Shack)
+  - [ ] Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
+  - [ ] Get to the Triwizard Cup first in the Third Task
+  - [ ] Seek & Destroy the Snake (Little Hangleton Graveyard)
+  - [ ] Seek & Destroy Voldemort (_after_ he reincorporates)
+- [ ] Deal with the dragon in the First Task
+- [ ] Dazzle at the Yule Ball
+- [ ] Rescue the hostage in the Second Task
+- [ ] Capture Peter Pettigrew
+- [ ] Disarm Dumbledore and take ownership of the Elder Wand
+- [ ] Break Dumbledore's hold on society
 

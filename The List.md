@@ -42,7 +42,7 @@ The first thing Harry saw was a white wall with green letters, which said, *Welc
 
 *That's nice,* Harry thought. *I wonder where I am, though?* The room looked like a generic waiting room in a generic office, with a generic sofa facing the wall with its soothing message.
 
-*For that matter,* Harry thought, *how did I get here? The last thing I remember was... Voldemort. And the Forbidden Forest, and a green light... He spouted some cliché monologue, too. What was it again? Oh, right. "Harry Potter, the Boy-Who-Lived. Come to die."* Something about that line made Harry very uncomfortable, but she couldn't quite... wait a minute. *She!?*
+*For that matter,* Harry thought, *how did I get here? The last thing I remember was... Voldemort. And the Forbidden Forest, and a green light... He spouted some cliché line, too. What was it again? Oh, right. "Harry Potter, the Boy-Who-Lived. Come to die."* Something about those words made Harry very uncomfortable, but she couldn't quite... wait a minute. *She!?*
 
 "... Oh." Harry looked down at herself, and realized that for the first time she felt comfortable in her own skin.
 
@@ -76,7 +76,7 @@ Harry's jaw dropped. "You mean Voldemort *won!?*" She buried her face in her han
 
 Harry looked up, hands still poised in case of further bouts of screaming. "For the moment?"
 
-Eleanor sighed, and slapped her hands on the desk. "Look, kid, I'm going to level with you. Most people, they kick the bucket, show up here or " -- she blew a raspberry and gave a thumbs-down -- "the Bad Place, work through a few Purgatory cycles, and move on. You're not most people. You got whammied by Destiny, so you get to go back and try again until you get whatever Destiny has in store for you out of the way." 
+Eleanor sighed, and drummed her hands on the desk. "Look, kid, I'm going to level with you. Most people, they kick the bucket, show up here or " -- she blew a raspberry and gave a thumbs-down -- "the Bad Place, work through a few Purgatory cycles, and move on. You're not most people. You got whammied by Destiny, so you get to go back and try again until you get whatever Destiny has in store for you out of the way." 
 
 Harry put her face back in her hands and growl-screamed again.
 
@@ -96,7 +96,7 @@ Eleanor grinned. "Yeah, that's from the first draft of the Good Place. We all th
 
 "Hermione?" Harry blurted. "*She's* my soul-mate?"
 
-"*Potential* soul-mate. You've run across a couple, looks like. It really just means that you're super-compatible and you *get* each other. Or *can,* eventually. Looks like that Lovegood girl's another one."
+"*Potential* soul-mate. You've run across a few, looks like. It really just means that you're super-compatible and you *get* each other. Or *can,* eventually. Looks like that Lovegood girl's another one."
 
 "*Luna!?*" Harry squeaked.
 
@@ -170,7 +170,7 @@ Time, such as it was in the Afterlife, passed in a blur. (And frequently with an
 
 It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well (Bruce Lee was a particular favourite). But she also got to spend time with her parents. 
 
-James and Lily were both brilliant and terrifying, though each had their specialties. And it turned out that both were exceptional flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution.
+James and Lily were both brilliant and terrifying, though each had their specialties. And it turned out that both were exceptional flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution. (James made a comment about "screaming for vengeance," and thus Harry's education in music began, starting with Judas Priest for obvious reasons.)
 
 And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too. This, coupled with her animagus training, of course led to some interesting possibilities which were thoroughly explored.
 
@@ -232,19 +232,19 @@ Harry nodded and opened the binder.
 
 > #### To Do
 >
-> - Find and read the primer on Mind Magic
-> - Find and read How To Learn
-> - Find and read Processing Complex PTSD and Abuse
-> - Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
-> - Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
-> - Find and read the primers on Runes, Wards, and Enchanting
-> - Find and read the primer on Wandless Magic
-> - Find and read the primer on Illusions and Glamours
-> - Find and read Harry's Combat Style: Stage 1
-> - Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance
-> - Bond with Dobby as your house elf
-> - Take the Knight Bus to Gringotts ASAP and get a full accounting
-> - Establish a training regimen (see Appendix A)
+> - [ ] Find and read the primer on Mind Magic
+> - [ ] Find and read How To Learn
+> - [ ] Find and read Processing Complex PTSD and Abuse
+> - [ ] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
+> - [ ] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+> - [ ] Find and read the primers on Runes, Wards, and Enchanting
+> - [ ] Find and read the primer on Wandless Magic
+> - [ ] Find and read the primer on Illusions and Glamours
+> - [ ] Find and read Harry's Combat Style: Stage 1
+> - [ ] Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance
+> - [ ] Bond with Dobby as your house elf
+> - [ ] Take the Knight Bus to Gringotts ASAP and get a full accounting
+> - [ ] Establish a training regimen (see Appendix A)
 
 "The primers contain the sum total of knowledge and training from your past life on that subject," Janet said. "You and your advisors decided the first order of business was a degree of independence, so everything on this first list is to make you more capable of fending for yourself without setting off the Trace or relying on the adults in your life who have proven less than helpful."
 
@@ -258,7 +258,7 @@ Janet waved a hand, and a pile of books appeared next to one of the reading nook
 
 > To Do
 >
-> - ~~Find and read the primer on Mind Magic~~
+> - [x] Find and read the primer on Mind Magic
 
 "Bloody hell!" Harry exclaimed. "What a rush!"
 
@@ -268,14 +268,14 @@ Harry dove right in, with a fervor that would have put Hermione Granger to shame
 
 > To Do
 >
-> - ~~Find and read How To Learn~~
->- ~~Find and read Processing Complex PTSD and Abuse~~
-> - ~~Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)~~
-> - ~~Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema~~
-> - ~~Find and read the primers on runes, wards, and enchanting~~
-> - ~~Find and read the primer on Wandless Magic~~
-> - ~~Find and read the primer on Illusions and Glamours~~
-> - ~~Find and read Harry's Combat Style: Stage 1~~
+> - [x] Find and read How To Learn
+> - [x] Find and read Processing Complex PTSD and Abuse
+> - [x] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
+> - [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+> - [x] Find and read the primers on runes, wards, and enchanting
+> - [x] Find and read the primer on Wandless Magic
+> - [x] Find and read the primer on Illusions and Glamours
+> - [x] Find and read Harry's Combat Style: Stage 1
 
 "Woah," Harry said when she finally came up for air. "I know kung fu."
 
@@ -291,7 +291,7 @@ Harry dove back in.
 
 > To Do
 >
-> - ~~Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance~~
+> - [x] Find and read the primers on Goblins, House Elves, Public Speaking, Etiquette, Negotiation, and Finance
 
 "The sun's coming up, Harry," Janet said as Harry finished the last of the books. 
 
@@ -325,7 +325,7 @@ James and Lily Potter turned and engulfed their child in a crushing hug.
 
 Eventually, Harry pulled herself together. "You... aren't really here, are you? You're just personifications of my afterlife memories of you?"
 
-"Pretty much," James shrugged. But there're a lot of those. Enough for us to *effectively* be here for you in Elysium, your mindscape, even if the real us can't be. Those versions of us are watching over you, though. You can be sure of that."
+"Pretty much," James shrugged. "But there're a lot of those. Enough for us to *effectively* be here for you in Elysium, your mindscape, even if the real us can't be. Those versions of us are watching over you, though. You can be sure of that."
 
 "We're so proud of you, honey!" Lily cried, squeezing Harry again. Harry squeezed back.
 
@@ -381,7 +381,7 @@ Dobby wrapped Harry in a hug, and they were off to Diagon Alley.
 
 > To Do
 >
-> - ~~Bond with Dobby as your house elf~~
+> - [x] Bond with Dobby as your house elf
 
 
 
@@ -428,18 +428,18 @@ Lockjaw entered the room a few minutes later, handed over a folder, and left aga
 > #### Storage Vault (#015) (safety deposit)
 >
 > - Deed: The Kiln, Red Wharf Bay, Wales (wards: Unplottable, Muggle-Repelling, security suite) 5mi^2^ - reusable portkey on file - see page 2
->- Various personal effects - see page 6
+> - Various personal effects - see page 6
 > 
 > #### Trust Vault: Harry James Potter (#687) (5% interest, compounded annually)
 >
 > - 99,913 Galleons
->- 2,064 Sickles
+> - 2,064 Sickles
 > - 1,683 Knuts
 > 
 > #### Notable Business Concerns
 >
 > - Fleamont's Filtres- 10% ownership - see page 8
->- Other aggregate shares - see page 12
+> - Other aggregate shares - see page 12
 
 The rest of the folder was fine-print regarding the farm and business, but what caught Harry's attention (aside from the sheer amount) was that note about personal effects. *Perhaps something of my parents'?* Catching Claymore's attention, she asked, "Claymore, a couple of things have caught my attention. First, the portkey to the property at Red Wharf. Am I able to request use of that now, or do I need to wait until I come of age?"
 
@@ -509,7 +509,7 @@ She emerged wearing close-fitting jeans, a black v-neck t-shirt, and the Ironbel
 
 > To Do
 >
-> - ~~Take the Knight Bus to Gringotts ASAP and get a full accounting~~
+> - [x] Take the Knight Bus to Gringotts ASAP and get a full accounting
 > - Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
 >
 > - Establish a training regimen (see Appendix A)
@@ -566,7 +566,7 @@ The living area was piled high with all of the spoils from the day's errands, bu
 
 > To Do
 >
-> - ~~Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)~~
+> - [x] Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
 
 
 
@@ -598,7 +598,7 @@ Janet looked confused for a moment. "Oh, right, we weren't expecting this to com
 
 Elysia shook her head. "Wait, soul-*mates?* As in, more than one?"
 
-"That's right," Janet replied. "You have two potential soul-mates that you are likely to meet in this phase of your life. It's not some mystical bond in and of itself; it just means that you're extremely compatible. You'll just *get* each other more easily. That said, that compatibility lends itself to certain kinds of magical bond-oaths. The most common is the magical Marriage Vows; most magical married couples can at least sense their partner's moods through this bond, although usually by the point that's even an option they've been able to read each other's body language well enough already."
+"That's right," Janet replied. "You have a few potential soul-mates that you are likely to meet in this phase of your life. It's not some mystical bond in and of itself; it just means that you're extremely compatible. You'll just *get* each other more easily. That said, that compatibility lends itself to certain kinds of magical bond-oaths. The most common is the magical Marriage Vows; most magical married couples can at least sense their partner's moods through this bond, although usually by the point that's even an option they've been able to read each other's body language well enough already."
 
 "Okay, so are you saying that that's a lower end on the abilities of a bond like that?"
 
@@ -610,7 +610,7 @@ Janet smiled. "Exactly! Because of how in sync you are, there's less interferenc
 
 "Okay, that's sounding like it's not limited to two people." Elysia said.
 
-"It's not," Janet agreed. "There have been triad bonds, pack bonds, and House bonds before, for example. Obviously, the more people in the bond, the harder it is to get everyone in tune with each other, and therefore the less capable the bond becomes. Practically speaking, four is usually the upper limit for anything truly useful."
+"It's not," Janet agreed. "There have been triad bonds, pack bonds, and House bonds before, for example. Obviously, the more people in the bond, the harder it is to get everyone in tune with each other, and therefore the less capable the bond becomes. Practically speaking, four is usually the upper limit for anything truly useful, though larger groups are not unheard of."
 
 "That makes sense," Elysia said. "So, to compare this to light, or a radio, this is more about the frequency than the power?"
 
@@ -624,10 +624,10 @@ Elysia opened the binder on the desk.
 
 > To Do
 >
-> - Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic
-> - Find and read the primer on Apparition
-> - Establish a training regimen (see Appendix A)
-> - Check out The Kiln at Red Wharf Bay
+> - [ ] Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic
+> - [ ] Find and read the primer on Apparition
+> - [ ] Establish a training regimen (see Appendix A)
+> - [ ] Check out The Kiln at Red Wharf Bay
 
 After Elysia finished off the primers, she cracked open Appendix A. She found a comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm -- or several, at more advanced stages -- for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
 
@@ -637,12 +637,12 @@ Popping back to the real world, she got on with it. Robbie joined her, and the t
 
 > To Do
 >
-> - ~~Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic~~
-> - ~~Find and read the primer on Apparition~~
-> - ~~Establish a training regimen (see Appendix A)~~
-> - Check out The Kiln at Red Wharf Bay
+> - [x] Find and read the primers on Math, Signal Processing, Bonds, Blood Magic, Rituals, and Soul Magic
+> - [x] Find and read the primer on Apparition
+> - [x] Establish a training regimen (see Appendix A)
+> - [ ] Check out The Kiln at Red Wharf Bay
 
-Finally, after they were done training, Elysia shifted back to Harry-form and headed out into Durzkaban to borrow the phone. She'd had the idea that her friends might want to come along to check out the Red Wharf property. There wasn't enough time to send Hedwig with a letter asking Ron, nor did she have access to a floo. Hermione, on the other hand, lived in a muggle house, and had a telephone. And she'd given Elysia her number (and address) after the debacle with the bars and the flying car two summers ago.
+Finally, after they were done training, Elysia shifted back to Harry-form and headed out into Durzkaban to borrow the phone. She'd had the idea that her friends might want to come along to check out the Red Wharf property. There wasn't enough time to send Hedwig with a letter asking Ron, nor did she have access to a floo. Hermione, on the other hand, lived in a muggle house, and had a telephone. And she'd given Elysia her number (and address) after the debacle with the bars on the window and the flying car two summers ago.
 
 Thankfully, Dudley was still at Smeltings until July, and Vernon was at work. Petunia was out in the garden, though it was nearing noon so she'd have to be quick before her aunt came back in out of the heat.
 
@@ -806,9 +806,9 @@ Elysia winked at her and shifted into a hippogriff.
 
 
 
-Despite managing to keep from squeezing her eyes shut, Hermione maintained a death-grip on Elysia's neck despite the wandless sticking charm on her jeans as the girls and Robbie, also shifted to hippogriff, flew around the property.
+Although she managed to keep from squeezing her eyes shut, Hermione maintained a death-grip on Elysia's neck regardless of the wandless sticking charm on her jeans as the girls and Robbie, also shifted to hippogriff, flew around the property.
 
-Most of the land was sectioned off for crops, though the fields had obviously lain fallow for a long time. In the middle of the property, though, hidden behind the cottage, was a rusted and overgrown quidditch pitch and a ramshackle broom-shed.
+Most of the land was sectioned off for crops, though the fields had obviously lain fallow for a long time. One corner of the property was woodland, bordered on one side by a crystal-clear pond. In the middle of the property, though, hidden behind the cottage, was a rusted and overgrown quidditch pitch and a ramshackle broom-shed.
 
 "Ron would love this!" Hermione yelled over the rushing air.
 
@@ -826,7 +826,7 @@ Robbie laughed so hard he fell over.
 
 > To Do
 >
-> - ~~Check out The Kiln at Red Wharf Bay~~
+> - [x] Check out The Kiln at Red Wharf Bay
 
 ## Chapter 5: Was This A Date?
 
@@ -834,8 +834,8 @@ The next day, Elysia noticed an addition to her to-do list. *Wait, blood wards? 
 
 > To Do
 >
-> - Find and read Divination And Privacy: Information Control In The Magical World
-> - Examine the blood wards Dumbledore claims to have put on #4 Privet Drive
+> - [ ] Find and read Divination And Privacy: Information Control In The Magical World
+> - [ ] Examine the blood wards Dumbledore claims to have put on #4 Privet Drive
 
 After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible. Such as ward-lines, which in this case glowed an angry blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
 
@@ -849,9 +849,7 @@ Between the two of them, they were able to decode the ward schema. It was, in El
 
 "That explains why the Dursleys are such caricatures of normality, I suppose," Robbie said.
 
-"Right, then, one more summer project. Fixing this absolute *garbage* schema. Think we can do it without tripping the notifier?" Elysia said, grinning impishly.
-
-"Definitely," Robbie said, grinning back.
+A cold tingle crawled across Elysia's scalp, and she replaced the ward stone. "I get the feeling we should leave this alone for now," she told Robbie. "Could be useful as evidence or something later."
 
 
 
@@ -863,11 +861,9 @@ The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough
 
 Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, thermal, zoom, Mage Sight augmentation, and a thaumic analytics HUD -- she was particularly pleased, as all of these were from a separate schema stone she'd shrunk down and wore as a pendant, and then tied into the glasses. This gave her lots of room to add features later, too.
 
-She and Robbie also made quite a few adjustments to the wards at the Dursley residence. They had fixed the emotion-amplifier first, to only affect positive emotions, added Elysia to the familial descriptor array, added negative impulse suppression, and refined the link traces. Those would take time to have any appreciable effect, though, especially after so many years ingraining all of the negative feelings the Dursleys had towards Elysia. Still, every little bit helped, and by the time next summer came around, hopefully they wouldn't be nearly as hostile.
+She and Robbie took advantage of the other flagstones to add to the wards - aside from a self-destruct on the newly-added wardstone, set to trigger whenever the original stone was flipped, they also added Trace shielding - which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
 
-They also added Trace shielding, which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
-
-Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some tai chi.
+Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and wandless casting. As part of these, she and Robbie also started teaching Hermione some martial arts, particularly tai chi.
 
 They still made time to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask.*
 
@@ -909,7 +905,7 @@ Hermione looked startled, then got a thoughtful expression on her face. "Go on."
 
 "I like this new you," Hermione said. "I always knew you were smart, but it's *wonderful* to be able to have conversations like this with you. Before this summer, most of our conversations were taken up with homework, quidditch, or whatever crisis of the moment. Now... you just seem more comfortable in your own skin. More confident, more driven. More playful, too. Happier. I don't know, maybe that's just growing up. But I don't think it's *only* that."
 
-Elysia was silent for a little while, thinking. She hadn't thought about it much after the first couple of days, but she really had changed a *lot* over the summer. Her birthday had been a couple of weeks ago, her first as Elysia, and all of the cards and such were addressed to 'Harry.' Her Hogwarts letter, which had also arrived that day, was the same. It was jarring to think that that name still referred to her, and by necessity would continue to until she could change it upon reaching her majority.
+Elysia was silent for a little while, thinking. She hadn't thought about it much after the first couple of days, but she really had changed a *lot* over the summer. Her birthday had been a couple of weeks ago, her first as Elysia, and all of the cards and such were addressed to 'Harry' except Hermione's. Her Hogwarts letter, which had also arrived that day, was the same. It was jarring to think that that name still referred to her, and by necessity would continue to until she could change it upon reaching her majority.
 
 She still hadn't told Ron about most of it, either. Not that she was a girl, nor that she was a shifter, nor the past-life knowledge. She'd mentioned Robbie, and some of the things from the vault (though not the money or the trunk), but not The Kiln or all the time she was spending with Hermione. And none of that had occurred to her *at all* until just now. It struck her all at once that she was growing apart from her first friend, and she *really* didn't know how to feel about that.
 
@@ -959,7 +955,7 @@ By this time, they'd made it back to the Granger residence. They were just about
 
 "Do I need a reason to hug my best friend?" She replied. "Besides, are you really objecting?"
 
-"Never," Elysia stated firmly. "You couldn't *Imperio* me to object to one of your hugs."
+"Never," Elysia stated firmly. "You couldn't *Imperius* me to object to one of your hugs."
 
 Smiling brightly, Hermione led the way inside.
 
@@ -1077,7 +1073,7 @@ Elysia got comfortable in one of the chairs as Janet assumed her lecturing stanc
 
 Elysia gasped, whether in shock our outrage she wasn't sure.
 
-"There was a prophecy made about you and Voldemort," Janet continued, "and he's taken it to mean that you need to sacrifice yourself in order for Voldemort to finally be defeated for good. So he manipulated events to, first, bring the child of the prophecy to light -- it could have been either you or Neville Longbottom -- and then, once it was clear (to him, anyway) that the prophecy referred to you, he had you raised in such a way that you'd be willing to sacrifice yourself to defeat Voldemort without a second thought. He's desperate, not necessarily malicious, but the road to Hell is paved with good intentions, after all."
+"There was a prophecy made about you and Voldemort," Janet continued, "and he's taken it to mean that you need to sacrifice yourself in order for Voldemort to finally be defeated for good. So he manipulated events to, first, bring the child of the prophecy to light -- it could have been either you or Neville Longbottom -- and then, once it was clear (to him, anyway) that the prophecy referred to you, he had you raised in such a way that you'd be willing to sacrifice yourself to defeat Voldemort without a second thought. He's desperate, not necessarily malicious, but he's also been drinking his own Kool-Aid, and he's developed a somewhat severe case of tunnel vision where you and Voldemort are concerned."
 
 "But... *why?* Why does he think that I have to die?"
 
@@ -1119,11 +1115,11 @@ Elysia threw herself backwards into the chair. "No pressure, then," she said mor
 
 > To Do
 >
-> - ~~Find and read the primer on Countering Control: Potions, Spells, and Debts~~
-> - ~~Find and read the primer on Acting Naturally~~
-> - ~~Find and read the primers on Strategy, Tactics, and the Art of War~~
-> - ~~Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup~~
->   - ~~Plan accordingly~~
+> -[x] Find and read the primer on Countering Control: Potions, Spells, and Debts
+> - [x] Find and read the primer on Acting Naturally
+> - [x] Find and read the primers on Strategy, Tactics, and the Art of War
+> - [x] Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup
+>   - [x] Plan accordingly
 
 
 
@@ -1283,7 +1279,7 @@ Elysia smirked. "You're on!"
 
 When lunch was over, and the aftermath cleared away, everyone trooped down to the clearing in the orchard which was used as a makeshift quidditch pitch by the Weasley kids.
 
-Charlie, riding a Cleansweep 7, pulled out a snitch and grinned. "Gotta keep in practice, eh, Potter?"
+Charlie, riding a Cleansweep 9, pulled out a snitch and grinned. "Gotta keep in practice, eh, Potter?"
 
 Elysia pulled out her shrunken Firebolt. Leaping astride even as it unshrank, she grinned devilishly. "You talk too much, Weasley," she snarked.
 
@@ -1317,7 +1313,7 @@ They all went to bed early that night. Mrs. Weasley had offered to pick up Elysi
 
 "Oh?" Hermione replied. "How so?"
 
-Ginny tossed and turned for a bit, then rolled over to face Hermione. "Lots of ways. New clothes and such aside, he seems more self-assured, but also less... edgy, I guess? Kind of girly, actually. Not that he's ever been all that buff or anything, just..." She shrugged. "It's weird. I thought boys were supposed to get handsome as they got older. Him? First word that comes to mind to describe him is 'pretty.' It's confusing, if I'm honest."
+Ginny tossed and turned for a bit, then rolled over to face Hermione. "Lots of ways. New clothes and such aside, he seems more self-assured, but also less... edgy, I guess? Softer around the edges, somehow. Kind of girly, actually. Not that he's ever been all that buff or anything, just..." She shrugged. "It's weird. I thought boys were supposed to get handsome as they got older. Him? First word that comes to mind to describe him is 'pretty.' It's confusing, if I'm honest."
 
 "Still crushing on the Boy-Who-Lived, Gin?"
 
@@ -1351,7 +1347,7 @@ Hermione hummed noncommittally.
 
 "Why Miss Weasley, are you coming on to me?" Hermione teased.
 
-Ginny blushed. "No! You're like my sister. Answer the question."
+Ginny blushed. "Um. No?" She shook her head. "Answer the question."
 
 Hermione thought for a while. "Well... I don't know. I've certainly never found any *wizards* all that attractive."
 
@@ -1403,7 +1399,7 @@ Hermione laughed in shock at Ginny's euphemism, then huffed. "Fine. Sure. 'Sweet
 
 ## Chapter 7: The Quidditch World Cup
 
-Morning came too soon even Elysia, who was already in the habit of rising early. The sky was still dark when Mrs. Weasley shook everyone awake.
+Morning came too soon even for Elysia, who was already in the habit of rising early. The sky was still dark when Mrs. Weasley shook everyone awake.
 
 "It's time, dears," she said. "You've got a bit of a hike ahead of you."
 
@@ -1431,7 +1427,7 @@ Elysia could see why the muggles kept catching on. Most of the tents looked as i
 
 Eventually, they reached a plot next to a wood, with a sign planted in it saying WEEZLY.
 
-"Best spot in the place," Mr. Weasley said happily. "Now, strictly speaking, we shouldn't use magic while we're out on muggle land in these numbers. We'll have to put the tents up by hand!"
+"Best spot in the place," Mr. Weasley said happily. "Stadium's just through that wood. Now, strictly speaking, we shouldn't use magic while we're out on muggle land in these numbers. We'll have to put the tents up by hand!"
 
 "Oh," Robbie said. "Oops?"
 
@@ -1483,7 +1479,7 @@ Elysia rolled her eyes. "Boy takes himself way too seriously for someone related
 
 "I don't think that's really my style," Hermione replied.
 
-Elysia looked at her for a moment. "Fair enough. You're more the 'doe-eyed innocence with a hidden wicked streak' type, I think."
+Elysia studied her for a moment. "Fair enough. You're more the 'doe-eyed innocence with a hidden wicked streak' type, I think."
 
 Hermione assumed a 'who, me?' face, but it failed miserably as her lip kept twitching. They both burst out laughing.
 
@@ -1505,8 +1501,8 @@ Elysia decided she'd better pop into her mindscape and see if there were any mor
 
 > To Do
 >
-> - ~~Stop the Twins from betting and losing their life savings~~
-> - ~~Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German~~
+> - [x] Stop the Twins from betting and losing their life savings
+> - [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German
 
 As the afternoon wore on, the lanes between the tents began to fill with salesmen, with souvenirs of all sorts. Ron purchased a dancing shamrock hat; an animated figurine of Viktor Krum, the Bulgarian seeker; and a large green luminous rosette.
 
@@ -1576,7 +1572,7 @@ The entire Bulgarian delegation turned to face Fudge with menacing glares.
 
 "Tell you later, 'Mione," Elysia whispered back.
 
-"Ah, Fudge," Lucius Malfoy said as he swept in with his family. Elysia was doubly disappointed, both for the presence of the Malfoys and the defusing of the rising tensions between Fudge and the Bulgarians.
+"Ah, Fudge," Lucius Malfoy said as he swept in with his family. Elysia was doubly disappointed, both for the presence of the Malfoys and the interruption to the rising tension between Fudge and the Bulgarians.
 
 Mr. Malfoy introduced his wife and son to the Minister. Draco caught sight of Elysia and blushed, but turned away with a scowl when she smirked at him.
 
@@ -1590,7 +1586,7 @@ The mascots turned out to be a hundred veela, who began to dance enticingly. Ely
 
 "Down, girl. You're drooling a bit," she murmured into Hermione's ear. "Put your shields up and watch the boys make fools of themselves."
 
-Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and Draco, though Lucius Malfoy, Charlie, and Mr. Weasley all seemed more or less unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
+Hermione's glazed look cleared up as she shook herself, and smiled thankfully at Elysia. Turning, the two of them watched as the Weasleys -- and both Draco and his mother, though Lucius Malfoy, Charlie, and Mr. Weasley all seemed more or less unaffected -- postured absurdly. Even Ginny had started to stand, when the music stopped and the veela took their places on the sidelines.
 
 "*Ahem.* And now," Mr. Bagman said, his voice cracking at first, "the Irish National Team Mascots!"
 
@@ -1612,7 +1608,7 @@ Elysia caught his eye and burst out laughing.
 
 > To Do
 >
-> - ~~Mess with Fudge~~
+> - [x] Mess with Fudge
 
 
 
@@ -1624,11 +1620,11 @@ They were still too keyed up when they finally made it back to camp, so they all
 
 "Harry," Hermione said, "what did you say to the Bulgarian Minister? And since when do you speak Bulgarian, anyway?"
 
-"The 'how' is that my grandparents invented something called 'Language Lozenges[^1],'" Elysia answered, lying through her teeth. "Don't think they ever got the chance to market them; Grandmum's journal mentions them right near the end, just before they caught the dragon pox that killed them."
+"The 'how' is that my grandparents invented something called 'Language Lozenges[^1],'" Elysia answered, lying through her teeth. "Don't think they ever got the chance to market them; Granddad's journal mentions them right near the end, just before they caught the dragon pox that killed them."
 
 "So, what, you found a stash of prototypes or something?" Hermione asked.
 
-"Yup!" Elysia said. "Russian, both Irish and Scots Gaelic, Bulgarian, Polish, Hebrew, French, Spanish... all kinds, really. It's brilliant. Maybe someday I'll be able to actually understand the formula."
+"Yup!" Elysia said. "Russian, both Irish and Scots Gaelic, Bulgarian, Polish, Hebrew, French, Spanish... all kinds, really. It's brilliant. Pity he didn't write down the formula."
 
 Hermione nodded.
 
@@ -1654,11 +1650,11 @@ The conversation, though stilted at first, slowly grew more spirited again as th
 
 Elysia, however, remembered Janet's warning, and began carving border stones for an anti-apparition ward. When the screams started and Mr. Weasley came in to tell them all to run, she told Robbie to lay the stones around the Death Eaters, then dutifully woke everyone.
 
-Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion-self was. All in all it took maybe five minutes.
+Casting a wandless illusion-construct of herself running with her friends into the woods, she shifted into a gorgon and apparated in front of the Death Eaters, just outside her anti-apparition ward. In the ensuing panic, she managed to catch fully half of them in her petrifying gaze before the rest tried to apparate. When that failed, she caught another quarter of the remainder. By then ministry workers had started to arrive, so she apparated back to the tents, shifted back to Harry-shape, and popped to where her illusion-self was. All in all it took maybe five minutes.
 
 > To Do
 >
-> - ~~Neutralize the rioting Death Eaters~~
+> - [x] Neutralize the rioting Death Eaters
 
 "Harry? You okay?" Hermione called at the loud crack that sounded as Elysia joined them.
 
@@ -1766,7 +1762,7 @@ Hermione blushed the brightest of them all.
 
 > To Do
 >
-> - ~~Come out to the Weasleys~~
+> - [x] Come out to the Weasleys
 
 
 
@@ -1900,7 +1896,7 @@ They filed into the carriage after a last pat for the loyal thestral, and made t
 
 
 
-The storm that had been threatening all day finally broke on the short trek up from Hogsmeade, and despite the short dash from the carriages to the entry hall, they were all soaked to the skin by the time they made it indoors.
+The storm that had been threatening all day finally broke on the way up from Hogsmeade, and despite the short dash from the carriages to the entry hall, they were all soaked to the skin by the time they made it indoors.
 
 Just when they thought they were safe, water balloons began pelting them from above, soaking them once more -- not that Elysia felt it made much difference, really.
 
@@ -1940,7 +1936,7 @@ The students' whispering among themselves reached a crescendo. Moody himself ign
 
 Ron nodded. "That's him. He's supposed to be a legendary auror; caught more than his fair share of Death Eaters back in the war."
 
-"As I was saying," Dumbledore was saying, "Hogwarts will this year play host to the newly-reconstituted Tri-Wizard Tournament."
+"As I was saying," Dumbledore continued, "Hogwarts will this year play host to the newly-reconstituted Tri-Wizard Tournament."
 
 A chill of foreboding trickled down Elysia's spine.
 
@@ -2155,7 +2151,7 @@ Lily was silently weeping.
 
 "You've changed, Elysia," Snape said. "Transition aside, you carry yourself differently. Like you know your own worth. And not in an over-compensating way; it's as if many of those scars have healed, much more than they ought to have in just a few short months."
 
-Elysia sat silently, gathering her thoughts, then snorted. "Honestly, sir, they were an eternity from my perspective. Janet?" She called.
+Elysia sat silently, gathering her thoughts, then snorted. "Honestly, they were an eternity from my perspective. Janet?" She called.
 
 "Hi!" Janet said, popping into existence in the middle of the sunken living room. Her chipper demeanor was a sharp contrast to the somber mood of everyone else, and Elysia found it to be a welcome relief.
 
@@ -2230,7 +2226,7 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 > To Do:
 >
-> - ~~Deal with the usual irritations from Snape and Draco~~
+> - [x] Deal with the usual irritations from Snape and Draco
 
 
 
@@ -2238,11 +2234,31 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 The next morning, so early the sun hadn't yet crested the horizon, Elysia woke with a jolt. She'd been having such a compelling dream, but it was fading so fast... and it was gone. Damn.
 
-
+She rolled over and tried to go back to sleep, to no avail. Eventually, she dropped into Elysium to start her morning routine with a check of the List and a chat with her parents.
 
 
 
 > To Do:
 >
-> - Find and read Magical Mobility: From Apparition to Zero-Gravity
-> - Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
+> - [x] Find and read Magical Mobility: From Apparition to Zero-Gravity
+> - [x] Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
+> - [x] Find and read Elysia's Combat Style: Stage 3
+> - [ ] Test into Runes and Arithmancy
+
+
+
+Coming back to the real world, she found Hermione was just waking up.
+
+"Still want to join me and Robbie for our workout, 'Mione?'" She asked.
+
+"It's 'Robbie and I,'" Hermione corrected with a yawn.
+
+"Aha, so you *are* awake!" Elysia crowed.
+
+Hermione threw a pillow at her. "Alright, fine," she grumbled, fighting off another yawn.
+
+The two finished their morning ablutions and joined Robbie by the lake for a run. After a few laps, they returned to the dorms, where, since it was still quite early on a Saturday morning, the other girls snored away quietly.
+
+Elysia opened her trunk and started down the stairs, only to look up at Hermione's gasp. She grinned at Hermione's astonished expression, and beckoned her to follow.
+
+Hermione's eyes were wide as Elysia gave her the grand tour of the little flat she shared with Robbie. She made sure to end the tour in the locus room, because as soon as Hermione set foot inside she was off, examining every little thing and chattering a mile a minute. Elysia leaned against the doorjamb, a fond smile on her face as she watched her best friend's excitement.
