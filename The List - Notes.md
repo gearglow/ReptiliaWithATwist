@@ -2,6 +2,8 @@
 
 ## Plot Points
 
+- [x] Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindly following Dumbledore.
+
 - What to do about Draco? Now that Lucius is out of the picture, how does he change? And how does he react to Elysia as a girl?
 
 - Ginny x Draco/Dorea? Not immediately, of course, but as Draco realizes Lucius is out of the picture, and Narcissa walks away from her marriage once Sirius is exonerated, Draco starts thinking for themself. Ginny is still recovering from being possessed by the Diary, and the two find common ground in that process of rebuilding themselves.
@@ -21,8 +23,6 @@
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
 
 - Blaise's Pocket Boggart (a la [All According to Plan](https://www.fanfiction.net/s/13001792/1/All-According-to-Plan)) but the boggart turns into Blaise pulling out a pocket boggart, which turns into Blaise... *ad nauseum.*
-
-- [x] Elysia pulls Snape into Elysium, where Lily tears him a new one and James apologizes. Snape becomes an ally, though he's still a prickly little bastard. Still, Elysia does need a magical adult on her team who *isn't* a Weasley or blindly following Dumbledore.
 
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
@@ -246,6 +246,7 @@ What it says on the tin.
 - [x] Find and read Elysia's Combat Style: Stage 3
 - [ ] Test into Runes and Arithmancy
 - [ ] Get some kind of therapy program in Hogwarts
+- [ ] Find and read Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
 - [ ] Figure out things with Hermione and Luna
 - [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
 - [ ] Leverage being roped into the Tournament to become emancipated

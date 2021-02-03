@@ -2262,3 +2262,6 @@ The two finished their morning ablutions and joined Robbie by the lake for a run
 Elysia opened her trunk and started down the stairs, only to look up at Hermione's gasp. She grinned at Hermione's astonished expression, and beckoned her to follow.
 
 Hermione's eyes were wide as Elysia gave her the grand tour of the little flat she shared with Robbie. She made sure to end the tour in the locus room, because as soon as Hermione set foot inside she was off, examining every little thing and chattering a mile a minute. Elysia leaned against the doorjamb, a fond smile on her face as she watched her best friend's excitement.
+
+Hermione trailed off as she noticed Elysia's expression. "What?" She asked, with a bashful smile.
+
