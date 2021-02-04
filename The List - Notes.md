@@ -34,6 +34,10 @@
 
 - Personal ward amulet
 
+- Heirship of any of the Four Founders falls to whoever performs the Heirship Ritual with a Founder's Relic. The ritual is lost to time, which means Elysia can cheat her way into knowing it - and for all four Founders, too.
+
+- Horcruxes can be removed from whatever they possess via the spell _suntsitu arima lotua,_ which is Basque for "destroy the bound soul."
+
 - The Furies: Elysia's polycule and all-girl spec-ops team. They share power and abilities (like shifting) through a bond-oath. (Could be in Elysiad too, actually.)
 
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
@@ -76,7 +80,7 @@
       - Eidetic memory
       - Rapid learning
       - Altered time perception and reactions
-      - Defence against mind magic
+      - Defense against mind magic
       - Line-of-sight or Bond-linked telepathy
 
 ## Characters
