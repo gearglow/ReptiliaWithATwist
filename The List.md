@@ -2265,9 +2265,9 @@ Hermione's eyes were wide as Elysia gave her the grand tour of the little flat s
 
 Hermione trailed off as she noticed Elysia's expression. "What?" She asked, with a bashful smile.
 
-"You know I literally wrote that rune schema, in like four hours, right?" Elysia said, grin widening.
+"You know I literally wrote that rune schema in like four hours, right?" Elysia said, grin widening.
 
-"Oh, um, right," Hermione said sheepishly.
+"Oh, um, right," Hermione said sheepishly. "I forgot you wrote it."
 
 "I must say, Miss Granger, I'm flattered by your enthusiasm for my work," Elysia said in a mock-posh accent.
 
@@ -2285,3 +2285,6 @@ They laughed, and headed out to finish their workout.
 
 
 
+By the time they were done, breakfast was well underway. The two reached the Great Hall just as Luna came down the stairs.
+
+"Good morning," she said with a happy-sounding, adorably squeaky yawn.
