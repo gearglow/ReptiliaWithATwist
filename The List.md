@@ -2265,3 +2265,23 @@ Hermione's eyes were wide as Elysia gave her the grand tour of the little flat s
 
 Hermione trailed off as she noticed Elysia's expression. "What?" She asked, with a bashful smile.
 
+"You know I literally wrote that rune schema, in like four hours, right?" Elysia said, grin widening.
+
+"Oh, um, right," Hermione said sheepishly.
+
+"I must say, Miss Granger, I'm flattered by your enthusiasm for my work," Elysia said in a mock-posh accent.
+
+"Well, Miss Potter," Hermione retorted, playing along. "Your work _does_ show remarkable sensibilities, especially given the constraints under which it was performed."
+
+"Why thank you."
+
+"Certainly."
+
+They laughed, and headed out to finish their workout.
+
+
+
++++++
+
+
+
