@@ -2269,7 +2269,7 @@ Hermione trailed off as she noticed Elysia's expression. "What?" She asked, with
 
 "Oh, um, right," Hermione said sheepishly. "I forgot you wrote it."
 
-"I must say, Miss Granger, I'm flattered by your enthusiasm for my work," Elysia said in a mock-posh accent.
+"I must say, Miss Granger, I'm flattered by your enthusiasm for my work," Elysia said in a faux-posh accent.
 
 "Well, Miss Potter," Hermione retorted, playing along. "Your work _does_ show remarkable sensibilities, especially given the constraints under which it was performed."
 
@@ -2288,3 +2288,13 @@ They laughed, and headed out to finish their workout.
 By the time they were done, breakfast was well underway. The two reached the Great Hall just as Luna came down the stairs.
 
 "Good morning," she said with a happy-sounding, adorably squeaky yawn.
+
+Elysia and Hermione caught each other's eyes and, over passive legilimency, at the exact same time, sent the exact same thought: _oh no, she's cute!_
+
+"Good morning, Luna," they chorused back, blushing.
+
+"Are you ready for the Arithmancy and Runes exams?" Elysia continued.
+
+"Certainly," Luna replied. "I expect it will be nice to feel challenged in my classes finally. And you, Ellie?"
+
+Elysia grinned. "Definitely. Gotta keep Hermione on her toes, after all. I've been slacking too much. Divination, honestly. What on earth was I thinking?"
