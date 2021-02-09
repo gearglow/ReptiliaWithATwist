@@ -2298,3 +2298,6 @@ Elysia and Hermione caught each other's eyes and, over passive legilimency, at t
 "Certainly," Luna replied. "I expect it will be nice to feel challenged in my classes finally. And you, Ellie?"
 
 Elysia grinned. "Definitely. Gotta keep Hermione on her toes, after all. I've been slacking too much. Divination, honestly. What on earth was I thinking?"
+
+"Probably that it was an easy O, if I recall," Hermione snarked. Luna giggled.
+
