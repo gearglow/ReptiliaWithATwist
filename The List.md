@@ -2299,5 +2299,12 @@ Elysia and Hermione caught each other's eyes and, over passive legilimency, at t
 
 Elysia grinned. "Definitely. Gotta keep Hermione on her toes, after all. I've been slacking too much. Divination, honestly. What on earth was I thinking?"
 
-"Probably that it was an easy O, if I recall," Hermione snarked. Luna giggled.
+"Probably that it was an easy O, if I recall," Hermione said mock-primly. Luna giggled.
 
+"You'd think I'd know better than to let myself get bored by now," Elysia grinned. "That way lies mischief."
+
+Hermione snorted. "Mischief's in your blood, Ellie. I'm just glad you're not a prankster like your father and his marauding mates. The castle'd come down around our ears."
+
+Elysia winked at Luna.
+
+"No worries there. Can't have poor Prof. McGonagall's pretty black hair going grey, now can we?"
