@@ -2305,6 +2305,4 @@ Elysia grinned. "Definitely. Gotta keep Hermione on her toes, after all. I've be
 
 Hermione snorted. "Mischief's in your blood, Ellie. I'm just glad you're not a prankster like your father and his marauding mates. The castle'd come down around our ears."
 
-Elysia winked at Luna.
-
-"No worries there. Can't have poor Prof. McGonagall's pretty black hair going grey, now can we?"
+Elysia winked at Luna. "No worries there. Can't have poor Prof. McGonagall's pretty black hair going grey, now can we?"
