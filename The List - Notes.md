@@ -238,7 +238,7 @@ What it says on the tin.
 - [x] Find and read the primers on Strategy, Tactics, and the Art of War
 - [x] Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup
   - [x] Plan accordingly
-- [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Greek, Spanish, Swiss, and German
+- [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
 - [x] Stop the Twins from betting and losing their life savings
 - [x] Mess with Fudge
 - [x] Neutralize the rioting Death Eaters
