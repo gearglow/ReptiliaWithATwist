@@ -1073,7 +1073,7 @@ Elysia got comfortable in one of the chairs as Janet assumed her lecturing stanc
 
 Elysia gasped, whether in shock our outrage she wasn't sure.
 
-"There was a prophecy made about you and Voldemort," Janet continued, "and he's taken it to mean that you need to sacrifice yourself in order for Voldemort to finally be defeated for good. So he manipulated events to, first, bring the child of the prophecy to light -- it could have been either you or Neville Longbottom -- and then, once it was clear (to him, anyway) that the prophecy referred to you, he had you raised in such a way that you'd be willing to sacrifice yourself to defeat Voldemort without a second thought. He's desperate, not necessarily malicious, but he's also been drinking his own Kool-Aid, and he's developed a somewhat severe case of tunnel vision where you and Voldemort are concerned."
+"There was a prophecy made about you and Voldemort," Janet continued. "A fake one, I might add -- and he's taken it to mean that you need to sacrifice yourself in order for Voldemort to finally be defeated for good. So he manipulated events to, first, bring the child of the prophecy to light -- it could have been either you or Neville Longbottom -- and then, once it was clear (to him, anyway) that the prophecy referred to you, he had you raised in such a way that you'd be willing to sacrifice yourself to defeat Voldemort without a second thought. He's desperate, not necessarily malicious, but he's also been drinking his own Kool-Aid, and he's developed a somewhat severe case of tunnel vision where you and Voldemort are concerned."
 
 "But... *why?* Why does he think that I have to die?"
 
@@ -1127,7 +1127,7 @@ Elysia threw herself backwards into the chair. "No pressure, then," she said mor
 
 
 
-There being nothing to pack, what with all her and Robbie's worldly possessions fitting handily in the magically-expanded residential trunk, the two spent the morning in their usual training routine. When noon rolled around, Elysia shifted into her androgynous Harry-shape and, after shrinking the trunk and pocketing it, headed downstairs to inform her relatives that she would be leaving for the rest of the summer. She found them at the table, just starting in on lunch.
+There being nothing to pack, what with all her and Robbie's worldly possessions fitting handily in the magically-expanded residential trunk, the two spent the morning in their usual training routine -- and in Elysia's case, bleeding off the tension from the morning's revelations. When noon rolled around, Elysia shifted into her androgynous Harry-shape and, after shrinking the trunk and pocketing it, headed downstairs to inform her relatives that she would be leaving for the rest of the summer. She found them at the table, just starting in on lunch.
 
 "Where'd you get those clothes!?" Dudley accused.
 
@@ -2333,17 +2333,23 @@ Ron, who thankfully had swallowed his food first, gaped.
 +++++
 
 
+
 After lunch was the Runes qualifier, which both girls completed in record time. Prof. Babbling looked like Yule had come early.
 
 "Between you two and Miss Granger, I might actually want to have an independent study track this year," she gushed. "It'd be a shame to hold so many brilliant minds back, now that there are enough of you to make a case for it."
 
-Hermione was ecstatic when Luna told her at dinner. "D'you think we'll be able to learn about warding and curse-breaking?"
+Hermione was ecstatic when Luna told her at dinner. "Do you think we'll be able to learn about warding and curse-breaking?"
 
 "Maybe a bit," Luna replied. "Those _are_ rather advanced topics, after all."
 
 "I can't wait," Elysia grinned.
 
+None of them noticed the speculative look one Albus Dumbledore was giving them from the staff table.
+
+
+
 
 +++++
+
 
 

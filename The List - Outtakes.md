@@ -10,7 +10,7 @@
 
 Elysia furrowed her brow. "That _is_ odd."
 
-Janet's voice popped into her mind suddenly. "Oh that scheming little-! He's hedging his bets because now the prophecy might not apply to you anymore because of the pronouns," she told Elysia. "The prophecy, I might add, which one Sybil Trelawney _made up_ in order to try to impress Dumbledore enough to be hired as Divination professor." She relayed the words of the so-called prophecy to Elysia, who looked at Neville with a calculating gaze before casting a dizzying array of subtle privacy palings.
+Janet's voice popped into her mind suddenly. "Oh that scheming little-! He's hedging his bets because now the prophecy might not apply to you anymore because of the pronouns," she told Elysia. "The prophecy, I might remind you, which one Sybil Trelawney _made up_ in order to try to impress Dumbledore enough to be hired as Divination professor." She relayed the words of the so-called prophecy to Elysia, who looked at Neville with a calculating gaze before casting a dizzying array of subtle privacy palings.
 
 She then proceeded to explain about the so-called prophecy, how it could have applied to either of them at the time, how it had affected her life, and finally, that Dumbledore was most likely trying to manipulate Neville into being a 'replacement Harry' because the prophecy's pronouns no longer fit.
 
