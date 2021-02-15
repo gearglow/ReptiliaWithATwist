@@ -399,7 +399,7 @@ Another goblin, Lockjaw presumably, led them through an opulent door into a maze
 
 Another goblin, built like a gnarled old oak tree with a bushy white beard, was seated behind a desk, with a gas-lamp and several ledgers on it. He gestured to the chairs in front of the desk and introduced himself. "I am Claymore, the account manager for the Potter estate. I wasn't expecting you for a few more years, Mr. Potter."
 
-Harry inwardly cringed at being addressed as 'Mr.' but shrugged it off. *Not yet,* she told herself. "Harry is fine, Claymore," she told the goblin. "May this meeting bring profits to our clans and ruin to our enemies." So saying, she had a seat in one chair and gestured for Dobby to take the other. "This is Dobby, my friend and advisor."
+Harry inwardly cringed at being addressed as 'Mr.' but shrugged it off. *Not yet,* she told herself. "Harry is fine, Claymore," she told the goblin. "May this meeting bring profit to our clans and ruin to our enemies." So saying, she had a seat in one chair and gestured for Dobby to take the other. "This is Dobby, my friend and advisor."
 
 "Well met, Harry, Dobby. What brings you to Gringotts today?"
 
@@ -546,7 +546,7 @@ After a quick stop for lunch, the two wandered the shops for the rest of the aft
 
 They also found more clothes. Both Elysia and Robbie were reveling in the ability to wear what they wanted to for once. Robbie, in particular, had a *penchánt* for socks with loud patterns, while Elysia enjoyed more form-fitting apparel after being saddled with horribly-oversized cast-offs all her life.
 
-It also turned out that, thanks to her shifting ability, she no longer needed glasses. Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
+It also turned out that, thanks to her shifting ability, she no longer needed glasses. (She shifted away her scar, too, because _good riddance._) Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
 
 Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room at #4 Privet Drive.
 
@@ -2336,7 +2336,7 @@ Ron, who thankfully had swallowed his food first, gaped.
 
 After lunch was the Runes qualifier, which both girls completed in record time. Prof. Babbling looked like Yule had come early.
 
-"Between you two and Miss Granger, I might actually want to have an independent study track this year," she gushed. "It'd be a shame to hold so many brilliant minds back, now that there are enough of you to make a case for it."
+"Between you two and Miss Granger, I might actually get to hold an independent study track this year," she gushed. "It'd be a shame to hold so many brilliant minds back, now that there are enough of you to make a case for it."
 
 Hermione was ecstatic when Luna told her at dinner. "Do you think we'll be able to learn about warding and curse-breaking?"
 
@@ -2353,3 +2353,20 @@ None of them noticed the speculative look one Albus Dumbledore was giving them f
 
 
 
+The next morning, after their usual training routine, Elysia and Hermione sat across from each other on the mat. Today they were going to try bringing Hermione into Elysium.
+
+"Are you sure this will work, Ellie?" Hermione asked nervously.
+
+"I'm like 99% sure," Elysia replied with a grin. "Your passive linking is solid, and your active sendings are loud and clear. It's just like diving into a memory, yeah? You've done that before."
+
+"I know," Hermione pouted. "You know how I get, though."
+
+"Hermione. You'll be in _my head._ I'll be right there with you every step of the way."
+
+Hermione took a deep breath and puffed it out. "Okay. Let's do this. _Legilimens._"
+
+Just like with Snape, Elysia caught Hermione's mental probe and gave it a solid tug, and they both appeared in the dueling ring outside the cottage in Elysium.
+
+Hermione gasped as she looked around. "Oh, Ellie, it's so pretty!"
+
+Elysia giggled. "Wait 'til you see the inside. C'mon, I'll introduce you to my parents."
