@@ -1995,9 +1995,7 @@ Parvati crossed her arms and mock-glared. "You know what you did, young lady," s
 
 "How *do* you flag for Sapphic-ness in the magical world?" Hermione mused. "In the muggle world there's things like accent nails and the handkerchief code."
 
-"Short fingernails?" Lavender shrugged. They all blushed as the implications hit.
-
-"Not ready for that one any time soon," Elysia said. The others all nodded, avoiding each other's eyes.
+"Short fingernails?" Lavender shrugged. They all blushed as the implications hit, avoiding each other's eyes.
 
 "Dunno that anyone thinks enough of it to feel like they need to," Parvati mused, dragging the conversation to safer ground. "Signaling's a thing for muggles because of the controversy, right? But it's not controversial for us, so no need to be covert about things."
 
@@ -2357,7 +2355,7 @@ The next morning, after their usual training routine, Elysia and Hermione sat ac
 
 "Are you sure this will work, Ellie?" Hermione asked nervously.
 
-"I'm like 99% sure," Elysia replied with a grin. "Your passive linking is solid, and your active sendings are loud and clear. It's just like diving into a memory, yeah? You've done that before."
+"I'm like 99% sure," Elysia replied with a grin. "Your passive linking is solid, and your active linking is loud and clear. It's just like diving into a memory, yeah? You've done that before."
 
 "I know," Hermione pouted. "You know how I get, though."
 
@@ -2369,4 +2367,10 @@ Just like with Snape, Elysia caught Hermione's mental probe and gave it a solid 
 
 Hermione gasped as she looked around. "Oh, Ellie, it's so pretty!"
 
-Elysia giggled. "Wait 'til you see the inside. C'mon, I'll introduce you to my parents."
+Elysia giggled. "Wait 'til you see the inside. C'mon, I'll introduce you to my parents." She led the way into the cottage, Hermione gazing all around in wonder.
+
+Lily and James were waiting for them in the sunken living room. 
+
+"So this is the 'best friend' I've heard so much about! A pleasure, milady," James said, bowing with excessive flourish. 
+
+Lily smacked him upside the head. "Hello, Hermione. It's nice to meet you."
