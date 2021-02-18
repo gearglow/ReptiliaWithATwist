@@ -1347,7 +1347,7 @@ Hermione hummed noncommittally.
 
 "Why Miss Weasley, are you coming on to me?" Hermione teased.
 
-Ginny blushed. "Um. No?" She shook her head. "Answer the question."
+Ginny blushed. "Um. Are you? No, I mean..." She shook her head. "Answer the question."
 
 Hermione thought for a while. "Well... I don't know. I've certainly never found any *wizards* all that attractive."
 
@@ -2374,3 +2374,28 @@ Lily and James were waiting for them in the sunken living room.
 "So this is the 'best friend' I've heard so much about! A pleasure, milady," James said, bowing with excessive flourish. 
 
 Lily smacked him upside the head. "Hello, Hermione. It's nice to meet you."
+
+Hermione smiled. "Hello, Mr. and Mrs. Potter."
+
+"Hey now, none of that 'Mr.' stuff," James said. "I didn't die this young just to be addressed like my father. Call me James."
+
+"Not Prongs?" Hermione asked in a deceptively innocent tone. "How do you feel about 'Bambi?'"
+
+Elysia and Lily grinned as James face-palmed.
+
+"I _like_ this one!" Lily exclaimed, pulling Hermione into a one-armed hug.
+
+"Me too," Elysia winked at Hermione. "I think I'll keep her."
+
+Hermione bit her lip, clearly holding back a comment of some sort, causing both Elysia and Lily to grin even wider.
+
+"_Somebody's_ a bad influence!" Lily sang.
+
+"How about you give me the tour, Ellie?" Hermione said with a huff.
+
+Elysia grabbed her hand and they were off. Hermione was confused by the workshop, given that Elysium was a mindscape, but Elysia just said "prototyping and simulations," and that explained it all as far as Hermione was concerned. Finally, the tour ended in the study, where Janet greeted them.
+
+"Hi, I'm Janet!" She greeted Hermione cheerfully.
+
+Hermione's eyes were as big around as Slytherin's basilisk at the sight of the bookshelves. Elysia elbowed her. "Oh! Um, hello, Janet," she stammered.
+

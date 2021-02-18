@@ -18,6 +18,8 @@
 
 - Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
 
+- Unbreakable Vows and Oaths cannot be sworn under duress. They can only be sworn freely and in full knowledge.
+
 - Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
 
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
