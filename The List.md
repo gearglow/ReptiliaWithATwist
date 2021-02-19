@@ -664,7 +664,7 @@ Thankfully, Dudley was still at Smeltings until July, and Vernon was at work. Pe
 
 "Okay, fine," Hermione huffed. "What time?"
 
-"Noon or so? We can grab lunch in Soho or something, make an afternoon of it."
+"Noon or so? We can grab lunch in Charing or something, make an afternoon of it."
 
 "Harry, it's almost noon now! How're you going to get here so quickly?"
 
@@ -702,11 +702,11 @@ Hermione gasped. "Your what? Harry, I thought all your family was *dead!* Aside 
 
 "So because you changed the words of the bond oath, you and Robbie have a twin bond now?" Hermione asked, nibbling on a piece of pickled ginger.
 
-"Pretty much," Elysia said. She and Robbie had filled Hermione in over several rolls of sushi. It was a good thing Robbie had put a notice-me-not paling on their table after their food arrived, because Hermione simply could not contain herself. Her eyes got bigger and bigger as Elysia went on, and at several points she couldn't help but exclaim out loud.
+"Pretty much," Elysia said. She and Robbie had filled Hermione in over several rolls of sushi. It was a good thing Robbie had put privacy and notice-me-not palings on their table after their food arrived, because Hermione simply could not contain herself. Her eyes got bigger and bigger as Elysia went on, and at several points she couldn't help but exclaim out loud.
 
 "And you have memory-constructs of your parents in your mindscape?" She went on. 
 
-Elysia nodded. 
+Elysia nodded.
 
 "And a library in your head full of *more knowledge than Hogwarts!?*" Hermione exclaimed. 
 
@@ -728,7 +728,7 @@ Elysia shifted back, replacing her glasses. "Hermione? Please say something?" Sh
 
 Elysia shrugged. "I guess? Is that the word for not knowing you're a girl at first?"
 
-"Pretty much," Hermione said. "I bet being able to shift like that helps a lot, huh?"
+"Pretty much," Hermione said. "I bet being able to shapeshift like that helps a lot, huh?"
 
 "Like you wouldn't believe."
 
@@ -738,7 +738,7 @@ Elysia shrugged. "I guess? Is that the word for not knowing you're a girl at fir
 
 
 
-After activating the portkey at Gringotts, the three of them appeared in an unpaved lane across from a fenced plot of land. A branch of the lane led into the property, with an arched gate proclaiming 'The Kiln.' In the distance, they could see a building of some sort.
+After activating the portkey at Gringotts, the three of them appeared in an unpaved lane across from a fenced plot of land. A branch of the lane led into the property, with an arched gate proclaiming this place to be 'The Kiln.' In the distance, they could see a building of some sort.
 
 Elysia immediately shifted back to girl-shape, and Robbie back to elf-shape. "Ah, much better," they both said, then looked at each other and burst out laughing. 
 
@@ -834,10 +834,10 @@ The next day, Elysia noticed an addition to her to-do list. *Wait, blood wards? 
 
 > To Do
 >
-> - [ ] Find and read Divination And Privacy: Information Control In The Magical World
+> - [x] Find and read Divination And Privacy: Information Control In The Magical World
 > - [ ] Examine the blood wards Dumbledore claims to have put on #4 Privet Drive
 
-After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible. Such as ward-lines, which in this case glowed an angry blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
+After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible -- such as ward-lines, which in this case glowed an angry blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
 
 Flipping it over, they found a relatively straightforward ward schema and a smear of red. She checked the adjacent stones, too, just in case, but they were blank. *Hmm, possibilities,* she thought.
 
@@ -859,9 +859,9 @@ A cold tingle crawled across Elysia's scalp, and she replaced the ward stone. "I
 
 The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent on everything else: reading her family's journals, writing to friends, fiddling around with projects, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, thermal vision, zoom, Mage Sight augmentation, and a thaumic analytics HUD -- she was particularly pleased with this project, as all of these enhancements were etched on a separate schema stone she'd shrunk down and wore as a pendant, and then tied into the glasses. This gave her lots of room to add features later, too.
+Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, false-color thermal, x-ray vision, zoom, Mage Sight augmentation, and a thaumic analytics HUD -- she was particularly pleased with this project, as all of these enhancements were etched on a separate schema stone she'd shrunk down and wore as a pendant, and then tied into the glasses. This gave her lots of room to add features later, too.
 
-She and Robbie took advantage of the other flagstones to add to the wards - aside from a self-erase on the newly-added wardstone, set to trigger whenever the original stone was flipped, they also added Trace shielding - which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
+She and Robbie took advantage of the other flagstones to add to the wards -- aside from a self-erase on the newly-added wardstone (set to trigger either whenever the original stone was flipped, or via long-distance triggering charm), they also added Trace shielding -- which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
 
 Hermione had expressed desire to learn some of what Elysia could now do (vocally and at great length), so Elysia began teaching her the basics of both mind magic and freeform wandless casting. As part of these, she and Robbie also started teaching Hermione some martial arts, particularly tai chi as it lent itself well to spell-channeling.
 
@@ -1041,7 +1041,7 @@ Hermione turned honest-to-Morgana *puppy eyes* on her parents. "Please, Mum and 
 
 Hermione's parents looked at each other and laughed. "Goodness, Hermione, I thought you didn't like quidditch if Har - er, Elysia wasn't playing," Mrs. Granger teased.
 
-Hermione blushed bright enough to show through her caramel complexion. "But, Mum, it's an international event! Think of the cultural experience!"
+Hermione blushed bright enough to show clearly through her caramel complexion. "But, Mum, it's an international event! Think of the cultural experience!"
 
 Elysia and Mr. Granger shared a grin. "Never change, Hermione," Elysia said fondly.
 
@@ -2381,7 +2381,7 @@ Hermione smiled. "Hello, Mr. and Mrs. Potter."
 
 "Not Prongs?" Hermione asked in a deceptively innocent tone. "How do you feel about 'Bambi?'"
 
-Elysia and Lily grinned as James face-palmed.
+Elysia and Lily snickered as James face-palmed.
 
 "I _like_ this one!" Lily exclaimed, pulling Hermione into a one-armed hug.
 
