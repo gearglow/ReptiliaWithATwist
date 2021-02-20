@@ -236,7 +236,7 @@ Harry nodded and opened the binder.
 > - [ ] Find and read How To Learn
 > - [ ] Find and read Processing Complex PTSD and Abuse
 > - [ ] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
-> - [ ] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+> - [ ] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, Aikijutsu, and Systema
 > - [ ] Find and read the primers on Runes, Wards, and Enchanting
 > - [ ] Find and read the primer on Wandless Magic
 > - [ ] Find and read the primer on Illusions and Glamours
@@ -271,7 +271,7 @@ Harry dove right in, with a fervor that would have put Hermione Granger to shame
 > - [x] Find and read How To Learn
 > - [x] Find and read Processing Complex PTSD and Abuse
 > - [x] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
-> - [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+> - [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, Aikijutsu, and Systema
 > - [x] Find and read the primers on runes, wards, and enchanting
 > - [x] Find and read the primer on Wandless Magic
 > - [x] Find and read the primer on Illusions and Glamours
@@ -2346,6 +2346,12 @@ None of them noticed the speculative look one Albus Dumbledore was giving them f
 
 
 
+> To Do:
+>
+> - [x] Test into Runes and Arithmancy
+
+
+
 
 +++++
 
@@ -2389,7 +2395,7 @@ Elysia and Lily snickered as James face-palmed.
 
 Hermione bit her lip, clearly holding back a comment of some sort, causing both Elysia and Lily to grin even wider.
 
-"_Somebody's_ a bad influence!" Lily sang.
+"Somebody's a bad influence!" Lily sang.
 
 "How about you give me the tour, Ellie?" Hermione said with a huff.
 
@@ -2399,3 +2405,76 @@ Elysia grabbed her hand and they were off. Hermione was confused by the workshop
 
 Hermione's eyes were as big around as Slytherin's basilisk at the sight of the bookshelves. Elysia elbowed her. "Oh! Um, hello, Janet," she stammered.
 
+"Hello, Hermione," Janet replied, smiling.
+
+"Janet's basically the embodiment of all knowledge in the universe," Elysia told Hermione casually.
+
+Hermione's eyes bugged out.
+
+"I'm not _that_ Janet, though," Janet said. "I'm just the embodiment of all knowledge in Elysia's head."
+
+"Close enough," Elysia said. Grinning, she grabbed Hermione's hand again before the bushy-haired bookworm could dive into the stacks. "Woah, there. Don't overdo it or you'll be bored to tears all year!"
+
+Janet handed Hermione a book, with a list on the cover page. "Here, start with these for today. You should read that last one too, Elysia," she continued, handing her another book.
+
+> Hermione's Reading List:
+>
+> - Magical Mastery: Mind Magic - How To Cheat At Life
+>
+> - Magical Mastery: Runes, Wards, and Enchanting
+> 
+> - Magical Mastery: Illusions and Glamours
+>
+> - Magical Mastery: Wandless Magic
+>
+> - Martial Mastery: Tai Chi Chuan
+>
+> - Martial Mastery: Systema
+>
+> - Martial Mastery: Aikijutsu
+>
+> - Freedom Of Form: A Note on Morphogenesis
+>
+> - Freedom Of Form: Animagi
+>
+> - Magical Mobility: From Apparition to Zero-Gravity
+>
+> - Divination And Privacy: Information Control In The Magical World
+>
+> - Countering Control: Potions, Spells, and Debts
+>
+> - Acting Naturally
+>
+> - Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
+>
+> - Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
+>
+> - Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
+
+Smiling fondly as Hermione settled into one of the armchairs by the window and began devouring the book, Elysia settled in and devoured her own. Something suddenly struck her as she finished, and she went over to the desk.
+
+"Morgana's rack," she breathed. "Janet? Does this mean what I think it means?"
+
+Janet came over. "If you think it means that Moldy Voldy keeps pissing away his advantages, you're dead on."
+
+Just then, they were interrupted by a shrieking Hermione. "_WHAT!?_ You mean this one _stupid_ ward is setting back Muggle-Magical relations by _centuries_ all because wizards were too lazy to put up an actual lightning rod!?" She devolved into incoherent shrieks of fury.
+
+"Um, 'Mione?" Elysia said, putting a calming hand on her shoulder. "You know we can fix it, right?"
+
+Hermione took a deep, gasping breath and held it for a 5-count, letting it all out in a sigh. "I know, Ellie. It's just, how are magicals so constantly lacking in common sense? 'Too much magic' indeed. And that single anti-lightning ward prevents entire _classes_ of magic from being even _discovered,_ much less _taught,_ and it just makes me so mad I could scream!"
+
+"Honestly, Hermione? Scream. Go off. And when you're done, we'll see who wants to go on a little adventure to fix it. Because everything else aside, I _really_ want to have movie nights sometime."
+
+Hermione took a deep breath, stood, and let out an ear-splitting roar of utter fury. 
+
+"Feel better?"
+
+"Much," Hermione replied, panting.
+
+
+
++++++
+
+
+
+After cleaning up, the pair made their way down to breakfast, again meeting Luna at the entrance to the Great Hall.

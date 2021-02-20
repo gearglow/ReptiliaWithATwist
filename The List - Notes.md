@@ -30,7 +30,7 @@
 
 - "Look! Up in the sky!" "It's a bird!" "It's a plane!" Colin Creevey yelled. "It's Beauxbatons!"
 
-- Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses a tunneling spell to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
+- Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap} to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
 
 - CAST: Computer-Aided Spellcrafting and Thaumaturgy. Useful for virtual prototyping of spells and schema. (This needs to be in Elysiad, too.)
 
@@ -38,11 +38,11 @@
 
 - Heirship of any of the Four Founders falls to whoever performs the Heirship Ritual with a Founder's Relic. The ritual is lost to time, which means Elysia can cheat her way into knowing it - and for all four Founders, too.
 
-- Horcruxes can be removed from whatever they possess via the spell _suntsitu arima lotua,_ which is Basque for "destroy the bound soul."
-
 - The Furies: Elysia's polycule and all-girl spec-ops team. They share power and abilities (like shifting) through a bond-oath. (Could be in Elysiad too, actually.)
 
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
+
+- The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
 ## Cool Magic Elysia Can Do
 
@@ -85,6 +85,15 @@
       - Defense against mind magic
       - Line-of-sight or Bond-linked telepathy
 
+
+
+## Grimoire
+
+- Horcruxes can be removed from whatever they possess via the spell _suntsitu arima lotua,_ which is Basque for "destroy the bound soul."
+- The Dark Mark can be removed with the spell _lotu askatu,_ which is Basque for "free the bound."
+
+
+
 ## Characters
 
 ### Elysia
@@ -102,6 +111,7 @@ AKA:
 - Nemesis
 - Heart-Breaker (as Parvati calls her)
 - Ellie
+- (Note: Potter in Basque is Eltzegilea)
 
 ### Hermione
 
@@ -216,7 +226,7 @@ What it says on the tin.
 - [x] Find and read How To Learn
 - [x] Find and read Processing Complex PTSD and Abuse
 - [x] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
-- [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, and Systema
+- [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, Aikijutsu, and Systema
 - [x] Find and read the primers on Runes, Wards, and Enchanting
 - [x] Find and read the primer on Wandless Magic
 - [x] Find and read the primer on Illusions and Glamours
@@ -250,7 +260,7 @@ What it says on the tin.
 - [x] Find and read Magical Mobility: From Apparition to Zero-Gravity
 - [x] Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 - [x] Find and read Elysia's Combat Style: Stage 3
-- [ ] Test into Runes and Arithmancy
+- [x] Test into Runes and Arithmancy
 - [ ] Get some kind of therapy program in Hogwarts
 - [ ] Find and read Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
 - [ ] Figure out things with Hermione and Luna
@@ -277,3 +287,34 @@ What it says on the tin.
 - [ ] Disarm Dumbledore and take ownership of the Elder Wand
 - [ ] Break Dumbledore's hold on society
 
+
+
+## Hermione's Reading List for Chapter 10
+
+> Hermione's Reading List:
+>
+> - [x] Magical Mastery: Mind Magic
+> - [x] Magical Mastery: Wandless Magic
+> - [x] Magical Mastery: Illusions and Glamours
+> - [x] Magical Mastery: Runes, Wards, and Enchanting
+> - [ ] Magical Mastery: Bonds
+> - [ ] Magical Mastery: Blood Magic
+> - [ ] Magical Mastery: Rituals
+> - [ ] Magical Mastery: Soul Magic
+> - [x] Martial Mastery: Tai Chi Chuan
+> - [ ] Martial Mastery: Seven Star Praying Mantis
+> - [ ] Martial Mastery: Xing Yi Chuan
+> - [ ] Martial Mastery: Ba Gua Chuan
+> - [x] Martial Mastery: Systema
+> - [x] Martial Mastery: Aikijutsu
+> - [x] Freedom Of Form: A Note on Morphogenesis
+> - [x] Freedom Of Form: Animagi
+> - [ ] Freedom Of Form: Metamorphmagi
+> - [ ] Freedom Of Form: Shapeshifting
+> - [x] Magical Mobility: From Apparition to Zero-Gravity
+> - [x] Divination And Privacy: Information Control In The Magical World
+> - [x] Countering Control: Potions, Spells, and Debts
+> - [x] Acting Naturally
+> - [x] Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
+> - [x] Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
+> - [x] Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
