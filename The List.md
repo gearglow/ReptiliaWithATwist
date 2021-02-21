@@ -2478,3 +2478,23 @@ Hermione took a deep breath, stood, and let out an ear-splitting roar of utter f
 
 
 After cleaning up, the pair made their way down to breakfast, again meeting Luna at the entrance to the Great Hall.
+
+"Good morning, you two," Luna greeted them with another adorably-squeaky yawn.
+
+"Good morning, Luna," they chorused, grinning.
+
+Luna stared at them for a moment. "Do you two practice doing that?"
+
+Elysia and Hermione looked at each other. "Doing what?"
+
+"And people call _me_ looney," Luna muttered under her breath, trying not to giggle uncontrollably.
+
+"So, Luna," Elysia said. "O Magnificent Mistress of the Monkey-Patch. Wanna go on an adventure with us?"
+
+"Ooh, yes please!" Luna replied, bouncing on her feet happily.
+
+"Breakfast first, you two," Hermione said. "We'll tell you all about it while we eat."
+
+They found empty seats across from Ron and Neville, who were also invited.
+
+"So what's this about, then?" Neville asked.

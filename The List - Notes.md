@@ -91,6 +91,8 @@
 
 - Horcruxes can be removed from whatever they possess via the spell _suntsitu arima lotua,_ which is Basque for "destroy the bound soul."
 - The Dark Mark can be removed with the spell _lotu askatu,_ which is Basque for "free the bound."
+- Magical travel by lightning bolt can be done via the _tximista ibili_ technique (Basque for "ride the lightning").
+- Move through the ground as if through water under the effects of gillyweed using the spell _zulo,_ which is Basque for "burrow."
 
 
 
