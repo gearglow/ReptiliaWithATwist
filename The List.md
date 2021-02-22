@@ -2229,7 +2229,7 @@ The ferret looked at her for a long moment, then scampered over to where McGonag
 
 
 
-## Chapter 10
+## Chapter 10: A Busy Weekend
 
 The next morning, so early the sun hadn't yet crested the horizon, Elysia woke with a jolt. She'd been having such a compelling dream, but it was fading so fast... and it was gone. Damn.
 
@@ -2525,7 +2525,7 @@ First, they all congregated on the grounds. Elysia, Ron, and Luna had their broo
 
 "We should probably shield the cable, huh?" Elysia commented, which led to them all gathering sticks and leaves. Hermione transfigured them into a sheet of rubber, then charmed the rubber into place around the cable. By the time she was done, Elysia had transfigured another stone into a metal plate, which was then transfigured into a junction box and connected to the cable. Luna then started carving runes of permanence into the transfigured materials, so they would keep their new form.
 
-About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville and Hermione kept control of the stake at the end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cab the spire snugly, and sealed it in place with permanent sticking runes. The three flyers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. Then they all stood back and admired their work.
+About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville and Hermione kept control of the stake at the end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three flyers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. Then they all stood back and admired their work.
 
 "Wow, that looks really good!" Neville said.
 
@@ -2536,3 +2536,9 @@ About an hour after they'd started, they had one lightning rod ready for install
 "I haven't noticed any of them either," Luna replied, "but as they feed on electricity they tend to avoid Hogwarts anyway."
 
 "Well that's lucky," Ron said. "Come on, it's time for lunch and I'm _starving!_"
+
+
+
+## Chapter 11: The Wardstone Caper
+
+At lunch, the five were joined by Ginny, who was promptly invited along on their wardstone hunt.
