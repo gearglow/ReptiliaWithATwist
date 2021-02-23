@@ -2495,7 +2495,7 @@ Luna cocked an eyebrow. "And people call _me_ loony," she muttered under her bre
 
 "Breakfast first, you two," Hermione said. "We'll tell you all about it while we eat."
 
-They found empty seats across from Ron and Neville, who were also invited.
+They found empty seats across from Ron, Ginny, and Neville, who were also invited.
 
 "So what's this about, then?" Neville asked.
 
@@ -2503,7 +2503,7 @@ They found empty seats across from Ron and Neville, who were also invited.
 
 Hermione let out a snort of fury as the others nodded. "It turns out," she growled, "that the original edition where that's brought up said that magicals _rely too much on magic,_ not that there's too much ambient magic. Someone set up an anti-lightning ward, centuries ago, and it stops electrical currents from working entirely. So stupid! All they had to do was transfigure a big metal stick on top of the highest tower, and run a grounding wire. But no, they put in an overly-broad ward and now whole _classes_ of magic don't work here!"
 
-Ron and Neville gaped as she continued to rant.
+Ron and Neville gaped as she continued to rant. Ginny barely refrained from giggling.
 
 Luna placed a calming hand on her shoulder. "We'll fix it, Hermione," she soothed.
 
@@ -2521,13 +2521,13 @@ Elysia and Hermione looked at each other and grinned.
 
 They decided to put up the lightning rod first, as a fail-over precaution. When the ward came down, there was a chance of built-up energy discharging, and having somewhere to discharge _to_ was probably a good idea.
 
-First, they all congregated on the grounds. Elysia, Ron, and Luna had their brooms with them. Hermione instructed them to gather a bunch of rocks, the redder the better, so they all trooped over to the lake shore and made a pile of stones. Then Hermione waved her wand over it, turning it first into one big rock, then into a lump of metal, then drawing out the metal into a tall pole and a large metal spike, joined by a long coil of large-gauge cable.
+First, they all congregated on the grounds. Elysia, Ron, and Ginny had their brooms with them. Hermione instructed them to gather a bunch of rocks, the redder the better, so they all trooped over to the lake shore and made a pile of stones. Then Hermione waved her wand over it, turning it first into one big rock, then into a lump of metal, then drawing out the metal into a tall pole and a large metal spike, joined by a long coil of large-gauge cable.
 
-"We should probably shield the cable, huh?" Elysia commented, which led to them all gathering sticks and leaves. Hermione transfigured them into a sheet of rubber, then charmed the rubber into place around the cable. By the time she was done, Elysia had transfigured another stone into a metal plate, which was then transfigured into a junction box and connected to the cable. Luna then started carving runes of permanence into the transfigured materials, so they would keep their new form.
+"We should probably shield the cable..." Elysia mused, which led to them all gathering sticks and leaves. Hermione transfigured them into a sheet of rubber, then charmed the rubber into place around the cable. By the time she was done, Elysia had transfigured another stone into a metal plate, which was then transfigured into a junction box and connected to the cable. Luna then started carving runes of permanence into the transfigured materials, so they would keep their new form.
 
-About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville and Hermione kept control of the stake at the end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three flyers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. Then they all stood back and admired their work.
+About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville, Luna, and Hermione kept control of the stake-end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three flyers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. Then they all stood back and admired their work.
 
-"Wow, that looks really good!" Neville said.
+"Wow, that looks rather good!" Neville said.
 
 "And the wrackspurts are keeping away, too," Luna added.
 
@@ -2537,8 +2537,9 @@ About an hour after they'd started, they had one lightning rod ready for install
 
 "Well that's lucky," Ron said. "Come on, it's time for lunch and I'm _starving!_"
 
+"My brother, the walking stomach," Ginny lamented.
+
 
 
 ## Chapter 11: The Wardstone Caper
 
-At lunch, the five were joined by Ginny, who was promptly invited along on their wardstone hunt.
