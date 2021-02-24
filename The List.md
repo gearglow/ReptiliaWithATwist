@@ -122,7 +122,7 @@ Eleanor thought for a minute, then grinned. "Cheat like mad. And remember, venge
 
 
 
-Janet, it turned out, was a hyper-evolved sentient interface to the sum total of all knowledge in the universe, and an absolute sweetheart too. Between the three of them, a plan was soon formed.
+Janet, it turned out, was a hyper-evolved sentient interface to the sum total of all knowledge in the universe -- and an absolute sweetheart too. Between the three of them, a plan was soon formed.
 
 "Just sign here, here, and here," Janet said, handing Harry a contract. "This should keep the Judge happy. It says that, while you won't remember your last life, you can keep your training from here in the Good Place in your subconscious, and a plan of action in your occlumency mindscape. Basically, you'll get mind magic training first, and everything after that gets tucked away in the mindscape you'll build as part of that. You'll still have any instincts and muscle memory that result from any training you do here, and the actual knowledge will come to you if you focus on it. But you won't really remember your time here, or anything like that. Just your training, and not as lived experience. It might feel weird at first when you go back."
 
@@ -166,15 +166,15 @@ Janet and Eleanor looked at each other and grinned.
 
 
 
-Time, such as it was in the Afterlife, passed in a blur. (And frequently with an '80s rock-inspired backing track, courtesy of Janet.)
+Time, such as it was in the Afterlife, passed in a blur. (And frequently with an '80s-rock-inspired backing track, courtesy of Janet.)
 
 It wasn't all training, either. Since it *was* the Afterlife, after all, Harry could meet with other dead people. She got to train with some of the greatest witches and wizards who ever lived, and several mundane masters as well (Bruce Lee was a particular favourite). But she also got to spend time with her parents. 
 
-James and Lily were both brilliant and terrifying, though each had their specialties. And it turned out that both were exceptional flyers, both on a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution. (James made a comment about "screaming for vengeance," and thus Harry's education in music began, starting with Judas Priest for obvious reasons.)
+James and Lily were both brilliant and terrifying, though each had their specialties. And it turned out that both were exceptional at flying, both with a broom and without. One of the perks of being dead, apparently, was that gravity was more of a suggestion than an actual law. Not to mention animagus training; while neither James nor Lily had flight-capable forms, Harry was a peregrine falcon. Because of course she was. Lily named the form Nemesis, after the Greek goddess of retribution. (James made a comment about "screaming for vengeance," and thus Harry's education in music began, starting with Judas Priest for obvious reasons.)
 
 And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too. This, coupled with her animagus training, of course led to some interesting possibilities which were thoroughly explored.
 
-She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, etiquette, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt, it might've killed her all over again.
+She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, etiquette, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt that it might've killed her all over again.
 
 Eventually, after a time impossible to quantify by mortal standards, she was ready.
 
@@ -246,7 +246,7 @@ Harry nodded and opened the binder.
 > - [ ] Take the Knight Bus to Gringotts ASAP and get a full accounting
 > - [ ] Establish a training regimen (see Appendix A)
 
-"The primers contain the sum total of knowledge and training from your past life on that subject," Janet said. "You and your advisors decided the first order of business was a degree of independence, so everything on this first list is to make you more capable of fending for yourself without setting off the Trace or relying on the adults in your life who have proven less than helpful."
+"The primers contain the sum total of knowledge and training from your afterlife on that subject," Janet said. "You and your advisors decided the first order of business was a degree of independence, so everything on this first list is to make you more capable of fending for yourself without setting off the Trace or relying on the adults in your life who have proven less than helpful."
 
 "Dobby, huh?" Harry said. "Why didn't I think of that?"
 
@@ -262,7 +262,7 @@ Janet waved a hand, and a pile of books appeared next to one of the reading nook
 
 "Bloody hell!" Harry exclaimed. "What a rush!"
 
-"Wait 'til you read the next set,'" Janet grinned.
+"Wait 'til you read the next set," Janet grinned.
 
 Harry dove right in, with a fervor that would have put Hermione Granger to shame.
 
@@ -305,7 +305,7 @@ Harry dove back in.
 
 "I.... sort of remember that?" Harry said hesitantly. "Like a dream, almost."
 
-"You weren't allowed to keep most of your memories of the afterlife," Janet said. "Some of them, yes, such as that needed to effectively use your training, and a few of the people you trained with. Merlin, Morgana, Bruce Lee, the Founders... you'll remember bits and pieces, especially if it becomes relevant, but the only clear memories you were allowed to keep were of your parents."
+"You weren't allowed to keep most of your memories of the afterlife," Janet reminded her. "Some of them, yes, such as that needed to effectively use your training, and a few of the people you trained with. Merlin, Morgana, Bruce Lee, the Founders... you'll remember bits and pieces, especially if it becomes relevant, but the only clear memories you were allowed to keep were of your parents."
 
 "My... my parents?" Harry stammered.
 
@@ -422,7 +422,7 @@ Lockjaw entered the room a few minutes later, handed over a folder, and left aga
 > #### Main Vault (#016) (2% interest, compounded annually)
 >
 > - 2,350,132 Galleons
->- 16,362 Sickles
+> - 16,362 Sickles
 > - 1,793 Knuts
 > 
 > #### Storage Vault (#015) (safety deposit)
@@ -438,7 +438,7 @@ Lockjaw entered the room a few minutes later, handed over a folder, and left aga
 > 
 > #### Notable Business Concerns
 >
-> - Fleamont's Filtres- 10% ownership - see page 8
+> - Fleamont's Filtres - 10% ownership - see page 8
 > - Other aggregate shares - see page 12
 
 The rest of the folder was fine-print regarding the farm and business, but what caught Harry's attention (aside from the sheer amount) was that note about personal effects. *Perhaps something of my parents'?* Catching Claymore's attention, she asked, "Claymore, a couple of things have caught my attention. First, the portkey to the property at Red Wharf. Am I able to request use of that now, or do I need to wait until I come of age?"
@@ -493,7 +493,7 @@ Dobby squinted at it, then climbed down to examine the locus pedestal more close
 
 "And maybe a smallish apartment, and a workshop, along with?"
 
-"Oh, easily, Harry! Capacity is not a problem with this trunk."
+"Oh, easily, Harry! Capacity is no problem with this trunk."
 
 Harry nodded. "I guess we're taking it with us today, then! We'll have to pick up a new control stone before we leave the Alley. Now, what about some of this furniture?"
 
@@ -510,17 +510,17 @@ She emerged wearing close-fitting jeans, a black v-neck t-shirt, and the Ironbel
 > To Do
 >
 > - [x] Take the Knight Bus to Gringotts ASAP and get a full accounting
-> - Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
+> - [ ] Outfit the trunk as a proper living and training space (inc. foodstuffs and utensils)
 >
-> - Establish a training regimen (see Appendix A)
+> - [ ] Establish a training regimen (see Appendix A)
 
-The trunk had a few convenience enchantments which were standard for most high-end magical luggage. Self-shrinking, featherlight, and so forth. As such, once they'd gathered everything they wanted to bring from the vault during this trip, Harry shrank the trunk and slipped it into a pocket.
+The trunk had a few convenience enchantments which were standard for most high-end magical luggage -- Self-shrinking, featherlight, and so forth. As such, once they'd gathered everything they wanted to bring from the vault during this trip, Harry shrank the trunk and slipped it into a pocket.
 
 "Thank you for indulging us, Lockjaw," Harry said as they exited the vault.
 
 They proceeded to Harry's trust vault, where Harry gathered a stack of 1,500 galleons with Dobby's help. Once back at the main floor, they bade Lockjaw farewell and stood in line to change half of the galleons to pound notes.
 
-Back in Diagon Alley proper, it was time to find a replacement rune schema stone. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank schema stones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions, expecting to need them after the intense training she was planning. She also picked up a stock of nutrient potions to help make up for her years of malnutrition, and enough ingredients to stock a potions lab.
+Back in Diagon Alley proper, it was time to find a replacement rune schema stone for the trunk. Harry and Dobby wandered down the main thoroughfare of Diagon Alley, chattering to each other about the shops they passed. In a luggage shop, Harry bought them both charmed bookbags which had an Undetectable Extension charm on them, as well as featherlight and durability charms. The proprietor also directed them to a shop up the Alley past Gringotts, where Harry picked up a variety of blank schema stones and a high-end rune-carving kit. Stopping in at an apothecary, Harry purchased a stock of medical potions, expecting to need them after the intense training she was planning. She also picked up a stock of nutrient potions to help make up for her years of malnutrition, and enough ingredients to stock a potions lab.
 
 Finally, finished with the magical shopping, they decided to head into the Muggle world. Stepping out of the Leaky Cauldron, but still within the pub's wards, Harry shifted into proper girl-form, with longer auburn hair. She looked around for Dobby, and found instead a boy who could've been her twin brother. He had hair the same auburn as hers, though cut in a shorter, more boyish style. He was even wearing a similar outfit.
 
