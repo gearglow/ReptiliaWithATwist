@@ -8,7 +8,7 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 
 > Harry is killed at 17 during the fight with Voldemort. He's sent to his Death's office (explained later) and finds out that this isn't the first time that this has happened.
 >
-> Harry's Death (who can have a human  name) is mad at his arrival. Apparently, people dying before their time is a black mark on the various Deaths' records, and Harry is getting  perilously close to getting this particular one fired.
+> Harry's Death (who can have a human name) is mad at his arrival. Apparently, people dying before their time is a black mark on the various Deaths' records, and Harry is getting  perilously close to getting this particular one fired.
 >
 > When Harry asks what was supposed to have happened, Death goes off on a rant saying how he was supposed to have killed Voldemort, found his soulmate ("Some Granger girl…") and lived to be a centennial age.  But since Harry keeps getting into life-threatening situations for one reason or another, he keeps dying before that happens. Harry is surprised about the soul mate part.
 > Death gives Harry a paper to sign that allows him to retain his memories (the previous times, he wasn't given this option for some reason). Harry is deposited to a previous time of the writer's choosing.
@@ -17,7 +17,7 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 > REQUIREMENTS:
 > Harry must have died at least three times before this one. The memory keeping contract must  be included. Death must refer to Hermione as "some Granger girl" when Harry's soul mate turns up in his rant. Obviously, must at least be Harmony.
 >
-> OPTIONAL: Dumbledore's manipulations can be a factor in Harry's premature demises."
+> OPTIONAL: Dumbledore's manipulations can be a factor in Harry's premature demises.
 
 ### Changes and Adjustments
 
@@ -2168,6 +2168,16 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 
 
++++++
+
+
+
+"One last thing, Russ," Lily said. "That prophecy? The one you overheard, that caused Albus to ruin so many lives? Trelawney faked it because she thought it'd get her hired."
+
+"_WHAT!?_"
+
+
+
 
 +++++
 
@@ -2525,7 +2535,7 @@ First, they all congregated on the grounds. Elysia, Ron, and Ginny had their bro
 
 "We should probably shield the cable..." Elysia mused, which led to them all gathering sticks and leaves. Hermione transfigured them into a sheet of rubber, then charmed the rubber into place around the cable. By the time she was done, Elysia had transfigured another stone into a metal plate, which was then transfigured into a junction box and connected to the cable. Luna then started carving runes of permanence into the transfigured materials, so they would keep their new form.
 
-About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville, Luna, and Hermione kept control of the stake-end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three flyers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. Then they all stood back and admired their work.
+About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville, Luna, and Hermione kept control of the stake-end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three flyers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. A few notice-me-not runes, and then they all stood back to admire their work.
 
 "Wow, that looks rather good!" Neville said.
 
@@ -2541,5 +2551,18 @@ About an hour after they'd started, they had one lightning rod ready for install
 
 
 
-## Chapter 11: The Wardstone Caper
+## Chapter 11: The Great Wardstone Caper
 
+"Sufh wushf bha phlam?" Ron said around a mouthful of food, again.
+
+"Step one: swallow your food before talking!" Hermione snapped with a glare. "Honestly, Ronald."
+
+Ron swallowed with what looked like quite a bit of effort. "What's step two, then?"
+
+Ginny facepalmed.
+
+"Not here," Elysia said. "After we eat, we'll go somewhere to plan. In retrospect, this might take more time than we have left this weekend."
+
+The others agreed, and after lunch Elysia led them to a corridor on the seventh floor, stopping to pace in front of a tapestry of dancing trolls.
+
+_I need a place to plan an excursion to the Hogwarts wardstone,_ she thought intently.

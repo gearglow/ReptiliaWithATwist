@@ -12,31 +12,31 @@
 
   --title-color: #6c549c;
   --text-color: #ff007faa; /*#34495e;*/
-  --font-sans-serif: "Ubuntu", "Source Sans Pro", sans-serif !important;
-  --font-monospace: "Fira Code", "Roboto Mono", monospace !important;
+  --font-sans-serif: "Lilex", "Ubuntu", "Source Sans Pro", sans-serif !important;
+  --font-monospace: "B612", "Input Mono", "Fira Code", "Roboto Mono", monospace !important;
 
-  --base-font: -apple-system, "Noto Sans", "Helvetica Neue", Helvetica,
+  --base-font: -apple-system, "Lilex", "Noto Sans", "Helvetica Neue", Helvetica,
     "Nimbus Sans L", Arial, "Liberation Sans", "Noto Sans CJK SC", "PingFang SC",
     "Hiragino Sans GB", "Source Han Sans SC", "Source Han Sans CN",
     "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti",
     SimHei, "WenQuanYi Zen Hei Sharp", "Ubuntu", "Source Sans Pro", sans-serif;
-  --title-font: "EB Garamond", Georgia, "Nimbus Roman No9 L",
+  --title-font: "Metamorphous", "Hobbiton Brushhand", "Dragonmaster", "Codex", "Magic School One", "Barbarian", "EB Garamond", Georgia, "Nimbus Roman No9 L",
     "Noto Serif CJK SC", "Songti SC", "Source Han Serif SC",
     "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun,
     SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN",
     "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU,
     "Ubuntu", "Source Sans Pro", serif;
-  --em-font: "EB Garamond", Georgia, "Nimbus Roman No9 L",
+  --em-font: "Lilex", "Hack Nerd Font", "EB Garamond", Georgia, "Nimbus Roman No9 L",
     "Noto Serif CJK SC" ， "Songti SC", "Source Han Serif SC",
     "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun,
     SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN",
     "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU,
     "Ubuntu", "Source Sans Pro", serif;
-  --quota-font: "EB Garamond", Baskerville, Georgia, "Liberation Serif",
+  --quota-font: "Hack Nerd Font", "Lilex", "EB Garamond", Baskerville, Georgia, "Liberation Serif",
     "TW-Kai", "Kaiti SC", STKaiti, "AR PL UKai CN", "AR PL UKai HK",
     "AR PL UKai TW", "AR PL UKai TW MBE", "AR PL KaitiM GB", KaiTi, KaiTi_GB2312,
     DFKai-SB, "TW\-Kai", serif;
-  --monospace: "Cascadia code", "Sarasa Term SC", Monaco, "Deja Vu Sans Mono",
+  --monospace: "B612", "SauceCodePro NerdFont Mono", "Input Mono", "Exo 2", "Cascadia code", "Sarasa Term SC", Monaco, "Deja Vu Sans Mono",
     Consolas, "Lucida Console", "Andale Mono", "Fira Code", "Roboto Mono",
     monospace, Courier;
 
