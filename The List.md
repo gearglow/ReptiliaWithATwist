@@ -2566,3 +2566,9 @@ Ginny facepalmed.
 The others agreed, and after lunch Elysia led them to a corridor on the seventh floor, stopping to pace in front of a tapestry of dancing trolls.
 
 _I need a place to plan an excursion to the Hogwarts wardstone,_ she thought intently.
+
+When they all filed into the Room, they found something out of a spy movie, with the highlights being a live scale model of what appeared to be maintenance access tunnels, a workbench with rune-carving supplies, and shelves full of reference books. There were also several whiteboards on wheeled stands scattered about.
+
+"What _is_ this place?" Neville asked, looking around in wonder.
+
+"It's the Room of Requirement, or as we elves call it, the Come-And-Go Room," Robbie said, appearing already seated at the model-bearing table with a quiet pop.
