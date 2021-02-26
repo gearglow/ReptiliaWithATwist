@@ -46,6 +46,122 @@
 
 - The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
+
+
+## Characters
+
+### Elysia
+
+Protagonist. Shifter. Transfem. Nominsexual.
+
+Applied thinker. (how do I get it to do something?)
+
+Jill-of-all-trades. Great at putting the pieces together.
+
+Born 1980-07-31
+
+AKA:
+
+- Nemesis
+- Heart-Breaker (as Parvati calls her)
+- Ellie
+- (Note: Potter in Basque is Eltzegilea)
+
+
+
+### Hermione
+
+Soul-mate #1. Cis. Nominsexual.
+
+Analytical thinker. (how does it do what it does?)
+
+Ward-cracker and curse-breaker extraordinaire.
+
+Born 1979-09-17
+
+AKA:
+
+- 'Mione
+
+
+
+### Luna
+
+Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
+
+Observational thinker (what is it like?)
+
+Good enough to monkey-patch spellcode in flight.
+
+Born 1980-10-11
+
+
+
+### Robbie
+
+Twin-bond. House elf. Cishet.
+
+Optimizing thinker. (where are the bottlenecks?)
+
+
+
+### Neville / Nell
+
+Trans girl. Sapphic af.
+
+Dating Ginny?
+
+
+
+### Ginny
+
+Cis girl. Bisexual.
+
+Dating Nell?
+
+
+
+### Ron
+
+Cis boy. Pansexual.
+
+Frenemies-with-benefits (dating?) with Dorea?
+
+
+
+### Draco/Dorea
+
+Trans girl. Pansexual.
+
+Frenemies-with-benefits (dating?) with Ron?
+
+
+
+
+
+
+
+## Elysia's Course Schedule, '94 - '95 Academic Year
+
+| MONDAY                                        | TUESDAY                                | WEDNESDAY                  | THURSDAY                            | FRIDAY                      |
+| --------------------------------------------- | -------------------------------------- | -------------------------- | ----------------------------------- | --------------------------- |
+| Herbology with the Hufflepuffs                | History of Magic                       | free period                | Transfiguration with the Ravenclaws | History of Magic            |
+| break                                         | break                                  | break                      | break                               | break                       |
+| Care of Magical Creatures with the Slytherins | Transfiguration with the Ravenclaws    | Charms with the Ravenclaws | Herbology with the Hufflepuffs      | Charms with the Ravenclaws  |
+| lunch                                         | lunch                                  | lunch                      | lunch                               | lunch                       |
+| Arithmancy                                    | Potions with the Slytherins            | Arithmancy                 | DADA                                | Potions with the Slytherins |
+| Ancient Runes                                 | Astronomy (23:00) with the Hufflepuffs | Ancient Runes              | DADA                                | Potions with the Slytherins |
+| dinner                                        | dinner                                 | dinner                     | dinner                              | dinner                      |
+
+
+
+## Elysia's Training Routine
+
+> A comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm (or several, at more advanced stages) for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
+
+> While she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
+
+
 ## Cool Magic Elysia Can Do
 
 - Contingent spells
@@ -95,82 +211,6 @@
 - The Dark Mark can be removed with the spell _lotu askatu,_ which is Basque for "free the bound."
 - Magical travel by lightning bolt can be done via the _tximista ibili_ technique (Basque for "ride the lightning").
 - Move through the ground as if through water under the effects of gillyweed using the spell _zulo,_ which is Basque for "burrow."
-
-
-
-## Characters
-
-### Elysia
-
-Protagonist. Shifter. Transfem. Nominsexual.
-
-Applied thinker. (how do I get it to do something?)
-
-Jill-of-all-trades. Great at putting the pieces together.
-
-Born 1980-07-31
-
-AKA:
-
-- Nemesis
-- Heart-Breaker (as Parvati calls her)
-- Ellie
-- (Note: Potter in Basque is Eltzegilea)
-
-### Hermione
-
-Soul-mate #1. Cis. Nominsexual.
-
-Analytical thinker. (how does it do what it does?)
-
-Ward-cracker and curse-breaker extraordinaire.
-
-Born 1979-09-17
-
-AKA:
-
-- 'Mione
-
-### Luna
-
-Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
-
-Observational thinker (what is it like?)
-
-Good enough to monkey-patch spellcode in flight.
-
-Born 1980-10-11
-
-### Robbie
-
-Twin-bond. House elf. Cishet.
-
-Optimizing thinker. (where are the bottlenecks?)
-
-
-
-
-
-## Elysia's Course Schedule, '94 - '95 Academic Year
-
-| MONDAY                                        | TUESDAY                                | WEDNESDAY                  | THURSDAY                            | FRIDAY                      |
-| --------------------------------------------- | -------------------------------------- | -------------------------- | ----------------------------------- | --------------------------- |
-| Herbology with the Hufflepuffs                | History of Magic                       | free period                | Transfiguration with the Ravenclaws | History of Magic            |
-| break                                         | break                                  | break                      | break                               | break                       |
-| Care of Magical Creatures with the Slytherins | Transfiguration with the Ravenclaws    | Charms with the Ravenclaws | Herbology with the Hufflepuffs      | Charms with the Ravenclaws  |
-| lunch                                         | lunch                                  | lunch                      | lunch                               | lunch                       |
-| Arithmancy                                    | Potions with the Slytherins            | Arithmancy                 | DADA                                | Potions with the Slytherins |
-| Ancient Runes                                 | Astronomy (23:00) with the Hufflepuffs | Ancient Runes              | DADA                                | Potions with the Slytherins |
-| dinner                                        | dinner                                 | dinner                     | dinner                              | dinner                      |
-
-
-
-## Elysia's Training Routine
-
-> A comprehensive training plan, covering calisthenics, free-weights, cardio, flexibility, martial arts forms, combat shifting, and magical development. There were specific exercises to build magical stamina (by casting and holding a wandless *Patronus* charm (or several, at more advanced stages) for longer and longer intervals), control (by wandlessly levitating more and more tennis balls while going through martial arts forms), power (the classic shooting gallery, with more and more durable targets), and finesse (more and more detailed *Image*-class illusion charms). Each day's workout ended with stretching and a meditation session. All told, she expected it to take anywhere from an hour to the entire day, depending on what point she was at in the training cycle and how much time she wanted to spend that day.
-
-> While she could use shifting to augment her physical abilities, only exercise would build the base level. The stronger she got *without* shifting, the more she'd be able to do *with.*
-
 
 
 ## Magic Technicalities
@@ -224,7 +264,7 @@ What it says on the tin.
 
 ## The List
 
-#### To Do
+#### Done
 
 - [x] Find and read the primer on Mind Magic
 - [x] Find and read How To Learn
@@ -265,9 +305,12 @@ What it says on the tin.
 - [x] Find and read Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 - [x] Find and read Elysia's Combat Style: Stage 3
 - [x] Test into Runes and Arithmancy
-- [ ] Get some kind of therapy program in Hogwarts
-- [ ] Find and read Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
+- [x] Find and read Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
+
+#### To Do
+
 - [ ] Figure out things with Hermione and Luna
+- [ ] Get some kind of therapy program in Hogwarts
 - [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
 - [ ] Leverage being roped into the Tournament to become emancipated
 - [ ] Take over the affairs of House Potter

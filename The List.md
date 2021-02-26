@@ -2553,7 +2553,7 @@ About an hour after they'd started, they had one lightning rod ready for install
 
 ## Chapter 11: The Great Wardstone Caper
 
-"Sufh wushf bha phlam?" Ron said around a mouthful of food, again.
+"Sufh wushf bha phlam?" Ron said around a mouthful of food (again).
 
 "Step one: swallow your food before talking!" Hermione snapped with a glare. "Honestly, Ronald."
 
@@ -2567,8 +2567,9 @@ The others agreed, and after lunch Elysia led them to a corridor on the seventh 
 
 _I need a place to plan an excursion to the Hogwarts wardstone,_ she thought intently.
 
-When they all filed into the Room, they found something out of a spy movie, with the highlights being a live scale model of what appeared to be maintenance access tunnels, a workbench with rune-carving supplies, and shelves full of reference books. There were also several whiteboards on wheeled stands scattered about.
+When they all filed into the Room, they found something out of a spy movie, with the highlights being a large conference table holding a live scale model of what appeared to be maintenance access tunnels, a workbench with rune-carving supplies, and shelves full of reference books. There were also several whiteboards on wheeled stands scattered about.
 
 "What _is_ this place?" Neville asked, looking around in wonder.
 
 "It's the Room of Requirement, or as we elves call it, the Come-And-Go Room," Robbie said, appearing already seated at the model-bearing table with a quiet pop.
+
