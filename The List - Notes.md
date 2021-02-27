@@ -12,7 +12,7 @@
 
 - Draco x Ron - they really are rather similar in a lot of ways... 
 
-- Ginny x Nell (transfem!Neville) - they balance each other really well, though if you set them both off at the same time _watch out_
+- Ginny x Nell (transfem!Neville) - they balance each other really well, though if you set them both off at the same time _watch out._
 
 - Parvati & Lavender teach Elysia about make-up and such. She runs with it to devastating effect. Tends to rock the tomboy look, but will sometimes femme it up to mess with people.
 
@@ -30,7 +30,7 @@
 
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
-- "Look! Up in the sky!" "It's a bird!" "It's a plane!" Colin Creevey yelled. "It's Beauxbatons!"
+- "Look! Up in the sky!" Lee Jordan yelled. "It's a bird!" Shouted Parvati. "It's a plane!" Colin Creevey shouted. "It's Beauxbatons!" Nell cried. Elysia and Hermione looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
 
 - Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap} to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
 
