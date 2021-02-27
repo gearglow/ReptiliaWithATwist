@@ -2565,11 +2565,57 @@ Ginny facepalmed.
 
 The others agreed, and after lunch Elysia led them to a corridor on the seventh floor, stopping to pace in front of a tapestry of dancing trolls.
 
-_I need a place to plan an excursion to the Hogwarts wardstone,_ she thought intently.
+_I need a place to plan an excursion to the Hogwarts wardstone room,_ she thought intently.
 
 When they all filed into the Room, they found something out of a spy movie, with the highlights being a large conference table holding a live scale model of what appeared to be maintenance access tunnels, a workbench with rune-carving supplies, and shelves full of reference books. There were also several whiteboards on wheeled stands scattered about.
 
 "What _is_ this place?" Neville asked, looking around in wonder.
 
-"It's the Room of Requirement, or as we elves call it, the Come-And-Go Room," Robbie said, appearing already seated at the model-bearing table with a quiet pop.
+"It's the Room of Requirement, or as we elves call it, the Come-And-Go Room," Robbie said, appearing already seated at the model-bearing table with a quiet pop. "It turns into whatever you need it to be."
+
+Neville looked at the model, looked at Robbie, and asked, "What if we need it to be a door straight to the wardstone room?"
+
+Everyone else looked at each other for a moment, and the sound of six palms impacting upon six foreheads echoed through the room.
+
+Elysia focused for a moment, and the model-laden table was replaced by a scale-model of the Hogwarts Wardstone Room[^2]. It was full of columns of an unidentifiable crystal, all of which were glowing softly in a rainbow of colors. Interspersed amongst them were shorter, stouter crystals of a deeper blue, as if they were made from deep ocean water made solid. All were carved over every visible inch with runes, all too small to make out at this scale. Two clusters of runes, on separate crystals, were glowing red.
+
+"Goodness," Luna gasped.
+
+"What are those red areas?" Hermione asked.
+
+"I asked the room to show us where the lightning ward runes were," Elysia answered, "and also where the curse on the DADA position was, if it was there."
+
+"Good thinking," Hermione replied with a smile. "Can you ask it to show us those specific clusters up close too?"
+
+Elysia gestured to the whiteboards lining the room, and two of them filled with annotated rune schemas.
+
+Luna had wandered over to a door which had appeared next to the original door, and cracked it open. "Oh my," she gasped. "Um, Ellie? 'Mione? You might want to take a look at this."
+
+Hermione peered through the now wide-open door.
+
+"Morgana's left nut," Hermione gasped.
+
+Elysia snorted. Luna started giggling hysterically.
+
+"These crystals are gargantuan!" Hermione exclaimed when she recovered. "Even the small ones are the size of a house! And those columns must be nearly a kilometer high!"
+
+The others ambled over to stare through the doorway and stared in awe.
+
+"Bloody hell!" Ron said.
+
+"That model really doesn't do the real thing justice," Neville commented.
+
+"We're gonna need brooms," Ginny said.
+
+Elysia grinned. "Maybe not. I've got a new spell to show you all."
+
+
+
+[^2]:See ["Crystal Cave"](https://www.deviantart.com/piotrdura/art/Crystal-cave-583595876) by PiotrDura on DeviantArt for a piece with a similar feel, if not actual look.
+
+
+
++++++
+
+
 
