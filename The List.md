@@ -540,27 +540,29 @@ Finally, finished with the magical shopping, they decided to head into the Muggl
 
 And so Ellie and Robbie set off down Charing Cross Road.
 
-## Chapter 4: Harmony
+
++++++
+
 
 After a quick stop for lunch, the two wandered the shops for the rest of the afternoon. Elysia managed to find a full set of free-weights and some gym mats, as well as both a heavy bag and a speed-bag. Gloves were a non-issue as she could simply shift them into place as needed.
 
-They also found more clothes. Both Elysia and Robbie were reveling in the ability to wear what they wanted to for once. Robbie, in particular, had a *penchánt* for socks with loud patterns, while Elysia enjoyed more form-fitting apparel after being saddled with horribly-oversized cast-offs all her life.
+They also found more clothes. Both Elysia and Robbie were reveling in the ability to wear what they wanted for once. Robbie, in particular, had a *penchánt* for socks with loud patterns, while Elysia enjoyed more form-fitting apparel after being saddled with horribly-oversized cast-offs all her life.
 
-It also turned out that, thanks to her shifting ability, she no longer needed glasses. (She shifted away her scar, too, because _good riddance._) Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones. Perhaps she could add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
+It also turned out that, thanks to her shifting ability, she no longer needed glasses. (She shifted away her scar, too, because _good riddance._) Since the world expected Harry Potter to wear them, though, she figured she might as well get some nice ones, and perhaps add enchantments at some point. She picked out some sunglasses with a classic look, and as they browsed at other stores, idly scratched runes in them with a fingernail shifted to a steel-hard point. She got as far as runes to darken automatically in bright sunlight, and turn clear in the shade, before they were done shopping.
 
 Lastly, they picked up kitchenware and several appliances, bedding, curtains, and the rest of the little things that make a house feel more like a home. And after a final stop at a grocer to stock their larders, Robbie popped them both back to Elysia's room at #4 Privet Drive.
 
 Robbie, having returned to his natural elf form, began moving the perishable goods into some of the stasis cupboards they'd found in the vault. Meanwhile, Elysia dug out one of the new schema stones and the carving kit, and sat down at the dilapidated old desk under the window to start laying out the new configuration for the trunk.
 
-It was late into the night before she was finished. Hedwig had returned from hunting all day and was snoozing, head tucked under one wing, on the perch near the window, before Elysia sat back and called Robbie over.
+It was late into the night before she was finished. Hedwig had returned from hunting all day and was snoozing, head tucked under one wing, on the perch near the window, by the time Elysia sat back and called Robbie over.
 
 "What do you think, are we ready to pop this in?" She asked, gesturing to the schema stone.
 
 He leaned over it, muttering quietly under his breath, and then nodded. "I don't see any problems. I've gone over the trunk, and it's charged and ready."
 
-"Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the schema stone, which was roughly the size of the Dursley's big-screen TV, settled into the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
+"Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the schema stone, which was roughly the size of the Dursley's big-screen TV, maneuvered down into the trunk and settled into place on the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
 
-When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, and so on. Through the door was a spacious living room, with an elevator platform leading up out of the trunk and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a study with a workshop area, and a spacious training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
+When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, a view of the outside, and so on. Through the door was a spacious living room, with an elevator platform leading up out of the trunk (a button turned it into stairs and back) and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a spacious study with a workshop area, and a huge training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
 
 The living area was piled high with all of the spoils from the day's errands, but between the two of them they made short work of it all. In less than an hour, everything was squared away, and they fell into their beds exhausted but delighted. It was, Elysia thought to herself as she drifted off, going to be the best summer ever.
 
@@ -570,9 +572,7 @@ The living area was piled high with all of the spoils from the day's errands, bu
 
 
 
-+++++
-
-
+## Chapter 4: Harmony
 
 ### #4 Privet Drive, Surrey	1994/06/27	6:30
 
