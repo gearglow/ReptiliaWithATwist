@@ -2587,7 +2587,7 @@ Elysia focused for a moment, and the model-laden table was replaced by a scale-m
 
 "Good thinking," Hermione replied with a smile. "Can you ask it to show us those specific clusters up close too?"
 
-Elysia gestured to the whiteboards lining the room, and two of them filled with annotated rune schemas.
+Elysia gestured to the whiteboards lining the room, and two of them filled with annotated rune schema diagrams.
 
 Luna had wandered over to a door which had appeared next to the original door, and cracked it open. "Oh my," she gasped. "Um, Ellie? 'Mione? You might want to take a look at this."
 
@@ -2619,3 +2619,8 @@ Elysia grinned. "Maybe not. I've got a new spell to show you all."
 
 
 
+Hermione, of course, had already picked up the flight spell from her time in Elysium. So while Elysia taught the others how to fly unassisted, she started going over the rune schema diagrams on the whiteboards. After a bit, Luna joined her.
+
+"So this is the infamous curse on the DADA position," she murmured.
+
+Hermione nodded. "It's hard to imagine just how much trouble this clever little cluster has caused, isn't it? Even in just the few years I've been at Hogwarts. First year, possessed by Voldemort, dead before the Leaving Feast. Second year, obliviated into the Janus Thickey Ward. Last year, run out of the castle for being a werewolf. It makes one wonder what's in store for Prof. Moody this year, doesn't it?"
