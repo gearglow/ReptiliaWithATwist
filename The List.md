@@ -2624,3 +2624,23 @@ Hermione, of course, had already picked up the flight spell from her time in Ely
 "So this is the infamous curse on the DADA position," she murmured.
 
 Hermione nodded. "It's hard to imagine just how much trouble this clever little cluster has caused, isn't it? Even in just the few years I've been at Hogwarts. First year, possessed by Voldemort, dead before the Leaving Feast. Second year, obliviated into the Janus Thickey Ward. Last year, run out of the castle for being a werewolf. It makes one wonder what's in store for Prof. Moody this year, doesn't it?"
+
+"Nothing good, I'm sure," Luna said. "Even if we _do_ break the curse, I think it's already been set in motion for this year."
+
+"So what do you think," Elysia said, coming up behind them. "Just erase both clusters and call it good?"
+
+"Can you do that?" Luna queried.
+
+"_Kendu akatsa,_ right?" Hermione said. "Now I know why you said I should learn Aquitanian."
+
+"Huh?" Luna said.
+
+"The Potters have Basque roots," Elysia explained. "Over the summer I went through the Potter vaults, and found a bunch of old grimoires in Aquitanian. One of them had a bunch of spells to help with runes and sigils and such. Apparently the Potters were known for warding and enchanting at one point. Soul magic too, it turns out, though those spells aren't all that useful most of the time. Anyway, _kendu akatsa_ got translated to modern Basque, and translates to 'remove the blemish.' It's used for un-etching."
+
+Luna made puppy-eyes. "Ooh! Can you teach me? Pretty _pretty_ please?"
+
+Elysia blushed. "Um. And people say _I'm_ dangerous?"
+
+Hermione snickered.
+
+"Hey!" Elysia grumbled. "_You_ try resisting Luna's puppy-eyes and see how _you_ like it!" She turned back to Luna. "Of course I'll teach you. I was planning to anyway. Should come in handy for class, too."
