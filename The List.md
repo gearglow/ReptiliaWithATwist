@@ -2317,7 +2317,10 @@ Hermione snorted. "Mischief's in your blood, Ellie. I'm just glad you're not a p
 Elysia winked at Luna. "No worries there. Can't have poor Prof. McGonagall's pretty black hair going grey, now can we?"
 
 
+
+
 +++++
+
 
 
 After breakfast, both Elysia and Luna followed Prof. McGonagall (and her 'pretty black hair,' as always done up in a severe bun) to their Arithmancy qualifier, which was mostly - but not entirely - theory at this level. They broke for lunch, chatting with Hermione about it while Ron eyed them all askance.
@@ -2735,3 +2738,8 @@ As she released the spell, the lights came back up and the pole retreated back i
 
 ## Chapter 11
 
+Monday morning found Elysia and Hermione once again greeting a yawning Luna outside the Great Hall at breakfast with fond smiles. Both girls had talked the night before about how quickly Luna had become their friend, and how much they both enjoyed spending time with her.
+
+"I'm so excited for Runes and Arithmancy today!" Hermione gushed as the three joined their friends at the Gryffindor table.
+
+"Me too!" Luna replied.

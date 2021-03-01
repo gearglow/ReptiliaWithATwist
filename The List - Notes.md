@@ -20,6 +20,8 @@
 
 - Elysia talks Madame Pomphrey into starting a therapy group, given all the insanity of the past few years (and now this one). She, Ginny, Draco, Luna, Hermione, and a few others join.
 
+- How did Lily stop the AK? A conjured wall of bullet-proof plexiglass with protection wards. The AK can't pass through the solid object, but sets off a cascade failure which blows up the room. The plexiglass helps shield the baby, but the conjuration doesn't last long after Lily dies. The infamous scar is just from debris, but the open wound attracts Riddle's loose soul fragment.
+
 - Unbreakable Vows and Oaths cannot be sworn under duress. They can only be sworn freely and in full knowledge.
 
 - Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
@@ -328,6 +330,7 @@ What it says on the tin.
 - [ ] Take over the affairs of House Potter
 - [ ] Find and read Magician, Heal Thyself
 - [ ] Find and read Curse-Breaking For Fun and Profit
+- [ ] Find and read Battle Magic For Bad Bitches
 - [ ] Find and read Magica Obscura: Shadow Magic, Necromancy, And Other Arts The Ministry Doesn't Want You To Know
 - [ ] Find and read Elysia's Combat Style: Stage 4
 - [ ] Find and read The Horcrux-Hunting Handbook
