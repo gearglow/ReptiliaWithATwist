@@ -859,7 +859,7 @@ A cold tingle crawled across Elysia's scalp, and she replaced the ward stone. "I
 
 The summer fell into a rhythm fairly quickly. Elysia had gotten into good enough shape that she'd been able to read the primers for more hard-style martial arts, like jiu jitsu, krav maga, and Shaolin animal-style kung fu. She'd moved on to 'Elysia's Combat Style: Stage 2,' which touched heavily on Jeet Kun Do. Mornings were spent training with Robbie, and afternoons were spent on everything else: reading her family's journals, writing to friends, fiddling around with projects, finishing up summer homework, and frequently meeting up with Hermione. After coming out to her, Elysia no longer felt the need to shift into her 'Harry Potter' shape around Hermione, and they both got used to Elysia's girl-ness surprisingly quickly.
 
-Elysia found that she really enjoyed runecraft. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, false-color thermal, x-ray vision, zoom, Mage Sight augmentation, and a thaumic analytics HUD -- she was particularly pleased with this project, as all of these enhancements were etched on a separate schema stone she'd shrunk down and wore as a pendant, and then tied into the glasses. This gave her lots of room to add features later, too.
+Elysia found that she really enjoyed enchanting. She spent quite a bit of time making some enhancements to her new glasses, such as adding night-vision, false-color thermal, x-ray vision, zoom, Mage Sight augmentation, and a thaumic analytics HUD -- she was particularly pleased with this project, as all of these enhancements were etched on a separate schema stone she'd shrunk down and wore as a pendant, and then tied into the glasses. This gave her lots of room to add features later, too.
 
 She and Robbie took advantage of the other flagstones to add to the wards -- aside from a self-erase on the newly-added wardstone (set to trigger either whenever the original stone was flipped, or via long-distance triggering charm), they also added Trace shielding -- which was probably illegal for a muggle house, but then again so were blood wards. And both Elysia and Robbie felt that, since pure-blood children could practice magic all they liked without consequence outside of school, the law was a farce in the first place. Still, coupling it with a notice-me-not/*confundus* hybrid ward was downright inspired, Elysia thought. That particular combination, one of Robbie's ideas, would make any visible spells register to muggles as just Dudley mucking around with fireworks or, if inside, something on the telly.
 
@@ -2577,7 +2577,7 @@ Neville looked at the model, looked at Robbie, and asked, "What if we need it to
 
 Everyone else looked at each other for a moment, and the sound of six palms impacting upon six foreheads echoed through the room.
 
-Elysia focused for a moment, and the model-laden table was replaced by a scale-model of the Hogwarts Wardstone Room[^2]. It was full of columns of an unidentifiable crystal, all of which were glowing softly in a rainbow of colors. Interspersed amongst them were shorter, stouter crystals of a deeper blue, as if they were made from deep ocean water made solid. All were carved over every visible inch with runes, all too small to make out at this scale. Two clusters of runes, on separate crystals, were glowing red.
+Elysia focused for a moment, and the model-laden table was replaced by a scale-model of the Hogwarts Wardstone Room[^2]. It was more of a cavern, really, and full of haphazard columns of an unidentifiable crystal, all of which were glowing softly in a rainbow of colors. Interspersed amongst them were shorter, stouter crystals of a deeper blue, as if they were made from deep ocean water made solid. All were carved over every visible inch with runes, all too small to make out at this scale. Two clusters of runes, on separate crystals, were glowing red.
 
 "Goodness," Luna gasped.
 
@@ -2648,3 +2648,33 @@ Hermione snickered.
 "Yay!" Luna bounced up and down happily.
 
 Elysia smiled fondly, and caught Hermione smiling too.
+
+"So, back to the question at hand," Elysia continued. "Can we just erase them, or is it more complicated than that?"
+
+"Well," Hermione started. "The lightning ward, I think we can just erase. The DADA curse, on the other hand..."
+
+"Yes," Luna chimed in. "That one's a nasty piece of work. I'm not even sure what half these runes _are,_ much less what they do in concert."
+
+"I say we flag it and come back to it later, then," Elysia said. "Like you said, it's already in effect for the year, so we've got time to figure it out before the next victim."
+
+Ron, Ginny, and Neville, done practicing the flight spell, drifted over.
+
+"So what's the plan?" Neville asked.
+
+"The DADA curse is too complex to tackle today," Hermione answered, "but the lightning ward we think can just be erased. So I think we're just going to find both clusters, wipe the lightning ward cluster, and mark the DADA curse cluster so we can find it more easily when we're better prepared."
+
+"Wait a minute," Ron interjected. "These are the _Hogwards Wardstones._ Are we _sure_ we can just go in and muck about with them? Something like that, I'd expect at least _some_ protection."
+
+Elysia stuck her head through the door, mage-sight and glasses active. 
+
+"What're you doing, Ellie?" Luna asked.
+
+"Thaumic analysis," Elysia answered absently, squinting at the shadowed edges of the cavern. "I picked up some new glasses over the summer, and they've got some neat little tricks built in." She neglected to mention that _she_ was the one who'd built those tricks into the glasses in the first place.
+
+"Wait, what?" Hermione exclaimed. "And you didn't tell me? Rude!" She stuck out her tongue at Elysia, who stuck hers out right back. All three of them giggled.
+
+"Anyway," Elysia said. "I don't see any wards active in the cavern proper, at least not from here. I'd wager that most of the protections are on the ways in and out, and since the Room of Requirement seems to have bypassed those, we should be in the clear. I'd expect the headmaster to notice when the wards change, though, so we'll have to be quick. Mark the DADA curse first."
+
+"I should probably stay here and make sure the way back doesn't disappear on you," Neville said.
+
+"Good idea, Nev," Elysia said. "Hadn't thought of that."
