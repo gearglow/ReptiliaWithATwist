@@ -46,6 +46,8 @@
 
 - The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
+- How to neutralize dementors: sink them. They cause everything around them to freeze, so they'll end up encasing themselves in ice.
+
 
 
 ## Characters
@@ -209,15 +211,19 @@ Frenemies-with-benefits (dating?) with Ron?
 
 - Horcruxes can be removed from whatever they possess via the spell _suntsitu arima lotua,_ which is Basque for "destroy the bound soul."
 - The Dark Mark can be removed with the spell _lotu askatu,_ which is Basque for "free the bound."
+- Runes can be cleanly removed from a surface with _kendu akatsa_ (Basque for "remove the blemish").
 - Magical travel by lightning bolt can be done via the _tximista ibili_ technique (Basque for "ride the lightning").
 - Move through the ground as if through water under the effects of gillyweed using the spell _zulo,_ which is Basque for "burrow."
 - Unassisted flight with perfect maneuverability and immunity to inertia and wind resistance (speed and acceleration determined by intent when casting) is _hegan egin mugarik gabe_ (Basque for "fly without limits"). While this can be cast as a charm, there is also a ritual to grant this ability permanently, with all parameters able to be adjusted on-the-fly as desired.
 - Take on a ghost-like, insubstantial form with _mamuzko forma_ (Basque for "ghostly form"). Removes the need to breathe, but the subject can no longer physically interact with the physical world aside from anything on their person when the spell was cast. Interaction via magic still works just fine.
-- Runes can be cleanly removed from a surface with _kendu akatsa_ (Basque for "remove the blemish").
-- Conjures blades of pure arcane force which can be controlled with a thought: _indar-palak_ ("force blades" in Basque).
 - Hold and move something with the mind (classic telekinesis): _telekinetikoa_ ("telekinetic grasp" in Basque).
+- Poltergeist form, which combines the last two: የፖሊተር ሐኪም ቅፅ (Amharic, pronounced "yepolīteri ḥākīmi k’it͟s’i").
+- Conjures blades of pure arcane force which can be controlled with a thought: _indar-palak_ ("force blades" in Basque).
 - Spot-shield against any directed spell, even the Unforgivables, with _svartholsskjöldur_ (Icelandic for "black-hole shield").
-
+- Glowing-path-style locator spell: _monstrant viam_
+- Magic walkie-talkies: хол ярих (_khol yarikh_, Mongolian for "far speak").
+- Ball Lightning: 球電 (_kyuu-den_, Japanese) or _pilota tximista_ (Basque)
+- Lightning bolt: _tximista_ (Basque) or _fulmen_ (Latin).
 
 ## Magic Technicalities
 

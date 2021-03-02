@@ -2551,7 +2551,9 @@ About an hour after they'd started, they had one lightning rod ready for install
 
 
 
-## Chapter 11: The Great Wardstone Caper
++++++
+
+
 
 "Sufh wushf bha phlam?" Ron said around a mouthful of food (again).
 
@@ -2619,7 +2621,7 @@ Elysia grinned. "Maybe not. I've got a new spell to show you all."
 
 
 
-Hermione, of course, had already picked up the flight spell from her time in Elysium. So while Elysia taught the others how to fly unassisted, she started going over the rune schema diagrams on the whiteboards. After a bit, Luna joined her.
+Hermione, of course, had already picked up the Unlimited Flight spell from her time in Elysium. So while Elysia taught the others how to fly unassisted, she started going over the rune schema diagrams on the whiteboards. After a bit, Luna joined her.
 
 "So this is the infamous curse on the DADA position," she murmured.
 
@@ -2663,7 +2665,7 @@ Ron, Ginny, and Neville, done practicing the flight spell, drifted over.
 
 "The DADA curse is too complex to tackle today," Hermione answered, "but the lightning ward we think can just be erased. So I think we're just going to find both clusters, wipe the lightning ward cluster, and mark the DADA curse cluster so we can find it more easily when we're better prepared."
 
-"Wait a minute," Ron interjected. "These are the _Hogwards Wardstones._ Are we _sure_ we can just go in and muck about with them? Something like that, I'd expect at least _some_ protection."
+"Wait a minute," Ron interjected. "These are the _Hogwarts Wardstones._ Are we _sure_ we can just go in and muck about with them? Something like that, I'd expect at least _some_ protection."
 
 Elysia stuck her head through the door, mage-sight and glasses active. 
 
@@ -2678,3 +2680,58 @@ Elysia stuck her head through the door, mage-sight and glasses active.
 "I should probably stay here and make sure the way back doesn't disappear on you," Neville said.
 
 "Good idea, Nev," Elysia said. "Hadn't thought of that."
+
+On a hunch, Elysia asked the Room to highlight any other problems with the wards. Several more clusters turned red. "Bollocks," she muttered. Several more whiteboards filled with diagrams.
+
+"What happened?" Ginny asked.
+
+"I asked the Room if there was anything else wrong with the wards. Turns out there is."
+
+Hermione looked over at the whiteboards. "Bollocks."
+
+"So we do the same thing with those as we do for the DADA curse," Luna said. "Maybe we can show them to Prof. Babbling as an extra credit project."
+
+"Bill might be able to help too," Ginny added. "He _is_ a curse-breaker, after all."
+
+Elysia wandered over to the worktable and started carving a simple schema for a glowing red arrow illusion into some sandstone. "Here, everyone copy this and we'll stick them to the problem clusters."
+
+Everyone else started copying the arrow stones, and Elysia grabbed a marker and started labeling each cluster on the whiteboards.
+
+"Anyone know a good locator spell?" She asked.
+
+Everyone looked at each other. "Try asking the Room?" Neville eventually suggested.
+
+Elysia did so, and a ghostly image formed over the table demonstrating a spell and repeating the words _monstrant viam._
+
+"_Monstrant viam,_" she repeated, copying the wand movements and focusing on the whiteboard with the lightning ward diagram. A softly-glowing trail of cyan light began at her feet and led to the whiteboard.
+
+"Ooh, that's _perfect!_" Luna squealed, eyes shining.
+
+"Wonder if it'll work on the twins?" Ginny mused, smirking.
+
+"I'll let you be the one to test that," Ron said. "Anyway, the arrows are done."
+
+"Let's get to it, then," Elysia said. "Nev, thanks for watching our backs."
+
+Neville and Robbie took a seat at the table. The others lined up just beyond the door to the Wardstone Room, raised their wands in unison, and said, "_hegan egin mugarik gabe!_"
+
+As they all rose into the air, whooping with delight, five trails of light streaked off into the cavern. Hermione headed for the lightning ward, Elysia took on the DADA curse, and the others busied themselves with the other 'clusters of concern,' as they'd been dubbed.
+
+The DADA cluster proved to be on one of the shorter crystals, and as Elysia drew near her HUD lit up with field lines. As the analytics HUD started identifying them, she swore softly. "Hey, you lot!" She called out. "There's localized trap wards on this cluster!    Fall back to the Room!" She did a cursory field trace, making note of the points of origin for the traps, and found they were buried in the cave floor.
+
+"_Ventus,_" she muttered, clearing them off. She stared intently for a moment, memorizing them. She'd be able to break them down later in Elysium's workshop. Then she dropped her arrow to mark the field's edge and rejoined the others back in the Room.
+
+"I managed to get the lightning ward, at least," Hermione reported.
+
+"Wonderful!" Elysia crowed. "Now I can show you a nifty little spell I found in a travel guide from Hawai'i. Room, if you would?"
+
+The lights dimmed, and a metal pole rose from the floor, roughly as tall as Elysia. She raised her wand and jabbed it forward, intoning, "_limahana!_" A spark jolted from her wand with an audible crackle, arcing from the tip of her wand to the metal pole. She held it for a few seconds, the electric glow casting dancing shadows.
+
+As she released the spell, the lights came back up and the pole retreated back into the floor.
+
+"Bloody brilliant," Ron said.
+
+
+
+## Chapter 11
+
