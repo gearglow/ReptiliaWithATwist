@@ -1782,7 +1782,7 @@ Elysia wrote Professor McGonagall (and Sirius, while she was at it) as soon as d
 
 "There's a ritual for that?" Hermione asked.
 
-"Apparently," Elysia said. "I'll just tell her yes. No need to tip my hand about the shifting just yet. D'you think I should change my hair, though?"
+"Apparently," Elysia said. "I'll just tell her yes. No need to tip my hand about the shifting just yet, though I think I might change my eyes to mess with people a bit. D'you think I should change my hair, though?"
 
 "How do you mean?" Hermione asked.
 
@@ -2743,3 +2743,10 @@ Monday morning found Elysia and Hermione once again greeting a yawning Luna outs
 "I'm so excited for Runes and Arithmancy today!" Hermione gushed as the three joined their friends at the Gryffindor table.
 
 "Me too!" Luna replied.
+
+"Swots, the both of you," Elysia teased, and laughed as both girls smacked her on either arm in synchrony. "See? It's not just me and Hermione doing that."
+
+"'Hermione and _I_,'" Luna absently corrected, eyes sparkling.
+
+Elysia stuck her tongue out at her as Hermione giggled.
+
