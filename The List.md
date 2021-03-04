@@ -2750,3 +2750,36 @@ Monday morning found Elysia and Hermione once again greeting a yawning Luna outs
 
 Elysia stuck her tongue out at her as Hermione giggled.
 
+"And what, pray tell, do you plan on doing with that?" Luna asked, cocking one eyebrow.
+
+Elysia's jaw dropped and she blushed brightly. "Um."
+
+Hermione finally lost her composure completely and dragged them both to breakfast, cackling.
+
+
+
++++++
+
+
+
+After a morning of harvesting bubotuber pus in Herbology with the Hufflepuffs, and mounting concern over something Hagrid called 'blast-ended skrewts' in Care of Magical Creatures, Elysia and Hermione met up with Luna again at lunch, and then the three of them, accompanied by Neville who was also in the class, headed off to Arithmancy.
+
+Professor Septima Vector was a petite brunette with sharp bob-cut hair and a calculating gaze. She greeted the students with a smile. "This year," she said, "we will begin spell analysis. Some of you," she nodded at the three girls, "have demonstrated a degree of experience with this already. Miss Lovegood, if you would?"
+
+Luna moved up to stand at the front of the classroom.
+
+"I'm going to cast a beam of light. Miss Lovegood is going to demonstrate a technique called 'monkey-patching' wherein a spell's parameters are modified after it's been cast. First, here's the unmodified spell. _Lux trabem!_"
+
+A beam of magic, glowing with white light, erupted from her wand, streaming the length of the classroom. She held the beam for a few seconds.
+
+"Alright, Miss Lovegood, show us your stuff! _Lux trabem!_"
+
+Luna, muttering a spell under her breath, flicked her wand in an intricate pattern and the beam split into a rainbow spectrum, lines of glowing white runes intertwined among them. She flicked a few specific places, and swished her wand with a flourish as the beam recohered. It was now a thin, intense rod of actinic blue, and was roughly three feet long. A low hum could be heard as Prof. Vector slowly waved her wand around. 
+
+Luna grinned, flourished her wand like a fencer, and intoned, "_ense lucis radium!_" A similar beam of glowing, humming magic, this one tinged with fuchsia sparks, extended from the tip of her own wand. The two crossed the beams as if fencing, and then canceled the spells.
+
+The class erupted in applause and cheers.
+
+"I didn't know you'd seen Star Wars, Luna!" Hermione gushed as Luna retook her seat.
+
+"We _definitely_ need a movie night soon," Elysia said.

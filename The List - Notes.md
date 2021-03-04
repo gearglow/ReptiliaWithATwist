@@ -222,10 +222,11 @@ Frenemies-with-benefits (dating?) with Ron?
 - Poltergeist form, which combines the last two: የፖሊተር ሐኪም ቅፅ (Amharic, pronounced "yepolīteri ḥākīmi k’it͟s’i").
 - Conjures blades of pure arcane force which can be controlled with a thought: _indar-palak_ ("force blades" in Basque).
 - Spot-shield against any directed spell, even the Unforgivables, with _svartholsskjöldur_ (Icelandic for "black-hole shield").
-- Glowing-path-style locator spell: _monstrant viam_
+- Glowing-path-style locator spell: _monstrant viam._
 - Magic walkie-talkies: хол ярих (_khol yarikh_, Mongolian for "far speak").
-- Ball Lightning: 球電 (_kyuu-den_, Japanese) or _pilota tximista_ (Basque)
+- Ball Lightning: 球電 (_kyuu-den_, Japanese) or _pilota tximista_ (Basque).
 - Lightning bolt: _tximista_ (Basque) or _fulmen_ (Latin).
+- Lightning blade: _fulmineum_ (Latin) or _tximista pala_ (Basque).
 
 ## Magic Technicalities
 
