@@ -46,6 +46,8 @@
 
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
 
+- Other musical influences: _War Pigs_ by Black Sabbath
+
 - The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
 - How to neutralize dementors: sink them. They cause everything around them to freeze, so they'll end up encasing themselves in ice.

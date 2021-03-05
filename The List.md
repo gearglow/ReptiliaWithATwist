@@ -2783,3 +2783,15 @@ The class erupted in applause and cheers.
 "I didn't know you'd seen Star Wars, Luna!" Hermione gushed as Luna retook her seat.
 
 "We _definitely_ need a movie night soon," Elysia said.
+
+
+
++++++
+
+
+
+After Arithmancy was Runes, which Prof. Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Daphne Greengrass and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Laura Madley and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna just smirked.
+
+"Well, ladies," Prof. Babbling said with a grin. "Now that it's just the best and brightest this section, we get to jump right into the fun stuff." An enormous Cheshire-cat grin split her face. "Welcome to Curse-Breaking 101."
+
+The girls all cheered.
