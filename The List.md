@@ -2762,7 +2762,7 @@ Hermione finally lost her composure completely and dragged them both to breakfas
 
 
 
-After a morning of harvesting bubotuber pus in Herbology with the Hufflepuffs, and mounting concern over something Hagrid called 'blast-ended skrewts' in Care of Magical Creatures, Elysia and Hermione met up with Luna again at lunch, and then the three of them, accompanied by Neville who was also in the class, headed off to Arithmancy.
+Monday morning was full of of harvesting bubotuber pus in Herbology with the Hufflepuffs, and mounting concern over something Hagrid called 'blast-ended skrewts' in Care of Magical Creatures. Prof. Sprout had been forewarned about Elysia's transition, but Hagrid kept looking around for 'Harry' until Elysia came up and reintroduced herself. Elysia and Hermione met up with Luna again at lunch, and then the three of them, accompanied by Neville who was also in the class, headed off to Arithmancy.
 
 Professor Septima Vector was a petite brunette with sharp bob-cut hair and a calculating gaze. She greeted the students with a smile. "This year," she said, "we will begin spell analysis. Some of you," she nodded at the three girls, "have demonstrated a degree of experience with this already. Miss Lovegood, if you would?"
 
@@ -2784,6 +2784,12 @@ The class erupted in applause and cheers.
 
 "We _definitely_ need a movie night soon," Elysia said.
 
+The rest of the class was an overview and the beginnings of a deeper discussion about the techniques Luna had demonstrated. It turned out that Luna's lightsaber spell, _ense lucis radium,_ was one she'd helped her mother create before she'd died. It was intended as a training aide for fencing lessons, which Luna had continued after her mother's death as a way to still feel close to her.
+
+"Luna," Elysia asked as class let out, "Hermione and I do some training ourselves most mornings. Maybe you'd like to join us? We usually start with a run around the lake about 5:30 or so."
+
+Luna smiled as Hermione nodded enthusiastically. "I'd love to!"
+
 
 
 +++++
@@ -2795,3 +2801,6 @@ After Arithmancy was Runes, which Prof. Babbling had managed to wrangle as an ac
 "Well, ladies," Prof. Babbling said with a grin. "Now that it's just the best and brightest this section, we get to jump right into the fun stuff." An enormous Cheshire-cat grin split her face. "Welcome to Curse-Breaking 101."
 
 The girls all cheered.
+
+"Now, you all have a solid grounding in Futhark and Ogham," she continued. "This term, each of you will pick another glyph language to specialize in, and we'll begin to look at the basics of warding and enchanting. Next term, we'll dive into practical applications with some training scenarios, and in our last term of the year we'll have a mock boot camp with some guest instructors from Gringotts."
+
