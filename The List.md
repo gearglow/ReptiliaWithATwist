@@ -2802,5 +2802,34 @@ After Arithmancy was Runes, which Prof. Babbling had managed to wrangle as an ac
 
 The girls all cheered.
 
-"Now, you all have a solid grounding in Futhark and Ogham," she continued. "This term, each of you will pick another glyph language to specialize in, and we'll begin to look at the basics of warding and enchanting. Next term, we'll dive into practical applications with some training scenarios, and in our last term of the year we'll have a mock boot camp with some guest instructors from Gringotts."
+"Now, you all have a solid grounding in Futhark and Ogham," she continued. "This term, each of you will pick another glyph system to specialize in, and we'll begin to look at the basics of warding and enchanting. Next term, we'll dive into practical applications with some training scenarios, and in our last term of the year we'll have a mock boot camp with some guest instructors from Gringotts."
 
+
+
++++++
+
+
+
+The girls all made their way to dinner together after Runes, chattering away excitedly. Elysia, Hermione, and Luna all split off and made for the Gryffindor table, joining Ron, Neville, and Ginny. Ron had a sour look on his face.
+
+"Making nice with snakes?" He grumbled.
+
+Elysia rolled her eyes. "They're not all Malfoy or Parkinson."
+
+"Millicent Bulstrode's positively sweet," Hermione agreed.
+
+"But they're slimy Slytherins!" Ron shouted.
+
+Ginny smacked him in the back of the head. "Grow up, Ronnikins. Besides, we've all seen you ogling Greengrass."
+
+Ron's ears turned bright red.
+
+
+
++++++
+
+
+
+Classes proceeded more or less uneventfully. Potions was much better now that she and Snape were on better terms; even Neville seemed to be having an easier time of things. Arithmancy was fascinating, especially with both Hermione and Luna there with her. Runes, or 'Curse-Breaking 101,' as they all called it now, was rapidly becoming all three girls' favorite class, with Hermione in particular taking to it like she was born for it.
+
+Finally, Thursday rolled around, and with it the first Defense Against the Dark Arts class of the year.
