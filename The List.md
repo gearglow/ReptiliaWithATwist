@@ -2833,3 +2833,20 @@ Ron's ears turned bright red.
 Classes proceeded more or less uneventfully. Potions was much better now that she and Snape were on better terms; even Neville seemed to be having an easier time of things. Arithmancy was fascinating, especially with both Hermione and Luna there with her. Runes, or 'Curse-Breaking 101,' as they all called it now, was rapidly becoming all three girls' favorite class, with Hermione in particular taking to it like she was born for it.
 
 Finally, Thursday rolled around, and with it the first Defense Against the Dark Arts class of the year.
+
+"Constant vigilance!" Janet whispered in the back of Elysia's mind as she approached the classroom.
+
+_Is this going to be another one of those years where the Defense professor tries to kill me?_ Elysia mused. _Lovely._ She set her glasses to active scan as she entered, noting that while Prof. Moody was not visible, there _was_ an indefinable blob of magic in the back corner of the classroom that was identified as a disillusionment charm. She dug in her bag as she took a desk in front for a sandstone marble, quickly carved runes for an area-effect flash-bang stunner on a command-word trigger, then over-charged it.
+
+The other students made their way in and took their seats, wondering where Prof. Moody was. And then, as the clock ticked over and class began, spellfire came from the corner. Several students screamed, and many fell to stunners. Elysia promptly hit the deck and rolled the marble towards the corner, casting a quick shield, shifting her ears closed, and shutting her eyes. 
+
+"Boom!" She yelled, triggering her make-shift grenade. There was a blinding flash of light, even through her closed eyelids, and she felt the wash of the pressure wave from the explosion. A crimson wave of stunning magic followed, crackling against her shield as she stood, unsealing her ears and opening her eyes.
+
+The entire class was lying on the floor, stunned, as was the disillusioned lump in the corner. Elysia _reenervated_ Hermione, Ron, and Neville, asking them to revive the rest. She made her way to the corner, casting a quick _finite_ to reveal the still-stunned Prof. Moody. 
+
+"What have we here?" She mused aloud. A quick search-and-seizure revealed the professor's wand, two spares, an enchanted flask, a couple of non-descript portkeys, and a collapsible metal baton, all of which she promptly confiscated. She then levitated the erstwhile professor to a chair, bound him with _incarcerous,_ and threw in a _petrificus totalis_ for good measure.
+
+"Someone fetch Prof. McGonagall, please," she called behind her.
+
+"I'll go, Ellie," Neville said, suiting action to words.
+
