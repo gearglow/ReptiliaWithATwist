@@ -2850,3 +2850,9 @@ The entire class was lying on the floor, stunned, as was the disillusioned lump 
 
 "I'll go, Ellie," Neville said, suiting action to words.
 
+"Everybody okay?" Elysia asked, as Neville exited stage left.
+
+"I think so, Ellie," Hermione responded. "What happened? The last thing I remember was you yelling 'boom' and everything went white."
+
+Elysia knelt and picked up her sandstone marble, which promptly disintegrated into a handful of sand as she stood. "A little something I found in a curse-breaking adventure story - a flash-bang stunner. After the twins constantly repeating 'constant vigilance' their first Defense class, I figured something was up. And there's not a whole lot who can block an area stunner after a flash-bang breaks their focus."
+
