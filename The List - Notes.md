@@ -221,7 +221,7 @@ Frenemies-with-benefits (dating?) with Ron?
 - Unassisted flight with perfect maneuverability and immunity to inertia and wind resistance (speed and acceleration determined by intent when casting) is _hegan egin mugarik gabe_ (Basque for "fly without limits"). While this can be cast as a charm, there is also a ritual to grant this ability permanently, with all parameters able to be adjusted on-the-fly as desired.
 - Take on a ghost-like, insubstantial form with _mamuzko forma_ (Basque for "ghostly form"). Removes the need to breathe, but the subject can no longer physically interact with the physical world aside from anything on their person when the spell was cast. Interaction via magic still works just fine.
 - Hold and move something with the mind (classic telekinesis): _telekinetikoa_ ("telekinetic grasp" in Basque).
-- Poltergeist form, which combines the last two: የፖሊተር ሐኪም ቅፅ (Amharic, pronounced "yepolīteri ḥākīmi k’it͟s’i").
+- Poltergeist form, which combines the above two: የፖሊተር ሐኪም ቅፅ (Amharic, pronounced "yepolīteri ḥākīmi k’it͟s’i").
 - Conjures blades of pure arcane force which can be controlled with a thought: _indar-palak_ ("force blades" in Basque).
 - Spot-shield against any directed spell, even the Unforgivables, with _svartholsskjöldur_ (Icelandic for "black-hole shield").
 - Glowing-path-style locator spell: _monstrant viam._
@@ -229,7 +229,8 @@ Frenemies-with-benefits (dating?) with Ron?
 - Ball Lightning: 球電 (_kyuu-den_, Japanese) or _pilota tximista_ (Basque).
 - Lightning bolt: _tximista_ (Basque) or _fulmen_ (Latin).
 - Lightning blade: _fulmineum_ (Latin) or _tximista pala_ (Basque).
-- Wide-area stunner: _stupefacio locus._
+- Wide-area stunner: _stupefacio locus_ (Latin).
+- Stun bolt: _txundituta_ (Basque).
 
 ## Magic Technicalities
 

@@ -2736,7 +2736,7 @@ As she released the spell, the lights came back up and the pole retreated back i
 
 
 
-## Chapter 11
+## Chapter 11: Outclassed
 
 Monday morning found Elysia and Hermione once again greeting a yawning Luna outside the Great Hall at breakfast with fond smiles. Both girls had talked the night before about how quickly Luna had become their friend, and how much they both enjoyed spending time with her.
 
@@ -2842,7 +2842,7 @@ The other students made their way in and took their seats, wondering where Profe
 
 "Boom!" She yelled, triggering her make-shift grenade. There was a blinding flash of light, even through her closed eyelids, and she felt the wash of the pressure wave from the explosion. A crimson wave of stunning magic followed, crackling against her shield as she stood, unsealing her ears and opening her eyes.
 
-The entire class was lying on the floor, stunned, as was the disillusioned lump in the corner. Elysia _reenervated_ Hermione, Ron, and Neville, asking them to revive the rest. She made her way to the corner, casting a quick _finite_ to reveal the still-stunned Professor Moody. 
+The entire class was lying on the floor, stunned, as was the disillusioned lump in the corner. Elysia _reenervated_ Hermione, asking her to revive the rest. She made her way to the corner, casting a quick _finite_ to reveal the still-stunned Professor Moody. 
 
 "What have we here?" She mused aloud. A quick search-and-seizure revealed the professor's wand, two spares, an enchanted flask, a couple of non-descript portkeys, and a collapsible metal baton, all of which she promptly confiscated. She then levitated the erstwhile professor to a chair, bound him with _incarcerous,_ and threw in a _petrificus totalis_ for good measure.
 
@@ -2886,6 +2886,8 @@ Elysia's eyes narrowed as she lied through her teeth. "I'm from New Zealand. D'y
 
 Moody shrugged. "Fair enough, lass."
 
+"But-" Ron said, before Hermione elbowed him with a channeled silencer.
+
 "Alastor," Professor McGonagall cut in. "What have I told you about casting spells at students?"
 
 "That it's not an appropriate teaching method," Moody replied. "But they've got to know what's out there. They've got to be ready. CONSTANT VIGILANCE!" He suddenly shouted, making everyone jump. "And Albus agrees. Besides," he added with a grin at Elysia, "Miss Potter here got the jump on me. Twenty points, lass. What was that, anyway?"
@@ -2899,3 +2901,14 @@ Moody shrugged. "Fair enough, lass."
 Hermione snorted.
 
 "Another five points, Miss Potter, that's clever thinking. Now let me up so we can get on with the lesson."
+
+
+
++++++
+
+
+
+Professor McGonagall decided to stay and observe the class. Once the students had retaken their seats, Professor Moody pulled out a jar of spiders, causing Ron to wince.
+
+"Now then," Moody said, "you lot have had quite the dog's breakfast for instruction in this class, and I've only got the one year to fix what I can. As such," he growled, "best start thinking of this class as Junior Auror boot camp. The headmaster has given me quite a bit of leeway in order to bring you all up to scratch, and that includes showing you some of what a dark wizard is capable of. Which brings us to today's lesson: the Unforgivable Curses."
+
