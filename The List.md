@@ -2830,6 +2830,22 @@ Ron's ears turned bright red.
 
 
 
+The next morning, Elysia and Hermione came downstairs for their morning run to find Luna waiting for them in the entrance hall.
+
+"Good morning, you two," she said with her usual adorable yawn.
+
+"Good morning, Luna!" Elysia and Hermione chorused, giggling.
+
+They all trooped out to the shore of the lake, where Elysia led them in a quick warm-up, and then off they jogged for a lap around the lake.
+
+{ TODO: Luna visits the trunk }
+
+
+
++++++
+
+
+
 Classes proceeded more or less uneventfully. Potions was much better now that she and Snape were on better terms; even Neville seemed to be having an easier time of things. Arithmancy was fascinating, especially with both Hermione and Luna there with her. Runes, or 'Curse-Breaking 101,' as they all called it now, was rapidly becoming all three girls' favorite class, with Hermione in particular taking to it like she was born for it.
 
 Finally, Thursday rolled around, and with it the first Defense Against the Dark Arts class of the year.
