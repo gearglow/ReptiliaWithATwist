@@ -34,7 +34,7 @@
 
 - "Look! Up in the sky!" Lee Jordan yelled. "It's a bird!" Shouted Parvati. "It's a plane!" Colin Creevey shouted. "It's Beauxbatons!" Nell cried. Elysia and Hermione looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
 
-- Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap} to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
+- Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap | shadow striding } to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
 
 - CAST: Computer-Aided Spellcrafting and Thaumaturgy. Useful for virtual prototyping of spells and schema. (This needs to be in Elysiad, too.)
 
@@ -229,6 +229,7 @@ Frenemies-with-benefits (dating?) with Ron?
 - Ball Lightning: 球電 (_kyuu-den_, Japanese) or _pilota tximista_ (Basque).
 - Lightning bolt: _tximista_ (Basque) or _fulmen_ (Latin).
 - Lightning blade: _fulmineum_ (Latin) or _tximista pala_ (Basque).
+- Wide-area stunner: _stupefacio locus._
 
 ## Magic Technicalities
 

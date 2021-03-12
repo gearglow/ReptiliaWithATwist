@@ -1776,7 +1776,7 @@ Elysia wrote Professor McGonagall (and Sirius, while she was at it) as soon as d
 >
 > Thank you for informing me of this change. I'll update your file and accommodations accordingly. Will you be undergoing the transition ritual at St. Mungo's before term starts?
 >
->  -- Prof. Minerva McGonagall
+>  -- Professor Minerva McGonagall
 >   Deputy Headmistress
 >   Hogwarts School of Witchcraft & Wizardry
 
@@ -1907,7 +1907,7 @@ After chasing Peeves off, the students were ushered into the Great Hall.
 
 "Great, now I'm soggy *and* starving," Ron grumbled. The others could only agree.
 
-Luna split off to the Ravenclaw table, and the others took seats midway down the Gryffindor table. Elysia scanned the staff table, noting that there were more empty seats than usual. One, she presumed, was Prof. McGonagall's, and another was Hagrid's, as both were busy with the first-years. And then it clicked: the remaining empty seat was the Defense Against the Dark Arts teacher.
+Luna split off to the Ravenclaw table, and the others took seats midway down the Gryffindor table. Elysia scanned the staff table, noting that there were more empty seats than usual. One, she presumed, was Professor McGonagall's, and another was Hagrid's, as both were busy with the first-years. And then it clicked: the remaining empty seat was the Defense Against the Dark Arts teacher.
 
 "Wonder who they got for DADA this year," she murmured to the others.
 
@@ -1917,7 +1917,7 @@ Luna split off to the Ravenclaw table, and the others took seats midway down the
 
 Elysia scanned the staff table again, and caught the eye of Professor Snape. She'd seen plenty of people do double-takes over her this summer, but this was the first time she'd someone pale so drastically at the same time. *Looks like he's seen a ghost,* she thought to herself.
 
-Prof. McGonagall entered with the first-years, and as Hagrid took his seat the Sorting commenced. It was the first one since Elysia's own that she'd managed to see, as the past two years something had always come up. Colin Creevy's little brother, Dennis, was sorted into Gryffindor, and Elysia giggled to herself as Colin tried to point out 'the famous Harry Potter' to him but didn't recognize her.
+Professor McGonagall entered with the first-years, and as Hagrid took his seat the Sorting commenced. It was the first one since Elysia's own that she'd managed to see, as the past two years something had always come up. Colin Creevy's little brother, Dennis, was sorted into Gryffindor, and Elysia giggled to herself as Colin tried to point out 'the famous Harry Potter' to him but didn't recognize her.
 
 The Sorting wrapped up, and the feast appeared. Everyone dove in with relish, and Elysia pondered how it was that she could be so hungry after stuffing herself silly with snacks on the train ride.
 
@@ -1925,9 +1925,9 @@ Finally, dessert was devoured and the plates cleared. Dumbledore stood, and gave
 
 Several things happened at once, and Elysia couldn't help but admire the theatricality of it all. Thunder crashed, the doors to the Great Hall flew open, and a bolt of lightning flashed in the enchanted ceiling, illuminating a figure who looked as if he'd been born to the storm. His face was scarred, weathered, and craggy, with one piercing blue eye, which rolled around independently of the other, which was a beady black and yet much more normal for that. He had a peg leg, shaggy hair the dark grey of storm-clouds, and a black travelling cloak billowing in the door's backdraft. All in all, Elysia thought even Snape would be hard-pressed to make a more dramatic entrance.
 
-The figure made his way down the Hall to Prof. Dumbledore, with whom he spoke quietly for a moment before taking the vacant DADA seat at the staff table.
+The figure made his way down the Hall to Professor Dumbledore, with whom he spoke quietly for a moment before taking the vacant DADA seat at the staff table.
 
-"Allow me to introduce Alastor Moody," Prof. Dumbledore said, "our new professor of Defense Against the Dark Arts."
+"Allow me to introduce Alastor Moody," Professor Dumbledore said, "our new professor of Defense Against the Dark Arts."
 
 The students' whispering among themselves reached a crescendo. Moody himself ignored them, and looked to be casting detection spells on his dinner. As Elysia watched, he took as swig from a hip flask.
 
@@ -2047,7 +2047,7 @@ Luna wrinkled her nose. "Say good morning?"
 
 ### Hogwarts, Potions Classroom	1994/09/02	13:00
 
-History was uneventful, aside from the many odd looks people kept giving the 'new girl.' Charms, on the other hand... When Prof. Flitwick called out "Potter, Elysia" during roll, many of those looks changed to shock, and Elysia heard more than one person mutter, "oh, that's just *unfair!*"
+History was uneventful, aside from the many odd looks people kept giving the 'new girl.' Charms, on the other hand... When Professor Flitwick called out "Potter, Elysia" during roll, many of those looks changed to shock, and Elysia heard more than one person mutter, "oh, that's just *unfair!*"
 
 But all of that was nothing compared to Potions. Friday afternoons were double periods with the Slytherins (*always the Slytherins,* thought Elysia. *Are they* trying *to set us up for failure?*), and the look on Malfoy's face as she entered was *priceless.*
 
@@ -2081,7 +2081,7 @@ They'd all just settled down again when Professor Snape came back in, pointedly 
 
 
 
-Elysia packed up with the rest of the class, but stayed seated as the other students filed out. Finally, only she and Prof. Snape remained, eyeing each other warily.
+Elysia packed up with the rest of the class, but stayed seated as the other students filed out. Finally, only she and Professor Snape remained, eyeing each other warily.
 
 She wasn't really surprised when she felt the legilimency probe. She'd always figured that if *anyone* could read minds, it was Snape, and now that she knew what to look for, she could follow the probe straight back to its source.
 
@@ -2209,7 +2209,7 @@ Ron had clearly gone too far. With an inarticulate growl, Malfoy leapt at him, k
 
 "Break it up, I said!" Professor Moody waved his wand again, and the two creatures began bouncing up and down on the floor of the Entrance Hall, exactly as if Moody were dribbling a basketball.
 
-"Alastor!" Prof. McGonagall shouted, dashing down the stairs towards them. "What in Merlin's name are you doing?"
+"Alastor!" Professor McGonagall shouted, dashing down the stairs towards them. "What in Merlin's name are you doing?"
 
 "Teaching," Moody answered, still focusing on the two bouncing creatures.
 
@@ -2314,7 +2314,7 @@ Elysia grinned. "Definitely. Gotta keep Hermione on her toes, after all. I've be
 
 Hermione snorted. "Mischief's in your blood, Ellie. I'm just glad you're not a prankster like your father and his marauding mates. The castle'd come down around our ears."
 
-Elysia winked at Luna. "No worries there. Can't have poor Prof. McGonagall's pretty black hair going grey, now can we?"
+Elysia winked at Luna. "No worries there. Can't have poor Professor McGonagall's pretty black hair going grey, now can we?"
 
 
 
@@ -2323,15 +2323,15 @@ Elysia winked at Luna. "No worries there. Can't have poor Prof. McGonagall's pre
 
 
 
-After breakfast, both Elysia and Luna followed Prof. McGonagall (and her 'pretty black hair,' as always done up in a severe bun) to their Arithmancy qualifier, which was mostly - but not entirely - theory at this level. They broke for lunch, chatting with Hermione about it while Ron eyed them all askance.
+After breakfast, both Elysia and Luna followed Professor McGonagall (and her 'pretty black hair,' as always done up in a severe bun) to their Arithmancy qualifier, which was mostly - but not entirely - theory at this level. They broke for lunch, chatting with Hermione about it while Ron eyed them all askance.
 
 "Still say you're mental, Ellie," he muttered around a mouthful of roast beef.
 
-"Ron, d'you know what you can _do_ with Arithmancy?" Elysia retorted. "I just watched Luna modify Prof. Vector's spell _in flight._ Granted, it was just a paintball spell, and she only changed the color, but _still._ It was one of the coolest things I've ever seen!" She grinned at Luna, who beamed back.
+"Ron, d'you know what you can _do_ with Arithmancy?" Elysia retorted. "I just watched Luna modify Professor Vector's spell _in flight._ Granted, it was just a paintball spell, and she only changed the color, but _still._ It was one of the coolest things I've ever seen!" She grinned at Luna, who beamed back.
 
 "You monkey-patched a spell _in flight,_ Luna?" Hermione squealed. "That's incredible! I've read that's a top-tier dueling technique! It's incredibly tricky."
 
-Luna flushed under the effusive praise. "I suppose it is," she replied. "Prof. Flitwick can do it. It's something my mother was known for, too, back when she was a professional duelist. She was Prof. Flitwick's protégé before she retired to have me and became a spell-crafter."
+Luna flushed under the effusive praise. "I suppose it is," she replied. "Professor Flitwick can do it. It's something my mother was known for, too, back when she was a professional duelist. She was Professor Flitwick's protégé before she retired to have me and became a spell-crafter."
 
 Ron, who thankfully had swallowed his food first, gaped.
 
@@ -2345,7 +2345,7 @@ Ron, who thankfully had swallowed his food first, gaped.
 
 
 
-After lunch was the Runes qualifier, which both girls completed in record time. Prof. Babbling looked like Yule had come early.
+After lunch was the Runes qualifier, which both girls completed in record time. Professor Babbling looked like Yule had come early.
 
 "Between you two and Miss Granger, I might actually get to hold an independent study track this year," she gushed. "It'd be a shame to hold so many brilliant minds back, now that there are enough of you to make a case for it."
 
@@ -2628,7 +2628,7 @@ Hermione, of course, had already picked up the Unlimited Flight spell from her t
 
 "So this is the infamous curse on the DADA position," she murmured.
 
-Hermione nodded. "It's hard to imagine just how much trouble this clever little cluster has caused, isn't it? Even in just the few years I've been at Hogwarts. First year, possessed by Voldemort, dead before the Leaving Feast. Second year, obliviated into the Janus Thickey Ward. Last year, run out of the castle for being a werewolf. It makes one wonder what's in store for Prof. Moody this year, doesn't it?"
+Hermione nodded. "It's hard to imagine just how much trouble this clever little cluster has caused, isn't it? Even in just the few years I've been at Hogwarts. First year, possessed by Voldemort, dead before the Leaving Feast. Second year, obliviated into the Janus Thickey Ward. Last year, run out of the castle for being a werewolf. It makes one wonder what's in store for Professor Moody this year, doesn't it?"
 
 "Nothing good, I'm sure," Luna said. "Even if we _do_ break the curse, I think it's already been set in motion for this year."
 
@@ -2692,7 +2692,7 @@ On a hunch, Elysia asked the Room to highlight any other problems with the wards
 
 Hermione looked over at the whiteboards. "Bollocks."
 
-"So we do the same thing with those as we do for the DADA curse," Luna said. "Maybe we can show them to Prof. Babbling as an extra credit project."
+"So we do the same thing with those as we do for the DADA curse," Luna said. "Maybe we can show them to Professor Babbling as an extra credit project."
 
 "Bill might be able to help too," Ginny added. "He _is_ a curse-breaker, after all."
 
@@ -2762,7 +2762,7 @@ Hermione finally lost her composure completely and dragged them both to breakfas
 
 
 
-Monday morning was full of of harvesting bubotuber pus in Herbology with the Hufflepuffs, and mounting concern over something Hagrid called 'blast-ended skrewts' in Care of Magical Creatures. Prof. Sprout had been forewarned about Elysia's transition, but Hagrid kept looking around for 'Harry' until Elysia came up and reintroduced herself. Elysia and Hermione met up with Luna again at lunch, and then the three of them, accompanied by Neville who was also in the class, headed off to Arithmancy.
+Monday morning was full of of harvesting bubotuber pus in Herbology with the Hufflepuffs, and mounting concern over something Hagrid called 'blast-ended skrewts' in Care of Magical Creatures. Professor Sprout had been forewarned about Elysia's transition, but Hagrid kept looking around for 'Harry' until Elysia came up and reintroduced herself. Elysia and Hermione met up with Luna again at lunch, and then the three of them, accompanied by Neville who was also in the class, headed off to Arithmancy.
 
 Professor Septima Vector was a petite brunette with sharp bob-cut hair and a calculating gaze. She greeted the students with a smile. "This year," she said, "we will begin spell analysis. Some of you," she nodded at the three girls, "have demonstrated a degree of experience with this already. Miss Lovegood, if you would?"
 
@@ -2774,7 +2774,7 @@ A beam of magic, glowing with white light, erupted from her wand, streaming the 
 
 "Alright, Miss Lovegood, show us your stuff! _Lux trabem!_"
 
-Luna, muttering a spell under her breath, flicked her wand in an intricate pattern and the beam split into a rainbow spectrum, lines of glowing white runes intertwined among them. She flicked a few specific places, and swished her wand with a flourish as the beam recohered. It was now a thin, intense rod of actinic blue, and was roughly three feet long. A low hum could be heard as Prof. Vector slowly waved her wand around. 
+Luna, muttering a spell under her breath, flicked her wand in an intricate pattern and the beam split into a rainbow spectrum, lines of glowing white runes intertwined among them. She flicked a few specific places, and swished her wand with a flourish as the beam recohered. It was now a thin, intense rod of actinic blue, and was roughly three feet long. A low hum could be heard as Professor Vector slowly waved her wand around. 
 
 Luna grinned, flourished her wand like a fencer, and intoned, "_ense lucis radium!_" A similar beam of glowing, humming magic, this one tinged with fuchsia sparks, extended from the tip of her own wand. The two crossed the beams as if fencing, and then canceled the spells.
 
@@ -2796,9 +2796,9 @@ Luna smiled as Hermione nodded enthusiastically. "I'd love to!"
 
 
 
-After Arithmancy was Runes, which Prof. Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Daphne Greengrass and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Laura Madley and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna just smirked.
+After Arithmancy was Runes, which Professor Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Daphne Greengrass and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Laura Madley and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna just smirked.
 
-"Well, ladies," Prof. Babbling said with a grin. "Now that it's just the best and brightest this section, we get to jump right into the fun stuff." An enormous Cheshire-cat grin split her face. "Welcome to Curse-Breaking 101."
+"Well, ladies," Professor Babbling said with a grin. "Now that it's just the best and brightest this section, we get to jump right into the fun stuff." An enormous Cheshire-cat grin split her face. "Welcome to Curse-Breaking 101."
 
 The girls all cheered.
 
@@ -2836,23 +2836,66 @@ Finally, Thursday rolled around, and with it the first Defense Against the Dark 
 
 "Constant vigilance!" Janet whispered in the back of Elysia's mind as she approached the classroom.
 
-_Is this going to be another one of those years where the Defense professor tries to kill me?_ Elysia mused. _Lovely._ She set her glasses to active scan as she entered, noting that while Prof. Moody was not visible, there _was_ an indefinable blob of magic in the back corner of the classroom that was identified as a disillusionment charm. She dug in her bag as she took a desk in front for a sandstone marble, quickly carved runes for an area-effect flash-bang stunner on a command-word trigger, then over-charged it.
+_Is this going to be another one of those years where the Defense professor tries to kill me?_ Elysia mused. _Lovely._ She set her glasses to active scan as she entered, noting that while Professor Moody was not visible, there _was_ an indefinable blob of magic in the back corner of the classroom that was identified as a disillusionment charm. She took a desk in front, conjured a sandstone marble, quickly carved runes for an area-effect flash-bang stunner on a command-word trigger, then over-charged it.
 
-The other students made their way in and took their seats, wondering where Prof. Moody was. And then, as the clock ticked over and class began, spellfire came from the corner. Several students screamed, and many fell to stunners. Elysia promptly hit the deck and rolled the marble towards the corner, casting a quick shield, shifting her ears closed, and shutting her eyes. 
+The other students made their way in and took their seats, wondering where Professor Moody was. And then, as the clock ticked over and class began, spellfire came from the corner. Several students screamed, and many fell to stunners. Elysia promptly hit the deck and rolled the marble towards the corner, casting a quick shield, shifting her ears closed, and shutting her eyes. 
 
 "Boom!" She yelled, triggering her make-shift grenade. There was a blinding flash of light, even through her closed eyelids, and she felt the wash of the pressure wave from the explosion. A crimson wave of stunning magic followed, crackling against her shield as she stood, unsealing her ears and opening her eyes.
 
-The entire class was lying on the floor, stunned, as was the disillusioned lump in the corner. Elysia _reenervated_ Hermione, Ron, and Neville, asking them to revive the rest. She made her way to the corner, casting a quick _finite_ to reveal the still-stunned Prof. Moody. 
+The entire class was lying on the floor, stunned, as was the disillusioned lump in the corner. Elysia _reenervated_ Hermione, Ron, and Neville, asking them to revive the rest. She made her way to the corner, casting a quick _finite_ to reveal the still-stunned Professor Moody. 
 
 "What have we here?" She mused aloud. A quick search-and-seizure revealed the professor's wand, two spares, an enchanted flask, a couple of non-descript portkeys, and a collapsible metal baton, all of which she promptly confiscated. She then levitated the erstwhile professor to a chair, bound him with _incarcerous,_ and threw in a _petrificus totalis_ for good measure.
 
-"Someone fetch Prof. McGonagall, please," she called behind her.
+"Someone fetch Professor McGonagall, please," she called behind her.
 
 "I'll go, Ellie," Neville said, suiting action to words.
 
 "Everybody okay?" Elysia asked, as Neville exited stage left.
 
-"I think so, Ellie," Hermione responded. "What happened? The last thing I remember was you yelling 'boom' and everything went white."
+"I think so," Hermione responded. "Ellie, what happened? The last thing I remember was you yelling 'boom' and everything went white."
 
 Elysia knelt and picked up her sandstone marble, which promptly disintegrated into a handful of sand as she stood. "A little something I found in a curse-breaking adventure story - a flash-bang stunner. After the twins constantly repeating 'constant vigilance' their first Defense class, I figured something was up. And there's not a whole lot who can block an area stunner after a flash-bang breaks their focus."
 
+"How'd you carve one so fast?" Hermione demanded.
+
+"Who says I did?" Elysia said, winking. Over legilimency, she added, _I shifted my palm into a mirror-image etching plate of the runes and pressed them into place._
+
+Hermione nodded in understanding. 
+
+Neville returned with Professor McGonagall, who was looking as stern as ever.
+
+"Miss Potter," she said, "why, perchance, do you have Professor Moody unconscious and tied up at wand-point?"
+
+"Because he attacked us, Professor," she answered sedately.
+
+"What?" Professor McGonagall gasped.
+
+"It's true, Professor," Hermione chimed in. "He was disillusioned at the back of the classroom, and when class started he began firing stunners at us until Elysia stunned him."
+
+Professor McGonagall pinched the bridge of her nose. "Really, Albus?" She muttered under her breath. "_Reenervate,_" she intoned, rousing Professor Moody, who, still under the body-bind, could only blink. "Miss Potter?" She queried. "What _else_ did you do to him?"
+
+"Aside from the stunner and the _incarcerous?_" She replied innocently. "Just a simple body-bind. Better safe than sorry, right, Professor?"
+
+Professor McGonagall waved her wand again, and as the body-bind lifted Moody roared with laughter. "Well done, Miss... Potter, was it?"
+
+Elysia nodded.
+
+"Any relation to the illustrious Boy-Who-Lived?"
+
+Elysia's eyes narrowed as she lied through her teeth. "I'm from New Zealand. D'you have any idea how common the surname 'Potter' is in the mundane world?"
+
+Moody shrugged. "Fair enough, lass."
+
+"Alastor," Professor McGonagall cut in. "What have I told you about casting spells at students?"
+
+"That it's not an appropriate teaching method," Moody replied. "But they've got to know what's out there. They've got to be ready. CONSTANT VIGILANCE!" He suddenly shouted, making everyone jump. "And Albus agrees. Besides," he added with a grin at Elysia, "Miss Potter here got the jump on me. Twenty points, lass. What was that, anyway?"
+
+"A wide-area stunner," Elysia shrugged.
+
+"'Boom' isn't the incantation for any stunner _I_ know of, lass," Moody said.
+
+"Who said that was the incantation?" Elysia smirked. "If I yell 'boom,' are you going to hear me mutter _stupefacio locus_ right after?"
+
+Hermione snorted.
+
+"Another five points, Miss Potter, that's clever thinking. Now let me up so we can get on with the lesson."
