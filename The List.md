@@ -2838,7 +2838,45 @@ The next morning, Elysia and Hermione came downstairs for their morning run to f
 
 They all trooped out to the shore of the lake, where Elysia led them in a quick warm-up, and then off they jogged for a lap around the lake.
 
-{ TODO: Luna visits the trunk }
+Afterwards, Elysia led them up to the Gryffindor fifth-year girls' dorm and down into her trunk. Luna's eyes grew as wide as Hermione's had when she'd first visited, and Elysia made sure to leave the locus room for last again.
+
+"Ellie, this is amazing!" Luna gushed, flitting around the room and examining the rune-work.
+
+"Thanks," Elysia said. "It's my grandmother's work. The modular locus pedestal was her last big breakthrough before she passed, according to her journals. I got to check out my grandparents' old farm over the summer, and there's an entire building built like this there."
+
+"Elysia carved the control stone here," Hermione added.
+
+Luna's eyes narrowed and she stared at Elysia. "These runes are well beyond intro material. There's something _off_ about you, Ellie. What are you hiding?"
+
+Elysia locked eyes with Hermione for a moment. _I know it's only been a week or so, but I want to tell her everything. What do you think?_
+
+Hermione wrinkled her nose. _I say do it. I like her, we both do, and I want her to trust you like I do._
+
+_Do I detect a bit of a crush, Miss Granger?_
+
+_Prat. Like you don't?_
+
+Elysia mentally stuck her tongue out. Hermione responded in kind.
+
+"Luna," Elysia said finally, "let's go to the training room and I'll explain everything."
+
+"Alright," Luna said, leading the way.
+
+They settled into comfortable positions on the mat.
+
+"You're not a time traveler or something, are you?" Luna asked, cocking one eyebrow.
+
+"Not exactly?" Elysia said. "How's your mind magic?"
+
+"Developed, why?" Luna said, making Hermione's jaw drop.
+
+"Wait, what? You know occlumency already?" Hermione gasped.
+
+"Enough. A bit of legilimency too," Luna said. "Mum taught me a bit when my magic first started to show; it's useful for dueling, so she was quite good at it."
+
+"It is, at that," Elysia agreed. "But fully-developed mind magic is more than just occlumency and legilimency.  Everyone join hands, and Luna, cast legilimency on me."
+
+"Alright," Luna agreed. "But this better lead to some answers!"
 
 
 
@@ -2846,7 +2884,39 @@ They all trooped out to the shore of the lake, where Elysia led them in a quick 
 
 
 
-Classes proceeded more or less uneventfully. Potions was much better now that she and Snape were on better terms; even Neville seemed to be having an easier time of things. Arithmancy was fascinating, especially with both Hermione and Luna there with her. Runes, or 'Curse-Breaking 101,' as they all called it now, was rapidly becoming all three girls' favorite class, with Hermione in particular taking to it like she was born for it.
+The three of them appeared in Elysium's sunken living area, sharing one of the squashy sofas and still holding hands. Luna looked around with interest.
+
+"You've certainly got some nice houses, Elysia," she said. "Where are we?"
+
+"Welcome to Elysium, my mindscape," Elysia said. "It's a replica of my residence in the after-life."
+
+Luna cocked an eyebrow.
+
+"Long story short," Elysia continued, "I've apparently died a bunch of times, but kept getting sent back to try again because Destiny or something. Anyway, this last time around, Eleanor was there instead of some guy named Michael, who's apparently the usual person in charge of my neighborhood of the afterlife, and Eleanor decided that, since I wasn't allowed to remember my past lives, we'd just have to cheat and stuff a bunch of knowledge and training into my subconscious from the afterlife instead. Hey, Janet?"
+
+"Hi, I'm Janet!" Janet said, suddenly appearing in one of the chairs across from the three girls. Luna jumped.
+
+"Janet's the personification of all knowledge in the universe," Elysia confided. "Or at least, the real Janet is. This one's the personification of the knowledge in my head."
+
+"Close enough," Janet said brightly.
+
+"Anyway, I don't get to remember the afterlife so much, as it turns out. Just the knowledge and training parts, and to pull them into my consciousness there's a library that unlocks them."
+
+"A library?" Luna squealed, making Hermione giggle. "Can we see it? Can I read some of the books?"
+
+Elysia grinned. "You and Hermione, I swear. She reacted almost exactly the same way when I first brought her here last weekend. Come on, then. Don't overdo it, or you'll be bored silly with Hogwarts classes, but Janet put together a good list."
+
+The girls dove in, with Luna devouring the same reading list as Hermione, and Hermione finishing the list off except for the books on Metamorphmagi and Shifting, which neither girl could make use of without already having latent metamorphmagus abilities already.
+
+Elysia relaxed with some stories about curse-breaking expeditions, as she was still excited about their 'Curse-Breaking 101' class the day before. When they were done, they all adjourned to the trunk's training room to continue their workout.
+
+
+
++++++
+
+
+
+Rapidly-growing friendship between the girls aside, classes proceeded more or less uneventfully. Potions was much better now that she and Snape were on better terms; even Neville seemed to be having an easier time of things. Arithmancy was fascinating, especially with both Hermione and Luna there with her. Runes, or 'Curse-Breaking 101,' as they all called it now, was rapidly becoming all three girls' favorite class, with Hermione in particular taking to it like she was born for it.
 
 Finally, Thursday rolled around, and with it the first Defense Against the Dark Arts class of the year.
 

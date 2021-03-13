@@ -76,4 +76,5 @@ return
 
 :R:+lgl::legilimency
 :R:+fbs::flash-bang stunner
-:R:hhg::Gryffindor
+:R:@hhg::Gryffindor
+:R:+ely::Elysium
