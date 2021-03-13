@@ -325,6 +325,9 @@ What it says on the tin.
 - [x] Find and read Elysia's Combat Style: Stage 3
 - [x] Test into Runes and Arithmancy
 - [x] Find and read Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
+- [x] Read up on Canada and get the story straight
+- [x] Find and read Ruling the Dance Floor
+- [x] Find and read Magician, Heal Thyself
 
 #### To Do
 
@@ -333,10 +336,9 @@ What it says on the tin.
 - [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
 - [ ] Leverage being roped into the Tournament to become emancipated
 - [ ] Take over the affairs of House Potter
-- [ ] Find and read Magician, Heal Thyself
-- [ ] Find and read Curse-Breaking For Fun and Profit
 - [ ] Find and read Battle Magic For Bad Bitches
-- [ ] Find and read Magica Obscura: Shadow Magic, Necromancy, And Other Arts The Ministry Doesn't Want You To Know
+- [ ] Find and read Magica Obscura: Shadow Magic, Necromancy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
+- [ ] Find and read Curse-Breaking For Fun and Profit
 - [ ] Find and read Elysia's Combat Style: Stage 4
 - [ ] Find and read The Horcrux-Hunting Handbook
   - [ ] Seek & Destroy the horcrux in Slytherin's Locket

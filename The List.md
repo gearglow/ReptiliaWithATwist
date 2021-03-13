@@ -3002,4 +3002,85 @@ Ron just stalked away, grumbling.
 
 
 
++++++
+
+
+
+After her spur-of-the-moment lie to Moody, Elysia decided she should shore up her story just in case. So that weekend she dropped into her library in Elysium to do some reading.
+
+> To Do:
+>
+> - [x] Read up on Canada and get the story straight
+> - [x] Find and read Magician, Heal Thyself
+> - [x] Find and read Ruling the Dance Floor
+
+In the end, she decided that her cover identity was from Edmonton, Alberta, Canada, born to a pair of Muggle-born curse-breakers named David and Amelíe, and home-schooled once she was old enough to accompany her parents on expeditions. As luck would have it, snowy owls (ie. Hedwig) just so happened to be native to that area. She'd just have to avoid calling her familiar by name for awhile.
+
+Given how intense DADA had been so far this year, she also decided to learn some healing magic. Even though she could shift most of her own injuries away, there was always a chance something could get through. Not to mention, this way she could take care of her friends.
+
+And finally, since Hermione's birthday party was fast approaching, she decided it was high time she learned to dance. She wiggled happily in her seat in anticipation.
+
+
+
++++++
+
+
+
+Later that day, Elysia was leaving the loo to rejoin Luna and Hermione in the library when a voice called out, "Harry! A word, please!" She ignored it and kept walking, but the voice called out again, "Mr. Potter! A word, if you please!" She recognized that voice. It was Dumbledore. And the irritating old goat was dead-naming her! Not even breaking stride, she continued ignoring him.
+
+Then a hand on her shoulder stopped her and spun her around to face the headmaster. "Harry! I'm talking to you!"
+
+"You must have me confused for someone else, sir," Elysia said stiffly. "My name is _Elysia,_ not Harry. Nor am I a 'mister.'"
+
+"Come now, Harry," Dumbledore said, eyes twinkling in such a way that Elysia was tempted to lock eyes and shift in a basilisk stare. "We both no there are no other Potters."
+
+Elysia's glare sharpened to a knife-edge. "You are mistaken, _sir,_" she bit out. "I'm from _Canada._ There are _tons_ of Potters out there, especially in the mundane world. I'd've expected the Supreme Mugwump of the ICW, of all people, to know that. And _furthermore,_ do I _look_ like your silly little Golden Boy? Last I heard, _he_ had green eyes and a great big scar on his forehead. I have neither. Not to mention, _I'm a girl._"
+
+"Glamour charms," Dumbledore said dismissively.
+
+"Go ahead then," Elysia challenged, eyes blazing. "_Finite_ them, if you're so certain."
+
+Dumbledore drew his wand and waved it, intoning a firm, "_finite incantatem,_" and was utterly perplexed when nothing happened.
+
+"Satisfied?" Elysia growled. "Good. Now if you'll excuse me, I have a letter to write to my parents. If this is how you treat your students, then I might just go back to home-schooling, no matter how boring mom and dad's expedition is."
+
+She spun on her heels and stalked off, leaving a bewildered Dumbledore in her wake.
+
+
+
 ## Chapter 12:
+
+The rest of September was marked by two events in particular. The first was that, a week after Professor Moody demonstrated all three Unforgivables, he informed them that Headmaster Dumbledore had granted permission for them all to be put under the Imperius curse, "so you can know what it feels like," Moody said. He'd then had them all line up, and, one by one, made them do absurd and impossible things. Neville, for instance, had performed a flawless double backflip off of Moody's desk.
+
+When it was Elysia's turn, Moody waved his wand and a feeling like floating in the _best bubble bath ever_ drifted over her mind for a moment, before fading away like morning fog.
+
+"Jump on the desk," Moody commanded.
+
+"Weren't you supposed to cast the spell first, Professor?" She responded, cocking one eyebrow.
+
+"What? But I- _Imperio!_" He cast again.
+
+The floating feeling swept over her again, disappearing just as quickly.
+
+"Jump on the desk."
+
+"Is there something wrong with your wand, Professor?" Elysia asked, feigning confusion.
+
+"Let's find out, shall we, lass? Mr. Thomas! Front and center!"
+
+Dean came up to the front of the class, whereupon Professor Moody made him pirouette _en pointe_ like a ballerina.
+
+"Huh. Guess it's not the wand," Elysia observed, trying not to smirk.
+
+"So it seems," Moody agreed. "Well done, lass! Ten points to Gryffindor."
+
+
+
++++++
+
+
+
+The second event of September was a Monday, which meant an afternoon of 'Curse-Breaking 101.' This suited Hermione very nicely, as it was the 19th, and therefore her 15th birthday.
+
+After dinner and a quick stop in their common rooms to drop off their school stuff and change, and still riding the high from their favorite class, Elysia and Hermione met all their friends in the entrance hall -- the curse-breaker girls, the Weasleys, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them.
+
