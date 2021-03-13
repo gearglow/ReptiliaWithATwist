@@ -2882,7 +2882,7 @@ Elysia nodded.
 
 "Any relation to the illustrious Boy-Who-Lived?"
 
-Elysia's eyes narrowed as she lied through her teeth. "I'm from New Zealand. D'you have any idea how common the surname 'Potter' is in the mundane world?"
+Elysia's hazel eyes narrowed as she lied through her teeth. "I'm from Canada. D'you have any idea how common the surname 'Potter' is in the mundane world?"
 
 Moody shrugged. "Fair enough, lass."
 
@@ -2912,3 +2912,94 @@ Professor McGonagall decided to stay and observe the class. Once the students ha
 
 "Now then," Moody said, "you lot have had quite the dog's breakfast for instruction in this class, and I've only got the one year to fix what I can. As such," he growled, "best start thinking of this class as Junior Auror boot camp. The headmaster has given me quite a bit of leeway in order to bring you all up to scratch, and that includes showing you some of what a dark wizard is capable of. Which brings us to today's lesson: the Unforgivable Curses."
 
+Professor McGonagall narrowed her eyes.
+
+"Who can tell me the name of one of these curses?" Moody continued.
+
+Ron raised his hand, Hermione's silencing spell long since dispelled. "The Imperius?"
+
+Moody nodded at him. "Aye, that'd be one. Five points. Weasley, right? Your da would know all about that one, lad. Gave the Ministry no end of trouble during the war." He stunned a spider from the jar, laying it on his desk. "Needs to be a bit bigger so you lot can all see. _Engorgio!_"
+
+The spider grey to the size of a small dog, causing Ron to whimper.
+
+"The Imperius curse allows the caster to completely control the target," Moody lectured. "Like so. _Imperio!_"
+
+There was no visible glow of spellfire. There was no visible indication at all, until the spider began to tap-dance around the desk. Many of the class laughed at its antics, until Moody continued.
+
+"Think it's funny, do you? What if I made it bite one of you?" He glowered. "Imagine this cast on your mother. I could make her kill her entire family and then herself. I could make her wander into the Ministry and assassinate people. I could make her wander out into Muggle London and blow the Statute of Secrecy wide open." The class sobered immediately.
+
+"I think you lot get the idea," Moody said. "Anyone else thought of another yet?"
+
+Neville raised a hand.
+
+"You'd be Longbottom?"
+
+Neville nodded.
+
+"Go ahead, lad."
+
+"Th-the Cruciatus curse," Neville stuttered.
+
+Moody's mundane eye softened. "Brave lad, bringing that one up. Pain beyond the tolerance of the mortal mind. Five points to you. Brace yourselves, class. _Crucio!_"
+
+An angry blood-red beam flew from his wand. The spider rolled onto its back atop the desk, all eight legs flailing in a grotesque mockery of its earlier dance. A high keening could be heard, which was surprising -- Elysia hadn't thought spiders _could_ scream.
+
+Elysia glanced at Neville as Moody let up on the curse, and saw tears streaking his face. She reached over and squeezed his hand consolingly.
+
+"Sorry, lad," Moody said. "But you've got to know. Now, one left. Anyone? Miss Granger?"
+
+Hermione put her hand down and said quietly, "the killing curse."
+
+"Aye, lass. Five points. The killing curse means instant death. Only one person has ever survived it, so the rumor goes. Personally, I think that's rubbish and something else happened that Samhain night, but good luck convincing Albus of anything once he's made his mind up. Anyway. _Avada kedavra!_"
+
+A sickly green bolt of spellfire hit the spider, which curled up dead. Elysia felt as if a great, intangible _something_ had passed before her, and the weight of it chilled her to the core.
+
+"Now," Moody said, breaking the shaken reverie of the students. "Who can tell me _why_ these spells are considered Unforgivable? You can kill someone with a simple cutting curse, cause pain with a well-placed hemorrhoid hex, and control someone with judicious use of Confundus charms. What makes these three so special?"
+
+"'Cuz using one's a one-way ticket to Azkaban," Seamus volunteered.
+
+"Wrong, lad," Moody retorted. "You've got your cause and effect backwards. And for the record, it's only illegal to cast them on _humans._ Spiders, for instance, are fair game."
+
+"Because you have to _mean_ them," Elysia said.
+
+"There, that's it!" Moody enthused. "Five more points, Miss Potter. You have to mean them. I'd wager any one of you lot could throw a killing curse at me right now and I wouldn't get so much as a nosebleed. To properly cast the Unforgivables, you have to _want_ to destroy someone, with all your will. Some argue that there may be benevolent uses for these curses -- mercy killings, teaching muscle memory via Imperius, restarting a stalled heart via Cruciatus. Rubbish, I say. Not with the emotions that power them."
+
+"You must hate spiders even more than Ron does," Seamus joked weakly. Dean reached over and smacked him upside the head.
+
+"Back during the war," Moody continued, ignoring Seamus' outburst, "the Ministry granted special dispensation for aurors to cast the Unforgivables. Why was this a bad idea?"
+
+Hermione raised her hand. "Because the kind of people who can effectively use the Unforgivables make for questionable officers of the law, at best."
+
+"Dead on, Miss Granger, take five more points. The auror corps was desperate back then, but even so. There was a marked decline after the war in the quality of auror you saw in the corps. 'Course, that could've just been down to my retiring," he joked.
+
+Professor McGonagall snorted, reminding them all of her presence.
+
+"Thank you, Alastor, for that enlightening lesson," she said. "I believe I shall take my leave."
+
+
+
++++++
+
+
+
+After class, Moody led a still-shaken Neville to his office with promises of a book on exotic plants to help soothe his nerves. The others headed back to the Great Hall for dinner.
+
+"Why'd you lie earlier, Ellie?" Ron asked.
+
+Elysia shot him a look and quickly cast a privacy paling around them. "You mean about being from Canada?" Ron nodded. "Same reason I changed my eye color. I'm bloody sick of being singled out over that bloody 'Boy-Who-Lived' shite."
+
+"Girl-Who-Lived now, I reckon," Ron said.
+
+"Whatever," Elysia retorted. "And besides, every DADA professor so far has tried to kill me. Even Professor Lupin last year, when he forgot his Wolfsbane. I just plain don't trust Moody. And why would _you?_ Didn't he turn you into a weasel?"
+
+Hermione giggled.
+
+Ron glared. "I'm never going to live that down, am I?"
+
+Elysia and Hermione locked eyes, looked back at Ron, and shook their heads, grinning.
+
+Ron just stalked away, grumbling.
+
+
+
+## Chapter 12:

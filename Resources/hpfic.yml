@@ -1,0 +1,31 @@
+name: hpfic
+parent: default
+
+matches:
+  - trigger: "@mcg"
+    replace: McGonagall
+  - trigger: "@uv"
+    replace: Uncle Vernon
+  - trigger: "@ad"
+    replace: Albus Percival Wulfric Brian Dumbledore
+  - trigger: "@foe"
+    replace: Furies of Elysium
+  - trigger: "@ykw"
+    replace: You-Know-Who
+  - trigger: "@nbn"
+    replace: He-Who-Must-Not-Be-Named
+  - trigger: "@bwl"
+    replace: Boy-Who-Lived
+  - trigger: "@gwl"
+    replace: Girl-Who-Lived
+  - trigger: "@prof"
+    replace: Professor
+  - trigger: "+ic"
+    replace: invisibility cloak
+  - trigger: "+sch"
+    replace: runic schema
+  - trigger: "+lgl"
+    replace: legilimency
+  - trigger: "+fbs"
+    replace: flash-bang stunner
+    
