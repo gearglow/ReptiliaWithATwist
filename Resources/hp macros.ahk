@@ -78,3 +78,4 @@ return
 :R:+fbs::flash-bang stunner
 :R:@hhg::Gryffindor
 :R:+ely::Elysium
+:R:+occ::occlumency

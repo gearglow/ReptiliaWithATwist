@@ -231,6 +231,12 @@ Frenemies-with-benefits (dating?) with Ron?
 - Lightning blade: _fulmineum_ (Latin) or _tximista pala_ (Basque).
 - Wide-area stunner: _stupefacio locus_ (Latin).
 - Stun bolt: _txundituta_ (Basque).
+- Fire bolt: _fulmen ignem_ (Latin).
+- Ice blade: _izotz pala_ (Basque).
+- Ice spear: _बरफ_ (_barapha,_ Nepali).
+- Shield wall: _scutum murum_ (Latin).
+- Phoenix fire: _fenix sua_ (Basque).
+- Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_, Khmer).
 
 ## Magic Technicalities
 
@@ -366,14 +372,14 @@ What it says on the tin.
 > - [x] Magical Mastery: Wandless Magic
 > - [x] Magical Mastery: Illusions and Glamours
 > - [x] Magical Mastery: Runes, Wards, and Enchanting
-> - [ ] Magical Mastery: Bonds
-> - [ ] Magical Mastery: Blood Magic
-> - [ ] Magical Mastery: Rituals
-> - [ ] Magical Mastery: Soul Magic
+> - [x] Magical Mastery: Bonds
+> - [x] Magical Mastery: Blood Magic
+> - [x] Magical Mastery: Rituals
+> - [x] Magical Mastery: Soul Magic
 > - [x] Martial Mastery: Tai Chi Chuan
-> - [ ] Martial Mastery: Seven Star Praying Mantis
-> - [ ] Martial Mastery: Xing Yi Chuan
-> - [ ] Martial Mastery: Ba Gua Chuan
+> - [x] Martial Mastery: Seven Star Praying Mantis
+> - [x] Martial Mastery: Xing Yi Chuan
+> - [x] Martial Mastery: Ba Gua Chuan
 > - [x] Martial Mastery: Systema
 > - [x] Martial Mastery: Aikijutsu
 > - [x] Freedom Of Form: A Note on Morphogenesis
