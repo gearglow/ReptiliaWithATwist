@@ -1760,7 +1760,7 @@ Hermione couldn't keep the smirk from her face. "It kind of says, 'I don't care 
 
 Elysia raised an eyebrow at her, grinning. "Oh *really?*"
 
-Hermione blushed the brightest of them all.
+Hermione, despite her caramel complexion,  blushed the brightest of them all.
 
 > To Do
 >
@@ -1776,7 +1776,9 @@ Elysia wrote Professor McGonagall (and Sirius, while she was at it) as soon as d
 
 > Ms. Potter,
 >
-> Thank you for informing me of this change. I'll update your file and accommodations accordingly. Will you be undergoing the transition ritual at St. Mungo's before term starts?
+> Thank you for informing me of this change. I'll update your file and accommodations accordingly. And yes, I'll avoid mentioning it to the headmaster. He does so get worked up over you to excess, and this is certainly none of his business.
+>
+>Will you be undergoing the transition ritual at St. Mungo's before term starts?
 >
 >  -- Professor Minerva McGonagall
 >   Deputy Headmistress
@@ -1784,7 +1786,7 @@ Elysia wrote Professor McGonagall (and Sirius, while she was at it) as soon as d
 
 "There's a ritual for that?" Hermione asked.
 
-"Apparently," Elysia said. "I'll just tell her yes. No need to tip my hand about the shifting just yet, though I think I might change my eyes to mess with people a bit. D'you think I should change my hair, though?"
+"Apparently," Elysia said. "I'll just tell her yes. No need to tip my hand about the shifting just yet, though I think I might change my eyes to mess with people a bit. D'you think I should change my hair?"
 
 "How do you mean?" Hermione asked.
 
@@ -1809,7 +1811,7 @@ Despite Mr. Weasley being called into work for an emergency that morning, they s
 
 Finally, they came to one with only a single occupant: a girl with long, pale blonde hair and wide blue eyes, wearing Ravenclaw robes, who was reading a magazine upside-down.
 
-"Hello, Luna," Ginny said, opening the door. "May we join you?"
+"Hullo, Luna," Ginny said, opening the door. "May we join you?"
 
 Luna looked up from the magazine she was reading. "Certainly," she replied in a dreamy voice.
 
@@ -1825,7 +1827,7 @@ Luna smiled absently. "The Quibbler. My father runs it."
 
 "So *that's* why it's upside-down," Hermione muttered under her breath.
 
-"Yes," Luna said airily. Hermione looked abashed at being overheard. "Mother was a spell-crafter before she died, and she taught me Runes and Arithmancy ever since I was old enough to remember. Daddy runs the rune puzzles as a sort of memorial to her."
+"Yes," Luna said airily. Hermione looked abashed at being overheard. "Mother was a spell-crafter before she died, and she'd taught me Runes and Arithmancy ever since I was old enough to remember. Daddy runs the rune puzzles as a sort of memorial to her."
 
 "I'm starting those subjects this year," Elysia said. "Professor McGonagall let me test into the 4^th^-year classes."
 
@@ -1857,7 +1859,7 @@ A ride on the Hogwarts Express wasn't complete without Draco Malfoy stopping by 
 
 "Potter!" He blustered, banging open the door to their compartment. "Um..."
 
-Elysia stood, and prowled to the door. Draco gulped.
+Elysia stood, and stalked to the door. Draco gulped.
 
 "Hello, *Draco,*" She growled. She ran a finger across his jaw, channeling a Jelly-Legs Jinx. He flushed as his knees gave out and he tumbled out into the hallway, knocking over Crabbe and Goyle. Elysia smirked, slammed the door shut, and locked it with several locking charms. "Goodbye, Draco!"
 
@@ -1869,7 +1871,7 @@ As she retook her seat, the compartment exploded in laughter.
 
 
 
-The rest of the trip passed uneventfully, though pleasantly. Elysia's newfound confidence helped draw out the normally-shy Neville, and Luna found much in the way of common ground with both Elysia and Hermione. Her tendency to talk about creatures nobody else could see, or believed existed, notwithstanding, she easily kept pace with the two older girls intellectually.
+The rest of the trip passed uneventfully, though pleasantly. Elysia's new-found confidence helped draw out the normally-shy Neville, and Luna found much in the way of common ground with both Elysia and Hermione. Her tendency to talk about creatures nobody else could see, or believed existed, notwithstanding, she easily kept pace with the two older girls intellectually.
 
 Finally, they arrived at Hogsmeade Station and disembarked, with a wave to Hagrid which made the large man do a double-take. As the six of them approached the horseless carriages, Luna made a detour to the front of one, tugging Hermione's hand.
 
