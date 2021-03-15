@@ -3141,6 +3141,24 @@ She spun on her heels and stalked off, leaving a bewildered Dumbledore in her wa
 
 ## Chapter 12:
 
+After her encounter with Dumbledore, a fuming Elysia immediately sought out her Head of House.
+
+"What's got you so furious, Miss Potter?" Professor McGonagall asked.
+
+"That -- that sanctimonious old _goat_ just deadnamed me!" Elysia growled. She then told Professor McGonagall all about how the headmaster had accosted her in the halls, and how she'd responded. "Muggle make-up and colored contacts, of course," she lied -- this particular lie was second-nature by now; she'd have to practice actually shifting or conjuring those surreptitiously, just in case -- "but the _nerve_ of that man! I've half a mind to fake my own death at this rate!"
+
+Professor McGonagall's nostrils flared. "I quite agree, Miss Potter," she said. "Albus has always been prone to taking far more liberties than he ought, where you're concerned. Why, just look at how he left you with those horrible relatives of yours! Faking one's death is rather a drastic measure, but I do believe I can do something about your school records, at least." She sighed. "I hate to resort to gas-lighting, I really do, but he's clearly not about to listen to reason."
+
+"Thank you, professor," Elysia said. "And I am sorry to have dragged you into such a prickly situation, but I just didn't know who else to turn to."
+
+"Don't you worry about that, Miss Potter," Professor McGonagall admonished. "I'm your Head of House. You're _supposed_ to be able to come to me with your troubles."
+
+
+
++++++
+
+
+
 The rest of September was marked by two events in particular. The first was that, a week after Professor Moody demonstrated all three Unforgivables, he informed them that Headmaster Dumbledore had granted permission for them all to be put under the Imperius curse, "so you can know what it feels like," Moody said. He'd then had them all line up, and, one by one, made them do absurd and impossible things. Neville, for instance, had performed a flawless double back-flip off of Moody's desk.
 
 When it was Elysia's turn, Moody waved his wand and a feeling like floating in the _best bubble bath ever_ drifted over her mind for a moment, before fading away like morning fog.
