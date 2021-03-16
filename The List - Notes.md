@@ -237,6 +237,7 @@ Frenemies-with-benefits (dating?) with Ron?
 - Shield wall: _scutum murum_ (Latin).
 - Phoenix fire: _fenix sua_ (Basque).
 - Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_, Khmer).
+- Instant Orgasm: дур тавих (_dur tavikh,_ Mongolian).
 
 ## Magic Technicalities
 

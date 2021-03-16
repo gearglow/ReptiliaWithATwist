@@ -79,3 +79,6 @@ return
 :R:@hhg::Gryffindor
 :R:+ely::Elysium
 :R:+occ::occlumency
+:R:+hhr::Ravenclaw
+:R:+hhs::Slytherin
+:R:+hhh::Hufflepuff
