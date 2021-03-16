@@ -3189,7 +3189,31 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 
 
-The second marked event of September was a Monday, which meant an afternoon of 'Curse-Breaking 101.' This suited Hermione very nicely, as it was the 19th, and therefore her 15th birthday.
+The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the curse-breaker 101 girls, the Weasleys, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
 
-After dinner and a quick stop in their common rooms to drop off their school stuff and change, and still riding the high from their favorite class, Elysia and Hermione met all their friends in the entrance hall -- the curse-breaker girls, the Weasleys, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them.
+They all trooped up to the Room of Requirement, which Robbie had commandeered earlier. He was waiting for them in a twenty-something version of his human form, flopped on a sofa in what looked for all the world like a basement game room in a large muggle home. There were several table games -- ping-pong, foosball, billiards -- and a wet-bar along one wall covered in food and drinks. Another corner had a few arcade cabinets and a pinball table (titled, appropriately enough, _Pinball Wizard_). Along the back were more sofas, over-sized bean-bags, floor pillows, and a big-screen TV and VCR. There was a stereo behind the bar, and enough room to dance, errant billiard cues aside.
+
+"Morgana!" Hermione gasped. "Is that _pepperoni pizza?_ Robbie, you've outdone yourself!"
+
+"I also picked up a few movies," Robbie said, hopping up off the sofa. "_The Princess Bride, Star Wars, Raiders of the Lost Ark, Superman, Aladdin, The Goonies,_ a few Monty Python flicks..."
+
+Hermione squealed, and bounded over to hug Robbie.
+
+_Why the older look, bro?_ Elysia asked over their bond.
+
+Robbie smirked. _Makes it more awkward for any of your friends to hit on me,_ he replied.
+
+_Oh right, good point. Sometimes I forget straight girls exist._
+
+_Or the boys, though aside from Ickle Ronnikins, bi disaster, I don't think it'd matter._
+
+Elysia snorted at that.
+
+_Besides,_ Robbie finished, _this way you can claim adult supervision._ "Alright, you lot," Robbie called out loud. "Presents first, then I'll show you pure-bloods what video games are."
+
+
+
++++++
+
+
 

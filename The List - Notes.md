@@ -24,7 +24,7 @@
 
 - Unbreakable Vows and Oaths cannot be sworn under duress. They can only be sworn freely and in full knowledge.
 
-- Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
+- [x] Technology and magic don't mix? Only according to *Hogwarts: A History,* which is known to be fallible to begin with. There are plenty of examples *in canon* where they *do* mix -- cars and motorbikes, in particular. Hogwarts has archaic wards to protect from lightning strikes (which predate any kind of intentional use of electricity), and they interfere with electronics, and wizards, being fucking morons, didn't put two and two together. The wards also interfere with lightning spells.
 
 - Elysia gets a computer (laptop - [ThinkPad 755CD](https://www.thinkwiki.org/wiki/Category:755CD), palmtop - [Dauphin DTR-1](http://www.oldcomputers.net/dauphin-dtr-1.html), or desktop - (RISC PC?)) after gaining majority to help keep herself organized. Or maybe this one's better for Elysiad instead of this story.
 
@@ -32,9 +32,9 @@
 
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
-- "Look! Up in the sky!" Lee Jordan yelled. "It's a bird!" Shouted Parvati. "It's a plane!" Colin Creevey shouted. "It's Beauxbatons!" Nell cried. Elysia and Hermione looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
+- "Look! Up in the sky!" Nell yelled. "It's a bird!" Shouted Parvati. "It's a plane!" Colin Creevey called. "It's Beauxbatons!" Lee Jordan announced. Elysia and Hermione looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
 
-- Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap | shadow striding } to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.
+- ~~Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap | shadow striding } to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.~~
 
 - CAST: Computer-Aided Spellcrafting and Thaumaturgy. Useful for virtual prototyping of spells and schema. (This needs to be in Elysiad, too.)
 
@@ -238,6 +238,7 @@ Frenemies-with-benefits (dating?) with Ron?
 - Phoenix fire: _fenix sua_ (Basque).
 - Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_, Khmer).
 - Instant Orgasm: дур тавих (_dur tavikh,_ Mongolian).
+- Full-sensory illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_ Nepali).
 
 ## Magic Technicalities
 
