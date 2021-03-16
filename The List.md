@@ -3191,6 +3191,16 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the curse-breaker 101 girls, the Weasleys, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
 
+They were all dressed casually for the day. Elysia had on a houndstooth sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
+
+Luna was in an airy floral-pattern dress with a pale blue cardigan, which had Elysia stealing a few glances herself. Hermione was the only one not wearing a dress; she'd donned figure-hugging jeans and a gauzy white blouse over a lime-green cami, which set off her darker complexion and kept causing the other girls to almost walk into things.
+
+"Damn, Potter, you femme up nice for a butch," Millicent Bulstrode said as they arrived.
+
+"Thanks, Millie," Elysia said, giving her friend a once-over. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on, and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
+
+"Hey there, Heart-Breaker," Parvati greeted her. "Save it for the party. Hullo, Hermione, and happy birthday!"
+
 They all trooped up to the Room of Requirement, which Robbie had commandeered earlier. He was waiting for them in a twenty-something version of his human form, flopped on a sofa in what looked for all the world like a basement game room in a large muggle home. There were several table games -- ping-pong, foosball, billiards -- and a wet-bar along one wall covered in food and drinks. Another corner had a few arcade cabinets and a pinball table (titled, appropriately enough, _Pinball Wizard_). Along the back were more sofas, over-sized bean-bags, floor pillows, and a big-screen TV and VCR. There was a stereo behind the bar, and enough room to dance, errant billiard cues aside.
 
 "Morgana!" Hermione gasped. "Is that _pepperoni pizza?_ Robbie, you've outdone yourself!"
@@ -3217,3 +3227,14 @@ _Besides,_ Robbie finished, _this way you can claim adult supervision._ "Alright
 
 
 
+Presents were a huge success. Most of them were books, of course; Hermione's reputation preceded her. But Luna had gotten her a set of exotic carving substrates and a top-tier rune-etching kit, which came in a moke-skin pouch and paired perfectly with the curse-breaker's goggles and linked runestone amulet from Elysia.
+
+"It's got a bunch of settings built in: mage-sight augmentation, thaumic analysis, heat and X-ray vision..."
+
+"Ooh!" Hermione's eyes gleamed.
+
+"And the amulet -- I know it looks like a book-shaped locket," Elysia continued, "but if you open the latch and tap it with your wand, it grows into a bunch of pages of carving substrate. The first page is already linked to the goggles, too, so you can add functions. It's kind of like mine, but fancier." She held up her own amulet, which was a wire-wrapped crystal with tiny glowing runes carved into it. "And you should be able to add some of the substrates Luna gave you to it, too!"
+
+Hermione immediately put on the goggles, sliding them up to her forehead so they held her hair back like an Alice band. She slipped the moke-skin pouch onto the book-amulet's chain and put that on as well.
+
+"Oh my," Luna murmured, blushing. "Don't you look dashing."
