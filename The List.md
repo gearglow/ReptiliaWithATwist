@@ -3339,7 +3339,7 @@ Elysia tapped her chin in thought. "Hmm. Y'know, I _might_ be able to help you o
 
 
 
-Other than regular movie nights and Hogsmeade triad dates, October passed relatively quietly, with few exceptions. The first was Luna's birthday on the 11th.
+Other than regular movie nights and Hogsmeade triad dates, October passed relatively quietly, with few exceptions. The first was Luna's 14th birthday on the 11th.
 
 "It's international Coming-Out Day, too," Luna told them. "Apropos, I always thought."
 
@@ -3474,3 +3474,35 @@ Elysia pulled Hermione and Luna in, and they began to prepare for battle.
 
 
 +++++
+
+
+
+Training that morning was intense, as all four of them -- the triad, plus Robbie -- pushed themselves harder than they ever had before. It got so intense, in fact, that the thaumic bleed-off warning alarm sounded.
+
+"That's not something I ever expected to happen," Elysia said. "Now what?"
+
+"No black holes in the house?" Hermione said. 
+
+Luna snorted. "Bet you never thought you'd say _that,_ love."
+
+"Too right," Hermione giggled.
+
+"I think," said Robbie, "that I can repair the room at the Kiln, and replace this training room with a gate to there. It's got more _lignum vitae_ to work with, and I can install some grounding stones along the foundation too."
+
+"That's brilliant, Robbie!" Hermione said.
+
+"It is," Elysia agreed. "Just one problem: we can't legally use that property until I'm an adult."
+
+"This tournament is supposed to be for of-age mages only, right?" Luna asked. "So what happens when your name comes out and they force you to compete?"
+
+"By their own rules, I should be considered an adult, then," Elysia responded, thinking it through. "But that's why I'm getting a solicitor. If I'm to be stuck in this thing, I'm going to milk it for all it's worth."
+
+
+
++++++
+
+
+
+The Goblet of Fire had been placed in the entrance hall the night before, with the headmaster's vaunted age line around it. Over the course of the day, many students had tried to place their names in the Goblet. The Durmstrang students all put theirs in as soon as they were able the night before, and the Beauxbatons students entered theirs first thing that morning. The Weasley twins spent the day sporting long white beards fit to rival Dumbledore's.
+
+For Elysia and her friends, though, it was just another Monday. They entered the Great Hall after a thoroughly engaging class on various types of trip-wire runes, which included the age line.

@@ -355,9 +355,10 @@ What it says on the tin.
 - [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
 - [ ] Leverage being roped into the Tournament to become emancipated
 - [ ] Take over the affairs of House Potter
-- [ ] Do the ritual to make Hermione, Luna, and Nell all metamorpmagi
-- [ ] Transfer the knowledge on shapeshifting to Hermione, Luna, and Nell
+- [ ] Do the ritual to make Hermione, Luna, Ginny, and Nell all metamorpmagi
+- [ ] Transfer the knowledge on shapeshifting to Hermione, Luna, Ginny, and Nell
 - [ ] Do the Unlimited Flight ritual
+- [ ] Liquidate the remains of Slytherin's Basilisk
 - [ ] Find and read The Horcrux-Hunting Handbook
   - [ ] Seek & Destroy the horcrux in Slytherin's Locket
     - [ ] Get Sirius to help access 12 Grimmauld Place 
