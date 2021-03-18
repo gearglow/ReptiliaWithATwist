@@ -4,7 +4,7 @@
 
 "Next up, our youngest competitor, Elysia Potter!" Bagman announced.
 
-Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains of AC/DS's _Thunderstruck_ began to ring out across the stadium.
+Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains of AC/DC's _Thunderstruck_ began to ring out across the stadium.
 
 _Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous, horn-covered dragon across the arena).
 
