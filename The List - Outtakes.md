@@ -1,34 +1,20 @@
 # The List - Outtakes
 
-## Albus Wises Up
+## Dealing With Dragons
 
+"Next up, our youngest competitor, Elysia Potter!" Bagman announced.
 
+Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains of AC/DS's _Thunderstruck_ began to ring out across the stadium.
 
-## Nell
+_Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous, horn-covered dragon across the arena).
 
-"Alright, Nev?" Elysia asked, as a bemused Neville entered the common room one morning.
+"You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
 
-"Hey, Ellie," he said, ambling over. "I suppose so, only..." He flopped down on the sofa with a huff. "The headmaster just called me into his office, out of nowhere, for a casual chat. I'm not sure what to make of it."
+The kick-drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
 
-Elysia furrowed her brow. "That _is_ odd."
+"Thunderstruck!" The crowd yelled.
 
-Janet's voice popped into her mind suddenly. "Oh that scheming little-! He's hedging his bets because now the prophecy might not apply to you anymore because of the pronouns," she told Elysia. "The prophecy, I might remind you, which one Sybil Trelawney _made up_ in order to try to impress Dumbledore enough to be hired as Divination professor." She relayed the words of the so-called prophecy to Elysia, who looked at Neville with a calculating gaze before casting a dizzying array of subtle privacy palings.
-
-She then proceeded to explain about the so-called prophecy, how it could have applied to either of them at the time, how it had affected her life, and finally, that Dumbledore was most likely trying to manipulate Neville into being a 'replacement Harry' because the prophecy's pronouns no longer fit.
-
-Neville snorted, surprising Elysia. "Joke's doubly on him, then. Serves the scheming old goat right. Y'see, I'm not a bloke either."
-
-"Wait, _what?_ You - huh. Yeah, that actually makes a lot of things make sense." Elysia mused.
-
-"Right?" Neville said. "I tried telling Gran once, _ages_ ago, but she keeps trying to mold me into some sort of replacement for my father. You'd think that his wand not working for me would've clued her in, but no." She sighed. "I envy you, getting to transition already. Gran would _never_ give permission for the ritual, so I'm stuck waiting until I come of age. I can't wait until I can finally be Nell and don't have to be Neville anymore."
-
-Elysia tapped her chin in thought. "Hmm. Y'know, I _might_ be able to help you out... You'll need to learn some mind magic first, though."
-
-"What, like occlumency?" Nell said. "What's that got to do with it?"
-
-"Because mind magic means getting to cheat at life," Elysia grinned a Marauder grin. "And I'm going to help you cheat like mad."
-
-
+Elysia bowed with a flourish and raised the egg high above her head. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
 
 ## Going Grey
 

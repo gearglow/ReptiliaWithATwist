@@ -3139,7 +3139,7 @@ She spun on her heels and stalked off, leaving a bewildered Dumbledore in her wa
 
 
 
-## Chapter 12:
+## Chapter 12: The Best Present
 
 After her encounter with Dumbledore, a fuming Elysia immediately sought out her Head of House.
 
@@ -3159,7 +3159,9 @@ Professor McGonagall's nostrils flared. "I quite agree, Miss Potter," she said. 
 
 
 
-The rest of September was marked by two events in particular. The first was that, a week after Professor Moody demonstrated all three Unforgivables, he informed them that Headmaster Dumbledore had granted permission for them all to be put under the Imperius curse, "so you can know what it feels like," Moody said. He'd then had them all line up, and, one by one, made them do absurd and impossible things. Neville, for instance, had performed a flawless double back-flip off of Moody's desk.
+The rest of September was marked by three events in particular. The first was that, a week after Professor Moody demonstrated all three Unforgivables, he informed them that Headmaster Dumbledore had granted permission for them all to be put under the Imperius curse, "so you can know what it feels like," Moody said. He'd then had them all line up, and, one by one, made them do absurd and impossible things. Neville, for instance, had performed a flawless double back-flip off of Moody's desk.
+
+Hermione, on the other hand, merely cocked an eyebrow, sat primly back in her seat, and smirked.
 
 When it was Elysia's turn, Moody waved his wand and a feeling like floating in the _best bubble bath ever_ drifted over her mind for a moment, before fading away like morning fog.
 
@@ -3181,7 +3183,7 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 "Huh. Guess it's not the wand," Elysia observed, trying not to smirk.
 
-"So it seems," Moody agreed. "Well done, lass! Ten points to Gryffindor."
+"So it seems," Moody agreed. "Well done, lass! Ten points to Gryffindor. And five _from_ for your cheek."
 
 
 
@@ -3189,7 +3191,7 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 
 
-The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the curse-breaker 101 girls, the Weasleys, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
+The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the curse-breaker 101 girls, the Weasleys, the Chasers, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
 
 They were all dressed casually for the day. Elysia had on a houndstooth sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
 
@@ -3235,6 +3237,240 @@ Presents were a huge success. Most of them were books, of course; Hermione's rep
 
 "And the amulet -- I know it looks like a book-shaped locket," Elysia continued, "but if you open the latch and tap it with your wand, it grows into a bunch of pages of carving substrate. The first page is already linked to the goggles, too, so you can add functions. It's kind of like mine, but fancier." She held up her own amulet, which was a wire-wrapped crystal with tiny glowing runes carved into it. "And you should be able to add some of the substrates Luna gave you to it, too!"
 
-Hermione immediately put on the goggles, sliding them up to her forehead so they held her hair back like an Alice band. She slipped the moke-skin pouch onto the book-amulet's chain and put that on as well.
+Hermione immediately put on the goggles, sliding them up to her forehead so they held her hair back like an Alice band. She slipped the moke-skin pouch and the book-amulet on as well.
 
 "Oh my," Luna murmured, blushing. "Don't you look dashing."
+
+"You really do," Elysia agreed. She caught Luna's eyes. _Do I detect a crush, Luna?_
+
+_Oh, hush, you. All three of us are crushing on each other and you know it._
+
+Elysia mentally stuck her tongue out.
+
+_You still haven't told me what you plan on doing with that, you know,_ Luna teased.
+
+Elysia blushed, but gamely responded with, _wrestling yours into submission, maybe?_
+
+Luna blushed again, and Hermione cut in with, _you two shameless flirts_ do _know that you're broadcasting, right? I heard every last word._ Hermione smirked. _Guess I'll take winner in your little wrestling match._ The other two girls' eyes widened and they flushed profusely. 
+
+Someone had started music playing, and Robbie was currently showing the Weasley boys _Street Fighter._ Everyone else seemed to be occupied with various games, or dancing, or talking in small groups.
+
+"Right, you two, we clearly need to talk," Elysia muttered, dragging them over to an empty sofa and casting a privacy paling.
+
+"Please don't make me choose," Luna said.
+
+"Wasn't going to," Elysia said. "Janet told me about something called polyamoury. We could just all date each other!"
+
+"Like, oh, what's the word? A triad?" Hermione said from the middle, wrapping an arm around each other girl and pulling them in to snuggle.
+
+"Yeah, that's the word! What do you both think?"
+
+"Yes, please!" Luna said, snuggling closer and reaching for Elysia's hand over Hermione.
+
+Elysia grabbed her hand and snuggled closer to Hermione as well. "Hermione?"
+
+"Well," Hermione said. "I think it's obvious that I'm all for this. But it _will_ be a bit more complicated to make things work, I'm sure."
+
+"But we will," Elysia said. "Think I might go a bit crazy if we didn't, quite honestly."
+
+"Me too," Luna said.
+
+"Me three," Hermione added. "Goodness! _Two_ girlfriends for my birthday? Best day ever."
+
+Luna giggled. "We should try kissing. Like, all three of us at once."
+
+They all leaned into a point between them and touched lips. It was gentle and silly and Elysia's heart fluttered fit to burst. Giggling, they all settled back into the sofa and Elysia dispelled the paling.
+
+"You three finally make it official?"
+
+Elysia sat up, looking around to find Millie flanked by Lisa and Laura, and all three grinning.
+
+"Mm-hmm!" Luna nodded. Hermione wore a smugly content smile.
+
+"I must say," Lisa said, "you certainly moved faster on things than we did. Took us most of last year to sort ourselves out. You three have been inseparable all term!"
+
+"What can I say?" Elysia grinned. "When you click, you click! And after the summer I had, I for one am not inclined to let fear or worry or _whatever_ get in the way of enjoying life."
+
+"Well said," Hermione chimed in.
+
+
+
++++++
+
+
+
+The rest of the party passed by in a happy blur of dancing, games, and conversation. Nobody was all that surprised by the new triad, aside from Ron, who had somehow missed that the three girls always came to breakfast together.
+
+Finally, as dinner approached, they all settled down with food to watch _The Princess Bride._ The two oversized bean-bags were taken by the two triads, and everyone was smiling contentedly when the party finally ended.
+
+
+
++++++
+
+
+
+The third event was debatably less positive, tough some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
+
+"Alright, Nev?" Elysia asked.
+
+"Hey, Ellie," he said, ambling over. "I suppose so, only..." He flopped down on the sofa with a huff. "The headmaster just called me into his office, out of nowhere, for a casual chat. I'm not sure what to make of it."
+
+Elysia furrowed her brow. "That _is_ odd."
+
+Janet's voice popped into her mind suddenly. "Oh that scheming little-! He's hedging his bets over the prophecy," she told Elysia. "The prophecy, I might remind you, which one Sybil Trelawney _made up_ in order to try to impress Dumbledore enough to be hired as Divination professor." She relayed the words of the so-called prophecy to Elysia, who looked at Neville with a calculating gaze before casting a dizzying array of subtle privacy palings.
+
+She then proceeded to explain about the so-called prophecy, how it could have applied to either of them at the time, how it had affected her life, and finally, that Dumbledore was most likely trying to manipulate Neville into being a 'replacement Harry' because either 'Harry' had gone AWOL or the prophecy's pronouns no longer fit.
+
+Neville snorted, surprising Elysia. "Joke's doubly on him, then. Serves the scheming old goat right. Y'see, I'm not a bloke either."
+
+"Wait, _what?_ You - huh. Yeah, that actually makes a lot of things make sense." Elysia mused.
+
+"Right?" Neville said. "I tried telling Gran once, _ages_ ago, but she keeps trying to mold me into some sort of replacement for my father. You'd think that his wand not working for me would've clued her in, but no." She sighed. "I envy you, getting to transition already. Gran would _never_ give permission for the ritual, so I'm stuck waiting until I come of age. I can't wait until I can finally be Nell and don't have to be Neville anymore."
+
+Elysia tapped her chin in thought. "Hmm. Y'know, I _might_ be able to help you out... You'll need to learn some mind magic first, though."
+
+"What, like occlumency?" Nell said. "What's that got to do with it?"
+
+"Because mind magic means getting to cheat at life," Elysia grinned a Marauder grin. "And I'm going to help you cheat like mad."
+
+
+
++++++
+
+
+
+Other than regular movie nights and Hogsmeade triad dates, October passed relatively quietly, with few exceptions. The first was Luna's birthday on the 11th.
+
+"It's international Coming-Out Day, too," Luna told them. "Apropos, I always thought."
+
+Another party in the Room of Requirement occurred, the weekend before, in similar vein to Hermione's. Elysia gave Luna her own set of curse-breaker's goggles and amulet, a matched set to Hermione's but trimmed in chrome instead of brass. Hermione gave her a bracelet that let her mind-speak at a distance with the other two girls as if they were using legilimency. They ended the night watching _Star Wars,_ and Luna taught everyone her lightsaber spell.
+
+The second was another confrontation between Elysia and Dumbledore. She was called to his office after dinner one night, and entered to find him glaring at her over his desk.
+
+"Did you think I wouldn't figure it out, Harry?" He said, expression conveying grandfatherly disappointment.
+
+"My name is _Elysia,_" She bit out. "Regardless of anything else, I am neither named 'Harry' nor am I a boy."
+
+"Be that as it may," Dumbledore waved a hand dismissively. "You are still the child of James and Lily Potter, and you are from Godric's Hollow, _not_ Canada."
+
+"Prove it," Elysia snapped.
+
+Dumbledore gestured to one of the whirring gadgets on his desk. It had a dial on it, and the needle was pointing straight at Elysia.
+
+"That may mean something to you, Headmaster, but you'll have to enlighten me."
+
+"Come now, Mist -- er, _Miss_ Potter. Must you be so hostile?"
+
+"Must you be so condescending?" She retorted.
+
+Dumbledore sighed. "That device is keyed to your blood. It's also tied to the wards at the Dursley residence. So you see, there is no way you could be anyone _but_ Harry Potter, even if you have chosen another name. There's no running from Destiny."
+
+"Are you speaking of prophecy, sir?"
+
+Dumbledore's eyes widened in shock. "How do you know of the prophecy?"
+
+"You've done little enough to earn my trust, Headmaster. I believe I'll keep that little tidbit to myself."
+
+"Fine." Dumbledore barked. "How did you hide your eyes and your scar?"
+
+"Make-up and tinted contacts," Elysia smirked. "You wizards never even _consider_ doing things the muggle way."
+
+Dumbledore nodded. "I see. But _why?_ The wizarding world is not so intolerant as the muggle world about such things. Why would you hide the truth?"
+
+"As you yourself once said, Headmaster," Elysia retorted, standing. "The truth is a beautiful and terrible thing, and should therefore be treated with great caution. If that's all, sir."
+
+She swept out the door, leaving Dumbledore gaping behind her.
+
+
+
+## Chapter 13:
+
+At dinner on the last Saturday of October, Professor Dumbledore made the announcement that tomorrow afternoon, the delegations from Beauxbatons and Durmstrang would be arriving in time for dinner. The school had been scrubbed from top to bottom by the house-elves, until one could practically eat off the floors. 
+
+The next day at 16:00, all of the students were made to stand in rows, in full uniform, on the castle's front steps. Elysia was standing with Hermione and Luna, holding hands and chatting over legilimency. Their conversation was interrupted as several students pointed overhead.
+
+"Look! Up in the sky!" Lavender yelled. 
+
+"It's a bird!" Parvati shouted.
+
+"It's a plane!" Colin Creevey called. 
+
+"It's Beauxbatons!" Lee Jordan announced. 
+
+The girls looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
+
+As it turned out, the Beauxbatons delegation arrived in a truly _massive_ carriage pulled by winged horses the size of elephants. It landed gracefully on the lawn, whereupon a boy jumped out and placed a set of stairs against the doors. And out stepped the largest woman any of them had ever seen.
+
+"Ah, Dumbledore," she rumbled in a smoky, sultry voice. She floated forward as gracefully as a dancer, despite her imposing stature.
+
+"Madame Maxime," Dumbledore greeted with a warm smile. "How lovely to see you again! I trust your journey went smoothly?"
+
+As they spoke, students had begun piling out of the carriage. They wore sky-blue uniforms of what looked like silk, and were obviously caught off-guard by the cold of a late autumn in Scotland.
+
+Hermione rolled her eyes at that. _Are you mages or not? Cast a warming charm!_ The other two snorted.
+
+The Beauxbatons students all filed into the castle, following their headmistress. As they passed, something tickled at the girls' occlumency shields.
+
+_Was that veela allure?_ Hermione asked.
+
+_I think so,_ Elysia replied. _Hmm. I'm getting an idea..._
+
+_You're not thinking of trying to out-allure the veela, are you?_ Luna asked, concern and amusement coloring her thoughts. _Because I don't think the school could take it._
+
+_Well,_ now _I'm thinking about that,_ Elysia retorted. _But no, I was thinking, 'why limit aura broadcasting to just allure?'_
+
+The other two considered that for a moment. _Elysia, love?_ Hermione said. _You're mad. Brilliant, but mad._
+
+_We should broadcast playfulness at dinner sometime!_ Luna giggled.
+
+The other two cackled.
+
+A few minutes later the Durmstrang delegation arrived, on a derelict pirate ship rising from the depths of the lake on a whirlpool. As the ship docked, a gangplank was lowered by hands unseen, and the students marched down, led by their headmaster. He had a goatee, close-cropped black hair with silver streaks, and an oily demeanor. Like his students, he was draped in heavy furs.
+
+"Headmaster Dumbledore!" He cried jovially, clasping hands with him.
+
+"Headmaster Karkaroff," Dumbledore said. "It's been quite some time."
+
+"It has, at that," Karkaroff replied. "Would you mind terribly," he continued, "if we entered directly? Viktor here has a bit of a head-cold."
+
+"Sweet Merlin, it's Viktor Krum!" Ron gasped, beginning to hyperventilate.
+
+_Ronald Weasley, bi disaster,_ Elysia snarked.
+
+_Right?_ Hermione responded.
+
+Ginny reached over and smacked her brother. "Breathe, Ron," she murmured. "Before you make an even bigger fool of yourself."
+
+
+
++++++
+
+
+
+The next morning, Janet called Elysia into the study.
+
+"Just a heads-up," she warned. "Your name is going to come out of that goblet tonight as the fourth champion. I'd send off an owl to a good solicitor first thing if I were you. Might I recommend Eberhardt & Tonks?"
+
+"Good idea," Elysia replied.
+
+Elysia pulled Hermione and Luna in, and they began to prepare for battle.
+
+> To Do:
+>
+> - [ ] Get a solicitor on retainer
+> - [x] Find and read Battle Magic For Bad Bitches
+> - [x] Find and read Magica Obscura: Shadow Magic, Bio-Alchemy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
+> - [x] Find and read Curse-Breaking For Fun and Profit
+> - [x] Find and read Elysia's Combat Style: Stage 4
+
+"We've got some rituals to plan for," Elysia said. "I want to do the Unlimited Flight ritual and the metamorph ritual, at least, and then transfer the shapeshifter knowledge. I want Nell in on this, too; it'll make her life a lot easier if she can go back in the closet when her gran's around for now.
+
+"I think Ginny should be in on them too," Luna said.
+
+"Agreed," Hermione said.
+
+"Alright," Elysia said. "We'll check with them and see when we can do this. The sooner the better. I have a feeling the dragon dung's about to hit the blasting curse."
+
+
+
++++++

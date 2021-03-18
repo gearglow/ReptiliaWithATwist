@@ -32,9 +32,11 @@
 
 - > Lily is a little terrifying. As in, she's tiny and *eldritch.*  -- Cat
 
-- "Look! Up in the sky!" Nell yelled. "It's a bird!" Shouted Parvati. "It's a plane!" Colin Creevey called. "It's Beauxbatons!" Lee Jordan announced. Elysia and Hermione looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
+- [x] "Look! Up in the sky!" Nell yelled. "It's a bird!" Shouted Parvati. "It's a plane!" Colin Creevey called. "It's Beauxbatons!" Lee Jordan announced. Elysia and Hermione looked at each other, hummed the first few bars of the _Superman_ theme, and cracked up.
 
-- ~~Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap | shadow striding } to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.~~
+- [ ] ~~Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap | shadow striding } to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.~~
+
+- [ ] Dealing With Dragons: Elysia walks in to AC/DC's _Thunderstruck._ As the kick-drums hit at the 1:50 mark, she does a double _tximista ibili,_ grabs the egg, and saunters off to the chorus.
 
 - CAST: Computer-Aided Spellcrafting and Thaumaturgy. Useful for virtual prototyping of spells and schema. (This needs to be in Elysiad, too.)
 
@@ -46,7 +48,7 @@
 
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
 
-- Other musical influences: _War Pigs_ by Black Sabbath
+- Other musical influences: _War Pigs_ by Black Sabbath, _Thunderstruck_ by AC/DC, _Boom Shake The Room_ by Fresh Prince & DJ Jazzy Jeff
 
 - The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
@@ -129,7 +131,7 @@ Dating Nell?
 
 ### Ron
 
-Cis boy. Pansexual.
+Cis boy. Bisexual.
 
 Frenemies-with-benefits (dating?) with Dorea?
 
@@ -143,7 +145,11 @@ Frenemies-with-benefits (dating?) with Ron?
 
 
 
+### Millicent Bulstrode
 
+Cis girl. Lesbian. Butch af.
+
+In a triad with Laura Madley and Lisa Turpin.
 
 
 
@@ -336,18 +342,22 @@ What it says on the tin.
 - [x] Read up on Canada and get the story straight
 - [x] Find and read Ruling the Dance Floor
 - [x] Find and read Magician, Heal Thyself
+- [x] Figure out things with Hermione and Luna
+- [x] Find and read Battle Magic For Bad Bitches
+- [x] Find and read Magica Obscura: Shadow Magic, Bio-Alchemy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
+- [x] Find and read Curse-Breaking For Fun and Profit
+- [x] Find and read Elysia's Combat Style: Stage 4
+
 
 #### To Do
 
-- [ ] Figure out things with Hermione and Luna
-- [ ] Get some kind of therapy program in Hogwarts
+- [ ] Get a solicitor on retainer
 - [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
 - [ ] Leverage being roped into the Tournament to become emancipated
 - [ ] Take over the affairs of House Potter
-- [ ] Find and read Battle Magic For Bad Bitches
-- [ ] Find and read Magica Obscura: Shadow Magic, Necromancy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
-- [ ] Find and read Curse-Breaking For Fun and Profit
-- [ ] Find and read Elysia's Combat Style: Stage 4
+- [ ] Do the ritual to make Hermione, Luna, and Nell all metamorpmagi
+- [ ] Transfer the knowledge on shapeshifting to Hermione, Luna, and Nell
+- [ ] Do the Unlimited Flight ritual
 - [ ] Find and read The Horcrux-Hunting Handbook
   - [ ] Seek & Destroy the horcrux in Slytherin's Locket
     - [ ] Get Sirius to help access 12 Grimmauld Place 
@@ -361,6 +371,7 @@ What it says on the tin.
 - [ ] Dazzle at the Yule Ball
 - [ ] Rescue the hostage in the Second Task
 - [ ] Capture Peter Pettigrew
+- [ ] Get some kind of therapy program in Hogwarts
 - [ ] Disarm Dumbledore and take ownership of the Elder Wand
 - [ ] Break Dumbledore's hold on society
 

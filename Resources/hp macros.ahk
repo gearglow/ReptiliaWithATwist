@@ -60,6 +60,7 @@ return
 ::@mcg::McGonagall
 ::@uv::Uncle Vernon
 ::@ap::Aunt Petunia
+::@dd::Dumbledore
 ::@ad::Albus Percival Wulfric Brian Dumbledore
 ::@foe::Furies of Elysium
 ::@ykw::You-Know-Who
@@ -82,3 +83,7 @@ return
 :R:+hhr::Ravenclaw
 :R:+hhs::Slytherin
 :R:+hhh::Hufflepuff
+:R:+bba::Beauxbatons
+:R:+dsi::Durmstrang
+:R:@ikk::Karkaroff
+:R:@mxm::Maxime
