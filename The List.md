@@ -786,7 +786,7 @@ Robbie nodded. "There's bits of rock all over the floor, too, and some of these 
 
 
 
-After that, the actual cottage was disconcertingly normal. The front door opened into a greatroom, with a spacious kitchen area on one side, a dining area with a heavily-scuffed round eight-seat table, a couple of beat-up leather sofas and a matching armchair, and a large, floo-size hearth. A hallway led to four bedrooms, two bathrooms, and the master suite. The whole place was very cozy, but also absolutely *covered* in decades' worth of dust. And aside from the table, sofas, and armchair, completely empty -- no beds, no dressers or wardrobes, not even a desk. No personal effects, either. They made a quick circuit through the place and darted back outside, sneezing the whole way.
+After that, the actual farmhouse was disconcertingly normal. The front door opened into a greatroom, with a spacious kitchen area on one side, a dining area with a heavily-scuffed round eight-seat table, a couple of beat-up leather sofas and a matching armchair, and a large, floo-size hearth. A hallway led to four bedrooms, two bathrooms, and the master suite. The whole place was very cozy, but also absolutely *covered* in decades' worth of dust. And aside from the table, sofas, and armchair, completely empty -- no beds, no dressers or wardrobes, not even a desk. No personal effects, either. They made a quick circuit through the place and darted back outside, sneezing the whole way.
 
 Robbie and Elysia looked at each other once the sneezes stopped. 
 
@@ -3795,11 +3795,11 @@ An owl arrived over lunch from Elysia's solicitor.
 >
 > Theodore N. Tonks, Esq.
 
-Elysia immediately read and signed. Once she tapped the form with her wand, it disappeared with a flash. The owl had long since stolen a sausage and departed.
+Elysia immediately read and signed the form. Once she tapped it with her wand, it disappeared with a flash. The owl had long since stolen a sausage and departed.
 
-"It's official," she told her girlfriends. "Let's duck out and do the _Fidelius_ after Potions."
+"It's official," she told her girlfriends. _Let's duck out and do the _Fidelius_ after Potions._
 
-"I'll have to skip History," Luna said. "No great loss there."
+_I'll have to skip History,_ Luna said. _No great loss there._
 
 
 
@@ -3807,3 +3807,60 @@ Elysia immediately read and signed. Once she tapped the form with her wand, it d
 
 
 
+"Hey, Potter," Malfoy called as Elysia approached the Potions classroom. "Scared yet? You're going to get eaten alive in the first task!"
+
+Ron scoffed. "It's a _broom race,_ Malfoy."
+
+Malfoy rolled his eyes. "_Obviously,_ Weasel. A _full-contact_ broom race. You know, with spells and such. One slip and BOOM! No more Potter."
+
+Elysia laughed. "Can't get rid of me _that_ easily, Malfoy."
+
+Millie and Tracey came up behind Malfoy. "Hey, Heart-Breaker. You good?"
+
+Elysia sighed. "Not you too, Millie!"
+
+Millie just laughed.
+
+"Yeah, I'm good. Malfoy was just asking about my feelings on the race."
+
+"That's charitable," Ron muttered.
+
+"And trying to get a rise out of Ron," Elysia added, winking at Malfoy, who blushed. Ron, meanwhile, gaped like affronted trout.
+
+_Turning all Malfoy's taunting into him flirting with Ron is_ hilarious, Hermione said, cracking up over the legilimency link. _They both get so worked up about it!_
+
+_Thing is, I think it might be true, at least a bit,_ Elysia responded.
+
+_What, Ron and Malfoy?_ Luna chimed in from her own class. _I give it 'til end of term. Also, if Malfoy's cis I'm a crumple-horned snorkack. Even_ I _wasn't that bad at being a boy._
+
+It was Elysia's turn to crack up.
+
+
+
++++++
+
+
+
+After Potions, the triad met with Robbie in Elysia's trunk. He'd already set up a gate in place of the door to the training room. They all trooped through it, and came out of what had once been a hall closet in the Kiln's farmhouse.
+
+"Really, bro?" Elysia said. "Coming out of the closet?"
+
+Robbie cackled.
+
+They moved into the greatroom, which was now dust-free and partially furnished.
+
+"Wow, Robbie, did you do all this?" Hermione asked. "This place was one giant dust bunny over the summer!"
+
+Robbie nodded. "I figured, while I was at Gringotts getting a basilisk-harvesting team contracted, I'd grab some stuff from the vault and get this place presentable. Especially if Sirius is crashing here soon."
+
+"How'd that go, by the way?" Elysia asked.
+
+"Well enough. We got the flat fee, which is going to end up making us some serious coin," Robbie replied. "I still can't believe you killed that thing, Ellie, much less with a bloody _sword._ I'm just glad I can watch your back properly now."
+
+Me too. No more sending rogue bludgers at me," Elysia grinned.
+
+"Wouldn't work anymore anyway; you'd just disintegrate it or something."
+
+"True, true. Well, let's get to it!"
+
+Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally unimaginative.) Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into an osprey. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
