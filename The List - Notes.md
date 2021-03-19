@@ -54,6 +54,8 @@
 
 - How to neutralize dementors: sink them. They cause everything around them to freeze, so they'll end up encasing themselves in ice.
 
+- Elysia gets Luna and Hermione dragonhide jackets and boots like hers and Robbie's. Luna gets Australian Opal-Eye, and Hermione gets Chinese Fireball.
+
 
 
 ## Characters
@@ -90,6 +92,7 @@ Born 1979-09-17
 AKA:
 
 - 'Mione
+- Athena
 
 
 
@@ -99,9 +102,14 @@ Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
 
 Observational thinker (what is it like?)
 
-Good enough to monkey-patch spellcode in flight.
+Good enough to monkey-patch spells in flight.
 
 Born 1980-10-11
+
+AKA:
+
+- Moonbeam
+- Hecate
 
 
 
@@ -150,6 +158,32 @@ Frenemies-with-benefits (dating?) with Ron?
 Cis girl. Lesbian. Butch af.
 
 In a triad with Laura Madley and Lisa Turpin.
+
+
+
+### Other Champions
+
+#### Cedric Diggory
+
+#### Viktor Krum
+
+#### Fleur Delacour
+
+#### Anna Katya Kozlov
+
+From Novosibirsk Oblast, Russia. 5'7", 112 lbs.
+
+Second champion for Durmstrang.
+
+Built like a dancer, fights like a spiked chain. Elegant, indirect, brutal. Has long, flowing brown hair that's straight as a razor, and dark grey eyes like unyielding basalt.
+
+#### Izabella Aurelia Maradona
+
+From Basque Country, Spain. 5'3", 154 lbs.
+
+Second champion for Beauxbatons.
+
+Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close and hit hard. Has short black hair with purple highlights, much like Elysia, and vibrant violet eyes.
 
 
 
@@ -347,17 +381,17 @@ What it says on the tin.
 - [x] Find and read Magica Obscura: Shadow Magic, Bio-Alchemy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
 - [x] Find and read Curse-Breaking For Fun and Profit
 - [x] Find and read Elysia's Combat Style: Stage 4
-
+- [x] Get a solicitor on retainer
+- [x] Leverage being roped into the Tournament to become emancipated
+- [x] Talk to Janet about the Triwizard Tournament and fallout thereof
 
 #### To Do
 
-- [ ] Get a solicitor on retainer
-- [ ] Talk to Janet about the Triwizard Tournament and fallout thereof
-- [ ] Leverage being roped into the Tournament to become emancipated
-- [ ] Take over the affairs of House Potter
-- [ ] Do the ritual to make Hermione, Luna, Ginny, and Nell all metamorpmagi
+
+- [ ] Do the ritual to make Hermione, Luna, Ginny, and Nell all metamorphmagi
 - [ ] Transfer the knowledge on shapeshifting to Hermione, Luna, Ginny, and Nell
 - [ ] Do the Unlimited Flight ritual
+- [ ] Take over the affairs of House Potter
 - [ ] Liquidate the remains of Slytherin's Basilisk
 - [ ] Find and read The Horcrux-Hunting Handbook
   - [ ] Seek & Destroy the horcrux in Slytherin's Locket

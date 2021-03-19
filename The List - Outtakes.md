@@ -1,5 +1,17 @@
 # The List - Outtakes
 
+## Messing With Moody
+
+"You lied to me, Miss Potter," Professor Moody said that Thursday as class ended. With her cover identity blown upon her selection as a champion, Elysia had decided to changer her eyes back to her mother's vibrant green.
+
+"About being from Canada?" 
+
+Moody nodded. 
+
+"With respect, sir," Elysia responded, "you're an unknown quantity. And Hogwarts doesn't exactly have the best track record with Defense professors. Besides," she smirked. "You bought it. Constant vigilance, Professor!"
+
+
+
 ## Dealing With Dragons
 
 "Next up, our youngest competitor, Elysia Potter!" Bagman announced.

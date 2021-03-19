@@ -3383,7 +3383,7 @@ She swept out the door, leaving Dumbledore gaping behind her.
 
 
 
-## Chapter 13:
+## Chapter 13: We Didn't Start the Fire
 
 At dinner on the last Saturday of October, Professor Dumbledore made the announcement that tomorrow afternoon, the delegations from Beauxbatons and Durmstrang would be arriving in time for dinner. The school had been scrubbed from top to bottom by the house-elves, until one could practically eat off the floors. 
 
@@ -3449,15 +3449,15 @@ Ginny reached over and smacked her brother. "Breathe, Ron," she murmured. "Befor
 
 The next morning, Janet called Elysia into the study.
 
-"Just a heads-up," she warned. "Your name is going to come out of that goblet tonight as the fourth champion. I'd send off an owl to a good solicitor first thing if I were you. Might I recommend Eberhardt & Tonks?"
+"Just a heads-up," she warned. "Your name is going to come out of that goblet tonight as the fourth champion. I'd send off to a good solicitor first thing if I were you. Might I recommend Eberhardt, Bulstrode, & Tonks?"
 
-"Good idea," Elysia replied.
+"Good idea," Elysia replied. "I'll see if Robbie can drop by this morning."
 
 Elysia pulled Hermione and Luna in, and they began to prepare for battle.
 
 > To Do:
 >
-> - [ ] Get a solicitor on retainer
+> - [x] Get a solicitor on retainer
 > - [x] Find and read Battle Magic For Bad Bitches
 > - [x] Find and read Magica Obscura: Shadow Magic, Bio-Alchemy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
 > - [x] Find and read Curse-Breaking For Fun and Profit
@@ -3503,6 +3503,307 @@ Luna snorted. "Bet you never thought you'd say _that,_ love."
 
 
 
-The Goblet of Fire had been placed in the entrance hall the night before, with the headmaster's vaunted age line around it. Over the course of the day, many students had tried to place their names in the Goblet. The Durmstrang students all put theirs in as soon as they were able the night before, and the Beauxbatons students entered theirs first thing that morning. The Weasley twins spent the day sporting long white beards fit to rival Dumbledore's.
+The Goblet of Fire had been placed in the entrance hall the night before, with the headmaster's vaunted age line around it. Over the course of the day, many students had tried to place their names in the Goblet. The Durmstrang students all put theirs in as soon as they were able the night before, and the Beauxbatons students entered theirs first thing that morning. The Weasley twins spent the day sporting long white beards fit to rival Dumbledore's, which was apparently caused by trying to cross the age line while underage.
 
-For Elysia and her friends, though, it was just another Monday. They entered the Great Hall after a thoroughly engaging class on various types of trip-wire runes, which included the age line.
+For Elysia and her friends, though, it was just another Monday. They entered the Great Hall after a thoroughly engaging class on various types of trip-wire runes, which included the age line. It occurred to Elysia, though, that getting past the age line was as simple as asking someone who was of-age to enter your name for you, and said as much to the Weasley twins.
+
+"Why didn't you just ask Angelina to put your names in?"
+
+They both face-palmed. "Why _didn't_ we, Gred?"
+
+"Dunno, Forge. Hey, Angelina!"
+
+"Hey, Angelina!" Ron piped up. "Can you enter mine too?"
+
+"That's a pretty glaring hole in the defenses, don't you think?" Hermione said.
+
+"It is, and I wish I could say I was surprised. But after the Stone, not to mention the dog's breakfast that was security around here after Sirius escaped from Azkaban... face it, Professor Dumbledore doesn't exactly have a good track record." Elysia replied.
+
+"Not to mention the troll in first year," Hermione said. "Sending students whose Houses are in the dungeons -- where the troll was reported -- _back_ to the dungeons, instead of simply putting the Great Hall into lockdown... what goes through that man's head I'll never know."
+
+"And he'll never admit his mistakes unless his hand is forced, either," Luna said. "You can tell; his image is so carefully cultivated. Ooh, bouillabaisse!"
+
+The Opening Feast that night was quite the event even for a Hogwarts feast. Aside from each school's representatives, delegates from the British Ministry were present -- Elysia recognized Ludo Bagman and Bartemius Crouch from the World Cup. And the menu was much expanded -- it featured traditional cuisine from both visiting schools' cultures (including bouillabaisse). Indeed, the house-elves had outdone themselves. Elysia was enjoying a helping of veal kapama, a traditional Bulgarian stew, while Hermione was feeding Luna a bite of her _coq au vin._
+
+"Are you finished wis ze bouillabaisse?" A voice said from behind them.
+
+Elysia turned to find the girl who'd made her think of playing with auras the day before.
+
+"Fine," Luna pouted playfully, in French. "I'll just have to steal more of Hermione's _coq au vin._"
+
+"It's not stealing if I'm actively feeding you, darling," Hermione said, also in French.
+
+"You'll have to forgive my girlfriends," Elysia finally answered the girl, opting for a distinct Quebecois accent in her French. "We're still in the 'disgustingly sappy' phase of things. I'm Elysia, and this is Hermione and Luna."
+
+"Fleur," the girl responded.
+
+"Charmed, I'm sure," Elysia said. "Anyway, here's the bouillabaisse -- or what's left after Luna's had her way with it, at any rate." She waved a hand lazily and floated the half-empty bowl over to a stunned Fleur.
+
+"Did -- did you just do that without a wand?" She gasped.
+
+Elysia laughed, and moved her left hand, which was holding her wand, out from under the table. Of course, she _had_ done it wandlessly, but Fleur didn't need to know that. "Just a bit of legerdemain," she winked.
+
+Fleur smiled. "Of course. Thank you for the bouillabaisse." She turned and went back to her seat.
+
+"What was that little trick about?" Luna asked.
+
+"Just keeping the competition off balance," Elysia breezed. "Oh, that reminds me! Hey Gred! Forge! You lot still taking bets on who gets chosen?"
+
+
+
++++++
+
+
+
+At last, the food was eaten, the tables cleared, and the lights dimmed. Filch brought in the Goblet, which was full of merrily-dancing blue flames. All conversation died out until it was so quiet you could hear the Goblet's fire crackle softly.
+
+"When your name is called, please come up and exit through the door behind me," Dumbledore instructed. "Now, if I'm not mistaken, the Goblet is ready to make its decision."
+
+The flames suddenly turned from blue to a deep red, and a slip of parchment flew out. Dumbledore snatched it from the air.
+
+"The champion for Durmstrang is Viktor Krum!"
+
+The room applauded as Krum stood, gave a jerky bow, and stalked out the door to the anteroom. He moved awkwardly, as if he were only ever at home on a broomstick. Elysia could relate, to some degree.
+
+The Goblet flashed red again.
+
+"The champion for Beauxbatons is Fleur Delacour!"
+
+The same blonde girl from earlier stood, curtseyed to the crowd, and  promenaded through the anteroom door to cheers and wolf-whistles, mostly from the boys.
+
+The Goblet flashed red a third time.
+
+"The champion for Hogwarts is Cedric Diggory!"
+
+The cheers Cedric received were the loudest yet, especially from the Hufflepuff table. He stood with a grin and followed the others to the anteroom.
+
+"Congratulations to our three champions," Dumbledore said. "And now --"
+
+The Goblet flashed red.
+
+The crowd erupted in confused murmurs as Dumbledore read the slip of parchment silently.
+
+"Miss Potter? A word, if you please," He called.
+
+Elysia stood, confusion plastered across her face. "Headmaster?"
+
+"To me, please," he instructed.
+
+She joined him at the front, surreptitiously casting a wandless privacy paling. His eyes widened at that.
+
+"It seems we have much to discuss, Miss Potter," he said.
+
+"I'm sure we do, sir, but I don't think this is the time for most of it," she replied.
+
+"Indeed. Miss Potter, I'll get right to it. Did you put your name in the Goblet of Fire?"
+
+She glanced at the parchment, which read '_Harry_ Potter,' and snorted. "Of course not, sir! Aside from the fact that _my name isn't Harry,_ I have better things to do than put my life on the line for a pittance of galleons and the idle chatter of sheep."
+
+He sighed. "Such disillusion for one so young."
+
+She shrugged.
+
+"In any case," he continued, "legally, your name _is_ still Harry. Let us discuss this turn of events with the rest of the Tournament officials. Please come with me to the anteroom."
+
+"If I must," she said. "I feel I should warn you: if I am forced to compete, I shall have no choice but to involve my solicitor."
+
+"I see," Dumbledore replied sadly. "Well, needs must. If you please," he gestured to the door.
+
+"Something's just occurred to me," Elysia said. "This lot are all going to think I cheated my way into the Tournament. And _that's_ just not on." She dispelled the privacy paling and drew her wand.
+
+"Elysia?" Dumbledore asked warily.
+
+"Everyone?" Elysia said, pitching her voice to carry without need of a _sonorous_ charm. "I swear on my life and magic that I did not enter myself into this tournament, nor did I ask someone of-age to enter my name for me. So mote it be."
+
+There was a flash, and she lit the end of her wand.
+
+"Let's get this over with, Headmaster," she growled, and stalked through the door.
+
+
+
++++++
+
+
+
+An incandescent rage was bubbling just below the surface of Elysia's stony face as she swept into the anteroom.
+
+"Ellie?" Cedric asked. "What is it?"
+
+"Do zey want us back in ze Hall?" Fleur asked.
+
+Viktor just cocked an eyebrow.
+
+Elysia ignored them all. "Robbie?"
+
+Robbie popped in. "Ellie?"
+
+"Could you bring the solicitor, please? Things are about to get ugly."
+
+Robbie snapped a salute and popped away, returning a few seconds later with an older man dressed in formal robes.
+
+"Miss Potter? I'm Theodore Tonks," he introduced himself with a handshake.
+
+Further discussion was interrupted as Dumbledore entered with the other Tournament officials.
+
+"Ladies and gentlemen," Ludo Bagman crowed. "As impossible at it seems, allow me to introduce the _fourth_ Tri-Wizard Champion!" He gestured to Elysia, who growled and flared an aura of existential terror aimed squarely at him. He paled and sank into a chair with a whimper as his knees gave out.
+
+"Not if my solicitor has anything to say about it," she spat.
+
+"It's a binding magical contract," Crouch said flatly. "She'll lose her magic if she doesn't compete."
+
+Elysia growled again as the room erupted in outrage. Leaning over to Ted, she whispered, "if you can't get me out of this, see if you can leverage it into getting me emancipated. Dumbledore's dropped the ball where I'm concerned far too often."
+
+She tuned back into the wider conversation just as Fleur was saying, "zo zis leetle girl is to compete?"
+
+_Little girl!?_ Elysia's already-enraged temper flared, as did an aura of sheer, overwhelming terror mixed with despairing lust, directed solely at Fleur, who squeaked, flushed beet-red, and sank into a chair with wide, tear-filled eyes. _Call_ me _a little girl, will you? I could crush you like a bug and make you_ like _it. Any of us could._ Thoughts of her girlfriends swam to the fore of her mind as she began to calm down.
+
+_Ellie, love?_ Luna asked, concern coloring her thoughts. _Are you OK?_
+
+_Inexplicably furious,_ Elysia responded. _Not sure why; it's not like we didn't see this coming._
+
+_Because things like this seem to always happen to you and it gets old?_ Luna replied.
+
+_Yeah, that's probably part of it,_ Elysia said. _And also the Tournament officials are_ so _condescending!_
+
+_We'll go blow something up in the Room of Requirement when you're done there, love,_ Luna said. _And after your oh-so-public Oath, nobody believes you cheated your way into the Tournament. Even_ Malfoy _doesn't, though he_ is _quite vocally calling Dumbledore's abilities into question._
+
+_Wow, Malfoy and I agree on something,_ Elysia said, shocked. _Seen any pigs flying lately?_
+
+_No, but lots of nargles and wrackspurts both._
+
+_That's not good, is it?_
+
+_No, probably not. Good luck, Ellie!_
+
+_Thanks. Love you!_
+
+_Love you too!_
+
+Elysia tuned back in to hear the heads of the three school arguing about how it was unfair that Hogwarts had two champions. Crouch said, "It is too late. The Goblet has already gone out."
+
+Elysia rolled her eyes. "So draw straws or something! The Goblet is obviously a bit broken, right now, so choose your second champions some other way. Honestly!"
+
+The officials gaped at her.
+
+"But," Bagman said, "we've only prepared for _three_ champions! Three champions, three tasks!"
+
+"And yet here _I_ am, being forced to compete anyway," she retorted. "You would've had to rework things regardless."
+
+"The girl has a point," Karkaroff said. "Perhaps ve could add some new tasks, as well. Nothing so arduous as all that to organize," he temporalized. "A simple duel."
+
+"I like zis," Maxime said. "Make it _two_ duels -- one wanded, one without. Zat leaves just one more task to add."
+
+Elysia shrugged. "Seeker's duel? I know at least three of us are seekers. Fleur, do you play quidditch, by chance?"
+
+"_Non,_" Fleur said. "But I _do_ race."
+
+The other three champions' eyes lit up.
+
+"That'll work," Cedric grinned.
+
+"Well, that settles everything rather nicely," Dumbledore said.
+
+
+
++++++
+
+
+
+"May I have your attention?" Dumbledore called, as everyone filed back into the Great Hall. "Due to unforeseen circumstances, each school will now have _two_ champions. The second champion for Hogwarts is Elysia Potter!"
+
+Elysia waved shyly as the students erupted -- most cheered, though there were a few boos mixed in.
+
+"The additional Durmstrang and Beauxbatons champions will be announced tomorrow at dinner," Dumbledore continued. "The first task, a full-contact broom race, will take place in two weeks, on Saturday the 12th, with the second task on Saturday, November the 26th. It's designed to test the champions' ability to think on their feet, so I shall say no more. And now, off to bed with you!"
+
+Elysia reunited with her girlfriends with much hugging and kissing, until they were interrupted by Solicitor Tonks.
+
+"May I have a word, Miss Potter?"
+
+"Of course," she replied. "Let's find somewhere more private."
+
+They adjourned to an unused classroom, where Hermione conjured a sofa and an armchair as Luna cast several privacy palings. They flanked Elysia on the sofa, while Mr. Tonks took the armchair, shuffling through a briefcase for a moment.
+
+"I confess, sir, that I'm in a bit of a daze," Elysia said. "How bad is it?"
+
+"Not as bad as it could be, Miss Potter," he replied. "While, yes, you are irrevocably compelled to compete, that _does_ come with some privileges and concessions. For instance, you are now exempt from the end-of-year exams, may skip any classes you wish in order to prepare for the tasks, and are allowed a certain degree of immunity regarding interference. In short, if someone or something gets in the way of you competing, you are legally within your rights to, ahem, _handle_ it as you see fit."
+
+The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
+
+"Well," Mr. Tonks said hesitantly. "Maybe not _murder,_ as such, but anything short? Almost certainly."
+
+"Well _that's_ food for thought," Hermione said.
+
+"What's more, between that stipulation and the Ministry's -- apparently legally-binding -- rule of restricting the Tournament to only those of-age, I'm almost positive we can leverage emancipation from tonight's events."
+
+"Excellent," Elysia said. "Is there anything more you need from me tonight in order to make that happen?"
+
+"No, I don't believe so. That Oath you swore makes my job much easier."
+
+"Great. Then if you'll excuse us, sir, I need to go blow off some steam."
+
+
+
+## Chapter 14: Fallout
+
+Elysia found it hard to pay attention the next day. There had apparently been a party in the Gryffindor common room, but she'd stayed in the Room of Requirement until well past curfew with Luna and Hermione, alternately snogging and blowing things up. They finally shadow-walked back to their dorms around midnight, glad that the wards only stopped apparition.
+
+She'd written Sirius first thing in the morning, telling him about how she'd already contacted Eberhardt, Bulstrode, & Tonks about the matter, but it looked like she was stuck competing.
+
+She spent History in Elysium, plotting with Janet, Robbie, and her parents. Hermione was a bit annoyed, but understood.
+
+"Assuming you _do_ get emancipated," Lily said, "the Kiln would make for a fantastic base of operations. There's a ritual room in the basement, right James? You could do the Unlimited Flight and Morphogenesis rituals there."
+
+"And Sirius could stay there, too, until you catch the rat," James added. "Don't look at me like that! You _know_ he won't want to stay away once he knows you're neck-deep in it again."
+
+"Another resource you can tap," Janet said, "is the basilisk remains. Those things won't rot for _years,_ because of the venom, so you can keep the skin for armor and sell the rest for an absolute _fortune._"
+
+"Can't we just shift that into place instead of wearing it separately?" Elysia asked.
+
+"That's a good point," Janet replied, "but if it's separate, you can add enchantments. Contingency runes on the inner lining, and so forth."
+
+"Fair enough. I'll drop in on Claymore first chance, then."
+
+
+
++++++
+
+
+
+"Miss Potter," Professor McGonagall said as Transfiguration let out. "A word, please?"
+
+"Of course, Professor," she said.
+
+"You may stay as well, Miss Granger," McGonagall said, as the last of the students filed out. "I just want to check in with our young champion here. Now, _officially,_ I'm not allowed to help you with the tournament itself," she winked. "But then, I do believe you'll give them all a run for their money in the broom race," she smiled.
+
+Elysia smirked. "I certainly hope so, Professor. If I'm stuck competing, I might as well take it seriously. And if I can't hold my own on a broom, I might as well forfeit and go live as a muggle right now."
+
+"Make us proud, Miss Potter," McGonagall said.
+
+
+
++++++
+
+
+
+An owl arrived over lunch from Elysia's solicitor.
+
+> Miss Potter,
+>
+> As expected, it was a simple matter to gain your emancipation, and without even needing the signature of your current guardian. Please sign the enclosed form and tap it with your wand.
+>
+> A pleasure working with you,
+>
+> Theodore N. Tonks, Esq.
+
+Elysia immediately read and signed. Once she tapped the form with her wand, it disappeared with a flash. The owl had long since stolen a sausage and departed.
+
+"It's official," she told her girlfriends. "Let's duck out and do the _Fidelius_ after Potions."
+
+"I'll have to skip History," Luna said. "No great loss there."
+
+
+
++++++
+
+
+
