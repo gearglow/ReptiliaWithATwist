@@ -24,11 +24,11 @@ Hermione shrugged. "We're lesbians."
 
 Hermione switched to Bulgarian. "I _said,_ we're lesbians, you idiot!"
 
-Krum scoffed. "You just haven't met the right man yet. Come with me, I show you how a _real_ man treats a lady."
+Krum scoffed. "Bah! You just haven't met the right man yet. Come with me, I show you how a _real_ man treats a lady."
 
 All three girls stood at that, and unleashed a tightly-focused aura of pure, unadulterated, pants-shitting terror upon him.
 
-"Leave now," Hermione growled, "before you have to be carried out in a pine box."
+"Run, little boy," Hermione growled, "before you have to be carried out in a pine box."
 
 Krum _whimpered,_ a low, primal sound like that of a cornered prey animal, before turning tail and fleeing like the hounds of hell were after him.
 

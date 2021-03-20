@@ -3197,9 +3197,9 @@ They were all dressed casually for the day. Elysia had on a houndstooth sundress
 
 Luna was in an airy floral-pattern dress with a pale blue cardigan, which had Elysia stealing a few glances herself. Hermione was the only one not wearing a dress; she'd donned figure-hugging jeans and a gauzy white blouse over a lime-green cami, which set off her darker complexion and kept causing the other girls to almost walk into things.
 
-"Damn, Potter, you femme up nice for a butch," Millicent Bulstrode said as they arrived.
+"Damn, Potter, you femme up nice!" Millicent Bulstrode said as they arrived.
 
-"Thanks, Millie," Elysia said, giving her friend a once-over. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on, and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
+"Thanks, Millie," Elysia said, giving her friend a once-over and biting her lip. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on, and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
 
 "Hey there, Heart-Breaker," Parvati greeted her. "Save it for the party. Hullo, Hermione, and happy birthday!"
 
@@ -3977,10 +3977,87 @@ Luna was wandering around looking at the Chamber. "Hey, I think this place is a 
 
 "That makes sense," Hermione said. "Isn't the Wardstone Chamber down here somewhere too?"
 
-"I think so," Elysia said. "They both connect to the access tunnels, anyway, but then, what doesn't?"
+"I think so," Elysia said. "They both connect to the access tunnels, anyway, but then, isn't that the point of access tunnels?"
 
 "Wardstone Chamber?" Snape asked. "What _have_ you girls been up to?"
 
-"Janet told me where the curse on the Defense Professorship is," Elysia said. "We looked into it. It's an ongoing project."
+"We were looking at that broken old lightning ward, and found out where the curse on the Defense Professorship is," Elysia said. "We looked into it. It's an ongoing project."
 
-"Ah," Snape said.
+"Ah," Snape said faintly. "What's this about a lightning ward?"
+
+That set Hermione off. "It turns out the reason that muggle technology _supposedly_ doesn't work at Hogwarts is because some _imbecile_ raised a generalized anti-electricity ward instead of just installing a lightning rod like a sensible person."
+
+"Never mind that this was, of course, centuries before muggles had found a use for electricity in the first place," Snape threw in sardonically.
+
+"Yes, well," Hermione said, biting her lip. "We fixed it."
+
+"You _fixed_ it."
+
+Hermione nodded, and the triad told him all about their foray via the Room of Requirement.
+
+"So you mean to tell me," he said finally, "that a gaggle of fourth-years snuck into the Hogwarts Wardstone Room, a place that is near mythical in both its protections and _mere existence,_ and _fixed_ the most intractable reason for the magical world's technological stagnation _in an afternoon?_"
+
+They nodded cautiously.
+
+"_You mean to tell me,_" he continued, "that you have proven conclusively that there is, in fact, a curse on the Defense Professorship, _and_ are well on the way to 'fixing' that as well?"
+
+They nodded again.
+
+"_You mean to tell me,_" he finished, a wide grin breaking upon his face, "that I can _finally_ get some decent music in this place?"
+
+"Movie nights, too," Luna added happily, bouncing on her toes a bit.
+
+"Hallelujah!" Snape cried. It was genuine, and both Ron and Nell were completely gobsmacked.
+
+Elysia couldn't help it -- she broke down giggling, and soon everyone else joined in.
+
+
+
++++++
+
+
+
+"You know," Hermione said, "we really ought to properly document this beast while we still can."
+
+"There's always a pensieve," Elysia said. "Pretty sure you can take pictures from inside one. And the goblins can tell us its measurements."
+
+"I guess that's good enough," Hermione said.
+
+
+
++++++
+
+
+
+"I've been meaning to ask, Elysia," Snape said. "How are you handling the whole Tournament situation?"
+
+Elysia shrugged. "Honestly, I'm resigned to it. Some good things have come from it, I guess, but I _hate_ standing out over something I had no say in."
+
+Snape snorted. "You're a Potter. You'd stand out anyway. It's in your blood. But look at it this way: you may not have entered of your own volition, but you can compete on your terms. Own it, do the best you are able, and do it in style."
+
+"That's a good point," Elysia said. "Hmm. Style. What would _you_ do?"
+
+"Well," Snape smirked, "as any Slytherin knows, setting the right tone is paramount. And the best way to do _that_ is with music."
+
+"So, what, I should play the rock star?"
+
+"If the hype fits. You are aware, I presume, of the 'Dramatic Walk' trope?"
+
+Elysia nodded. "Like pro wrestlers?"
+
+"Do that. Walk in with a soundtrack, and _own_ it."
+
+"Like you do with your classes! Do you have a song in your head when you sweep in like you do?"
+
+"Of course! Black Sabbath's 'The Wizard,' usually, if you can believe that."
+
+"Seriously?" Elysia cackled. "That's -- that's --"
+
+"Hilarious, I know," Snape said with a Cheshire cat grin.
+
+
+
++++++
+
+
+
