@@ -1,8 +1,50 @@
 # The List - Outtakes
 
+## Vanquishing Viktor
+
+Elysia, Luna, and Hermione were studying in the library one day when Viktor Krum walked up to them.
+
+"Herm-own-ninny? May I haff a word?"
+
+Hermione nodded. "Sure, what's up?"
+
+"Alone?"
+
+Hermione's eyes narrowed. "No."
+
+"Fine. You will go to ball with me, yes?"
+
+"No. I'm already going with Ellie and Luna."
+
+Krum looked askance. "But they are girls!"
+
+Hermione shrugged. "We're lesbians."
+
+"What is--"
+
+Hermione switched to Bulgarian. "I _said,_ we're lesbians, you idiot!"
+
+Krum scoffed. "You just haven't met the right man yet. Come with me, I show you how a _real_ man treats a lady."
+
+All three girls stood at that, and unleashed a tightly-focused aura of pure, unadulterated, pants-shitting terror upon him.
+
+"Leave now," Hermione growled, "before you have to be carried out in a pine box."
+
+Krum _whimpered,_ a low, primal sound like that of a cornered prey animal, before turning tail and fleeing like the hounds of hell were after him.
+
+"Ellie," Hermione bit out, "if you don't utterly _destroy_ that arrogant, misogynistic, Neanderthal-brained _worm_ in the duel, I'll do it myself."
+
+"I'll help," Luna added.
+
+"No worries there," Elysia said. "He'll be lucky if I don't outright kill him for that. I wonder... is there a tongue-tearing curse?"
+
+"I'll craft it myself if there's not," Luna said. "Nobody messes with _our_ 'Mione."
+
+
+
 ## Messing With Moody
 
-"You lied to me, Miss Potter," Professor Moody said that Thursday as class ended. With her cover identity blown upon her selection as a champion, Elysia had decided to changer her eyes back to her mother's vibrant green.
+"You lied to me, Miss Potter," Professor Moody said that Thursday as class ended. With her cover identity blown upon her selection as a champion, Elysia had long since decided to changer her eyes back to her mother's vibrant green.
 
 "About being from Canada?" 
 
@@ -20,7 +62,7 @@ Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains o
 
 _Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous, horn-covered dragon across the arena).
 
-"You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
+"You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
 
 The kick-drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
 

@@ -1,4 +1,4 @@
-# The List - Notes
+The List - Notes
 
 ## Plot Points
 
@@ -54,7 +54,11 @@
 
 - How to neutralize dementors: sink them. They cause everything around them to freeze, so they'll end up encasing themselves in ice.
 
-- Elysia gets Luna and Hermione dragonhide jackets and boots like hers and Robbie's. Luna gets Australian Opal-Eye, and Hermione gets Chinese Fireball.
+- Elysia gets Luna and Hermione dragonhide jackets and boots like hers and Robbie's. Luna gets Australian Opal-Eye, and Hermione gets Chinese Fireball. They have their Marauder names on the back in a rock star font.
+
+- Izzy hits it off immediately with the Furies.
+
+- Ellie and Izzy agree that they'll fight purely with muggle martial arts for their wandless duel.
 
 
 
@@ -72,7 +76,7 @@ Born 1980-07-31
 
 AKA:
 
-- Nemesis
+- Nemesis (peregrine falcon animagus)
 - Heart-Breaker (as Parvati calls her)
 - Ellie
 - (Note: Potter in Basque is Eltzegilea)
@@ -87,12 +91,12 @@ Analytical thinker. (how does it do what it does?)
 
 Ward-cracker and curse-breaker extraordinaire.
 
-Born 1979-09-17
+Born 1979-09-19
 
 AKA:
 
 - 'Mione
-- Athena
+- Athena (burrowing owl animagus)
 
 
 
@@ -109,7 +113,7 @@ Born 1980-10-11
 AKA:
 
 - Moonbeam
-- Hecate
+- Hecate (raven animagus)
 
 
 
@@ -184,6 +188,28 @@ From Basque Country, Spain. 5'3", 154 lbs.
 Second champion for Beauxbatons.
 
 Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close and hit hard. Has short black hair with purple highlights, much like Elysia, and vibrant violet eyes.
+
+
+
+## Elysia's Entrance Songs
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1O9nOTwLTSPGZ_fJpNRz7A)
+
+- [ ] Weighing of the Wands: Iron Maiden - Die With Your Boots On
+- [ ] Broom Race: Judas Priest - Living After Midnight
+- [x] The Dragon: AC/DC - Thunderstruck
+- [ ] Wanded Duel 1 (Cedric): Queen - We Will Rock You
+- [ ] Wanded Duel 2 (Izzy): George Thorogood - Bad To The Bone
+- [ ] Wanded Duel 3 (Anna): AC/DC - TNT
+- [ ] Wanded Duel 4 (Fleur): The Runaways - Cherry Bomb
+- [ ] Wanded Duel 5 (Viktor): AC/DC - If You Want Blood
+- [ ] The Lake: Heart - Barracuda
+- [ ] Wandless Duel 1 (Izzy): AC/DC - Back In Black
+- [ ] Wandless Duel 2 (Anna): Queen - Another One Bites the Dust
+- [ ] Wandless Duel 3 (Cedric): Metallica - For Whom the Bell Tolls
+- [ ] Wandless Duel 4 (Viktor): Metallica - Seek & Destroy
+- [ ] Wandless Duel 5 (Cedric): Pantera - Walk
+- [ ] The Maze: AC/DC - For Those About to Rock
 
 
 

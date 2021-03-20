@@ -3191,7 +3191,7 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 
 
-The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the curse-breaker 101 girls, the Weasleys, the Chasers, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
+The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the Curse-Breaking 101 girls, the Weasleys, the Chasers, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
 
 They were all dressed casually for the day. Elysia had on a houndstooth sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
 
@@ -3213,7 +3213,7 @@ Hermione squealed, and bounded over to hug Robbie.
 
 _Why the older look, bro?_ Elysia asked over their bond.
 
-Robbie smirked. _Makes it more awkward for any of your friends to hit on me,_ he replied.
+Robbie smirked. _It's closer to my actual age,_ he replied. _Besides, it makes it more awkward for any of your friends to hit on me._ 
 
 _Oh right, good point. Sometimes I forget straight girls exist._
 
@@ -3285,7 +3285,7 @@ They all leaned into a point between them and touched lips. It was gentle and si
 
 Elysia sat up, looking around to find Millie flanked by Lisa and Laura, and all three grinning.
 
-"Mm-hmm!" Luna nodded. Hermione wore a smugly content smile.
+"Mm-hmm!" Luna nodded. Hermione wore a smugly contented smile.
 
 "I must say," Lisa said, "you certainly moved faster on things than we did. Took us most of last year to sort ourselves out. You three have been inseparable all term!"
 
@@ -3309,7 +3309,7 @@ Finally, as dinner approached, they all settled down with food to watch _The Pri
 
 
 
-The third event was debatably less positive, tough some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
+The third event was debatably less positive, though some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
 
 "Alright, Nev?" Elysia asked.
 
@@ -3325,7 +3325,7 @@ Neville snorted, surprising Elysia. "Joke's doubly on him, then. Serves the sche
 
 "Wait, _what?_ You - huh. Yeah, that actually makes a lot of things make sense." Elysia mused.
 
-"Right?" Neville said. "I tried telling Gran once, _ages_ ago, but she keeps trying to mold me into some sort of replacement for my father. You'd think that his wand not working for me would've clued her in, but no." She sighed. "I envy you, getting to transition already. Gran would _never_ give permission for the ritual, so I'm stuck waiting until I come of age. I can't wait until I can finally be Nell and don't have to be Neville anymore."
+"Right?" Neville said. "I tried telling Gran once, _ages_ ago, but she keeps trying to mould me into some sort of replacement for my father. You'd think that his wand not working for me would've clued her in, but no." She sighed. "I envy you, getting to transition already. Gran would _never_ give permission for the ritual, so I'm stuck waiting until I come of age. I can't wait until I can finally be Nell and don't have to be Neville anymore."
 
 Elysia tapped her chin in thought. "Hmm. Y'know, I _might_ be able to help you out... You'll need to learn some mind magic first, though."
 
@@ -3735,9 +3735,9 @@ The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
 "What's more, between that stipulation and the Ministry's -- apparently legally-binding -- rule of restricting the Tournament to only those of-age, I'm almost positive we can leverage emancipation from tonight's events."
 
-"Excellent," Elysia said. "Is there anything more you need from me tonight in order to make that happen?"
+"Excellent," Elysia said. "Can we also get my named legally changed to Elysia Lillith Potter? And is there anything more you need from me tonight?"
 
-"No, I don't believe so. That Oath you swore makes my job much easier."
+"Sure thing, and no, I don't believe I need anything more from you tonight. That Oath you swore makes my job much easier."
 
 "Great. Then if you'll excuse us, sir, I need to go blow off some steam."
 
@@ -3745,7 +3745,7 @@ The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
 ## Chapter 14: Fallout
 
-Elysia found it hard to pay attention the next day. There had apparently been a party in the Gryffindor common room, but she'd stayed in the Room of Requirement until well past curfew with Luna and Hermione, alternately snogging and blowing things up. They finally shadow-walked back to their dorms around midnight, glad that the wards only stopped apparition.
+A lot of things happened very quickly once the Goblet issue was settled, and Elysia found it hard to pay attention the next day. There had apparently been a party in the Gryffindor common room, but she'd stayed in the Room of Requirement until well past curfew with Luna and Hermione, alternately snogging and blowing things up. They finally shadow-walked back to their dorms around midnight, glad that the wards only stopped apparition.
 
 She'd written Sirius first thing in the morning, telling him about how she'd already contacted Eberhardt, Bulstrode, & Tonks about the matter, but it looked like she was stuck competing.
 
@@ -3789,7 +3789,7 @@ An owl arrived over lunch from Elysia's solicitor.
 
 > Miss Potter,
 >
-> As expected, it was a simple matter to gain your emancipation, and without even needing the signature of your current guardian. Please sign the enclosed form and tap it with your wand.
+> As expected, it was a simple matter to gain your emancipation, and without even needing the signature of your current guardian. We also got your name legally changed with no issues. Please sign the enclosed form and tap it with your wand.
 >
 > A pleasure working with you,
 >
@@ -3841,7 +3841,7 @@ It was Elysia's turn to crack up.
 
 
 
-After Potions, the triad met with Robbie in Elysia's trunk. He'd already set up a gate in place of the door to the training room. They all trooped through it, and came out of what had once been a hall closet in the Kiln's farmhouse.
+After Potions (wherein, over legilimency, Elysia asked Snape what bits of the basilisk he wanted before it was sold off), the triad met with Robbie in Elysia's trunk. He'd already set up a gate in place of the door to the training room. They all trooped through it, and came out of what had once been a hall closet in the Kiln's farmhouse.
 
 "Really, bro?" Elysia said. "Coming out of the closet?"
 
@@ -3855,12 +3855,132 @@ Robbie nodded. "I figured, while I was at Gringotts getting a basilisk-harvestin
 
 "How'd that go, by the way?" Elysia asked.
 
-"Well enough. We got the flat fee, which is going to end up making us some serious coin," Robbie replied. "I still can't believe you killed that thing, Ellie, much less with a bloody _sword._ I'm just glad I can watch your back properly now."
+"Well enough. We got the flat fee, which is going to end up making us some serious coin," Robbie replied. "They'll meet us in the Entrance Hall tomorrow morning at 0830." He shook his head. "I still can't believe you killed that thing, Ellie, much less with a bloody _sword._ I'm just glad I can watch your back properly now."
 
-Me too. No more sending rogue bludgers at me," Elysia grinned.
+"Me too. No more sending rogue bludgers at me," Elysia grinned.
 
 "Wouldn't work anymore anyway; you'd just disintegrate it or something."
 
 "True, true. Well, let's get to it!"
 
 Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally unimaginative.) Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into an osprey. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
+
+Hermione performed the ritual, making Elysia the Secret Keeper. She then promptly told the others, and they trooped back into the closet and into the trunk-flat.
+
+"We've got a couple of hours left until dinner," Luna said.
+
+"Cuddle-pile and a movie?" Elysia suggested.
+
+"Perfect," Hermione said.
+
+
+
++++++
+
+
+
+Dinner was delayed in serving due to the announcement of the remaining two champions, much to Ron's dismay.
+
+"The Durmstrangers all look a bit roughed-up. Think they chose theirs with a free-for-all?" Elysia mused.
+
+"I wouldn't put it past them," Hermione said.
+
+"The second champion for Durmstrang is Anna Kozlov!" Dumbledore announced.
+
+A slim girl with a hard-looking face and unnaturally-straight brown hair glided up to the front. She moved like a dancer -- or a fighter. Maybe both.
+
+"And the second champion for Beauxbatons is Izabella Maradona!"
+
+A short, curvy girl with hair a lot like Elysia's, only with purple highlights, bounced up to the front. She beamed brightly and waved to the crowd, her violet eyes sparkling like finely-cut amethysts.
+
+"She seems nice," Luna commented.
+
+"As a reminder to our champions," Dumbledore continued, "the traditional Weighing of the Wands ceremony will occur this Friday afternoon after lunch here in the Great Hall, followed by a press conference and photoshoot. And a reminder to the other students, this is a closed event. Thank you, and enjoy this delicious repast the Hogwarts house-elves have provided us!"
+
+"Finally!" Ron said, somehow already with a mouth full of food.
+
+
+
++++++
+
+
+
+The next morning Elysia and company met the Gringotts team in the Entrance Hall.
+
+"Ah, Miss Potter," Claymore said. "When I heard about the basilisk I just had to come see for myself."
+
+"Good to see you, Claymore," Elysia said. "And I told you, call me Ellie. Blood still flowing, heads still rolling?"
+
+Claymore laughed. "Always, Ellie."
+
+Elysia introduced Claymore to everyone else, and they managed to get to Myrtle's bathroom before Dumbledore was any the wiser.
+
+"The entrance was _here?_" Snape asked incredulously.
+
+"Yup," Elysia replied. "Go figure, right? _Open,_" she added, in Parseltongue.
+
+The sink swiveled out of the way, revealing the same dingy oversized pipe sloping down and out of sight.
+
+"I mean," she continued, "I doubt it _started out_ as a ladies' loo, but then again who would ever think to look _there_ for the hidden entrance to a legendary secret chamber? _Stairs,_" she hissed, and gestured for everyone to follow.
+
+They continued on, passing the cave-in, which Snape transfigured into something sturdier and more easily passed, and the shed skin, which the goblins promptly stuffed in a bottomless sack.
+
+"Eep!" Luna squeaked at the sight of it. "And if that's a _shed_ skin, that means..." She paled and clung tightly to Elysia's arm. Hermione paled at her words and did the same on Elysia's other side.
+
+Eventually they came to the doors carved with snakes, their emerald eyes glinting in the wandlight. They still lay ajar, and eerie shadows danced in the poisonous green light of magical torches.
+
+"Honestly, Salazar," Elysia muttered. "_Working lights,_" she hissed. The room brightened considerably, and the torches changed to a neutral hue closer to daylight. "Much better."
+
+"Holy shit," Snape breathed, as they caught sight of the slain basilisk.
+
+"Language, Russ," Elysia sang.
+
+"Sorry, Lily -- erm..." He replied, blushing.
+
+Elysia cackled. "Sorry, sir, couldn't resist."
+
+Snape snorted. "I'm sure."
+
+"I thought I'd imagined how big it was," Ginny said softly, face pale. "I thought I'd come down and see it for real and it wouldn't look nearly so enormous. But it _does. Bigger,_ even."
+
+"You wanna kick it?" Elysia asked.
+
+"What?"
+
+"Go on, kick it! Give it a good one, right in the snoot. You too, Hermione," Elysia said.
+
+Nell giggled nervously.
+
+"A-alright," Ginny said. She strode purposefully over to the giant snake, wound up, and let fly fit to make a star striker jealous.
+
+"Oh my _gosh,_ that's _so_ cathartic!" She gushed. "Hermione, you've _got_ to try it!" She gave it a few more for good measure before Hermione took her place.
+
+Hermione threw a spinning roundhouse with a channeled banisher. The giant snake, all 42 tonnes of it, actually slid back a bit, with a visible shockwave traversing down its length.
+
+"Sweet Merlin in a bucket, Hermione, you hit like a freight train!" Ginny gasped.
+
+Hermione smiled bashfully. "I've been training with Luna and Ellie."
+
+"How, by deadlifting the giant squid?" Nell quipped.
+
+"I want in," Ginny said.
+
+"Me too," Nell agreed.
+
+"Ron?" Elysia asked.
+
+Ron shook his head. "Nuh-uh. I know when I'm out of my depth. 'Sides, I'm a teenage boy. I need my beauty sleep."
+
+Hermione rolled her eyes.
+
+Luna was wandering around looking at the Chamber. "Hey, I think this place is a ritual chamber! Or was, at any rate."
+
+"That makes sense," Hermione said. "Isn't the Wardstone Chamber down here somewhere too?"
+
+"I think so," Elysia said. "They both connect to the access tunnels, anyway, but then, what doesn't?"
+
+"Wardstone Chamber?" Snape asked. "What _have_ you girls been up to?"
+
+"Janet told me where the curse on the Defense Professorship is," Elysia said. "We looked into it. It's an ongoing project."
+
+"Ah," Snape said.

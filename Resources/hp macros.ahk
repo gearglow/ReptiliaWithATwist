@@ -88,3 +88,4 @@ return
 :R:@ikk::Karkaroff
 :R:@mxm::Maxime
 :R:+ror::Room of Requirement
+:R:+pt::Parseltongue
