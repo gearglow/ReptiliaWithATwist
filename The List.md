@@ -1022,6 +1022,7 @@ After dinner, they all moved into the living room, where Hermione showed off som
 > Dad said he can pick you up from the Dursleys, but it might be easier if Robbie could bring you. You know how Dad gets.
 >
 > See you soon!
+
 >
 > ​    - Ron
 
@@ -1342,6 +1343,7 @@ Ginny scoffed. "I have! You've met Percy! Git has barely said two words to any o
 Hermione hummed noncommittally.
 
 "What about you, Hermione?" Ginny continued.
+
 
 "What *about* me?" Hermione retorted.
 
@@ -4065,9 +4067,9 @@ Snape nodded. "Do that. Walk in with a soundtrack, and _own_ it."
 
 
 
-Eventually, the goblins didn't need them around anymore, and they tired of exploring the Chamber. They all went their separate ways, with the fourth-years making for Charms and the others their own classes. Snape swept off to teach his own class, and now that he'd mentioned it, Elysia could match his stride to Geezer Butler's relentless rhythm as his cloak flared dramatically.
+Eventually, the goblins didn't need them around anymore, and they tired of exploring the Chamber. They all went their separate ways, with the fourth-years making for Charms and the others their own classes. Snape swept off to teach, and now that he'd mentioned it, Elysia could match his stride to Geezer Butler's relentless rhythm as his cloak flared dramatically.
 
-All through Charms she turned the idea over in her head. They were starting Summoning Charms, which as a combat staple spell Elysia knew backwards, forwards, upside-down, and wandless, so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
+All through Charms she turned the idea over in her head. They were starting Summoning Charms, which as a staple combat spell Elysia knew backwards, forwards, upside-down, and wandless, so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
 
 "Padfoot and I were quite the hell-raisers back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got mine, and Robbie's got Padfoot's. So that's a good start right there."
 
@@ -4089,11 +4091,11 @@ Lily and Elysia cracked up.
 
 "That's perfect!" James cried.
 
-"Ooh, I _like_ it!" Elysia said. "So what about the broom race? I'm planning to strip the limiter on my Firebolt and rig a manual activator on the windscreen, and use the Unlimited Flight ritual for inertial compensation. If they can catch me, they bloody well _deserve_ to win."
+"Ooh, I _like_ it!" Elysia said. "So what about the broom race? I'm planning to strip the limiter on my Firebolt and rig a manual activator on the windscreen charm, and use the Unlimited Flight ritual for inertial compensation. If they can catch me, they bloody well _deserve_ to win."
 
 "It's full-contact, right?" Lily asked. "Drop a wave of stun lightning behind you as you go."
 
-"Thunderbolts and lightning: very very frightening!" James cackled.
+"Firebolts and lightning: very very frightening!" James cackled.
 
 "No, Bohemian Rhapsody's got the wrong vibe."
 
@@ -4103,7 +4105,7 @@ Lily and Elysia cracked up.
 
 "No, save that for the duels," Elysia said. "It'll have more impact once they know what I can do. For this, I want them eating my dust while their faces melt off, not shaking in their boots beforehand."
 
-James and Lily looked at each other. "Motorhead."
+James and Lily looked at each other. "Motörhead."
 
 "_Hell_ yes," Elysia said.
 
@@ -4121,7 +4123,7 @@ Over lunch, she had Robbie take their jackets to Madame Malkin for some custom w
 
 
 
-"You lied to me, Miss Potter," Professor Moody said that Thursday as class ended. With her cover identity blown upon her selection as a champion, Elysia had long since decided to changer her eyes back to her mother's vibrant green. The scar stayed gone, though.
+"You lied to me, Miss Potter," Professor Moody said that Thursday as class ended. With her cover identity blown upon her selection as a champion, Elysia had long since decided to change her eyes back to her mother's vibrant green. The scar stayed gone, though.
 
 "About being from Canada?" 
 
@@ -4137,9 +4139,9 @@ Moody nodded.
 
 Finally, Friday came, and with it the Weighing of the Wands. She'd already gotten the day's assignment from Snape, and Robbie had acquired a boom-box with a 6-disc CD changer. They'd charmed it to run off of an ambient magic tap instead of batteries, since otherwise it would devour them like Ron with dessert, and prepped the wardrobe change in her trunk. Janet had warned her about Rita Skeeter, and Elysia had decided to see if she could be brought onside. If not, well. Who could fault someone 'accidentally' squashing a bug?
 
-Lunch ended, and her girlfriends kissed her goodbye and wished her luck. She shadow-walked to her trunk, changed into jeans, a black AC/DC tee, and her dragonhide, and shadow-walked back to an empty classroom near the Great Hall. Robbie joined her, similarly-attired (with a Queen tee) and boom-box in tow. He also wore a gold pendant with the Potter crest in enamel.
+Lunch ended, and her girlfriends kissed her goodbye and wished her luck. She shadow-walked to her trunk, changed into tight jeans, a black AC/DC tee, and her dragonhide, and shadow-walked back to an empty classroom near the Great Hall. Robbie joined her, similarly-attired (with a Queen tee) and boom-box in tow. He also wore a gold pendant with the Potter crest in enamel.
 
-Disillusioned, the pair waited outside the Great Hall until everyone else was present.
+The pair waited _disillusioned_ outside the Great Hall until everyone else was present.
 
 "3. 2. 1. Let's jam!" Robbie said, pressing Play. Ellie Banished the doors open and sauntered in, Jimmy Page's iconic riff blaring as Robbie, boom-box held overhead, followed right behind her.
 
@@ -4165,7 +4167,7 @@ _That's one for the pensieve,_ Elysia grinned.
 
 "Yup!" She bounced a bit. "It's kinda _botika,_ but it's nice," she said _sotto voce._
 
-"I'm sure, if Miss Delacour is any indication," Elysia answered in Basque. "Her nose gets any higher, we'll be able to see up it."
+"I'm sure, if Miss Delacour is any indication," Elysia answered in Basque, recognizing the word '_botika_' as 'snooty'. "Her nose gets any higher, we'll be able to see up it."
 
 Izzy giggled. "We're not _all_ that bad. Wait, you speak Basque?"
 
@@ -4173,3 +4175,106 @@ Izzy giggled. "We're not _all_ that bad. Wait, you speak Basque?"
 
 "_Hem, hem_" Dumbledore interjected. "Now that our final champion has arrived, perhaps we can get started?"
 
+Elysia rolled her eyes. "I walked in not 30 seconds after Cedric."
+
+"Yes, well." Dumbledore said, looking uncomfortable. "Master Ollivander, if you would?"
+
+Ollivander bowed. "Certainly, Headmaster. Miss Kozlov, you first."
+
+Anna prowled over and handed Ollivander her wand. He started as it touched his hand, and he peered closely at it. 
+
+"Oh my. Prickly ash, quite solid. just shy of 11^7/10^ inches. And..." His eyes widened. "_Thestral sinew?_ I hadn't realized Gregorovitch had expanded his repertoire so." He waved the wand, and a blossom of silver fire erupted from the tip, accompanied by the tinkling of tiny bells. "Lovely."
+
+Anna bobbed a curtsey as she took her wand and stepped back.
+
+"Miss Delacour?"
+
+Fleur stepped forward and handed over her wand.
+
+"Hmm, yes. Rosewood, 9^1/2^ inches, inflexible, containing... dear me."
+
+"An 'air from ze 'head of my grandmuzzer, a full-blooded veela," Fleur finished.
+
+"Quite. I've never used veela hair myself, of course. I find it to be rather temperamental, but I imagine it _would_ suit you given the family relation. Lovely workmanship as well. Beauvais?"
+
+Fleur nodded.
+
+Ollivander waved the wand, and with a muttered spell a bouquet of roses sprouted from the end. He handed both the bouquet and the wand to Fleur, who took them and stepped back.
+
+"Mister Diggory!" Olivander called.
+
+Cedric stepped forward and offered up his wand. 
+
+"Ah, one of my own creations," Ollivander said with a smile. "Ash, and a tail-hair from a particularly statuesque unicorn stallion. 12^1/4^ inches, pleasantly springy, and in fine condition. You treat it regularly?"
+
+Cedric grinned. "Polished it last night!"
+
+Elysia snorted. "I bet you did."
+
+Izzy stifled a giggle.
+
+Cedric blushed at his accidental double-entendre. 
+
+Ollivander rescued him by waving the wand, sending a stream of silver smoke rings puffing around the group before handing it back.
+
+"Mister Krum, if you would?"
+
+Krum slouched forward and thrust his wand into Ollivander's hand, then stood scowling with his hands in his pockets.
+
+"Ah, another Gregorovich creation!" He pronounced. "Hornbeam, 10^1/4^ inches, and... hmm, yes... dragon heart-string, quite rigid, rather thicker than one usually sees. _Avis!_" With a loud _bang,_ a flock of small birds appeared and flew out the owl-doors in the eaves. He handed Krum back his wand, and the boy slouched back.
+
+"Only our two youngest champions left," Ollivander rubbed his hands excitedly. "Miss Maradona, if you please?"
+
+Izzy bounded over and handed over her wand, bouncing on her toes as Ollivander examined it.
+
+"Now _this_ is unusual," he exclaimed. "A Quintana family creation; it has similar embellishment to old Thiago's work. I haven't seen the like in quite some time. Black walnut, 11 inches, and surprisingly bendy. And... goodness me. Is that a _matagot whisker_ for a core?"
+
+"Yup!" Izzy said.
+
+"How apropos," Ollivander said faintly. He swished the wand, sending a stream of rainbow bubbles spewing forth. As they popped, faint giggling could be heard. He handed the wand back, and Izzy hopped back.
+
+"And last, but certainly not least," Ollivander said. "Miss Potter!"
+
+Elysia flipped her wand around her index finger like a knife, extending it to Ollivander handle-first.
+
+"Yes, how well I remember. Holly, 11 inches, quite supple, and with a feather from a particularly fine phoenix."
+
+Elysia grinned. "I'll pass on your compliments to Fawkes."
+
+Dumbledore looked startled at that.
+
+"Quite," Ollivander said. "For all that it's clearly well-maintained, this wand has seen some excitement, Miss Potter."
+
+Elysia shrugged. "Some of us actually _use_ our wands. Those acid burns, for instance: venom splash from the basilisk I slew in second year. Big one, too -- the goblins said it was 64 feet long and nearly 6 feet across. Fangs the size of my arm. And those slight scorch marks there by the tip: an overchanneled _Patronus_ charm last June. Ran off the entire cohort of dementors the Ministry had guarding against Sirius Black, something like a hundred of the cursed things, when they swarmed my friends and I. And that off-color streak there: when we took out a troll in first year."
+
+The others were gaping. Dumbledore just hung his head, pinching the bridge of his nose.
+
+"I've always felt that a wand is like a _judoka's_ belt," Elysia continued. "The wear is a record and a reminder of what you've gone through to get where you are. Like scars. I look at mine and think, _I'm still alive. Look what I survived._" She shrugged. "I mean, it's either that or go a bit mad, yeah?"
+
+"_Izorratu,_" Izzy breathed.
+
+"And yet, you hide your most distinctive scar," Rita finally piped up. "Why is that, Miss Potter?"
+
+"I didn't _earn_ that one, Rita -- can I call you Rita?" Elysia said. "Let's talk after, and I'll tell you how I actually got that one. Anyway, it's been nothing but trouble, so I had it removed the muggle way a few days ago. It's been hidden with make-up before that." _Damn, I'm getting a bit too good at lying through my teeth._ C'est la vie.
+
+"I find it hard to believe such outlandish tales," Karkaroff scoffed. "You are but a child."
+
+Elysia crossed her arms. "I can show you some memories, if you insist. Actually, yeah, let's do that. Robbie? The pensieve, please."
+
+"Miss Potter," Ollivander said. "Can you truly cast a corporeal _Patronus?_"
+
+She simply held out her hand for her wand. Olivander handed it back, and she waved everyone out of the way as she faced the center of the Great Hall.
+
+"_Expecto patronum!_" She proclaimed, thoughts full of Hermione and Luna.
+
+An enormous silvery bird exploded out of her wand, glowing like the sun. Its wingspan was nearly as long as one of the House tables.
+
+"Huh. _That's_ different," She said casually. "It was a stag last June. And not nearly so big."
+
+"_Eрунда распутина (yerunda rasputina),_" Anna breathed.
+
+"My word," Ollivander exclaimed. "A thunderbird! How extraordinary!"
+
+"Fabulous!" Madame Maxime said.
+
+Karkaroff simply glared.

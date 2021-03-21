@@ -1,4 +1,4 @@
-The List - Notes
+# The List - Notes
 
 ## Plot Points
 
@@ -82,6 +82,13 @@ AKA:
 - (Note: Potter in Basque is Eltzegilea)
 - Green-Eyed Lightning
 
+| **Wand:** | |
+|----:|-----|
+| Wood: | Holly |
+| Core: | Phoenix Feather |
+| Flexibility: | Supple |
+| Size: | 11 Inches |
+| Manufacturer: | Garrick Ollivander |
 
 
 ### Hermione
@@ -170,9 +177,39 @@ In a triad with Laura Madley and Lisa Turpin.
 
 #### Cedric Diggory
 
+| **Wand:** | |
+|----:|-----|
+| Wood: | Ash |
+| Core: | Unicorn Tail Hair |
+| Flexibility: | Springy |
+| Size: | 12 ^1/4^ Inches |
+| Manufacturer: | Garrick Ollivander |
+
+
+
 #### Viktor Krum
 
+| **Wand:** | |
+|----:|-----|
+| Wood: | Hornbeam |
+| Core: | Dragon Heart-String |
+| Flexibility: | Rigid |
+| Size: | 10 ^1/4^ Inches |
+| Manufacturer: | Mykew Gregorovitch |
+
+
+
 #### Fleur Delacour
+
+| **Wand:** | |
+|----:|-----|
+| Wood: | Rosewood |
+| Core: | Veela Hair |
+| Flexibility: | Inflexible |
+| Size: | 9 ^1/2^ Inches |
+| Manufacturer: | Violetta Beauvais |
+
+
 
 #### Anna Katya Kozlov
 
@@ -182,6 +219,16 @@ Second champion for Durmstrang.
 
 Built like a dancer, fights like a spiked chain. Elegant, indirect, brutal. Has long, flowing brown hair that's straight as a razor, and dark grey eyes like unyielding basalt.
 
+| **Wand:** | |
+|-----|-----|
+| Wood: | Prickly Ash |
+| Core: | Thestral Mane |
+| Flexibility: | Solid |
+| Size: | Nearly 11 7/10 inches |
+| Manufacturer: | Mykew Gregorovitch |
+
+
+
 #### Izabella Aurelia Maradona
 
 From Basque Country, Spain. 5'3", 154 lbs.
@@ -189,6 +236,14 @@ From Basque Country, Spain. 5'3", 154 lbs.
 Second champion for Beauxbatons.
 
 Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close and hit hard. Has short black hair with purple highlights, much like Elysia, and vibrant violet eyes.
+
+| **Wand:** | |
+|----:|-----|
+| Wood: | Black Walnut |
+| Core: | Matagot Whisker |
+| Flexibility: | Surprisingly Bendy |
+| Size: | About 11  inches |
+| Manufacturer: | Thiago Quintana |
 
 
 
