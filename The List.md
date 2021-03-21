@@ -497,7 +497,7 @@ Dobby squinted at it, then climbed down to examine the locus pedestal more close
 
 Harry nodded. "I guess we're taking it with us today, then! We'll have to pick up a new control stone before we leave the Alley. Now, what about some of this furniture?"
 
-In the end, they'd managed to find enough furniture to outfit a small two-bedroom apartment; journals from James, Lily, and both of James' parents; several volumes of Potter Family grimoires; Lily's old textbooks, along with her reference library; some House Potter elf uniforms (one of which Dobby promptly exchanged for his current garb); and several articles of clothing that looked to be close enough in size for Harry to shift herself into a perfect fit without it being obvious. The dragon-hide boots and matching jackets (a set each of Ukrainian Ironbelly and Hebridean Black) were a particularly nice find, and even had resizing charms worked into them. Harry decided to change out of Dudley's cast-offs before they continued their errands, and ducked into the trunk.
+In the end, they'd managed to find enough furniture to outfit a small two-bedroom apartment; a pensieve; journals from James, Lily, and both of James' parents; several volumes of Potter Family grimoires; Lily's old textbooks, along with her reference library; some House Potter elf uniforms (one of which Dobby promptly exchanged for his current garb); and several articles of clothing that looked to be close enough in size for Harry to shift herself into a perfect fit without it being obvious. The dragon-hide boots and matching jackets (a set each of Ukrainian Ironbelly and Hebridean Black) were a particularly nice find, and even had resizing charms worked into them. Harry decided to change out of Dudley's cast-offs before they continued their errands, and ducked into the trunk.
 
 She emerged wearing close-fitting jeans, a black v-neck t-shirt, and the Ironbelly boots and jacket. She'd also shifted her hair into a rakish mop, making the usual messy bird's nest look intentional. In all, she felt comfortably androgynous. It wasn't quite as feminine as she'd've liked, but she felt far better than before.
 
@@ -3103,7 +3103,7 @@ After her spur-of-the-moment lie to Moody, Elysia decided she should shore up he
 >
 > - [x] Read up on Canada and get the story straight
 > - [x] Find and read Magician, Heal Thyself
-> - [x] Find and read Ruling the Dance Floor
+> - [x] Find and read Rock Out and Rule the Dance Floor
 
 In the end, she decided that her cover identity was from Edmonton, Alberta, Canada, born to a pair of Muggle-born curse-breakers named David and Amelíe, and home-schooled once she was old enough to accompany her parents on expeditions. As luck would have it, snowy owls (ie. Hedwig) just so happened to be native to that area. She'd just have to avoid calling her familiar by name for awhile.
 
@@ -3253,7 +3253,7 @@ Elysia blushed, but gamely responded with, _wrestling yours into submission, may
 
 Luna blushed again, and Hermione cut in with, _you two shameless flirts_ do _know that you're broadcasting, right? I heard every last word._ Hermione smirked. _Guess I'll take winner in your little wrestling match._ The other two girls' eyes widened and they flushed profusely. 
 
-Someone had started music playing, and Robbie was currently showing the Weasley boys _Street Fighter._ Everyone else seemed to be occupied with various games, or dancing, or talking in small groups.
+Someone had started music playing, and Robbie was currently showing the Weasley boys _Street Fighter II._ Everyone else seemed to be occupied with various games, or dancing, or talking in small groups.
 
 "Right, you two, we clearly need to talk," Elysia muttered, dragging them over to an empty sofa and casting a privacy paling.
 
@@ -3309,7 +3309,7 @@ Finally, as dinner approached, they all settled down with food to watch _The Pri
 
 
 
-The third event was debatably less positive, though some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
+The third event was arguably less positive, though some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
 
 "Alright, Nev?" Elysia asked.
 
@@ -3347,9 +3347,9 @@ Another party in the Room of Requirement occurred, the weekend before, in simila
 
 The second was another confrontation between Elysia and Dumbledore. She was called to his office after dinner one night, and entered to find him glaring at her over his desk.
 
-"Did you think I wouldn't figure it out, Harry?" He said, expression conveying grandfatherly disappointment.
+"Did you think I wouldn't figure it out, Harry?" He said, with a look of grandfatherly disappointment.
 
-"My name is _Elysia,_" She bit out. "Regardless of anything else, I am neither named 'Harry' nor am I a boy."
+"My name is _Elysia,_" she bit out. "Regardless of anything else, I am neither named 'Harry' nor am I a boy."
 
 "Be that as it may," Dumbledore waved a hand dismissively. "You are still the child of James and Lily Potter, and you are from Godric's Hollow, _not_ Canada."
 
@@ -3421,7 +3421,7 @@ _Well,_ now _I'm thinking about that,_ Elysia retorted. _But no, I was thinking,
 
 The other two considered that for a moment. _Elysia, love?_ Hermione said. _You're mad. Brilliant, but mad._
 
-_We should broadcast playfulness at dinner sometime!_ Luna giggled.
+_We should broadcast 'silly' at dinner sometime!_ Luna giggled.
 
 The other two cackled.
 
@@ -3505,7 +3505,7 @@ Luna snorted. "Bet you never thought you'd say _that,_ love."
 
 The Goblet of Fire had been placed in the entrance hall the night before, with the headmaster's vaunted age line around it. Over the course of the day, many students had tried to place their names in the Goblet. The Durmstrang students all put theirs in as soon as they were able the night before, and the Beauxbatons students entered theirs first thing that morning. The Weasley twins spent the day sporting long white beards fit to rival Dumbledore's, which was apparently caused by trying to cross the age line while underage.
 
-For Elysia and her friends, though, it was just another Monday. They entered the Great Hall after a thoroughly engaging class on various types of trip-wire runes, which included the age line. It occurred to Elysia, though, that getting past the age line was as simple as asking someone who was of-age to enter your name for you, and said as much to the Weasley twins.
+For Elysia and her friends, though, it was just another Monday. They entered the Great Hall after a thoroughly engaging class on various types of trip-wire rune schemes, which included the age line. It occurred to Elysia, though, that getting past the age line was as simple as asking someone who was of-age to enter your name for you, and said as much to the Weasley twins.
 
 "Why didn't you just ask Angelina to put your names in?"
 
@@ -3533,7 +3533,7 @@ Elysia turned to find the girl who'd made her think of playing with auras the da
 
 "It's not stealing if I'm actively feeding you, darling," Hermione said, also in French.
 
-"You'll have to forgive my girlfriends," Elysia finally answered the girl, opting for a distinct Quebecois accent in her French. "We're still in the 'disgustingly sappy' phase of things. I'm Elysia, and this is Hermione and Luna."
+"You'll have to excuse my girlfriends," Elysia finally answered the girl, opting for a distinct Quebecois accent in her French. "We're still in the 'disgustingly sappy' phase of things. I'm Elysia, and this is Hermione and Luna."
 
 "Fleur," the girl responded.
 
@@ -3569,7 +3569,7 @@ The Goblet flashed red again.
 
 "The champion for Beauxbatons is Fleur Delacour!"
 
-The same blonde girl from earlier stood, curtseyed to the crowd, and  promenaded through the anteroom door to cheers and wolf-whistles, mostly from the boys.
+The same blonde girl from earlier stood, curtseyed to the crowd, and promenaded through the anteroom door to cheers and wolf-whistles, mostly from the boys.
 
 The Goblet flashed red a third time.
 
@@ -3689,7 +3689,7 @@ The officials gaped at her.
 
 "And yet here _I_ am, being forced to compete anyway," she retorted. "You would've had to rework things regardless."
 
-"The girl has a point," Karkaroff said. "Perhaps ve could add some new tasks, as well. Nothing so arduous as all that to organize," he temporalized. "A simple duel."
+"The girl has a point," Karkaroff said. "Perhaps ve could add some new tasks, as vell. Nothing so arduous as all that to organize," he temporalized. "A simple duel."
 
 "I like zis," Maxime said. "Make it _two_ duels -- one wanded, one without. Zat leaves just one more task to add."
 
@@ -3735,9 +3735,9 @@ The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
 "What's more, between that stipulation and the Ministry's -- apparently legally-binding -- rule of restricting the Tournament to only those of-age, I'm almost positive we can leverage emancipation from tonight's events."
 
-"Excellent," Elysia said. "Can we also get my named legally changed to Elysia Lillith Potter? And is there anything more you need from me tonight?"
+"Excellent," Elysia said. "Can we also get my named legally changed to Elysia Lily Potter? And is there anything more you need from me tonight?"
 
-"Sure thing, and no, I don't believe I need anything more from you tonight. That Oath you swore makes my job much easier."
+"Certainly, and no, I don't believe I need anything more from you tonight. That Oath you swore makes my job much easier."
 
 "Great. Then if you'll excuse us, sir, I need to go blow off some steam."
 
@@ -3747,7 +3747,7 @@ The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
 A lot of things happened very quickly once the Goblet issue was settled, and Elysia found it hard to pay attention the next day. There had apparently been a party in the Gryffindor common room, but she'd stayed in the Room of Requirement until well past curfew with Luna and Hermione, alternately snogging and blowing things up. They finally shadow-walked back to their dorms around midnight, glad that the wards only stopped apparition.
 
-She'd written Sirius first thing in the morning, telling him about how she'd already contacted Eberhardt, Bulstrode, & Tonks about the matter, but it looked like she was stuck competing.
+She'd written Sirius first thing in the morning, telling him about how she'd already contacted Eberhardt, Bulstrode, & Tonks about the matter, but it looked like she was stuck competing. She embedded a password-protected portkey to the Kiln, saying that if he absolutely could not stay away, it would take him somewhere safe to stay and to call for Robbie when he arrived.
 
 She spent History in Elysium, plotting with Janet, Robbie, and her parents. Hermione was a bit annoyed, but understood.
 
@@ -3759,9 +3759,9 @@ She spent History in Elysium, plotting with Janet, Robbie, and her parents. Herm
 
 "Can't we just shift that into place instead of wearing it separately?" Elysia asked.
 
-"That's a good point," Janet replied, "but if it's separate, you can add enchantments. Contingency runes on the inner lining, and so forth."
+"You could," Janet replied, "but if it's separate, you can add enchantments. Contingency runes on the inner lining, and so forth."
 
-"Fair enough. I'll drop in on Claymore first chance, then."
+"Fair enough. Robbie or I will drop in on Claymore first chance, then."
 
 
 
@@ -3789,7 +3789,7 @@ An owl arrived over lunch from Elysia's solicitor.
 
 > Miss Potter,
 >
-> As expected, it was a simple matter to gain your emancipation, and without even needing the signature of your current guardian. We also got your name legally changed with no issues. Please sign the enclosed form and tap it with your wand.
+> As expected, it was a simple matter to confirm your emancipation, and without even needing the signature of your current guardian. We also got your name legally changed with no issues. Please sign the enclosed form (with your new name) and tap it with your wand.
 >
 > A pleasure working with you,
 >
@@ -3825,7 +3825,7 @@ Millie just laughed.
 
 "That's charitable," Ron muttered.
 
-"And trying to get a rise out of Ron," Elysia added, winking at Malfoy, who blushed. Ron, meanwhile, gaped like affronted trout.
+"And trying to get a rise out of Ron," Elysia added, winking at Malfoy, who blushed. Ron, meanwhile, gaped like an affronted trout.
 
 _Turning all Malfoy's taunting into him flirting with Ron is_ hilarious, Hermione said, cracking up over the legilimency link. _They both get so worked up about it!_
 
@@ -3863,9 +3863,9 @@ Robbie nodded. "I figured, while I was at Gringotts getting a basilisk-harvestin
 
 "True, true. Well, let's get to it!"
 
-Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally unimaginative.) Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into an osprey. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
+Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally childish. "Stilts and Beaky, James? Honestly. No.") Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into a magpie. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
 
-Hermione performed the ritual, making Elysia the Secret Keeper. She then promptly told the others, and they trooped back into the closet and into the trunk-flat.
+Hermione performed the ritual, making Elysia the Secret Keeper. She then promptly told the others the secret, and they trooped back into the closet and into the trunk-flat.
 
 "We've got a couple of hours left until dinner," Luna said.
 
@@ -3895,7 +3895,7 @@ A short, curvy girl with hair a lot like Elysia's, only with purple highlights, 
 
 "She seems nice," Luna commented.
 
-"As a reminder to our champions," Dumbledore continued, "the traditional Weighing of the Wands ceremony will occur this Friday afternoon after lunch here in the Great Hall, followed by a press conference and photoshoot. And a reminder to the other students, this is a closed event. Thank you, and enjoy this delicious repast the Hogwarts house-elves have provided us!"
+"As a reminder to our champions," Dumbledore continued, "the traditional Weighing of the Wands ceremony will occur this Friday afternoon after lunch here in the Great Hall, followed by a press conference and photo-shoot. And a reminder to the other students, this is a closed event. Thank you, and enjoy this delicious repast the Hogwarts house-elves have provided us!"
 
 "Finally!" Ron said, somehow already with a mouth full of food.
 
@@ -3955,19 +3955,19 @@ Nell giggled nervously.
 
 "Oh my _gosh,_ that's _so_ cathartic!" She gushed. "Hermione, you've _got_ to try it!" She gave it a few more for good measure before Hermione took her place.
 
-Hermione threw a spinning roundhouse with a channeled banisher. The giant snake, all 42 tonnes of it, actually slid back a bit, with a visible shockwave traversing down its length.
+Hermione threw a spinning roundhouse with a channeled banisher. The giant snake, all 42 tonnes of it, actually slid back a bit, with a visible shock-wave rippling down its length.
 
 "Sweet Merlin in a bucket, Hermione, you hit like a freight train!" Ginny gasped.
 
 Hermione smiled bashfully. "I've been training with Luna and Ellie."
 
-"How, by deadlifting the giant squid?" Nell quipped.
+"How, by dead-lifting the giant squid?" Nell quipped.
 
 "I want in," Ginny said.
 
 "Me too," Nell agreed.
 
-"Ron?" Elysia asked.
+"Alright. Ron?" Elysia asked.
 
 Ron shook his head. "Nuh-uh. I know when I'm out of my depth. 'Sides, I'm a teenage boy. I need my beauty sleep."
 
@@ -3995,7 +3995,11 @@ That set Hermione off. "It turns out the reason that muggle technology _supposed
 
 Hermione nodded, and the triad told him all about their foray via the Room of Requirement.
 
-"So you mean to tell me," he said finally, "that a gaggle of fourth-years snuck into the Hogwarts Wardstone Room, a place that is near mythical in both its protections and _mere existence,_ and _fixed_ the most intractable reason for the magical world's technological stagnation _in an afternoon?_"
+"So you mean to tell me," he said finally, "that a gaggle of fourth-years --"
+
+"And third-years!" Luna piped up.
+
+"-- snuck into the Hogwarts Wardstone Room, a place that is near mythical in both its protections and _mere existence,_ and _fixed_ the most intractable reason for the magical world's technological stagnation _in an afternoon?_"
 
 They nodded cautiously.
 
@@ -4035,21 +4039,21 @@ Elysia shrugged. "Honestly, I'm resigned to it. Some good things have come from 
 
 Snape snorted. "You're a Potter. You'd stand out anyway. It's in your blood. But look at it this way: you may not have entered of your own volition, but you can compete on your terms. Own it, do the best you are able, and do it in style."
 
-"That's a good point," Elysia said. "Hmm. Style. What would _you_ do?"
+"That's a good point," Elysia said. "Hmm. Style. You've a flair for the dramatic, sir; what would _you_ do?"
 
 "Well," Snape smirked, "as any Slytherin knows, setting the right tone is paramount. And the best way to do _that_ is with music."
 
-"So, what, I should play the rock star?"
+"The Hat _did_ want to put me in Slytherin at first," Elysia mused. "So, what, I should play the rock star?"
 
-"If the hype fits. You are aware, I presume, of the 'Dramatic Walk' trope?"
+"If the hype fits. You are aware, I presume, of the 'Power Walk' trope?"
 
-Elysia nodded. "Like pro wrestlers?"
+"Like pro wrestlers?"
 
-"Do that. Walk in with a soundtrack, and _own_ it."
+Snape nodded. "Do that. Walk in with a soundtrack, and _own_ it."
 
 "Like you do with your classes! Do you have a song in your head when you sweep in like you do?"
 
-"Of course! Black Sabbath's 'The Wizard,' usually, if you can believe that."
+"Of course! Black Sabbath's 'The Wizard,' usually, if you can believe that. It came out the year I started Hogwarts, and it always seemed to fit so well."
 
 "Seriously?" Elysia cackled. "That's -- that's --"
 
@@ -4060,4 +4064,112 @@ Elysia nodded. "Like pro wrestlers?"
 +++++
 
 
+
+Eventually, the goblins didn't need them around anymore, and they tired of exploring the Chamber. They all went their separate ways, with the fourth-years making for Charms and the others their own classes. Snape swept off to teach his own class, and now that he'd mentioned it, Elysia could match his stride to Geezer Butler's relentless rhythm as his cloak flared dramatically.
+
+All through Charms she turned the idea over in her head. They were starting Summoning Charms, which as a combat staple spell Elysia knew backwards, forwards, upside-down, and wandless, so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
+
+"Padfoot and I were quite the hell-raisers back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got mine, and Robbie's got Padfoot's. So that's a good start right there."
+
+"They really do go with almost everything," Lily agreed.
+
+"So I'll run with that, then. Hard-femme rocker-chic aesthetic, cocky strut, rock-star attitude. Ugh, Russ is never going to let me live that down, is he?"
+
+Lily snorted. "Like he doesn't do the exact same thing with Sabbath? If I recall, this _was_ his idea in the first place."
+
+"As if that'd stop him."
+
+"So whistle the harmonica part." James said.
+
+Lily and Elysia cracked up.
+
+"Okay, so music, then," Elysia finally said. "I at least need a song for the Weighing of the Wands, though if we can think of a good one for the broom race too I wouldn't say no."
+
+"What's that nickname your friends keep calling you? Heart-Breaker?" Lily asked. "Isn't that a Zeppelin song?"
+
+"That's perfect!" James cried.
+
+"Ooh, I _like_ it!" Elysia said. "So what about the broom race? I'm planning to strip the limiter on my Firebolt and rig a manual activator on the windscreen, and use the Unlimited Flight ritual for inertial compensation. If they can catch me, they bloody well _deserve_ to win."
+
+"It's full-contact, right?" Lily asked. "Drop a wave of stun lightning behind you as you go."
+
+"Thunderbolts and lightning: very very frightening!" James cackled.
+
+"No, Bohemian Rhapsody's got the wrong vibe."
+
+"I rather like Judas Priest. 'Living After Midnight,' maybe?" Elysia said.
+
+"For the walk-up, sure," Lily said. "But during the race, I'm thinking something faster. Metallica's 'Seek & Destroy?'"
+
+"No, save that for the duels," Elysia said. "It'll have more impact once they know what I can do. For this, I want them eating my dust while their faces melt off, not shaking in their boots beforehand."
+
+James and Lily looked at each other. "Motorhead."
+
+"_Hell_ yes," Elysia said.
+
+
+
++++++
+
+
+
+Over lunch, she had Robbie take their jackets to Madame Malkin for some custom work. When they came back the next evening, hers had 'Nemesis' embroidered across the shoulders in glistening blood-red thread. Robbie's had 'Hermes' in a glimmering silver. She also placed an order for sets for Luna and Hermione for Yule, and got matching auror-grade mage-space wand holsters for each of them. (Robbie didn't use a wand, but the space could be used for anything, so it was still useful.)
+
+
+
++++++
+
+
+
+"You lied to me, Miss Potter," Professor Moody said that Thursday as class ended. With her cover identity blown upon her selection as a champion, Elysia had long since decided to changer her eyes back to her mother's vibrant green. The scar stayed gone, though.
+
+"About being from Canada?" 
+
+Moody nodded. 
+
+"With respect, sir," Elysia responded, "you're an unknown quantity. And Hogwarts doesn't exactly have the best track record with Defense professors. Besides," she smirked. "You bought it. Constant vigilance, Professor!"
+
+
+
++++++
+
+
+
+Finally, Friday came, and with it the Weighing of the Wands. She'd already gotten the day's assignment from Snape, and Robbie had acquired a boom-box with a 6-disc CD changer. They'd charmed it to run off of an ambient magic tap instead of batteries, since otherwise it would devour them like Ron with dessert, and prepped the wardrobe change in her trunk. Janet had warned her about Rita Skeeter, and Elysia had decided to see if she could be brought onside. If not, well. Who could fault someone 'accidentally' squashing a bug?
+
+Lunch ended, and her girlfriends kissed her goodbye and wished her luck. She shadow-walked to her trunk, changed into jeans, a black AC/DC tee, and her dragonhide, and shadow-walked back to an empty classroom near the Great Hall. Robbie joined her, similarly-attired (with a Queen tee) and boom-box in tow. He also wore a gold pendant with the Potter crest in enamel.
+
+Disillusioned, the pair waited outside the Great Hall until everyone else was present.
+
+"3. 2. 1. Let's jam!" Robbie said, pressing Play. Ellie Banished the doors open and sauntered in, Jimmy Page's iconic riff blaring as Robbie, boom-box held overhead, followed right behind her.
+
+The effect was better than she could've hoped.
+
+The Great Hall turned out to have downright _amazing_ acoustics, and her entrance, stately yet swaggering, drew the eye of everyone in the room and held it.
+
+The press were eating it up -- Rita's quill was a green blur, and her photographer was clicking away like a metronome. Crouch stared stiffly ahead, while Bagman bobbed his head with a delighted smile. Karkaroff smirked. Madame Maxime grinned. Cedric's jaw was on the floor. Krum nodded appreciatively. Anna was tapping a foot, and Elysia could almost swear she saw a smile for a second. Fleur sniffed disdainfully, but was also blushing fiercely. And Izabella...
+
+Izabella threw the horns and started dancing.
+
+But the best reactions were Dumbledore and Ollivander. Dumbledore wore a look of shock and dismay, which almost made Elysia break stride and break down giggling. Ollivander, though, was actually playing air-guitar.
+
+_That's one for the pensieve,_ Elysia grinned.
+
+"Woo, _izorratu,_ now _that's_ an entrance!" Izabella said when Robbie faded the music out just before the solo 2 minutes in. "You've got _style!_ Potter, right?"
+
+"That's right," Elysia said with a grin.
+
+"Izabella Maradona. But you can call me Izzy."
+
+"Call me Ellie, then. You're from Beauxbatons, yeah?"
+
+"Yup!" She bounced a bit. "It's kinda _botika,_ but it's nice," she said _sotto voce._
+
+"I'm sure, if Miss Delacour is any indication," Elysia answered in Basque. "Her nose gets any higher, we'll be able to see up it."
+
+Izzy giggled. "We're not _all_ that bad. Wait, you speak Basque?"
+
+"It turns out my family has roots there," Elysia answered. "Way, _way_ back, like over a millennium, we were known as Eltzegilea. Not sure when we ended up in England, come to think of it. I picked up the language over the summer so I could read the older family records."
+
+"_Hem, hem_" Dumbledore interjected. "Now that our final champion has arrived, perhaps we can get started?"
 

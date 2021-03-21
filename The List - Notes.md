@@ -66,7 +66,7 @@ The List - Notes
 
 ### Elysia
 
-Protagonist. Shifter. Transfem. Nominsexual.
+Protagonist. Shifter. Transfem. Lesbian.
 
 Applied thinker. (how do I get it to do something?)
 
@@ -80,12 +80,13 @@ AKA:
 - Heart-Breaker (as Parvati calls her)
 - Ellie
 - (Note: Potter in Basque is Eltzegilea)
+- Green-Eyed Lightning
 
 
 
 ### Hermione
 
-Soul-mate #1. Cis. Nominsexual.
+Soul-mate #1. Cis. Lesbian.
 
 Analytical thinker. (how does it do what it does?)
 
@@ -102,7 +103,7 @@ AKA:
 
 ### Luna
 
-Soul-mate #2. Transfem Enby (girlfae). Nominsexual.
+Soul-mate #2. Transfem Enby (girlfae). Lesbian.
 
 Observational thinker (what is it like?)
 
@@ -127,7 +128,7 @@ Optimizing thinker. (where are the bottlenecks?)
 
 ### Neville / Nell
 
-Trans girl. Sapphic af.
+Trans girl. Lesbian.
 
 Dating Ginny?
 
@@ -195,8 +196,10 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1O9nOTwLTSPGZ_fJpNRz7A)
 
-- [ ] Weighing of the Wands: Iron Maiden - Die With Your Boots On
-- [ ] Broom Race: Judas Priest - Living After Midnight
+- [ ] Weighing of the Wands: Led Zeppelin - Heartbreaker
+- [ ] Broom Race: 
+  - [ ] Walk-Up: Judas Priest - Living After Midnight
+  - [ ] During: Motorhead - Ace of Spades
 - [x] The Dragon: AC/DC - Thunderstruck
 - [ ] Wanded Duel 1 (Cedric): Queen - We Will Rock You
 - [ ] Wanded Duel 2 (Izzy): George Thorogood - Bad To The Bone
@@ -206,7 +209,7 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - [ ] The Lake: Heart - Barracuda
 - [ ] Wandless Duel 1 (Izzy): AC/DC - Back In Black
 - [ ] Wandless Duel 2 (Anna): Queen - Another One Bites the Dust
-- [ ] Wandless Duel 3 (Cedric): Metallica - For Whom the Bell Tolls
+- [ ] Wandless Duel 3 (Fleur): Metallica - For Whom the Bell Tolls
 - [ ] Wandless Duel 4 (Viktor): Metallica - Seek & Destroy
 - [ ] Wandless Duel 5 (Cedric): Pantera - Walk
 - [ ] The Maze: AC/DC - For Those About to Rock
@@ -289,6 +292,8 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Hold and move something with the mind (classic telekinesis): _telekinetikoa_ ("telekinetic grasp" in Basque).
 - Poltergeist form, which combines the above two: የፖሊተር ሐኪም ቅፅ (Amharic, pronounced "yepolīteri ḥākīmi k’it͟s’i").
 - Conjures blades of pure arcane force which can be controlled with a thought: _indar-palak_ ("force blades" in Basque).
+- Magic lightsaber: _gladius magnus_ (Latin).
+- Training lightsaber: _ense lucis radium_ (Latin).
 - Spot-shield against any directed spell, even the Unforgivables, with _svartholsskjöldur_ (Icelandic for "black-hole shield").
 - Glowing-path-style locator spell: _monstrant viam._
 - Magic walkie-talkies: хол ярих (_khol yarikh_, Mongolian for "far speak").
