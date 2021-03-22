@@ -3460,7 +3460,7 @@ Elysia pulled Hermione and Luna in, and they began to prepare for battle.
 > To Do:
 >
 > - [x] Get a solicitor on retainer
-> - [x] Find and read Battle Magic For Bad Bitches
+> - [x] Find and read Battle Magic For The Baddest Bitches
 > - [x] Find and read Magica Obscura: Shadow Magic, Bio-Alchemy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
 > - [x] Find and read Curse-Breaking For Fun and Profit
 > - [x] Find and read Elysia's Combat Style: Stage 4
@@ -3745,7 +3745,7 @@ The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
 
 
-## Chapter 14: Fallout
+## Chapter 14: Ain't No Rest For The Wicked
 
 A lot of things happened very quickly once the Goblet issue was settled, and Elysia found it hard to pay attention the next day. There had apparently been a party in the Gryffindor common room, but she'd stayed in the Room of Requirement until well past curfew with Luna and Hermione, alternately snogging and blowing things up. They finally shadow-walked back to their dorms around midnight, glad that the wards only stopped apparition.
 
@@ -4195,9 +4195,9 @@ Fleur stepped forward and handed over her wand.
 
 "An 'air from ze 'head of my grandmuzzer, a full-blooded veela," Fleur finished.
 
-"Quite. I've never used veela hair myself, of course. I find it to be rather temperamental, but I imagine it _would_ suit you given the family relation. Lovely workmanship as well. Beauvais?"
+"Quite. I've never used veela hair myself, of course. I find it to be rather temperamental, but I imagine it _would_ suit you given the family relation. Lovely workmanship as well. Beauvais family?"
 
-Fleur nodded.
+Fleur nodded. "Valentina."
 
 Ollivander waved the wand, and with a muttered spell a bouquet of roses sprouted from the end. He handed both the bouquet and the wand to Fleur, who took them and stepped back.
 
@@ -4227,7 +4227,7 @@ Krum slouched forward and thrust his wand into Ollivander's hand, then stood sco
 
 Izzy bounded over and handed over her wand, bouncing on her toes as Ollivander examined it.
 
-"Now _this_ is unusual," he exclaimed. "A Quintana family creation; it has similar embellishment to old Thiago's work. I haven't seen the like in quite some time. Black walnut, 11 inches, and surprisingly bendy. And... goodness me. Is that a _matagot whisker_ for a core?"
+"Now _this_ is unusual," he exclaimed. "A Quintana family creation; it has similar embellishment to old Thiago's work. Tomás, perhaps? I haven't seen the like in quite some time. Black walnut, 11 inches, and surprisingly bendy. And... goodness me. Is that a _matagot whisker_ for a core?"
 
 "Yup!" Izzy said.
 
@@ -4235,7 +4235,7 @@ Izzy bounded over and handed over her wand, bouncing on her toes as Ollivander e
 
 "And last, but certainly not least," Ollivander said. "Miss Potter!"
 
-Elysia flipped her wand around her index finger like a knife, extending it to Ollivander handle-first.
+Elysia popped her wand from its holster, flipped her wand around her index finger like a knife, and extended it to Ollivander handle-first.
 
 "Yes, how well I remember. Holly, 11 inches, quite supple, and with a feather from a particularly fine phoenix."
 
@@ -4245,7 +4245,7 @@ Dumbledore looked startled at that.
 
 "Quite," Ollivander said. "For all that it's clearly well-maintained, this wand has seen some excitement, Miss Potter."
 
-Elysia shrugged. "Some of us actually _use_ our wands. Those acid burns, for instance: venom splash from the basilisk I slew in second year. Big one, too -- the goblins said it was 64 feet long and nearly 6 feet across. Fangs the size of my arm. And those slight scorch marks there by the tip: an overchanneled _Patronus_ charm last June. Ran off the entire cohort of dementors the Ministry had guarding against Sirius Black, something like a hundred of the cursed things, when they swarmed my friends and I. And that off-color streak there: when we took out a troll in first year."
+Elysia shrugged. "Some of us actually _use_ our wands," she said, with a smirk at the others. "Those acid burns, for instance: venom splash from the basilisk I slew in second year. Big one, too -- the goblins said it was 64 feet long and nearly 6 feet across. Fangs the size of my arm. And those slight scorch marks there by the tip: an overchanneled _Patronus_ charm last June. Ran off the entire cohort of dementors the Ministry had guarding against Sirius Black -- something like a hundred of the cursed things -- when they swarmed my friends and I. And that off-color streak there: when we took out a troll in first year."
 
 The others were gaping. Dumbledore just hung his head, pinching the bridge of his nose.
 
@@ -4253,17 +4253,19 @@ The others were gaping. Dumbledore just hung his head, pinching the bridge of hi
 
 "_Izorratu,_" Izzy breathed.
 
-"And yet, you hide your most distinctive scar," Rita finally piped up. "Why is that, Miss Potter?"
+"And yet, you hide your most distinctive scar," Rita finally piped up. "Why is that, Elysia -- can I call you Elysia?"
 
-"I didn't _earn_ that one, Rita -- can I call you Rita?" Elysia said. "Let's talk after, and I'll tell you how I actually got that one. Anyway, it's been nothing but trouble, so I had it removed the muggle way a few days ago. It's been hidden with make-up before that." _Damn, I'm getting a bit too good at lying through my teeth._ C'est la vie.
+"I didn't _earn_ that one, Rita -- can I call you Rita?" Elysia said. "Let's talk after, and I'll tell you how I _really_ got that one. Anyway, it's been nothing but trouble, so I had it removed the muggle way a few days ago. It's been hidden with make-up before that." _Damn, I'm getting a bit too good at lying through my teeth._ C'est la vie.
 
 "I find it hard to believe such outlandish tales," Karkaroff scoffed. "You are but a child."
 
 Elysia crossed her arms. "I can show you some memories, if you insist. Actually, yeah, let's do that. Robbie? The pensieve, please."
 
+Robbie popped away and came back a second later, setting the Potter pensieve on the staff table.
+
 "Miss Potter," Ollivander said. "Can you truly cast a corporeal _Patronus?_"
 
-She simply held out her hand for her wand. Olivander handed it back, and she waved everyone out of the way as she faced the center of the Great Hall.
+She simply held out her hand for her wand. Ollivander handed it back, and she waved everyone out of the way as she faced the center of the Great Hall.
 
 "_Expecto patronum!_" She proclaimed, thoughts full of Hermione and Luna.
 
@@ -4271,10 +4273,87 @@ An enormous silvery bird exploded out of her wand, glowing like the sun. Its win
 
 "Huh. _That's_ different," She said casually. "It was a stag last June. And not nearly so big."
 
-"_Eрунда распутина (yerunda rasputina),_" Anna breathed.
+"_Яички Распутина (yaichki rasputina),_" Anna breathed.
 
 "My word," Ollivander exclaimed. "A thunderbird! How extraordinary!"
 
 "Fabulous!" Madame Maxime said.
 
 Karkaroff simply glared.
+
+Rita looked like Yule had come early, and her photographer was clicking away like a rabid Geiger counter.
+
+"I take it we've moved on to the 'press conference' portion of the program?" Bagman asked.
+
+Elysia moved over to Rita Skeeter, casting a surreptitious privacy paling. "Rita, I'll make a deal with you. You play by my rules, and you get all my exclusives."
+
+Rita narrowed her eyes. "I'm listening."
+
+"Nothing too onerous," Elysia said. "Give the rest of the champions equal billing for the Tournament profiles, stick to the truth about me and mine -- no speculating; if something piques your interest, just ask me about it. Odds are I'll tell you, and with plenty of dirt to go with it. And in return, I tell you _all_ about the life and times of the Girl-Who-Lived, including Dumbledore's dirty little secrets. Not to mention what I've got on Fudge."
+
+Rita's eyes gleamed. "Intriguing. But what makes you think you can dictate terms, little girl?"
+
+Elysia's eyes narrowed. "Let's just say a little bug told me a secret of yours." She let slip a targeted aura of unease, just enough for Rita to feel that she meant business.
+
+Rita gulped visibly. "R-right... Okay, we have a deal."
+
+They shook on it, and Elysia dropped the paling.
+
+
+
++++++
+
+
+
+After Rita grilled all six of them for what felt like hours, but was really closer to only one, they took photos. Rita and her photographer had them pose all together, on their own, and in various group permutations. Elysia's favorite was of her and Izzy playing air-guitar together with Ollivander. She got the photographer to promise to send her a copy of that one, whether it made it to press or not.
+
+They also took a trip into the pensieve, to view carefully-selected memories of the troll-fight in first year, the basilisk in second year, and the routing of the dementors in third. They all emerged shaken, clearly seeing Elysia in a new light. Dumbledore was pale, and his face was drawn in a disturbed frown. Rita was clearly bursting with questions, but Elysia took her aside and told her to write them down and they'd meet over the weekend and do an in-depth interview -- likely the first of many -- and that seemed to satisfy her.
+
+As they were finishing up, Robbie sidled over to mention that Sirius had arrived and called him. 
+
+"Go, make sure he doesn't burn the place down. Take the music with you, maybe it'll distract him."
+
+Robbie laughed. "Right-o!" He slipped the pensieve into his wand-holster pocket, grabbed the boom-box, and popped away.
+
+_No rest for the wicked,_ Elysia thought.
+
+
+
+## Chapter 15:
+
+Dinner seemed to drag on forever. Elysia made sure to eat enough, because she doubted she'd get much sleep tonight. First, she had to catch Sirius up on everything -- and there was _so much!_ And then there were the two rituals, and then the knowledge transfers. If she got to bed before dawn, she'd consider it a win.
+
+Finally, everyone met up in the Gryffindor common room, while Elysia grabbed her trunk from her dorm and brought it down. Elysia placed it in an innocuous corner with the strongest notice-me-not paling she could cast, and then everyone filed into the trunk flat and out to the Kiln.
+
+Robbie had finished furnishing and stocking the farmhouse. He'd set aside the master suite for Elysia, so Sirius was set up in one of the four other bedrooms, and was currently enjoying a hot shower in one of the the hall bathrooms -- by belting out Led Zeppelin's 'Black Dog', apparently.
+
+"Is he--?" Hermione asked.
+
+"Singing the most obvious song possible while showering? Yup!" Robbie said, greeting them as they all entered the greatroom. "At least he's on-key."
+
+"Alright then," Elysia said. "While we're waiting around, Nell, Ginny, it's time for you to become animagi."
+
+"What." Nell said flatly.
+
+"Really!?" Ginny squealed.
+
+"Sure," Elysia said. "Trust me, this is the _least_ weird part of what's going to happen tonight. Come on, get comfortable and grab my hands."
+
+She pulled them both into her mindscape, and got her first look at Nell as she saw herself.
+
+"Um." Ginny said, blushing a lovely bright pink.
+
+Nell had the same round face, with softer lines. Her dirty-blonde hair came down to her shoulder blades, and had a few streaks of darker brown which brought out her warm brown eyes. She still had her baby fat, but now it was distributed in a curvaceous pear-shaped figure. Elysia popped a mirror in front of her.
+
+"Is--is that _me?_" Nell asked faintly. She ran her hands over herself as if she couldn't quite believe it. "It is. _It is!_" Tears sprang to her eyes as a beatific smile lit up her face, and she lunged to Elysia and gave her a crushing hug. "Thank you," she sobbed into Elysia's shoulder.
+
+"Don't thank me yet, Nell," Elysia said, returning the hug. "We've got a busy night ahead of us before you get to stay this way. And the sooner we do, the sooner we get to take you shopping! Come on, let's get started."
+
+She led a tearfully-smiling Nell and a slightly dazed Ginny to the study.
+
+
+
++++++
+
+
+

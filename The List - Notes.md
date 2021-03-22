@@ -207,7 +207,7 @@ In a triad with Laura Madley and Lisa Turpin.
 | Core: | Veela Hair |
 | Flexibility: | Inflexible |
 | Size: | 9 ^1/2^ Inches |
-| Manufacturer: | Violetta Beauvais |
+| Manufacturer: | Valentina Beauvais |
 
 
 
@@ -222,7 +222,7 @@ Built like a dancer, fights like a spiked chain. Elegant, indirect, brutal. Has 
 | **Wand:** | |
 |-----|-----|
 | Wood: | Prickly Ash |
-| Core: | Thestral Mane |
+| Core: | Thestral Sinew |
 | Flexibility: | Solid |
 | Size: | Nearly 11 7/10 inches |
 | Manufacturer: | Mykew Gregorovitch |
@@ -242,8 +242,8 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 | Wood: | Black Walnut |
 | Core: | Matagot Whisker |
 | Flexibility: | Surprisingly Bendy |
-| Size: | About 11  inches |
-| Manufacturer: | Thiago Quintana |
+| Size: | About 11 inches |
+| Manufacturer: | Tomás Quintana |
 
 
 
@@ -251,7 +251,7 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1O9nOTwLTSPGZ_fJpNRz7A)
 
-- [ ] Weighing of the Wands: Led Zeppelin - Heartbreaker
+- [x] Weighing of the Wands: Led Zeppelin - Heartbreaker
 - [ ] Broom Race: 
   - [ ] Walk-Up: Judas Priest - Living After Midnight
   - [ ] During: Motorhead - Ace of Spades
@@ -463,7 +463,7 @@ What it says on the tin.
 - [x] Find and read Ruling the Dance Floor
 - [x] Find and read Magician, Heal Thyself
 - [x] Figure out things with Hermione and Luna
-- [x] Find and read Battle Magic For Bad Bitches
+- [x] Find and read Battle Magic For The Baddest Bitches
 - [x] Find and read Magica Obscura: Shadow Magic, Bio-Alchemy, And Other 'Dark' Arts The Ministry Doesn't Want You To Know
 - [x] Find and read Curse-Breaking For Fun and Profit
 - [x] Find and read Elysia's Combat Style: Stage 4
