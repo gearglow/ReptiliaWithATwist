@@ -3651,13 +3651,13 @@ Further discussion was interrupted as Dumbledore entered with the other Tourname
 
 "Not if my solicitor has anything to say about it," she spat.
 
-"It's a binding magical contract," Crouch said flatly. "She'll lose her magic if she doesn't compete."
+"It's a binding magical contract," Crouch said flatly, to no-one in particular. "She'll lose her magic if she doesn't compete."
 
 Elysia growled again as the room erupted in outrage. Leaning over to Ted, she whispered, "if you can't get me out of this, see if you can leverage it into getting me emancipated. Dumbledore's dropped the ball where I'm concerned far too often."
 
 She tuned back into the wider conversation just as Fleur was saying, "zo zis leetle girl is to compete?"
 
-_Little girl!?_ Elysia's already-enraged temper flared, as did an aura of sheer, overwhelming terror mixed with despairing lust, directed solely at Fleur, who squeaked, flushed beet-red, and sank into a chair with wide, tear-filled eyes. _Call_ me _a little girl, will you? I could crush you like a bug and make you_ like _it. Any of us could._ Thoughts of her girlfriends swam to the fore of her mind as she began to calm down.
+_Little girl!?_ Elysia's already-enraged temper flared, as did an aura of sheer, overwhelming terror mixed with despairing inadequacy, directed solely at Fleur, who squeaked, flushed beet-red, and sank into a chair with wide, tear-filled eyes. _Call_ me _a little girl, will you? I could crush you like a bug and make you_ like _it. Any of us could._ Thoughts of her girlfriends swam to the fore of her mind as she began to calm down.
 
 _Ellie, love?_ Luna asked, concern coloring her thoughts. _Are you OK?_
 
@@ -4582,3 +4582,4 @@ Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
 
 
+They _did_ manage to get back to Hogwarts and into bed before dawn, as it turned out. Granted, it was a near thing, but Elysia still managed most of a full night's sleep. After the late night, she felt justified in skipping most of her training for the day, but she still met Hermione and Luna (and now Ginny and Nell) for a quick run before breakfast.

@@ -498,6 +498,8 @@ What it says on the tin.
     - [ ] Have Robbie glass it with Fiendfyre during Riddle's resurrection
   - [ ] Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
   - [ ] Seek & Destroy the Snake (Little Hangleton Graveyard)
+- [ ] Interview with Rita Skeeter
+- [ ] Soup up the Firebolt
 - [ ] Crush the broom race in the First Task
 - [ ] Deal with the dragon in the Second Task
 - [ ] Dazzle at the Yule Ball
