@@ -4097,7 +4097,7 @@ Lily and Elysia cracked up.
 
 "Firebolts and lightning: very very frightening!" James cackled.
 
-"No, Bohemian Rhapsody's got the wrong vibe."
+"No, Bohemian Rhapsody's got the wrong vibe." Lily retorted.
 
 "I rather like Judas Priest. 'Living After Midnight,' maybe?" Elysia said.
 
@@ -4115,7 +4115,7 @@ James and Lily looked at each other. "Motörhead."
 
 
 
-Over lunch, she had Robbie take their jackets to Madame Malkin for some custom work. When they came back the next evening, hers had 'Nemesis' embroidered across the shoulders in glistening blood-red thread. Robbie's had 'Hermes' in a glimmering silver. She also placed an order for sets for Luna and Hermione for Yule, and got matching auror-grade mage-space wand holsters for each of them. (Robbie didn't use a wand, but the space could be used for anything, so it was still useful.)
+Over lunch, she had Robbie take their jackets to Madame Malkin for some custom work. When they came back the next evening, hers had 'Nemesis' embroidered across the back in glistening blood-red thread. Robbie's had 'Hermes' in a glimmering silver. She also placed an order for sets for Luna and Hermione for Yule, and got matching auror-grade mage-space wand holsters for each of them. (Robbie didn't use a wand, but the space could be used for anything, so it was still useful.)
 
 
 
