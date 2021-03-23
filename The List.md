@@ -234,7 +234,7 @@ Harry nodded and opened the binder.
 >
 > - [ ] Find and read the primer on Mind Magic
 > - [ ] Find and read How To Learn
-> - [ ] Find and read Processing Complex PTSD and Abuse
+> - [ ] Find and read Processing Trauma
 > - [ ] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
 > - [ ] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, Aikijutsu, and Systema
 > - [ ] Find and read the primers on Runes, Wards, and Enchanting
@@ -269,7 +269,7 @@ Harry dove right in, with a fervor that would have put Hermione Granger to shame
 > To Do
 >
 > - [x] Find and read How To Learn
-> - [x] Find and read Processing Complex PTSD and Abuse
+> - [x] Find and read Processing Trauma
 > - [x] Find and read the primers on Animagi, Metamorphmagi, and Shifting (in that order)
 > - [x] Find and read the primers on Tai Chi Chuan, Seven Star Praying Mantis, Xing Yi Chuan, Ba Gua Chuan, Aikijutsu, and Systema
 > - [x] Find and read the primers on runes, wards, and enchanting
@@ -2165,7 +2165,7 @@ Elysia sat silently, gathering her thoughts, then snorted. "Honestly, they were 
 
 Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book appeared in her hand, which she passed to Snape.
 
-"_Processing Complex PTSD and Abuse,_" he read. Opening the book, his eyes widened and he finished reading the entire volume in a matter of minutes.
+"_Processing Trauma,_" he read. Opening the book, his eyes widened and he finished reading the entire volume in a matter of minutes.
 
 "How?" He gasped as he closed the book. "It's as if I've undergone _decades_ of therapy!"
 
@@ -3385,7 +3385,7 @@ She swept out the door, leaving Dumbledore gaping behind her.
 
 
 
-## Chapter 13: We Didn't Start the Fire
+## Chapter 13: Send Lawyers, Guns, and Money
 
 At dinner on the last Saturday of October, Professor Dumbledore made the announcement that tomorrow afternoon, the delegations from Beauxbatons and Durmstrang would be arriving in time for dinner. The school had been scrubbed from top to bottom by the house-elves, until one could practically eat off the floors. 
 
@@ -3805,6 +3805,10 @@ _I'll have to skip History,_ Luna said. _No great loss there._
 
 
 
+> To Do:
+>
+> - [x] Take over the affairs of House Potter
+
 +++++
 
 
@@ -3957,7 +3961,7 @@ Nell giggled nervously.
 
 "Oh my _gosh,_ that's _so_ cathartic!" She gushed. "Hermione, you've _got_ to try it!" She gave it a few more for good measure before Hermione took her place.
 
-Hermione threw a spinning roundhouse with a channeled banisher. The giant snake, all 42 tonnes of it, actually slid back a bit, with a visible shock-wave rippling down its length.
+Hermione threw a spinning roundhouse with a channeled banisher. The giant snake, all 42 tons of it, actually slid back a bit, with a visible shock-wave rippling down its length.
 
 "Sweet Merlin in a bucket, Hermione, you hit like a freight train!" Ginny gasped.
 
@@ -4063,6 +4067,12 @@ Snape nodded. "Do that. Walk in with a soundtrack, and _own_ it."
 
 
 
+> To Do:
+>
+> - [x] Liquidate the remains of Slytherin's Basilisk
+
+
+
 +++++
 
 
@@ -4137,11 +4147,11 @@ Moody nodded.
 
 
 
-Finally, Friday came, and with it the Weighing of the Wands. She'd already gotten the day's assignment from Snape, and Robbie had acquired a boom-box with a 6-disc CD changer. They'd charmed it to run off of an ambient magic tap instead of batteries, since otherwise it would devour them like Ron with dessert, and prepped the wardrobe change in her trunk. Janet had warned her about Rita Skeeter, and Elysia had decided to see if she could be brought onside. If not, well. Who could fault someone 'accidentally' squashing a bug?
+Finally, Friday came, and with it the Weighing of the Wands. She'd already gotten the day's assignment from Snape, and Robbie had acquired a boom-box with a 6-disc CD changer. They'd charmed it to run off of an ambient magic tap instead of batteries, since otherwise it would devour them like Ron devoured dessert, and prepped the wardrobe change in her trunk. Janet had warned her about Rita Skeeter, and Elysia had decided to see if she could be brought onside. If not, well. Who could fault someone 'accidentally' squashing a bug?
 
 Lunch ended, and her girlfriends kissed her goodbye and wished her luck. She shadow-walked to her trunk, changed into tight jeans, a black AC/DC tee, and her dragonhide, and shadow-walked back to an empty classroom near the Great Hall. Robbie joined her, similarly-attired (with a Queen tee) and boom-box in tow. He also wore a gold pendant with the Potter crest in enamel.
 
-The pair waited _disillusioned_ outside the Great Hall until everyone else was present.
+The pair waited under her invisibility cloak outside the Great Hall until everyone else was inside.
 
 "3. 2. 1. Let's jam!" Robbie said, pressing Play. Ellie Banished the doors open and sauntered in, Jimmy Page's iconic riff blaring as Robbie, boom-box held overhead, followed right behind her.
 
@@ -4167,11 +4177,11 @@ _That's one for the pensieve,_ Elysia grinned.
 
 "Yup!" She bounced a bit. "It's kinda _botika,_ but it's nice," she said _sotto voce._
 
-"I'm sure, if Miss Delacour is any indication," Elysia answered in Basque, recognizing the word '_botika_' as 'snooty'. "Her nose gets any higher, we'll be able to see up it."
+"_I'm sure, if Miss Delacour is any indication,_" Elysia answered in Basque, recognizing the word '_botika_' as 'snooty'. "_Her nose gets any higher, we'll be able to see up it._"
 
-Izzy giggled. "We're not _all_ that bad. Wait, you speak Basque?"
+Izzy giggled. "_We're not_ all _that bad. Wait, you speak Basque?_"
 
-"It turns out my family has roots there," Elysia answered. "Way, _way_ back, like over a millennium, we were known as Eltzegilea. Not sure when we ended up in England, come to think of it. I picked up the language over the summer so I could read the older family records."
+"_It turns out my family has roots there,_" Elysia answered. "_Way,_ way _back, like over a millennium, we were known as Eltzegilea. Not sure when we ended up in England, come to think of it. I picked up the language over the summer so I could read the older family records._"
 
 "_Hem, hem_" Dumbledore interjected. "Now that our final champion has arrived, perhaps we can get started?"
 
@@ -4183,7 +4193,7 @@ Ollivander bowed. "Certainly, Headmaster. Miss Kozlov, you first."
 
 Anna prowled over and handed Ollivander her wand. He started as it touched his hand, and he peered closely at it. 
 
-"Oh my. Prickly ash, quite solid. just shy of 11^7/10^ inches. And..." His eyes widened. "_Thestral sinew?_ I hadn't realized Gregorovitch had expanded his repertoire so." He waved the wand, and a blossom of silver fire erupted from the tip, accompanied by the tinkling of tiny bells. "Lovely."
+"Oh my. Prickly ash, quite solid. Just shy of 11^7/10^ inches. And..." His eyes widened. "_Thestral sinew?_ I hadn't realized Gregorovitch had expanded his repertoire so." He waved the wand, and a blossom of silver fire erupted from the tip, accompanied by the tinkling of tiny bells. "Lovely."
 
 Anna bobbed a curtsey as she took her wand and stepped back.
 
@@ -4193,7 +4203,7 @@ Fleur stepped forward and handed over her wand.
 
 "Hmm, yes. Rosewood, 9^1/2^ inches, inflexible, containing... dear me."
 
-"An 'air from ze 'head of my grandmuzzer, a full-blooded veela," Fleur finished.
+"An 'air from ze 'head of my grandmuzzair, a full-blooded veela," Fleur finished.
 
 "Quite. I've never used veela hair myself, of course. I find it to be rather temperamental, but I imagine it _would_ suit you given the family relation. Lovely workmanship as well. Beauvais family?"
 
@@ -4201,9 +4211,9 @@ Fleur nodded. "Valentina."
 
 Ollivander waved the wand, and with a muttered spell a bouquet of roses sprouted from the end. He handed both the bouquet and the wand to Fleur, who took them and stepped back.
 
-"Mister Diggory!" Olivander called.
+"Mister Diggory!" Ollivander called.
 
-Cedric stepped forward and offered up his wand. 
+Cedric stepped forward and offered up his wand.
 
 "Ah, one of my own creations," Ollivander said with a smile. "Ash, and a tail-hair from a particularly statuesque unicorn stallion. 12^1/4^ inches, pleasantly springy, and in fine condition. You treat it regularly?"
 
@@ -4231,11 +4241,11 @@ Izzy bounded over and handed over her wand, bouncing on her toes as Ollivander e
 
 "Yup!" Izzy said.
 
-"How apropos," Ollivander said faintly. He swished the wand, sending a stream of rainbow bubbles spewing forth. As they popped, faint giggling could be heard. He handed the wand back, and Izzy hopped back.
+"How apropos," Ollivander said faintly. He swished the wand, sending a stream of opalescent bubbles spewing forth. As they popped, faint giggling could be heard. He handed the wand back, and Izzy hopped back.
 
 "And last, but certainly not least," Ollivander said. "Miss Potter!"
 
-Elysia popped her wand from its holster, flipped her wand around her index finger like a knife, and extended it to Ollivander handle-first.
+Elysia popped her wand from its holster, flipped it around her index finger like a knife, and extended it to Ollivander handle-first.
 
 "Yes, how well I remember. Holly, 11 inches, quite supple, and with a feather from a particularly fine phoenix."
 
@@ -4245,7 +4255,7 @@ Dumbledore looked startled at that.
 
 "Quite," Ollivander said. "For all that it's clearly well-maintained, this wand has seen some excitement, Miss Potter."
 
-Elysia shrugged. "Some of us actually _use_ our wands," she said, with a smirk at the others. "Those acid burns, for instance: venom splash from the basilisk I slew in second year. Big one, too -- the goblins said it was 64 feet long and nearly 6 feet across. Fangs the size of my arm. And those slight scorch marks there by the tip: an overchanneled _Patronus_ charm last June. Ran off the entire cohort of dementors the Ministry had guarding against Sirius Black -- something like a hundred of the cursed things -- when they swarmed my friends and I. And that off-color streak there: when we took out a troll in first year."
+Elysia shrugged. "Some of us actually _use_ our wands," she said, with a smirk at the others. "Those acid burns, for instance: venom splash from the basilisk I slew in second year. Big one, too -- fangs the size of my arm, and the goblins said it measured 64 feet long, nearly 6 feet across, and weighed in at just shy of 42 tons. And those slight scorch marks there by the tip: an overchanneled _Patronus_ charm last June. Ran off the entire cohort of dementors the Ministry had guarding against Sirius Black -- something like a hundred of the cursed things -- when they swarmed my friends and I. And that off-color streak there: when we took out a troll in first year."
 
 The others were gaping. Dumbledore just hung his head, pinching the bridge of his nose.
 
@@ -4255,7 +4265,7 @@ The others were gaping. Dumbledore just hung his head, pinching the bridge of hi
 
 "And yet, you hide your most distinctive scar," Rita finally piped up. "Why is that, Elysia -- can I call you Elysia?"
 
-"I didn't _earn_ that one, Rita -- can I call you Rita?" Elysia said. "Let's talk after, and I'll tell you how I _really_ got that one. Anyway, it's been nothing but trouble, so I had it removed the muggle way a few days ago. It's been hidden with make-up before that." _Damn, I'm getting a bit too good at lying through my teeth._ C'est la vie.
+"I didn't _earn_ that one, Rita -- can I call you Rita?" Elysia said. "Let's talk after, and I'll tell you what _really_ happened there. Anyway, it's been nothing but trouble, so I had it removed the muggle way a few days ago. It's been hidden with make-up before that." _Damn, I'm getting a bit too good at lying through my teeth._ C'est la vie.
 
 "I find it hard to believe such outlandish tales," Karkaroff scoffed. "You are but a child."
 
@@ -4275,9 +4285,9 @@ An enormous silvery bird exploded out of her wand, glowing like the sun. Its win
 
 "_Яички Распутина (yaichki rasputina),_" Anna breathed.
 
-"My word," Ollivander exclaimed. "A thunderbird! How extraordinary!"
+"My word," Ollivander exclaimed. "A thunderbird! How fabulous!"
 
-"Fabulous!" Madame Maxime said.
+"Extraordinary!" Madame Maxime said.
 
 Karkaroff simply glared.
 
@@ -4323,9 +4333,9 @@ _No rest for the wicked,_ Elysia thought.
 
 Dinner seemed to drag on forever. Elysia made sure to eat enough, because she doubted she'd get much sleep tonight. First, she had to catch Sirius up on everything -- and there was _so much!_ And then there were the two rituals, and then the knowledge transfers. If she got to bed before dawn, she'd consider it a win.
 
-Finally, everyone met up in the Gryffindor common room, while Elysia grabbed her trunk from her dorm and brought it down. Elysia placed it in an innocuous corner with the strongest notice-me-not paling she could cast, and then everyone filed into the trunk flat and out to the Kiln.
+Finally, Luna, Hermione, Ginny, and Nell met up in the Gryffindor common room, while Elysia grabbed her trunk from her dorm and brought it down. Elysia placed it in an out-of-the-way corner with the strongest notice-me-not paling she could cast, and then everyone filed into the trunk flat -- where she told them the Secret -- and out to the Kiln.
 
-Robbie had finished furnishing and stocking the farmhouse. He'd set aside the master suite for Elysia, so Sirius was set up in one of the four other bedrooms, and was currently enjoying a hot shower in one of the the hall bathrooms -- by belting out Led Zeppelin's 'Black Dog', apparently.
+Robbie had finished furnishing and stocking the farmhouse. He'd set aside the master suite for Elysia, so Sirius was set up in one of the four other bedrooms, and was currently enjoying a hot shower in one of the the hall bathrooms -- by singing along to Led Zeppelin's 'Black Dog', apparently.
 
 "Is he--?" Hermione asked.
 
@@ -4337,19 +4347,234 @@ Robbie had finished furnishing and stocking the farmhouse. He'd set aside the ma
 
 "Really!?" Ginny squealed.
 
-"Sure," Elysia said. "Trust me, this is the _least_ weird part of what's going to happen tonight. Come on, get comfortable and grab my hands."
+"Sure," Elysia said. "Trust me, this is the _least_ weird part of what's going to happen tonight. Come on, get comfortable and grab my hands. _Legilimens!_"
 
 She pulled them both into her mindscape, and got her first look at Nell as she saw herself.
 
 "Um." Ginny said, blushing a lovely bright pink.
 
-Nell had the same round face, with softer lines. Her dirty-blonde hair came down to her shoulder blades, and had a few streaks of darker brown which brought out her warm brown eyes. She still had her baby fat, but now it was distributed in a curvaceous pear-shaped figure. Elysia popped a mirror in front of her.
+Nell had the same round face, with softer lines. Her dirty-blonde hair came down to her shoulder blades, and had a few streaks of darker brown which brought out her warm brown eyes. She still had her baby fat, but now it was distributed in a more curvaceous pear-shaped figure. Elysia popped a mirror in front of her.
 
 "Is--is that _me?_" Nell asked faintly. She ran her hands over herself as if she couldn't quite believe it. "It is. _It is!_" Tears sprang to her eyes as a beatific smile lit up her face, and she lunged to Elysia and gave her a crushing hug. "Thank you," she sobbed into Elysia's shoulder.
 
 "Don't thank me yet, Nell," Elysia said, returning the hug. "We've got a busy night ahead of us before you get to stay this way. And the sooner we do, the sooner we get to take you shopping! Come on, let's get started."
 
 She led a tearfully-smiling Nell and a slightly dazed Ginny to the study.
+
+
+
++++++
+
+
+
+### The Kiln, Red Wharf Bay, Wales, UK	1994/11/04 20:16
+
+
+
+Elysium was a busy place that evening. First Ginny and Nell were told all about what was up with Elysia this year, and delved into Janet's reading list, particularly the animagus book. They also met James and Lily, who named their animagus forms. Ginny was a tigress, whom Lily named Durga, and Nell was a lioness, which Lily named Freya.
+
+And then there was Sirius.
+
+Elysia, Nell, and Ginny had just opened their eyes when Sirius walked in, still toweling his hair.
+
+"Sirius!" Elysia cried, and pounced on him with a crushing hug.
+
+"Pup!? Is that you?" Sirius asked as the hug broke. "Wow, you look amazing! And happy," he added. "When I got your last letter I was worried."
+
+Elysia grinned, a bit ferally. "I'm not the one you should worry about. Everyone, the infamous Sirius Black. Siri, these are my girlfriends Hermione Granger, whom you already know, and Luna Lovegood. And then this is Ginny Weasley and Nell Longbottom."
+
+"Nell?" Sirius' brow furrowed, then cleared. "Ah, I see. She's like you, then?"
+
+"Yeah. Have a seat, Padfoot, it's going to be a long night. Can the rest of you start setting up for the Morphogenesis ritual? We'll be along once Sirius is caught up."
+
+"The _what?_ Pup, what is going on here?"
+
+"You'll see. Now sit down! Trust me it'll be worth it."
+
+Sirius finally settled onto the sofa as the others trooped downstairs. Elysia locked eyes with him. "_Legilimens._
+
+"Whu--?"
+
+They dropped into Elysium, where James pounced before Sirius could even find his footing, knocking them both to the living room floor.
+
+"Padfoot!"
+
+"Oof! What -- _Prongs?_" Sirius gasped. "Is it really you?" His eyes filled with tears and he hugged James tightly. 
+
+"As close as it gets without necromancy, anyway," Lily agreed, from next to Elysia.
+
+Sirius sat up finally, sniffling a bit. "Okay, for the umpteenth time, _what_ is going on here? Lils, is this _your_ doing?"
+
+Lily snorted. "I wish."
+
+Elysia cocked an eyebrow. "Why would this be Mum's doing?"
+
+"Pup, dunno if you've noticed, but your mother is a little scary. As in, she's tiny and _eldritch._"
+
+Lily grinned, James laughed, and Elysia looked thoughtful. 
+
+"So _that's_ where I get it from." She grinned, matching Lily's slightly feral gleam.
+
+Sirius stared at James. "Help me, Prongs, there's two of them!"
+
+James cackled. "Isn't it great?"
+
+Eventually, they managed to bring Sirius up to speed, including the Secret of the Kiln, and Elysia got him to read _Processing Trauma._ Twelve years in Azkaban left its scars, not least of all the decade-and-change of living and growing he'd missed out on. In many ways, Sirius still thought and acted like he was fresh out of his teens. But now the shadows that haunted his gaze weren't as dark or as deep, and the light in his eyes stayed brighter for longer.
+
+Finally, Elysia and Sirius joined the others in the ritual chamber below the farmhouse.
+
+"Alright," Elysia said, once everyone was in position. "We've got two rituals to do tonight. The first one is the Morphogenesis Ritual, which is bio-alchemy. Things are going to get a bit messy. I've already prepared the reagent. Everyone, take a sip and pass it to your left when I give the signal."
+
+She waved a hand and the lights went out, the room now only lit by the ritual candles. The subjects of the ritual -- Hermione, Luna, Ginny, Nell, and Sirius -- stood at each point of a pentagram. Between each point was a candle, and around the pentagram was a ring of runes between two circles. 
+
+Elysia sliced her finger, moved to the northernmost point and began pacing deasil, chanting and gesturing. As she moved, the others took up a completely different chant, and lines of light and magic began to take shape. At each point where the pentagram touched the inner circle, right behind each participant, she dripped a few drops of blood. When she had dripped at each point she shifted the wound closed, and a wall of faintly-shimmering magic enclosed the circle.
+
+A phantom bell began to toll, and Elysia gave the signal. Hermione took a sip, passing it to Luna, who passed it to Nell, then Ginny, then Sirius. The empty bottle was tucked away in a pocket.
+
+The chanting reached a crescendo. Elysia lifted her arms high and shouted the final words. The others all threw their heads back and screamed, blood feeling as if it were on fire and the glow of magic streaming from their eyes and wide-open mouths. Finally, the magic abated and they all slumped to the ground. The phantom bell gave a final toll, and the candles blew out in an otherworldly wind.
+
+In the pitch-black of the chamber, Elysia could hear only the gasping breath of the others. She brought the lights up slowly, and found them all sprawled on the chamber floor, wide-eyed and shaking.
+
+"Everyone okay?" She asked, moving to help her girlfriends sit up.
+
+"Yeah," Ginny said. Her voice was rough.
+
+Elysia floated some bottles of water to each of them, which they took gratefully and drained.
+
+"So that's the hard part done," She said, to everyone's relief.
+
+"Worth it," Nell said.
+
+> To Do:
+>
+> - [x] Do the Morphogenesis bio-alchemy ritual
+
+
+
++++++
+
+
+
+After a break and snacks, Elysia and Robbie gathered the components for the Unlimited Flight ritual, and they all returned to the chamber. 
+
+Inside the rune circle, they removed the pentagram and inscribed a hexagram with a chalk made from crushed eggshells. At each point, nestled upon a bed of feathers, a crystal was placed which had been charged with a single component spell of the main Unlimited Flight spell: anti-gravity, acceleration, raw velocity, inertial compensation, agility, and a triggering charm. In the center, a larger crystal was placed; it was charged with the full Unlimited Flight spell. Its feather nest was woven through with a hair from each of them.
+
+They each sliced a finger and dripped a few drops into the rune circle. Magic flared, the lights dimmed, and they drew their wands and began chanting, "_Hegan egin mugarik gabe! Hegan egin mugarik gabe!_"
+
+As they chanted, the central crystal floated into the air, followed by the ancillary crystals. The smaller crystals began orbiting the larger in intricate patterns, weaving in and out and leaving braided ribbons of light in their wake. Finally, the crystals orbiting so fast they could no longer be seen, there was a blast of light and magic, which buffeted the runic circle's barrier. With one final chant, they all stepped forward, breaking the barrier.
+
+Light flared. Light filled them. They _were_ light.
+
+They floated for a moment that lasted an eternity.
+
+Finally, the light faded, seeping into their very beings, and they opened their eyes to find themselves floating a foot above the ground.
+
+"Holy _shit,_" Hermione gasped.
+
+"What a _rush!_" Nell exclaimed.
+
+Ginny just giggled euphorically.
+
+Luna floated serenely over to Elysia and kissed her, suddenly and passionately, before doing the same to Hermione.
+
+Sirius was crying tears of joy. "I... I haven't felt this weightless _ever,_" he sobbed. "For the first time in my life, I feel _free._"
+
+Elysia smiled. "Not quite yet, Padfoot. First, I need to teach you all how to shape-shift. And then. Oh, _then_ you'll know true freedom."
+
+> To Do
+>
+> - [x] Do the Unlimited Flight ritual
+
+
+
++++++
+
+
+
+They all ended up in the living room in Elysium, where Janet carted in a stack of books for each of them. Luna and Hermione only had the metamorphmagus and shapeshifting books, while the others had the same reading list to catch up on. Elysia spent the time going over the information on the horcruxes and plotting with her parents and Janet.
+
+"Most of these will be pretty easy with Sirius helping," James said. "He can access the locket in Grimmauld Place, and as Lord Black he can annul Bellatrix's marriage to Rodolphus Lestrange. That triggers repayment of her dowry and reversion of all her assets, which, since the Cup is in her personal vault, means Sirius can simply walk into Gringotts and withdraw it."
+
+"That's convenient," Elysia said.
+
+"The Diadem you can deal with whenever," Lily said. "Might want it sooner rather than later, though. If you clear out the horcrux, its power will give you an _enormous_ edge."
+
+"I'll probably grab it tomorrow, then," Elysia said. "I could use the help when I modify my Firebolt. The Ring is the one I'm worried about. Riddle will likely be watching the Gaunt Shack fairly closely right now."
+
+"Worry about that when the time comes," Janet said. "Worst case, just have Robbie on standby to glass the place with Fiendfyre as soon as Riddle's in the middle of the ritual."
+
+"That'll work," Lily said with an evil smile. "And then there's just the snake and the man himself, which should be no trouble for you in the moment."
+
+"Awesome," Elysia said. "Well, nothing left to do but kick some arse."
+
+
+
+> To Do:
+>
+> - [x] Transfer the knowledge on shapeshifting to Sirius, Hermione, Luna, Ginny, and Nell
+> - [x]  Make a plan with The Horcrux-Hunting Handbook
+>   - [ ] Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
+>   - [ ] Seek & Destroy the horcrux in Slytherin's Locket
+>     - [ ] Get Sirius to help access 12 Grimmauld Place 
+>   - [ ] Seek & Destroy the horcrux in Hufflepuff's Cup (Bellatrix Lestrange's Vault)
+>     - [ ] Get Sirius to annul Bellatrix's marriage
+>     - [ ] Get Sirius to withdraw the Cup
+>   - [ ] Seek & Destroy the horcrux in the Ring (Gaunt Shack)
+>   - [ ] Seek & Destroy the Snake (Little Hangleton Graveyard)
+
+
+
++++++
+
+
+
+"You gonna tell them that they're functionally immortal now?" Lily asked.
+
+"Nah," Elysia replied. "It's more fun if they figure it out themselves."
+
+
+
++++++
+
+
+
+Ginny and Nell both read _Processing Trauma,_ and the difference, while not as stark as with Sirius, was substantial. Nell was much more confident, especially now that she finally fit her own self-image. Ginny still had claws, but she'd lost the desperate edge and occasional spirals of despair she'd had for most of the last year.
+
+
+
++++++
+
+
+
+Eventually, everyone was done reading and they all decided to go for a night flight around the grounds. As the entire property was both heavily warded and under _Fidelius,_ there was no need to worry about being seen as long as they didn't fly too high -- the wards capped at roughly a mile up.
+
+"This is the _life,_" Sirius said, lazily floating on his back.
+
+"Right?" Elysia said. She, Luna, and Hermione were also floating on their backs, heads together and holding hands. The moon was a waxing crescent, and so didn't wash out the stars. The night sky was cloudy, but not enough to completely block out the view, and it had been an exceptionally mild autumn thus far, so they had barely even needed warming charms.
+
+Nell had drifted down to explore among the woods, and Ginny was performing increasingly daring aerobatic feats and having the time of her life. And Robbie, always one to stay busy, had decided to check the pond for fish.
+
+"So, a broom race, huh, Pup?" Sirius asked.
+
+Hermione smirked. "I know that at least three of the other champions are aces on brooms, but let's be real: Ellie's got this in the bag."
+
+Elysia grinned devilishly. "I'm going to strip the limiter on my Firebolt. Should break the sound barrier in two to three seconds, and top out around Mach 1.8."
+
+Sirius' eyes widened and he bounced a few feet higher up. "Sweet Merlin!"
+
+Luna giggled. "You _do_ know we can go much faster _without_ a broom, now?"
+
+"Just remember to shift your skin and eyes and such to something that can handle the friction," Hermione cautioned. "I imagine windburn at those speeds would be like being sandblasted."
+
+"Ghostform," Elysia said. "That's my secret weapon for the Tournament. Anything like that comes up, and a quick _mamuzko forma_ and I'll just ghost right through it."
+
+"I think I like the Amharic variation better," Hermione quipped. "It's got telekinesis built in. No having to split focus for another spell."
+
+"Good point," Elysia acknowledged. "But anyway. The Firebolt has a windscreen charm out to a couple of feet. Anything much smaller than a snitch gets shunted around. If I stretch it out to wrap completely, that should take care of both windburn and drafting problems. And if I can work in a silencer somehow, that should help mitigate the sonic boom. Leave the eardrum-shattering to Lemmy."
+
+Sirius cackled. "Let me guess, 'Ace of Spades?'"
+
+"Damn right! Ooh, that reminds me, any of you lot want to watch the Weighing of the Wands highlight reel?"
 
 
 

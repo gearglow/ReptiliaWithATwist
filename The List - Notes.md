@@ -48,17 +48,19 @@
 
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
 
-- Other musical influences: _War Pigs_ by Black Sabbath, _Thunderstruck_ by AC/DC, _Boom Shake The Room_ by Fresh Prince & DJ Jazzy Jeff
+- Other musical influences: _War Pigs_ by Black Sabbath, _Thunderstruck_ by AC/DC and [many many more](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1_PBEKeO4vHL1xY0ahLNeM)
 
 - The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
 - How to neutralize dementors: sink them. They cause everything around them to freeze, so they'll end up encasing themselves in ice.
 
-- Elysia gets Luna and Hermione dragonhide jackets and boots like hers and Robbie's. Luna gets Australian Opal-Eye, and Hermione gets Chinese Fireball. They have their Marauder names on the back in a rock star font.
+- Elysia gets Luna and Hermione dragonhide jackets and boots like hers and Robbie's. Luna gets Antipodean Opal-Eye, and Hermione gets Chinese Fireball. They have their Marauder names on the back in a rock star font.
 
 - Izzy hits it off immediately with the Furies.
 
 - Ellie and Izzy agree that they'll fight purely with muggle martial arts for their wandless duel.
+
+- Elysia brings True Constructs of her parents into the confrontation with Dumbledore.
 
 
 
@@ -139,6 +141,10 @@ Trans girl. Lesbian.
 
 Dating Ginny?
 
+AKA:
+
+- Freya (lioness animagus)
+
 
 
 ### Ginny
@@ -146,6 +152,10 @@ Dating Ginny?
 Cis girl. Bisexual.
 
 Dating Nell?
+
+AKA:
+
+- Durga (tigress animagus)
 
 
 
@@ -297,6 +307,7 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Contingent spells
 - Space-warping (even redirects Unforgivables)
 - Touch spell channeling
+- Solid Illusions
 - Shifting into magical (or not!) beings complete with powers (gorgon's petrifying gaze, banshee's killing scream, etc.)
 - Shifting into non-animal forms
 - Partial shifting (basilisk gaze in otherwise human shape, etc.)
@@ -364,7 +375,7 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Phoenix fire: _fenix sua_ (Basque).
 - Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_, Khmer).
 - Instant Orgasm: дур тавих (_dur tavikh,_ Mongolian).
-- Full-sensory illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_ Nepali).
+- Full-sensory solid illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_ Nepali).
 
 ## Magic Technicalities
 
@@ -470,28 +481,37 @@ What it says on the tin.
 - [x] Get a solicitor on retainer
 - [x] Leverage being roped into the Tournament to become emancipated
 - [x] Talk to Janet about the Triwizard Tournament and fallout thereof
+- [x] Liquidate the remains of Slytherin's Basilisk
+- [x] Take over the affairs of House Potter
+- [x] Do the ritual to make Sirius, Hermione, Luna, Ginny, and Nell all metamorphmagi
+- [x] Do the Unlimited Flight ritual
+- [x] Transfer the knowledge on shapeshifting to Sirius, Hermione, Luna, Ginny, and Nell
 
 #### To Do
 
 
-- [ ] Do the ritual to make Hermione, Luna, Ginny, and Nell all metamorphmagi
-- [ ] Transfer the knowledge on shapeshifting to Hermione, Luna, Ginny, and Nell
-- [ ] Do the Unlimited Flight ritual
-- [ ] Take over the affairs of House Potter
-- [ ] Liquidate the remains of Slytherin's Basilisk
-- [ ] Find and read The Horcrux-Hunting Handbook
+- [x]  Make a plan with The Horcrux-Hunting Handbook
   - [ ] Seek & Destroy the horcrux in Slytherin's Locket
     - [ ] Get Sirius to help access 12 Grimmauld Place 
   - [ ] Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
   - [ ] Seek & Destroy the horcrux in Ring (Gaunt Shack)
+    - [ ] Have Robbie glass it with Fiendfyre during Riddle's resurrection
   - [ ] Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
-  - [ ] Get to the Triwizard Cup first in the Third Task
   - [ ] Seek & Destroy the Snake (Little Hangleton Graveyard)
-  - [ ] Seek & Destroy Voldemort (_after_ he reincorporates)
-- [ ] Deal with the dragon in the First Task
+- [ ] Crush the broom race in the First Task
+- [ ] Deal with the dragon in the Second Task
 - [ ] Dazzle at the Yule Ball
-- [ ] Rescue the hostage in the Second Task
+- [ ] Dominate the duels in the Third Task
+- [ ] Rescue the hostage in the Fourth Task
+- [ ] Destroy the competition in the duels for the Fifth Task
+- [ ] Get to the Triwizard Cup first in the Final Task
+- [ ] Seek & Destroy Voldemort (_after_ he reincorporates)
+
+  - [ ] Booby-trap the Little Hangleton Graveyard
+  - [ ] Replace the remains of Riddle Sr. with something else
+  - [ ] Prepare a container of muggle blood to shift into place when the time comes
 - [ ] Capture Peter Pettigrew
+- [ ] Become the Heir of Hogwarts with all four Founders' Relics
 - [ ] Get some kind of therapy program in Hogwarts
 - [ ] Disarm Dumbledore and take ownership of the Elder Wand
 - [ ] Break Dumbledore's hold on society
