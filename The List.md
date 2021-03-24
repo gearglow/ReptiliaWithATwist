@@ -2576,7 +2576,7 @@ Ginny face-palmed.
 
 The others agreed, and after lunch Elysia led them to a corridor on the seventh floor, stopping to pace in front of a tapestry of dancing trolls.
 
-_I need a place to plan an excursion to the Hogwarts Wardstone Room,_ she thought intently.
+_I need a place to plan an excursion to the Hogwarts Wardstone Chamber,_ she thought intently.
 
 When they all filed into the Room, they found something out of a spy movie, with the highlights being a large conference table holding a live scale model of what appeared to be maintenance access tunnels, a workbench with rune-carving supplies, and shelves full of reference books. There were also several blackboards on wheeled stands scattered about.
 
@@ -2584,11 +2584,11 @@ When they all filed into the Room, they found something out of a spy movie, with
 
 "It's the Room of Requirement, or as we elves call it, the Come-And-Go Room," Robbie said, appearing already seated at the model-bearing table with a quiet pop. "It turns into whatever you need it to be."
 
-Neville looked at the model, looked at Robbie, and asked, "What if we need it to be a door straight to the Wardstone Room?"
+Neville looked at the model, looked at Robbie, and asked, "What if we need it to be a door straight to the Wardstone Chamber?"
 
 Everyone else looked at each other for a moment, and the sound of six palms impacting upon six foreheads echoed through the room.
 
-Elysia focused for a moment, and the model-laden table was replaced by a scale-model of the Hogwarts Wardstone Room[^2]. It was more of a cavern, really, and full of haphazard columns of an unidentifiable crystal, all of which were glowing softly in a rainbow of colors. Interspersed amongst them were shorter, stouter crystals of a deeper blue, as if they were made from deep ocean water made solid. All were carved over every visible inch with runes, all too small to make out at this scale. Two clusters of runes, on separate crystals, were glowing red.
+Elysia focused for a moment, and the model-laden table was replaced by a scale-model of the Hogwarts Wardstone Chamber[^2]. It was more of a cavern, really, and full of haphazard columns of an unidentifiable crystal, all of which were glowing softly in a rainbow of colors. Interspersed amongst them were shorter, stouter crystals of a deeper blue, as if they were made from deep ocean water made solid. All were carved over every visible inch with runes, all too small to make out at this scale. Two clusters of runes, on separate crystals, were glowing red.
 
 "Goodness," Luna gasped.
 
@@ -2722,7 +2722,7 @@ Elysia did so, and a ghostly image formed over the table demonstrating a spell a
 
 "Let's get to it, then," Elysia said. "Nev, Robbie, thanks for watching our backs."
 
-Neville and Robbie took a seat at the table. The others lined up just beyond the door to the Wardstone Room, raised their wands in unison, and said, "_hegan egin mugarik gabe!_"
+Neville and Robbie took a seat at the table. The others lined up just beyond the door to the Wardstone Chamber, raised their wands in unison, and said, "_hegan egin mugarik gabe!_"
 
 As they all rose into the air, whooping with delight, five trails of light streaked off into the cavern. Hermione headed for the lightning ward, Elysia took on the DADA curse, and the others busied themselves with the other 'clusters of concern,' as they'd been dubbed.
 
@@ -4005,7 +4005,7 @@ Hermione nodded, and the triad told him all about their foray via the Room of Re
 
 "And third-years!" Luna piped up.
 
-"-- snuck into the Hogwarts Wardstone Room, a place that is near mythical in both its protections and _mere existence,_ and _fixed_ the most intractable reason for the magical world's technological stagnation _in an afternoon?_"
+"-- snuck into the Hogwarts Wardstone Chamber, a place that is near mythical in both its protections and _mere existence,_ and _fixed_ the most intractable reason for the magical world's technological stagnation _in an afternoon?_"
 
 They nodded cautiously.
 
@@ -4600,6 +4600,8 @@ Hermione snorted. "Cold? Grey I'll grant you, but this is positively _balmy_ for
 
 Just then, Anna walked by in track pants and a sports bra, her hair back in a tight pony-tail. "How can anyone stand this heat!" She complained in Russian. "These girls in _jackets,_ of all things. How do they not melt?"
 
+("Oh, I am _way_ too gay for this," Izzy muttered, biting her lip.)
+
 "It's hotter now that you're here," Elysia said in Russian, winking.
 
 Anna blushed, eyes wide in surprise.
@@ -4624,7 +4626,7 @@ Izzy whistled. "Smooth. Wish _I'd_ though of it." She winked at Anna. "True, too
 
 Anna cocked an eyebrow.
 
-Elysia shrugged. "You're like three years older than me and I'm very much taken by these two," she responded, wrapping an arm around Luna and Hermione.
+Elysia shrugged. "You're like three years older than me and I'm very much taken by these two," she responded, wrapping her arms around Luna and Hermione.
 
 "It is easy to forget you are so young," Anna said. "You carry yourself well."
 
@@ -4648,13 +4650,13 @@ Ginny blushed.
 
 
 
-After a late breakfast, Elysia went with Nell to speak with Professor McGonagall about switching dorms and about leaving the castle to get her a new, more appropriate, wardrobe. She offered to take her to get the basics, and anything special could be acquired at the next Hogsmeade weekend on the 19th.
+After a late breakfast, Elysia went with Nell to speak with Professor McGonagall about switching dorms and about leaving the castle to get her a new, more appropriate, wardrobe. McGonagall offered to take her to get the basics, and anything more could be acquired at the next Hogsmeade weekend on the 19th.
 
 "I'm surprised at you, Miss Longbottom," she admonished. "You're certainly not the first girl in your situation I've had in my care. Had you but told me, I would've helped you have the ritual performed through proper channels."
 
 "I know," Nell said, hanging her head a bit. "But my gran would never listen. Sometimes it's easier to ask forgiveness than permission."
 
-McGonagall sighed. "Augusta can be particularly stubborn at times, 'tis true. Well, you'll hear no more of it from me, unless you would like my assistance with your grandmother when you finally do speak with her about it."
+McGonagall sighed. "Augusta can be particularly stubborn at times, 'tis true. Well, you'll hear no more of it from me, unless you would like my assistance with your grandmother when the time comes."
 
 Nell smiled. "I'd very much appreciate it."
 
@@ -4666,3 +4668,28 @@ Nell smiled. "I'd very much appreciate it."
 
 After Professor McGonagall left with Nell, Elysia took the opportunity to retrieve the Diadem from the Room of Requirement. She met Robbie and her girlfriends outside the Room and they went over the plan, such as it was.
 
+"So that's it?" Hermione said. "Just walk up and hit it with the horcrux-zapper? What about if it has _other_ curses?"
+
+"It probably does," Elysia agreed. "But they'll be much easier to deal with in a proper workspace, which the Room of Lost Things most certainly _isn't._"
+
+"And what about traps in the Room itself?"
+
+"That's why I'm not going it alone. You and Luna are both much better at analysis than me, not to mention curse-breaking proper. And then there's Robbie. If the four of _us_ can't handle whatever's in there, I think even Dumbledore would have trouble."
+
+"We've got this!" Luna exclaimed.
+
+"Thank you for doing this with me, my loves," Elysia said, kissing them both. "And you too, bro," she added, hugging Robbie.
+
+Hermione and Luna slipped their goggles into place, and Elysia flipped her glasses into Active mode. She paced back and forth three times, thinking "I need the place where everything is hidden."
+
+The door appeared, and in they went.
+
+"My goodness," Luna exclaimed. "There's _mountains_ of stuff in here!"
+
+"It's worse than the Wardstone Chamber," Hermione agreed.
+
+Elysia grinned. "_Monstrant viam!_"
+
+The other two girls face-palmed. Robbie chuckled.
+
+A glowing path drew itself out from Elysia's feet, and the four of them took off, flying high enough to avoid most of the mounds of detritus.
