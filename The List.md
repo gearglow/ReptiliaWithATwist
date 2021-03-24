@@ -4317,7 +4317,7 @@ They shook on it, and Elysia dropped the paling.
 
 After Rita grilled all six of them for what felt like hours, but was really closer to only one, they took photos. Rita and her photographer had them pose all together, on their own, and in various group permutations. Elysia's favorite was of her and Izzy playing air-guitar together with Ollivander. She got the photographer to promise to send her a copy of that one, whether it made it to press or not.
 
-They also took a trip into the pensieve, to view carefully-selected memories of the troll-fight in first year, the basilisk in second year, and the routing of the dementors in third. They all emerged shaken, clearly seeing Elysia in a new light. Dumbledore was pale, and his face was drawn in a disturbed frown. Rita was clearly bursting with questions, but Elysia took her aside and told her to write them down and they'd meet over the weekend and do an in-depth interview -- likely the first of many -- and that seemed to satisfy her.
+They also took a trip into the pensieve, to view carefully-selected memories of the troll-fight in first year, the basilisk in second year, and the routing of the dementors in third. They all emerged shaken, clearly seeing Elysia in a new light. Dumbledore was pale, and his face was drawn in a disturbed frown. Rita was clearly bursting with questions, but Elysia took her aside and told her to write them down and they'd meet over lunch on Sunday and do an in-depth interview -- likely the first of many -- and that seemed to satisfy her.
 
 As they were finishing up, Robbie sidled over to mention that Sirius had arrived and called him. 
 
@@ -4574,7 +4574,7 @@ Luna giggled. "You _do_ know we can go much faster _without_ a broom, now?"
 
 Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
-"Damn right! Ooh, that reminds me, any of you lot want to watch the Weighing of the Wands highlight reel?"
+"Damn right! Ooh, that reminds me, any of you lot want to watch the Weighing of the Wands highlight reel in the pensieve?"
 
 
 
@@ -4582,4 +4582,87 @@ Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
 
 
-They _did_ manage to get back to Hogwarts and into bed before dawn, as it turned out. Granted, it was a near thing, but Elysia still managed most of a full night's sleep. After the late night, she felt justified in skipping most of her training for the day, but she still met Hermione and Luna (and now Ginny and Nell) for a quick run before breakfast.
+### Hogwarts Grounds, Hogsmeade, Scotland	1994/11/05, 08:30	Bonfire Night
+
+They _did_ manage to get back to Hogwarts and into bed before dawn, as it turned out. Granted, it was a near thing, but Elysia still managed most of a full night's sleep. After the late night, she felt justified in skipping most of her training for the day, but she still met Hermione and Luna (and now Ginny and Nell) for a quick run before breakfast and some calisthenics on the grounds right after.
+
+As it was later than they were usually out, other students were around enjoying the comparatively warm (though cloudy) weather. They saw Millie, Lisa, and Laura having a picnic by the lake, and Izzy doing pull-ups on a convenient tree. Cormac McLaggen, a Gryffindor 5th-year, was flying around on his broom and leered at them until all five of them hit him with a targeted "you're a bug and I'm going to splat you" aura, at which point he paled and flew off, nearly crashing several times.
+
+"You lot are scary sometimes," Izzy commented.
+
+"Oh, hey Izzy," Elysia said, making introductions.
+
+Izzy dropped down from the tree she'd still been hanging from. "So what brings you all out here on such a cold, grey day?"
+
+Hermione snorted. "Cold? Grey I'll grant you, but this is positively _balmy_ for Scotland in November. Why, it's practically summer still!"
+
+"Plus, all the exercise warms you right up!" Luna added.
+
+Just then, Anna walked by in track pants and a sports bra, her hair back in a tight pony-tail. "How can anyone stand this heat!" She complained in Russian. "These girls in _jackets,_ of all things. How do they not melt?"
+
+"It's hotter now that you're here," Elysia said in Russian, winking.
+
+Anna blushed, eyes wide in surprise.
+
+Hermione smacked her arm, laughing, and Luna giggled.
+
+"What?" Elysia said in Basque, with an impish grin. "It's fun to fluster the stoic ones."
+
+Izzy giggled. "No wonder they call you Heart-Breaker," she teased, switching back to English. "What exactly did you say, anyway?"
+
+"She said," Anna said with an odd sort of tone to her voice, "that it's hotter now that I'm here."
+
+Izzy whistled. "Smooth. Wish _I'd_ though of it." She winked at Anna. "True, too. I feel my temperature rising already."
+
+"Yeah, what the hell, Potter? You weren't this smooth last year," Ginny said.
+
+"You weren't this smooth _last week,_" Nell added.
+
+("Yes, she was," Luna said smugly.)
+
+"It's like I told Hermione over the summer. It's easier when you're not that invested in it."
+
+Anna cocked an eyebrow.
+
+Elysia shrugged. "You're like three years older than me and I'm very much taken by these two," she responded, wrapping an arm around Luna and Hermione.
+
+"It is easy to forget you are so young," Anna said. "You carry yourself well."
+
+"My dad's probably spinning in his grave as I say this, but that's Professor Snape's fault," Elysia said. "He told me the other day to have a song playing in your head and pretend you're the rock star, and _own_ it. Seems to be working."
+
+"Much like my own method, then," Anna said approvingly. "Shoulders back, stride evenly, and think, _murder._"
+
+"Ooh, I _like_ you!" Ginny exclaimed with a grin.
+
+"You are a bit young for me, I think," Anna said, smirking.
+
+Ginny blushed.
+
+"How about me?" Izzy said, prowling closer.
+
+"Hmph. We shall see," Anna said, her eyes sparkling mischievously.
+
+
+
++++++
+
+
+
+After a late breakfast, Elysia went with Nell to speak with Professor McGonagall about switching dorms and about leaving the castle to get her a new, more appropriate, wardrobe. She offered to take her to get the basics, and anything special could be acquired at the next Hogsmeade weekend on the 19th.
+
+"I'm surprised at you, Miss Longbottom," she admonished. "You're certainly not the first girl in your situation I've had in my care. Had you but told me, I would've helped you have the ritual performed through proper channels."
+
+"I know," Nell said, hanging her head a bit. "But my gran would never listen. Sometimes it's easier to ask forgiveness than permission."
+
+McGonagall sighed. "Augusta can be particularly stubborn at times, 'tis true. Well, you'll hear no more of it from me, unless you would like my assistance with your grandmother when you finally do speak with her about it."
+
+Nell smiled. "I'd very much appreciate it."
+
+
+
++++++
+
+
+
+After Professor McGonagall left with Nell, Elysia took the opportunity to retrieve the Diadem from the Room of Requirement. She met Robbie and her girlfriends outside the Room and they went over the plan, such as it was.
+

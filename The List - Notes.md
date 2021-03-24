@@ -48,7 +48,7 @@
 
 - Punk rock influences: Siouxsie And The Banshees, Poison Girls, Bikini Kill, Wasted Youth, Chumbawumba (esp. _Anarchy_), The Clash
 
-- Other musical influences: _War Pigs_ by Black Sabbath, _Thunderstruck_ by AC/DC and [many many more](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1_PBEKeO4vHL1xY0ahLNeM)
+- Other musical influences: Girlschool, Joan Jett, _War Pigs_ by Black Sabbath, _Thunderstruck_ by AC/DC and [many many more](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1_PBEKeO4vHL1xY0ahLNeM)
 
 - The Potters have Basque roots, such that a decent chunk of their grimoires are in Aquitanian and therefore completely unintelligible to most people. The family is also known historically for golems and related soul-magics.
 
@@ -368,6 +368,7 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Lightning blade: _fulmineum_ (Latin) or _tximista pala_ (Basque).
 - Wide-area stunner: _stupefacio locus_ (Latin).
 - Stun bolt: _txundituta_ (Basque).
+- Chain-Lightning stunner: _kate tximista txundigarri_ (Basque) or _kettenblitzschlag_ (German).
 - Fire bolt: _fulmen ignem_ (Latin).
 - Ice blade: _izotz pala_ (Basque).
 - Ice spear: _बरफ_ (_barapha,_ Nepali).
@@ -376,6 +377,8 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_, Khmer).
 - Instant Orgasm: дур тавих (_dur tavikh,_ Mongolian).
 - Full-sensory solid illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_ Nepali).
+- Perfect reflexes: _phản xạ hoàn hảo_ (Vietnamese).
+- Thunder step: βροντή (_vrontí,_ Greek).
 
 ## Magic Technicalities
 
