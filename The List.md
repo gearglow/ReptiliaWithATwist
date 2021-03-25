@@ -4696,14 +4696,16 @@ A glowing path drew itself out from Elysia's feet, and the four of them took off
 
 "How does this place work, I wonder," Hermione mused aloud as they flew. "The Room isn't a static place, so I'd imagine the usual sort of wards wouldn't stick."
 
-"I don't know about the Room," Luna said, "but I'd wager that means most of the Diadem's defenses would be tied to it directly. Compulsions tied to trigger-fired curses, contact poisons, that sort of thing. Perhaps it's in a box, and _that's_ warded and trapped."
+"I don't know about the Room," Luna said, "but I'd think that means most of the Diadem's defenses would be tied to it directly. Compulsions tied to trigger-fired curses, contact poisons, that sort of thing. Perhaps it's in a box, and _that's_ warded and trapped."
 
 "Given that Tommy-boy hid the thing here when he was supposedly interviewing for the DADA position," Elysia commented, "I don't think he had much time to set up defenses. My money's on him trapping the Diadem itself, no matter _how_ the Room works."
 
 "Makes our job here simpler, at least," Robbie said. "And there it is!"
 
-In quite the anticlimax, the glowing path led straight to what, if they hadn't known better, look like nothing so much as a piece of cheap costume jewelry. Their goggles showed plenty of magic on the Diadem itself, but no ward-lines, or any other magic aside from the Room's ambient aura.
+In quite the anticlimax, the glowing path led straight to what, if they hadn't known better, looked like nothing so much as a piece of cheap costume jewelry, nestled among a pile of oddities -- a dusty old wig, a chipped bust, stained old robes. Their goggles showed plenty of magic on the Diadem itself, but no ward-lines, or any other magic aside from the Room's ambient aura.
 
 "Here's hoping the rest of it's this easy," Elysia said. "_Suntsitu arima lotua!_"
 
-A bolt of magic, the color of which none of them could quite process, streaked from her wand and struck the Diadem with the sound of a large bell tolling far away. A cloud of black smoke flowed from it, as if a candle had been snuffed, and a haunting scream could be heard, as if from an out-of-tune radio station, until it dissipated completely.
+A bolt of magic, the color of which none of them could quite process, flew from her wand and struck the Diadem with the sound of a large bell tolling far away. A cloud of black smoke flowed from it, as if a candle had been snuffed, and a haunting scream could be heard, as if from an out-of-tune radio station, until it dissipated completely.
+
+Hermione conjured a lead box, which Luna levitated the Diadem into. They could feel a compulsion to wear the Diadem as it drew near, but their occlumency held. Then the four of them flew back out to the hallway, where Elysia reset the Room to be a top-tier Enchanting workshop.

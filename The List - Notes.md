@@ -379,6 +379,7 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Full-sensory solid illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_ Nepali).
 - Perfect reflexes: _phản xạ hoàn hảo_ (Vietnamese).
 - Thunder step: βροντή (_vrontí,_ Greek).
+- Cluster bomb: 집속 탄 (_jibsong tan_, Korean).
 
 ## Magic Technicalities
 
