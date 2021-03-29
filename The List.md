@@ -4712,4 +4712,4 @@ Hermione conjured a lead box, which Luna levitated the Diadem into. They could f
 
 "_Tempus,_" Hermione muttered. _15:12._ "We've got just under three hours until dinner."
 
-"That should be enough to at least get an idea of what we're dealing with," Luna said.
+"That should be enough to at least get an idea of what we're dealing with," Luna said. "Though whatever it is, it's _mean._ The wrackspurts are _swarming_ around it."
