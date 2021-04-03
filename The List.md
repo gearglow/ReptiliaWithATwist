@@ -4708,8 +4708,10 @@ In quite the anticlimax, the glowing path led straight to what, if they hadn't k
 
 A bolt of magic, the color of which none of them could quite process, flew from her wand and struck the Diadem with the sound of a large bell tolling far away. A cloud of black smoke flowed from it, as if a candle had been snuffed, and a haunting scream could be heard, as if from an out-of-tune radio station, until it dissipated completely.
 
-Hermione conjured a lead box, which Luna levitated the Diadem into. They could feel a compulsion to wear the Diadem as it drew near, but their occlumency held. Then the four of them flew back out to the hallway, where Elysia reset the Room to be a top-tier Enchanting workshop.
+Hermione conjured a lead box, which Luna levitated the Diadem into. They could feel a compulsion to wear the Diadem as it drew near, but their occlumency held. Then the four of them flew back out to the hallway, where Elysia reset the Room to be a fully-equipped Enchanting workshop.
 
 "_Tempus,_" Hermione muttered. _15:12._ "We've got just under three hours until dinner."
 
 "That should be enough to at least get an idea of what we're dealing with," Luna said. "Though whatever it is, it's _mean._ The wrackspurts are _swarming_ around it."
+
+She had placed the now-open box on a shielded work table (which looked quite a bit like a quarantine station in a biology lab) and was peering at the Diadem through an enchanted lens. The others joined her, and after much investigation, they realized just _how_ mean.
