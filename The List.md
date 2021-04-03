@@ -4715,3 +4715,11 @@ Hermione conjured a lead box, which Luna levitated the Diadem into. They could f
 "That should be enough to at least get an idea of what we're dealing with," Luna said. "Though whatever it is, it's _mean._ The wrackspurts are _swarming_ around it."
 
 She had placed the now-open box on a shielded work table (which looked quite a bit like a quarantine station in a biology lab) and was peering at the Diadem through an enchanted lens. The others joined her, and after much investigation, they realized just _how_ mean.
+
+"I-is that a _mind virus!?_" Hermione gasped, a look of abject horror on her face.
+
+"That's _abhorrent!_" Luna exclaimed, outraged.
+
+"This might actually be worse than the horcruxes," Elysia said faintly, face pale.
+
+Robbie shuddered with revulsion, and then asked the important question. "Can we salvage the Diadem, or do we give it a bath in basilisk venom and dry it off with fiendfyre?"
