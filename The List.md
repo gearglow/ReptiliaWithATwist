@@ -4723,3 +4723,14 @@ She had placed the now-open box on a shielded work table (which looked quite a b
 "This might actually be worse than the horcruxes," Elysia said faintly, face pale.
 
 Robbie shuddered with revulsion, and then asked the important question. "Can we salvage the Diadem, or do we give it a bath in basilisk venom and dry it off with fiendfyre?"
+
+_Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water trickling across Elysia's scalp. _Rowena left you the original recipe._
+
+"Janet says I've got instructions on making a new Diadem," Elysia informed the others. "Let's wipe this abomination from the face of the planet."
+
+
+
++++++
+
+
+
