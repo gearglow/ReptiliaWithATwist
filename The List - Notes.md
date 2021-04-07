@@ -406,6 +406,44 @@ To compare this to light, or a radio, this is more about the frequency than the 
 Power is more a function of your individual *internal* harmony. That's why magic is so heavily intent-based. The stronger your intent, the more focused and *unified* you are in your intent, the more powerful your magic is.
 
 
+
+## Ritual of the Founders
+
+> The Sword has been blooded
+>
+> The Cup is restored
+>
+> The Locket is open
+>
+> The Diadem reforged
+>
+> By Might and by Magic
+>
+> Through loss and through gain
+>
+> The Founders return
+>
+> To Hogwarts again
+>
+> All beings of the Isles
+>
+> Who heed Magic's Call
+>
+> The Chosen is come
+>
+> To reign over all
+>
+> By Sunlight and Moonlight
+>
+> By Land, Air, and Sea
+>
+> Thrice heard and thrice answered
+>
+> Thus willed, mote it be!
+
+
+
+
 ## Politics
 
 ### Factions
@@ -517,10 +555,11 @@ What it says on the tin.
   - [ ] Replace the remains of Riddle Sr. with something else
   - [ ] Prepare a container of muggle blood to shift into place when the time comes
 - [ ] Capture Peter Pettigrew
-- [ ] Become the Heir of Hogwarts with all four Founders' Relics
+- [ ] Become the Chosen Heir of Hogwarts with all four Founders' Relics
 - [ ] Get some kind of therapy program in Hogwarts
 - [ ] Disarm Dumbledore and take ownership of the Elder Wand
 - [ ] Break Dumbledore's hold on society
+- [ ] Reform society so it doesn't die of stagnation and insularity
 
 
 
