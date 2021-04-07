@@ -407,7 +407,7 @@ Power is more a function of your individual *internal* harmony. That's why magic
 
 
 
-## Ritual of the Founders
+## Rite of the Founders
 
 > The Sword has been blooded
 >
