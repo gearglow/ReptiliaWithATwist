@@ -3909,7 +3909,7 @@ A short, curvy girl with hair a lot like Elysia's, only with purple highlights, 
 
 +++++
 
-
+### Hogwarts, Chamber of Secrets	1994/11/02 08:30
 
 The next morning Elysia and company met the Gringotts team in the Entrance Hall.
 
@@ -4145,7 +4145,7 @@ Moody nodded.
 
 +++++
 
-
+### Hogwarts, Great Hall	1994/11/04 13:00
 
 Finally, Friday came, and with it the Weighing of the Wands. She'd already gotten the day's assignment from Snape, and Robbie had acquired a boom-box with a 6-disc CD changer. They'd charmed it to run off of an ambient magic tap instead of batteries, since otherwise it would devour them like Ron devoured dessert, and prepped the wardrobe change in her trunk. Janet had warned her about Rita Skeeter, and Elysia had decided to see if she could be brought onside. If not, well. Who could fault someone 'accidentally' squashing a bug?
 
@@ -4698,9 +4698,9 @@ A glowing path drew itself out from Elysia's feet, and the four of them took off
 
 "I don't know about the Room," Luna said, "but I'd think that means most of the Diadem's defenses would be tied to it directly. Compulsions tied to trigger-fired curses, contact poisons, that sort of thing. Perhaps it's in a box, and _that's_ warded and trapped."
 
-"Given that Tommy-boy hid the thing here when he was supposedly interviewing for the DADA position," Elysia commented, "I don't think he had much time to set up defenses. My money's on him trapping the Diadem itself, no matter _how_ the Room works."
+"Given that our boy Tomothy hid the thing here when he was supposedly interviewing for the DADA position," Elysia commented, "I don't think he had much time to set up defenses. My money's on him trapping the Diadem itself, no matter _how_ the Room works."
 
-"Makes our job here simpler, at least," Robbie said. "And there it is!"
+"Makes our job here simpler, at least," Robbie said, snickering at 'Tomothy'. "And there it is!"
 
 In quite the anticlimax, the glowing path led straight to what, if they hadn't known better, looked like nothing so much as a piece of cheap costume jewelry, nestled among a pile of oddities -- a dusty old wig, a chipped bust, stained old robes. Their goggles showed plenty of magic on the Diadem itself, but no ward-lines, or any other magic aside from the Room's ambient aura.
 
@@ -4716,7 +4716,7 @@ Hermione conjured a lead box, which Luna levitated the Diadem into. They could f
 
 She had placed the now-open box on a shielded work table (which looked quite a bit like a quarantine station in a biology lab) and was peering at the Diadem through an enchanted lens. The others joined her, and after much investigation, they realized just _how_ mean.
 
-"I-is that a _mind virus!?_" Hermione gasped, a look of abject horror on her face.
+"I-is that a _soul virus!?_" Hermione gasped, a look of abject horror on her face.
 
 "That's _abhorrent!_" Luna exclaimed, outraged.
 
@@ -4732,6 +4732,9 @@ _Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water tri
 
 +++++
 
+### The Three Broomsticks, Hogsmeade, Scotland	1994/11/06 12:00
 
+They spent the next morning in Elysium, preparing for the lunch interview with Rita Skeeter, and by the time Elysia walked into the Three Broomsticks, she felt pretty good about it all.
 
-They spent the next morning in Elysium, preparing for the lunch interview with Rita Skeeter.
+Solicitor Tonks met her as she entered, and Madame Rosmerta directed them to a private room in the back.
+
