@@ -2472,7 +2472,7 @@ Janet handed Hermione a book, with a list tucked into the cover page. "Here, sta
 
 Smiling fondly as Hermione settled into one of the armchairs by the window and began devouring the book, Elysia settled in and devoured her own. Something suddenly struck her as she finished, and she went over to the desk.
 
-"Morgana's rack," she breathed. "Janet? Does this mean what I think it means?"
+"_Morgana's rack,_" she breathed. "Janet? Does this mean what I think it means?"
 
 Janet came over. "If you think it means that Moldy Voldy keeps shooting himself in the foot, you're dead on."
 
@@ -2536,7 +2536,7 @@ Elysia and Hermione looked at each other and grinned.
 
 +++++
 
-
+### Hogwarts Grounds, Scotland	1994/09/04 09:15
 
 They decided to put up the lightning rod first, as a fail-over precaution. When the ward came down, there was a chance of built-up energy discharging, and having somewhere to discharge _to_ was probably a good idea.
 
@@ -2562,7 +2562,7 @@ About an hour after they'd started, they had one lightning rod ready for install
 
 +++++
 
-
+### Room of Requirement, Hogwarts	1994/09/04 13:08
 
 "Sufh wushf bha phlam?" Ron said around a mouthful of food (again).
 
@@ -2732,7 +2732,7 @@ The DADA cluster proved to be on one of the shorter crystals, and as Elysia drew
 
 "I managed to get the lightning ward, at least," Hermione reported.
 
-"Wonderful!" Elysia crowed. "Now I can show you a nifty little spell I found in a travel guide from Hawai'i. Apparently they use it on tourists who get too handsy. Room, if you would?"
+"Wonderful!" Elysia crowed. "Now I can show you a nifty little spell I found in a travelogue from Hawai'i. It used to be used for fishing, and now apparently they use it on tourists who get too handsy. Room, if you would?"
 
 The lights dimmed, and a metal pole rose from the floor, roughly as tall as Elysia. She raised her wand and jabbed it forward, intoning, "_limahana!_" A spark jolted from her wand with an audible crackle, arcing from the tip of her wand to the metal pole. She held it for a few seconds, the electric glow casting dancing shadows.
 
@@ -2743,6 +2743,8 @@ As she released the spell, the lights came back up and the pole retreated back i
 
 
 ## Chapter 11: Outclassed
+
+### Hogwarts, Classrooms	1994/09/05 08:00
 
 Monday morning found Elysia and Hermione once again greeting a yawning Luna outside the Great Hall at breakfast with fond smiles. Both girls had talked the night before about how quickly Luna had become their friend, and how much they both enjoyed spending time with her.
 
@@ -2802,7 +2804,7 @@ Luna smiled as Hermione nodded enthusiastically. "I'd love to!"
 
 
 
-After Arithmancy was Runes, which Professor Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Millicent Bulstrode and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Laura Madley and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna just smirked.
+After Arithmancy was Runes, which Professor Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Millicent Bulstrode and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Laura Madley and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna noted, smirking, that she was pretty sure none of them were straight (including the professor, if the tattoo of a labrys wreathed in violets on her wrist was any indication).
 
 "Well, ladies," Professor Babbling said with a grin. "Now that it's just the best and brightest this section, we get to jump right into the fun stuff." An enormous Cheshire-cat grin split her face. "Welcome to Curse-Breaking 101."
 
@@ -2834,7 +2836,7 @@ Ron's ears turned bright red.
 
 +++++
 
-
+### Elysium	1994/09/05 05:20
 
 The next morning, Elysia and Hermione came downstairs for their morning run to find Luna waiting for them in the entrance hall, wearing a baby-blue velvet track-suit that matched her eyes.
 
@@ -2920,7 +2922,7 @@ Elysia relaxed with some stories about curse-breaking expeditions, as she was st
 
 +++++
 
-
+### Hogwarts, DADA Classroom	1994/09/08 13:00
 
 Rapidly-growing friendship between the girls aside, classes proceeded more or less uneventfully. Potions was much better now that she and Snape were on better terms; even Neville seemed to be having an easier time of things. Arithmancy was fascinating, especially with both Hermione and Luna there with her. Runes, or 'Curse-Breaking 101,' as they all called it now, was rapidly becoming all three girls' favorite class, with Hermione in particular taking to it like she was born for it.
 
@@ -2946,7 +2948,7 @@ The entire class was lying on the floor, stunned, as was the disillusioned lump 
 
 "I think so," Hermione responded. "Ellie, what happened? The last thing I remember was you yelling 'boom' and everything went white."
 
-Elysia knelt and picked up her sandstone ball, which promptly disintegrated into a handful of sand as she stood. "A little something I found in a curse-breaking adventure story - a flash-bang stunner. After the twins constantly repeating 'constant vigilance' their first Defense class, I figured something was up. And there's not a whole lot who can block an area stunner after a flash-bang breaks their focus."
+Elysia knelt and picked up her sandstone ball, which promptly disintegrated into a handful of sand as she stood. "A little something I found in a curse-breaking adventure story - a flash-bang stunner. With the twins constantly repeating 'constant vigilance' after their first Defense class, I figured something was up. And there's not a whole lot who can block an area stunner after a flash-bang breaks their focus."
 
 "How'd you carve one so fast?" Hermione demanded.
 
@@ -3013,7 +3015,7 @@ Ron raised his hand, Hermione's silencing spell long since dispelled. "The Imper
 
 Moody nodded at him. "Aye, that'd be one. Five points. Weasley, right? Your da would know all about that one, lad. Gave the Ministry no end of trouble during the war." He stunned a spider from the jar, laying it on his desk. "Needs to be a bit bigger so you lot can all see. _Engorgio!_"
 
-The spider grey to the size of a small dog, causing Ron to whimper.
+The spider grew to the size of a small dog, causing Ron to whimper.
 
 "The Imperius curse allows the caster to completely control the target," Moody lectured. "Like so. _Imperio!_"
 
@@ -3047,7 +3049,7 @@ Hermione put her hand down and said quietly, "the killing curse."
 
 A sickly green bolt of spell-fire hit the spider, which curled up dead. Elysia felt as if a great, intangible _something_ had passed before her, and the weight of it chilled her to the core.
 
-"Now," Moody said, breaking the shaken reverie of the students. "Who can tell me _why_ these spells are considered Unforgivable? You can kill someone with a simple cutting curse, cause pain with a well-placed hemorrhoid hex, and control someone with judicious use of Confundus charms. What makes these three so special?"
+"Now," Moody said, breaking the shaken reverie of the students. "Who can tell me _why_ these spells are considered Unforgivable? You can kill someone with a simple cutting curse, cause pain with a well-placed boil hex, and control someone with judicious use of Confundus charms. What makes these three so special?"
 
 "'Cuz using one's a one-way ticket to Azkaban," Seamus volunteered.
 
@@ -3079,7 +3081,7 @@ After class, Moody led a still-shaken Neville to his office with promises of a b
 
 "Why'd you lie earlier, Ellie?" Ron asked.
 
-Elysia shot him a look and quickly cast a privacy paling around them. "You mean about being from Canada?" Ron nodded. "Same reason I changed my eye color. I'm bloody sick of being singled out over that bloody 'Boy-Who-Lived' shite."
+Elysia shot him a look and quickly cast a privacy paling around them. "You mean about being from Canada?" Ron nodded. "Same reason I changed my eye color and hid my scar. I'm bloody sick of being singled out over that bloody 'Boy-Who-Lived' shite."
 
 "Girl-Who-Lived now, I reckon," Ron said.
 
@@ -3143,6 +3145,8 @@ She spun on her heels and stalked off, leaving a bewildered Dumbledore in her wa
 
 ## Chapter 12: The Best Present
 
+### Hogwarts, Deputy Headmistress' Office	1994/09/10 15:42
+
 After her encounter with Dumbledore, a fuming Elysia immediately sought out her Head of House.
 
 "What's got you so furious, Miss Potter?" Professor McGonagall asked.
@@ -3159,7 +3163,7 @@ Professor McGonagall's nostrils flared. "I quite agree, Miss Potter," she said. 
 
 +++++
 
-
+### Hogwarts, DADA Classroom	1994/09/15 13:00
 
 The rest of September was marked by three events in particular. The first was that, a week after Professor Moody demonstrated all three Unforgivables, he informed them that Headmaster Dumbledore had granted permission for them all to be put under the Imperius curse, "so you can know what it feels like," Moody said. He'd then had them all line up, and, one by one, made them do absurd and impossible things. Neville, for instance, had performed a flawless double back-flip off of Moody's desk.
 
@@ -3191,11 +3195,11 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 +++++
 
-
+### Room of Requirement, Hogwarts	1994/09/18 12:00	
 
 The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the Curse-Breaking 101 girls, the Weasleys, the Chasers, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
 
-They were all dressed casually for the day. Elysia had on a houndstooth sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
+They were all dressed casually for the day. Elysia had on a red sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
 
 Luna was in an airy floral-pattern dress with a pale blue cardigan, which had Elysia stealing a few glances herself. Hermione was the only one not wearing a dress; she'd donned figure-hugging jeans and a gauzy white blouse over a lime-green cami, which set off her darker complexion and kept causing the other girls to almost walk into things.
 
@@ -3309,7 +3313,7 @@ Finally, as dinner approached, they all settled down with food to watch _The Pri
 
 +++++
 
-
+### Gryffindor Common Room, Hogwarts	1994/09/24 16:11
 
 The third event was arguably less positive, though some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
 
@@ -3387,7 +3391,9 @@ She swept out the door, leaving Dumbledore gaping behind her.
 
 ## Chapter 13: Send Lawyers, Guns, and Money
 
-At dinner on the last Saturday of October, Professor Dumbledore made the announcement that tomorrow afternoon, the delegations from Beauxbatons and Durmstrang would be arriving in time for dinner. The school had been scrubbed from top to bottom by the house-elves, until one could practically eat off the floors. 
+### Hogwarts	1994/10/30 16:00
+
+At dinner on the last Saturday of October, Professor Dumbledore made the announcement that tomorrow afternoon, the 30th, the delegations from Beauxbatons and Durmstrang would be arriving in time for dinner. The school had been scrubbed from top to bottom by the house-elves, until one could practically eat off the floors. 
 
 The next day at 16:00, all of the students were made to stand in rows, in full uniform, on the castle's front steps. Elysia was standing with Hermione and Luna, holding hands and chatting over legilimency. Their conversation was interrupted as several students pointed overhead.
 
@@ -3503,7 +3509,7 @@ Luna snorted. "Bet you never thought you'd say _that,_ love."
 
 +++++
 
-
+### Great Hall, Hogwarts	1994/10/31 17:00
 
 The Goblet of Fire had been placed in the entrance hall the night before, with the headmaster's vaunted age line around it. Over the course of the day, many students had tried to place their names in the Goblet. The Durmstrang students all put theirs in as soon as they were able the night before, and the Beauxbatons students entered theirs first thing that morning. The Weasley twins spent the day sporting long white beards fit to rival Dumbledore's, which was apparently caused by trying to cross the age line while underage.
 
@@ -3525,7 +3531,7 @@ They both face-palmed. "Why _didn't_ we, Gred?"
 
 "And he'll never admit his mistakes unless his hand is forced, either," Luna said. "You can tell; his image is so carefully cultivated. Ooh, bouillabaisse!"
 
-The Opening Feast that night was quite the event even for a Hogwarts feast. Aside from each school's representatives, delegates from the British Ministry were present -- Elysia recognized Ludo Bagman and Bartemius Crouch from the World Cup. And the menu was much expanded -- it featured traditional cuisine from both visiting schools' cultures (including bouillabaisse). Indeed, the house-elves had outdone themselves. Elysia was enjoying a helping of veal kapama, a traditional Bulgarian stew, while Hermione was feeding Luna a bite of her _coq au vin._
+The Opening Feast that night was quite the event even for a Hogwarts feast. Aside from each school's representatives, delegates from the British Ministry were present -- Elysia recognized Ludo Bagman and Bartemius Crouch from the World Cup. And the menu was much expanded -- it featured traditional cuisine from both visiting schools' cultures (including bouillabaisse). Indeed, the house-elves had outdone themselves. Elysia was enjoying a helping of veal _kapama,_ a traditional Bulgarian stew, while Hermione was feeding Luna a bite of her _coq au vin._
 
 "Are you finished wis ze bouillabaisse?" A voice said from behind them.
 
@@ -3577,7 +3583,7 @@ The Goblet flashed red a third time.
 
 "The champion for Hogwarts is Cedric Diggory!"
 
-The cheers Cedric received were the loudest yet, especially from the Hufflepuff table. He stood with a grin and followed the others to the anteroom.
+The cheers Cedric received were the loudest yet, especially from the Hufflepuff table. He stood with a grin and a wave, and followed the others to the anteroom.
 
 "Congratulations to our three champions," Dumbledore said. "And now --"
 
@@ -3585,7 +3591,7 @@ The Goblet flashed red.
 
 The crowd erupted in confused murmurs as Dumbledore read the slip of parchment silently.
 
-"Miss Potter? A word, if you please," He called.
+"Miss Potter? A word, if you please," he called.
 
 Elysia stood, confusion plastered across her face. "Headmaster?"
 
@@ -3629,7 +3635,7 @@ There was a flash, and she lit the end of her wand.
 
 An incandescent rage was bubbling just below the surface of Elysia's stony face as she swept into the anteroom.
 
-"Ellie?" Cedric asked. "What is it?"
+"Potter?" Cedric asked. "What is it?"
 
 "Do zey want us back in ze Hall?" Fleur asked.
 
@@ -3799,7 +3805,7 @@ An owl arrived over lunch from Elysia's solicitor.
 
 Elysia immediately read and signed the form. Once she tapped it with her wand, it disappeared with a flash. The owl had long since stolen a sausage and departed.
 
-"It's official," she told her girlfriends. _Let's duck out and do the _Fidelius_ after Potions._
+"It's official," she told her girlfriends. _Let's duck out and do the_ Fidelius _after Potions._
 
 _I'll have to skip History,_ Luna said. _No great loss there._
 
@@ -3861,7 +3867,7 @@ Robbie nodded. "I figured, while I was at Gringotts getting a basilisk-harvestin
 
 "How'd that go, by the way?" Elysia asked.
 
-"Well enough. We got the flat fee, which is going to end up making us some serious coin," Robbie replied. "They'll meet us in the Entrance Hall tomorrow morning at 0830." He shook his head. "I still can't believe you killed that thing, Ellie, much less with a bloody _sword._ I'm just glad I can watch your back properly now."
+"Well enough. We got the flat fee, which is going to end up making us some serious coin," Robbie replied. "They'll meet us in the Entrance Hall tomorrow morning at 08:30." He shook his head. "I still can't believe you killed that thing, Ellie, much less with a bloody _sword._ I'm just glad I can watch your back properly now."
 
 "Me too. No more sending rogue bludgers at me," Elysia grinned.
 
@@ -3909,13 +3915,13 @@ A short, curvy girl with hair a lot like Elysia's, only with purple highlights, 
 
 +++++
 
-### Hogwarts, Chamber of Secrets	1994/11/02 08:30
+### Chamber of Secrets, Hogwarts	1994/11/02 08:30
 
 The next morning Elysia and company met the Gringotts team in the Entrance Hall.
 
 "Ah, Miss Potter," Claymore said. "When I heard about the basilisk I just had to come see for myself."
 
-"Good to see you, Claymore," Elysia said. "And I told you, call me Ellie. Blood still flowing, heads still rolling?"
+"Good to see you, Claymore," Elysia said. "And I told you, call me Ellie. Gold still flowing, heads still rolling?"
 
 Claymore laughed. "Always, Ellie."
 
@@ -4081,7 +4087,7 @@ Eventually, the goblins didn't need them around anymore, and they tired of explo
 
 All through Charms she turned the idea over in her head. They were starting Summoning Charms, which as a staple combat spell Elysia knew backwards, forwards, upside-down, and wandless, so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
 
-"Padfoot and I were quite the hell-raisers back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got mine, and Robbie's got Padfoot's. So that's a good start right there."
+"Padfoot and I were quite the hellions back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got mine, and Robbie's got Padfoot's. So that's a good start right there."
 
 "They really do go with almost everything," Lily agreed.
 
@@ -4145,7 +4151,7 @@ Moody nodded.
 
 +++++
 
-### Hogwarts, Great Hall	1994/11/04 13:00
+### Great Hall, Hogwarts	1994/11/04 13:00
 
 Finally, Friday came, and with it the Weighing of the Wands. She'd already gotten the day's assignment from Snape, and Robbie had acquired a boom-box with a 6-disc CD changer. They'd charmed it to run off of an ambient magic tap instead of batteries, since otherwise it would devour them like Ron devoured dessert, and prepped the wardrobe change in her trunk. Janet had warned her about Rita Skeeter, and Elysia had decided to see if she could be brought onside. If not, well. Who could fault someone 'accidentally' squashing a bug?
 
@@ -4231,7 +4237,7 @@ Ollivander rescued him by waving the wand, sending a stream of silver smoke ring
 
 Krum slouched forward and thrust his wand into Ollivander's hand, then stood scowling with his hands in his pockets.
 
-"Ah, another Gregorovich creation!" He pronounced. "Hornbeam, 10^1/4^ inches, and... hmm, yes... dragon heart-string, quite rigid, rather thicker than one usually sees. _Avis!_" With a loud _bang,_ a flock of small birds appeared and flew out the owl-doors in the eaves. He handed Krum back his wand, and the boy slouched back.
+"Ah, another Gregorovich creation!" He pronounced. "Hornbeam, 10^1/4^ inches, and... hmm, yes... dragon heart-string, quite rigid, rather thicker than one usually sees. _Avis!_" With a loud _bang,_ a flock of small birds appeared and flew out the owl-doors in the eaves. He returned the wand to Krum, and the boy slouched back.
 
 "Only our two youngest champions left," Ollivander rubbed his hands excitedly. "Miss Maradona, if you please?"
 
@@ -4389,7 +4395,7 @@ Elysia grinned, a bit ferally. "I'm not the one you should worry about. Everyone
 
 "The _what?_ Pup, what is going on here?"
 
-"You'll see. Now sit down! Trust me it'll be worth it."
+"You'll see. Now sit down! Trust me, it'll be worth it."
 
 Sirius finally settled onto the sofa as the others trooped downstairs. Elysia locked eyes with him. "_Legilimens._
 
@@ -4664,7 +4670,7 @@ Nell smiled. "I'd very much appreciate it."
 
 +++++
 
-
+### Room of Lost Things, Hogwarts	1994/11/05 13:45
 
 After Professor McGonagall left with Nell, Elysia took the opportunity to retrieve the Diadem from the Room of Requirement. She met Robbie and her girlfriends outside the Room and they went over the plan, such as it was.
 
@@ -4702,7 +4708,7 @@ A glowing path drew itself out from Elysia's feet, and the four of them took off
 
 "Makes our job here simpler, at least," Robbie said, snickering at 'Tomothy'. "And there it is!"
 
-In quite the anticlimax, the glowing path led straight to what, if they hadn't known better, looked like nothing so much as a piece of cheap costume jewelry, nestled among a pile of oddities -- a dusty old wig, a chipped bust, stained old robes. Their goggles showed plenty of magic on the Diadem itself, but no ward-lines, or any other magic aside from the Room's ambient aura.
+In quite the anticlimax, the glowing path led straight to what, if they hadn't known better, looked like nothing so much as a piece of cheap costume jewelry, nestled among a pile of oddities -- a dusty old wig, a chipped bust, stained robes. Their goggles showed plenty of magic on the Diadem itself, but no ward-lines, or any other magic aside from the Room's ambient aura.
 
 "Here's hoping the rest of it's this easy," Elysia said. "_Suntsitu arima lotua!_"
 
@@ -4736,5 +4742,8 @@ _Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water tri
 
 They spent the next morning in Elysium, preparing for the lunch interview with Rita Skeeter, and by the time Elysia walked into the Three Broomsticks, she felt pretty good about it all.
 
-Solicitor Tonks met her as she entered, and Madame Rosmerta directed them to a private room in the back.
+A man in business robes met her as she entered, introducing himself as Solicitor Marius Bulstrode.
 
+"Ah, you must be Millie's father!" Elysia exclaimed, shaking his hand.
+
+"Indeed," Solicitor Bulstrode agreed.
