@@ -1,23 +1,5 @@
 # The List - Outtakes
 
-## Ritual of the Founders
-
-> The Sword has been blooded
->
-> The Cup is restored
->
-> The Locket is open
->
-> The Diadem reforged
->
-> By Might and by Magic
->
-> Through loss and through gain
->
-> The Founders return
->
-> To Hogwarts again
-
 ## Vanquishing Viktor
 
 Elysia, Luna, and Hermione were studying in the library one day when Viktor Krum walked up to them.

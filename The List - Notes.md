@@ -62,6 +62,12 @@
 
 - Elysia brings True Constructs of her parents into the confrontation with Dumbledore.
 
+- Elysia tells Rita it's possible to check with the goblins as to whether or not Pettigrew is alive, but the Wizengamot never did. 
+
+- Rita's articles lead to a trial for Sirius which, along with the hype from Elysia's first two tasks, cause Crouch to break a few key DEs out of Azkaban the same way he was. Likely candidates: Bella, Rookwood, Dolohov, Malfoy.
+
+- Sirius' trial frees him, and he upends the Black family. Narcissa requests an annulment, and Draco sides with her. When Lucius breaks out, Draco goes to Elysia & co.
+
 
 
 ## Characters
@@ -429,7 +435,7 @@ Power is more a function of your individual *internal* harmony. That's why magic
 >
 > Who heed Magic's Call
 >
-> The Chosen is come
+> The Chosen hath come
 >
 > To reign over all
 >

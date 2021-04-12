@@ -4740,10 +4740,11 @@ _Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water tri
 
 ### The Three Broomsticks, Hogsmeade, Scotland	1994/11/06 12:00
 
-They spent the next morning in Elysium, preparing for the lunch interview with Rita Skeeter, and by the time Elysia walked into the Three Broomsticks, she felt pretty good about it all.
+They spent the next morning, in Elysium, preparing for the lunch interview with Rita Skeeter, and by the time Elysia walked into the Three Broomsticks, she felt pretty good about it all.
 
 A man in business robes met her as she entered, introducing himself as Solicitor Marius Bulstrode.
 
 "Ah, you must be Millie's father!" Elysia exclaimed, shaking his hand.
 
 "Indeed," Solicitor Bulstrode agreed.
+
