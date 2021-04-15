@@ -4335,7 +4335,7 @@ _No rest for the wicked,_ Elysia thought.
 
 
 
-## Chapter 15:
+## Chapter 15: Working For The Weekend
 
 Dinner seemed to drag on forever. Elysia made sure to eat enough, because she doubted she'd get much sleep tonight. First, she had to catch Sirius up on everything -- and there was _so much!_ And then there were the two rituals, and then the knowledge transfers. If she got to bed before dawn, she'd consider it a win.
 
@@ -4746,5 +4746,54 @@ A man in business robes met her as she entered, introducing himself as Solicitor
 
 "Ah, you must be Millie's father!" Elysia exclaimed, shaking his hand.
 
-"Indeed," Solicitor Bulstrode agreed.
+"Indeed," Solicitor Bulstrode agreed. "She speaks quite highly of you."
 
+They headed back to a private room, where Rita met them a few minutes later.
+
+"Miss Potter!" She greeted, a predatory gleam in her eye.
+
+"Rita!" Elysia said, radiating affability. "I thought I told you to call me Ellie. Drink?"
+
+"Don't mind if I do," Rita said.
+
+"Rita, this is Marius Bulstrode, of Eberhardt, Bulstrode, and Tonks. We have a proposition for you."
+
+Rita raised one eyebrow, hastily swallowing her sip of firewhiskey. "Do tell."
+
+"We're going to take down Albus Dumbledore."
+
+Rita dropped her glass.
+
+
+
++++++
+
+
+
+After Elysia gave Rita the broad-strokes story of how Albus Dumbledore had screwed her over, including the sealing of her parents' will, conversation turned to Sirius Black.
+
+"You mean to tell me," Rita said, aghast, "that a Lord of a Most Ancient and Noble House was imprisoned for over a decade _without a trial?_"
+
+"And Dumbledore was in on it," Elysia confirmed. "You see why I want to take him down. One single man shouldn't have that much power, or that much blind trust."
+
+"But _why?_" Rita asked.
+
+"Because someone faked a prophecy and in his desperation he took it to be about me. Well, me or one other, and he set up both sets of parents to see which. And he was -- and is -- arrogant enough to believe that only he is wise enough to be able to dictate my so-called destiny. Never mind that he's obsessed with sacrifice and redeeming the unrepentant at the cost of those who never fell in the first place. Just look at his policy on bullying."
+
+Rita nodded faintly.
+
+Solicitor Bulstrode spoke up. "We'd like you, Ms. Skeeter, to work with our firm in an investigative capacity to build our case. We have all the testimony we could ever wish from Miss Potter, but we need to gather corroborating evidence as well. In return, you get exclusive rights to all stories stemming from what is uncovered, contingent on approval on behalf of Miss Potter before publishing, of course."
+
+"Of course," Skeeter murmured. She finished off her drink. "Well, this is quite a lot to process. But I think -- provisionally -- that I'm in. What do we start with?"
+
+"Sirius' lack of a trial, I think," Elysia said. "There are public records there that not only prove the matter, but bring up openings to all the rest. And I'm pretty sure Gringotts can say conclusively whether or not Peter Pettigrew is still alive -- and time of death if he isn't -- if the Wizengamot formally requests the information."
+
+"They can," Bulstrode confirmed.
+
+"Well, then," Rita said. "Let's talk turkey."
+
+The interview and contract negotiations took until nearly dinner time.
+
+
+
+## Chapter 16:
