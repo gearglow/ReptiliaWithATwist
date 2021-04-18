@@ -4692,7 +4692,7 @@ The door appeared, and in they went.
 
 "My goodness," Luna exclaimed. "There's _mountains_ of stuff in here!"
 
-"It's worse than the Wardstone Chamber," Hermione agreed.
+"It's worse than the Wardstone Chamber," Hermione agreed, sighing.
 
 Elysia grinned. "_Monstrant viam!_"
 
@@ -4740,7 +4740,7 @@ _Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water tri
 
 ### The Three Broomsticks, Hogsmeade, Scotland	1994/11/06 12:00
 
-They spent the next morning, in Elysium, preparing for the lunch interview with Rita Skeeter, and by the time Elysia walked into the Three Broomsticks, she felt pretty good about it all.
+They spent the next morning in Elysium, preparing for the lunch interview with Rita Skeeter. By the time Elysia walked into the Three Broomsticks at noon, she felt pretty good about it all.
 
 A man in business robes met her as she entered, introducing himself as Solicitor Marius Bulstrode.
 
@@ -4797,3 +4797,5 @@ The interview and contract negotiations took until nearly dinner time.
 
 
 ## Chapter 16:
+
+The week leading up to the race, not to put too fine a point on it, flew by.
