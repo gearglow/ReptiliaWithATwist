@@ -4798,4 +4798,101 @@ The interview and contract negotiations took until nearly dinner time.
 
 ## Chapter 16:
 
-The week leading up to the race, not to put too fine a point on it, flew by.
+The week leading up to the race, not to put too fine a point on it, flew by. The triad spent most of their spare time helping Elysia prepare. The modifications to Elysia's Firebolt only took a few hours, as it turned out, and so the rest of the time was spent practicing in the Room of Requirement, with Hermione and Luna doing their best to throw Elysia off course -- or off her broom.
+
+They quickly found that the most troublesome situations were when something interfered with Elysia's vision -- smoke, mirrors, and so forth. This led to a slew of adjustments to Elysia's glasses, from variable-frequency vision filters to a full ley line-based navigation suite built into the HUD (all of which were immediately copied to Luna and Hermione's goggles).
+
+"What about sonar?" Luna asked at one point.
+
+"Not terribly helpful when you're flying faster than the echoes can bounce back," Hermione replied, "but it might come in handy for a different task."
+
+"Can't hurt to add it now, anyway," Elysia said, suiting action to words.
+
+Finally, the week was over, the preparations were done, and Elysia was as ready as she could be.
+
+
+
++++++
+
+
+
+"Welcome, one and all, to the first event in the newly-christened Hex Games!" Ludo Bagman's voice rang out. "Our six competitors are the best and brightest from the top three schools of magic in Europe, and they're raring to go on this beautiful November morning here at our host school, Hogwarts!"
+
+The six champions were sequestered away in a tent just off the quidditch pitch, performing last-minute preparations under the watchful eye of Bartemius Crouch.
+
+"Our event today is a 5-lap no-holds-barred broom race, on one of the most challenging courses ever devised! As the course is being assembled," Bagman continued, "allow me to direct your attention to the Judges' Booth, and the array of Projecting Pensieves just below it. Each of our champions will be given a special amulet with a monitoring charm, tying them to one of the pensieves. We'll be able to view all the action as if we were following just a broom-length or two behind!"
+
+"That's your cue," Crouch announced flatly, handing out the amulets.
+
+The crowd cheered as the pensieves flickered to life.
+
+"And there's the signal! Please welcome our champions!"
+
+_Hit it, bro!_ Elysia sent.
+
+As the six followed Crouch out to the starting line, they couldn't help but saunter to the beat of Judas Priest's _Living After Midnight._ Robbie faded the music out as they all took their places at the starting line. 
+
+Elysia took the opportunity to transfigure her glasses into goggles, trimmed in gunmetal to match her Ironbelly jacket and boots. She'd popped out one day to pick up some leather pants and gloves from a muggle motorcycle shop and charmed them to match, and now she zipped her jacket over a Motörhead tee and grinned up at the stands, where Luna and Hermione blew her kisses.
+
+A black curtain hung before them, hiding the course for the moment. Elysia surreptitiously and wandlessly cast _phản xạ hoàn hảo,_ a Vietnamese spell for perfect reflexes. Her pupils dilated, her ears twitched, and a rush of static electricity swept across her skin.
+
+"Champions, mount your brooms!" Bagman boomed. "Three, two, one, GO!"
+
+The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a shouted "_kettenblitzschlag!_" behind her and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
+
+The spell she'd cast, a German chain-lightning stunner, caught all five of the other champions. It didn't knock them unconscious, but it did lock their muscles for several crucial seconds -- plenty of time for Elysia to gain an early and dominating lead.
+
+The curtain had hidden a tunnel of mirrors, twisting and looping all over Hogwarts' grounds, and Elysia's Perfect Reflexes spell was put to the test immediately. She tapped her goggles to adjust them to a spectrum the mirrors didn't reflect perfectly (a combination of radio and upper ultraviolet, which the goggles beamed out ahead of her into the dim tunnel of mirrors) and immediately had to veer left with a modified Split-S turn.
+
+"Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long-thought only the stuff of legend! And following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt! Mikhail, what _was_ that?"
+
+"Well, Ludo," Engel said, "the young Potter is definitely riding a Firebolt -- first-run, serial number of 80 -- which should have a theoretical top speed of 200 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
+
+Bagman gaped like a fish as a collective gasp rose from the crowd. "But -- _how!?_"
+
+Engel shrugged eloquently. "If I knew, we'd be selling it. At a guess, she stripped out the limiter spells, but without compensating for the resulting acceleration forces, she should have passed out almost immediately from blood-flow problems."
+
+Just then, Elysia blew past them.
+
+"And that's the first lap!" Bagman crowed. "Elysia Potter, with a time of just over 30 seconds! For reference, folks, this course was paced out with a Cleansweep 9 at 10 minutes per lap."
+
+On the pensieves, the other champions were fighting a fierce neck-and-neck battle partway down the track until Elysia lapped them. The sonic boom knocked them about like toy boats in a bathtub when the dog jumps in, and the others found out the hard way that the mirrors had been charmed unbreakable.
+
+They'd barely gotten themselves sorted out and made it a scant few meters down the track before she did it again.
+
+"Right, that's it!" Cedric said. He waved his wand and conjured a net across the full span of the tunnel behind him.
+
+They'd made it just far enough past that Cedric thought his net had actually worked, when Elysia blew past them yet again as if the net had never existed. Cedric chanced a look back -- his net was still intact!
+
+As he watched, though, the net disintegrated into dust, wafting away on the breeze. He tore his gaze away just in time to avoid ramming headlong into the side of the tunnel.
+
+And then she blew past him again.
+
+Back at the finish line, Elysia crossed for the fifth time, finishing her final lap with a Hammerhead stall. She back-flipped off her broom at the apex, casting βροντή (_vrontí_), the Greek Thunder-Step charm, and free-fell into a Hero Landing with her broom swept back behind her like a sword as the ground cratered beneath her.
+
+As she stood, the last strains of _Ace of Spades_ faded out to the absolutely deafening applause from the crowd.
+
+"That might be the hottest thing I've ever seen," Luna gasped to Hermione, who agreed vehemently before dragging her down to meet their girlfriend on the sidelines with a crushing hug and many passionate kisses.
+
+
+
++++++
+
+
+
+Madame Pomphrey insisted on giving Elysia a quick check-over, despite her complaints, but could find nothing wrong save for a case of dehydration (and attendant headache).
+
+"Well, yeah," Elysia responded. "Thickens the blood. Helps keep it where it needs to be during high-G maneuvers."
+
+Madame Pomphrey harrumphed and gave Elysia a tall glass of pickle juice. "Be sure to drink that all down, now," she instructed. "You need to replenish your electrolytes."
+
+"Cheers," Elysia said, toasting Madame Pomphrey and chugging the entire glass in one go.
+
+They made it up to the judges' booth while the rest of the champions were in the midst of their second lap. Hermione conjured a loveseat and the three girls snuggled up together to watch the rest of the race. Robbie popped in with drinks (more pickle juice, for Elysia) and joined them in his own conjured armchair.
+
+"You're still on camera, Ellie," Hermione mentioned, grinning.
+
+"Lucky them," Elysia smirked, planting another kiss on Hermione's lips.
+
+"Ooh, nice barrel-roll from Izzy!" Luna gushed.
+

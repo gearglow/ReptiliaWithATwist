@@ -268,9 +268,9 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1O9nOTwLTSPGZ_fJpNRz7A)
 
 - [x] Weighing of the Wands: Led Zeppelin - Heartbreaker
-- [ ] Broom Race: 
-  - [ ] Walk-Up: Judas Priest - Living After Midnight
-  - [ ] During: Motorhead - Ace of Spades
+- [x] Broom Race: 
+  - [x] Walk-Up: Judas Priest - Living After Midnight
+  - [x] During: Motorhead - Ace of Spades
 - [x] The Dragon: AC/DC - Thunderstruck
 - [ ] Wanded Duel 1 (Cedric): Queen - We Will Rock You
 - [ ] Wanded Duel 2 (Izzy): George Thorogood - Bad To The Bone
@@ -386,6 +386,10 @@ Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close a
 - Perfect reflexes: _phản xạ hoàn hảo_ (Vietnamese).
 - Thunder step: βροντή (_vrontí,_ Greek).
 - Cluster bomb: 집속 탄 (_jibsong tan_, Korean).
+- Echolocation: _ekolokasi_ (Indonesian).
+- Travel as a beam of light: _haizatu nazazu_ ("beam me up," Basque).
+- Disintegration Hex: _decrusto_ (Latin). Only works on non-living matter.
+- Conjuration Disruption: _stör störningar_ (Swedish).
 
 ## Magic Technicalities
 
