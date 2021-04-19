@@ -68,6 +68,8 @@
 
 - Sirius' trial frees him, and he upends the Black family. Narcissa requests an annulment, and Draco sides with her. When Lucius breaks out, Draco goes to Elysia & co.
 
+- Donaghan Tremlett, bassist for The Weird Sisters, is a muggle-born. When Elysia hears that they're booked for the Yule Ball, she send him an owl letting him know that electronics work at Hogwarts now, and she's got a ley jack to power things if he's got a need. The Weird Sisters bring a synth and some FX pedals and blow a few minds.
+
 
 
 ## Characters

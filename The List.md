@@ -4588,7 +4588,7 @@ Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
 
 
-### Hogwarts Grounds, Hogsmeade, Scotland	1994/11/05, 08:30	Bonfire Night
+### Hogwarts Grounds, Scotland	1994/11/05, 08:30	Bonfire Night
 
 They _did_ manage to get back to Hogwarts and into bed before dawn, as it turned out. Granted, it was a near thing, but Elysia still managed most of a full night's sleep. After the late night, she felt justified in skipping most of her training for the day, but she still met Hermione and Luna (and now Ginny and Nell) for a quick run before breakfast and some calisthenics on the grounds right after.
 
@@ -4816,6 +4816,8 @@ Finally, the week was over, the preparations were done, and Elysia was as ready 
 
 
 
+### Hogwarts Grounds, Scotland	1994/11/12, 10:30
+
 "Welcome, one and all, to the first event in the newly-christened Hex Games!" Ludo Bagman's voice rang out. "Our six competitors are the best and brightest from the top three schools of magic in Europe, and they're raring to go on this beautiful November morning here at our host school, Hogwarts!"
 
 The six champions were sequestered away in a tent just off the quidditch pitch, performing last-minute preparations under the watchful eye of Bartemius Crouch.
@@ -4832,7 +4834,7 @@ _Hit it, bro!_ Elysia sent.
 
 As the six followed Crouch out to the starting line, they couldn't help but saunter to the beat of Judas Priest's _Living After Midnight._ Robbie faded the music out as they all took their places at the starting line. 
 
-Elysia took the opportunity to transfigure her glasses into goggles, trimmed in gunmetal to match her Ironbelly jacket and boots. She'd popped out one day to pick up some leather pants and gloves from a muggle motorcycle shop and charmed them to match, and now she zipped her jacket over a Motörhead tee and grinned up at the stands, where Luna and Hermione blew her kisses.
+Elysia took the opportunity to transfigure her glasses into goggles, trimmed in gunmetal to match her Ironbelly jacket and boots. She'd popped out one day to pick up some leather trousers and gloves from a muggle motorcycle shop and charmed them to match, and now she zipped her jacket over a Motörhead tee and grinned up at the stands, where Luna and Hermione blew her kisses.
 
 A black curtain hung before them, hiding the course for the moment. Elysia surreptitiously and wandlessly cast _phản xạ hoàn hảo,_ a Vietnamese spell for perfect reflexes. Her pupils dilated, her ears twitched, and a rush of static electricity swept across her skin.
 
@@ -4846,7 +4848,7 @@ The curtain had hidden a tunnel of mirrors, twisting and looping all over Hogwar
 
 "Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long-thought only the stuff of legend! And following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt! Mikhail, what _was_ that?"
 
-"Well, Ludo," Engel said, "the young Potter is definitely riding a Firebolt -- first-run, serial number of 80 -- which should have a theoretical top speed of 200 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
+"Well, Ludo," Engel said, "the young Potter is definitely riding a Firebolt -- first-run, serial number of 86 -- which should have a theoretical top speed of 200 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
 
 Bagman gaped like a fish as a collective gasp rose from the crowd. "But -- _how!?_"
 
@@ -4856,9 +4858,9 @@ Just then, Elysia blew past them.
 
 "And that's the first lap!" Bagman crowed. "Elysia Potter, with a time of just over 30 seconds! For reference, folks, this course was paced out with a Cleansweep 9 at 10 minutes per lap."
 
-On the pensieves, the other champions were fighting a fierce neck-and-neck battle partway down the track until Elysia lapped them. The sonic boom knocked them about like toy boats in a bathtub when the dog jumps in, and the others found out the hard way that the mirrors had been charmed unbreakable.
+On the pensieves, the other champions were fighting a fierce neck-and-neck battle partway down the track until Elysia lapped them. The sonic boom knocked them about like toy boats in a bathtub when the dog jumps in, and the others found out the hard way that the mirrors had been charmed unbreakable -- and _bouncy._
 
-They'd barely gotten themselves sorted out and made it a scant few meters down the track before she did it again.
+They'd barely gotten themselves sorted out and made it a scant few dozen meters down the track before she did it again.
 
 "Right, that's it!" Cedric said. He waved his wand and conjured a net across the full span of the tunnel behind him.
 
@@ -4880,15 +4882,15 @@ As she stood, the last strains of _Ace of Spades_ faded out to the absolutely de
 
 
 
-Madame Pomphrey insisted on giving Elysia a quick check-over, despite her complaints, but could find nothing wrong save for a case of dehydration (and attendant headache).
+Madame Pomfrey insisted on giving Elysia a quick check-over, despite her complaints, but could find nothing wrong.
 
-"Well, yeah," Elysia responded. "Thickens the blood. Helps keep it where it needs to be during high-G maneuvers."
+Elysia just shrugged, tapping her goggles with her wand to revert them to glasses.
 
-Madame Pomphrey harrumphed and gave Elysia a tall glass of pickle juice. "Be sure to drink that all down, now," she instructed. "You need to replenish your electrolytes."
+Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to drink that all down, now," she instructed. "You need to replenish your electrolytes."
 
-"Cheers," Elysia said, toasting Madame Pomphrey and chugging the entire glass in one go.
+"Cheers," Elysia said, toasting Madame Pomfrey and chugging the entire mug in one go, hands shaking as the adrenaline wore off.
 
-They made it up to the judges' booth while the rest of the champions were in the midst of their second lap. Hermione conjured a loveseat and the three girls snuggled up together to watch the rest of the race. Robbie popped in with drinks (more pickle juice, for Elysia) and joined them in his own conjured armchair.
+They made it up to the judges' booth while the rest of the champions were in the midst of their second lap. Hermione conjured a loveseat and the three girls snuggled up together to watch the rest of the race. Robbie popped in with a crate full of butterbeer and a tub of popcorn, joining them in his own conjured armchair.
 
 "You're still on camera, Ellie," Hermione mentioned, grinning.
 
@@ -4896,3 +4898,82 @@ They made it up to the judges' booth while the rest of the champions were in the
 
 "Ooh, nice barrel-roll from Izzy!" Luna gushed.
 
+For Izzy had narrowly dodged a hex from Krum as they rounded a hairpin turn. Anna took the chance to pull ahead, neck and neck with Fleur. Cedric lagged behind a bit; it seemed that he'd yet to recover from his net gambit.
+
+"Looks like quite the battle," Elysia said smugly. "Guess I got my wish after all."
+
+"And what wish is that?" Luna asked, eyes twinkling.
+
+"To watch the games from the stands, cuddled up with you two," Elysia replied, giving both girls a squeeze.
+
+
+
++++++
+
+
+
+Finally, after another twenty minutes or so, Krum and Diggory crossed the finish line of their final lap, bringing the First Task to a close. Bagman gestured for Elysia to join the others for the final scoring.
+
+Elysia kissed her girlfriends, grabbed her broom, and vaulted over the edge of the judges' box, hanging from her Firebolt by one hand as she drifted quickly down in a corona of illusory lightning, blowing kisses toward the stands the whole way. The crowd went wild.
+
+"Sweet Circe," Izzy muttered. "Who even _is_ this girl?"
+
+"Whoever entered her didn't know what they were in for," Fleur agreed.
+
+"And now, the times!" Bagman crowed. "In last place, with a time of 25:43, Viktor Krum!"
+
+"It voss a lucky shot, Kozlov," Krum grumbled.
+
+Anna sniffed disdainfully. "Luck had nothing to do with it."
+
+"In fifth place," Bagman continued, "with a time of 25:42, Cedric Diggory!"
+
+"That net cost you, huh?" Elysia said.
+
+Cedric grinned sheepishly. "Didn't expect you to blow through it like it wasn't even there!"
+
+"Disruptor. Remind me to show you later."
+
+Cedric nodded as Bagman went on.
+
+"In fourth, with a time of 24:16, Anna Kozlov!"
+
+Krum shot her another glare. Elysia stifled a cackle.
+
+"In third, with a time of 22:42, Izabella Maradona!"
+
+Izzy bounced on her heels, waving at the crowd.
+
+"In second, with a time of 21:12, Fleur "Flurry Rush" Delacour!"
+
+Fleur waved as if she were in a pageant.
+
+"'Flurry Rush'?" Elysia asked.
+
+"I _do_ race professionally, you know," Fleur retorted.
+
+"And today's winner, with a frankly unbelievable time of 2:33, our youngest champion, the Green-Eyed Lightning, the Girl-Who-Lived herself, Elysia Potter!"
+
+Elysia bowed with a flourish to thunderous applause.
+
+"That concludes the First Task of the first-ever Hex Games! We'll see you right back here in two weeks for a spectacle of daring, nerve, prowess like you've never seen before: the Second Task!"
+
+As the professors began tearing down the course, Bagman called the champions back up to the judges' booth for an informal press conference.
+
+"We were going to do this in the Great Hall," he said, "but it's so nice out today!"
+
+"It is, at that," Elysia agreed, settling back between Hermione & Luna and cracking open a butterbeer. "Cast away, Rita."
+
+The others emulated Elysia, conjuring comfortable chairs and settling back with their own drinks.
+
+"I think we all want to know, Ellie," Rita began. "_How?_"
+
+Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she said. "I just took the limiter off and took a few steps to mitigate the G-forces. My trousers, for instance, are charmed to tighten during intense maneuvering to keep the blood in my brain instead of pooling in my legs. It's a muggle fighter pilot trick, actually."
+
+"Muggles can fly that fast?" Rita asked incredulously.
+
+"Faster," Elysia said. "supersonic flight's been routine for them since the 1950s or so. They have an aeroplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969."
+
+The wizard-raised among them gaped.
+
+"In comparison," Elysia continued, "stripping the limiter lets the Firebolt top out at roughly Mach 1.8 -- 1,300 MPH or so. And it handles like a dream even at speed, by the way," she added, shooting a look at Engel. "I'd say it hits top speed in a straightaway at maybe 6 seconds? Figure out the G-force problem and nothing can touch it. Otherwise the rider's likely going to black out and crash almost immediately. It's like being kicked in the chest by a giant."

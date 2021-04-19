@@ -89,4 +89,4 @@ return
 :R:@mxm::Maxime
 :R:+ror::Room of Requirement
 :R:+pt::Parseltongue
-:R:@mpp::Madame Pomphrey
+:R:@mpp::Madame Pomfrey
