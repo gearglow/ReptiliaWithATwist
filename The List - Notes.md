@@ -177,7 +177,7 @@ Frenemies-with-benefits (dating?) with Dorea?
 
 ### Draco/Dorea
 
-Trans girl. Pansexual.
+Transfem enby. Pansexual.
 
 Frenemies-with-benefits (dating?) with Ron?
 

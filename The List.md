@@ -4131,7 +4131,7 @@ James and Lily looked at each other. "Motörhead."
 
 
 
-Over lunch, she had Robbie take their jackets to Madame Malkin for some custom work. When they came back the next evening, hers had 'Nemesis' embroidered across the back in glistening blood-red thread. Robbie's had 'Hermes' in a glimmering silver. She also placed an order for sets for Luna and Hermione for Yule, and got matching auror-grade mage-space wand holsters for each of them. (Robbie didn't use a wand, but the space could be used for anything, so it was still useful.)
+Over lunch, she had Robbie take their jackets to Madame Malkin for some custom work. When they came back the next evening, hers had 'Nemesis' embroidered across the back in glistening blood-red thread. Robbie's had 'Hermes' in a glimmering silver. She also placed an order for sets for Luna and Hermione for Yule, and got matching pairs of auror-grade mage-space wand holsters for each of them. (Robbie didn't use a wand, but the space could be used for anything, so it was still useful.)
 
 
 
@@ -4962,18 +4962,26 @@ As the professors began tearing down the course, Bagman called the champions bac
 
 "We were going to do this in the Great Hall," he said, "but it's so nice out today!"
 
-"It is, at that," Elysia agreed, settling back between Hermione & Luna and cracking open a butterbeer. "Cast away, Rita."
+"It is, at that," Elysia agreed, settling back between Hermione & Luna and cracking open a butterbeer. Her broom had disappeared back into her left-hand mage-space holster. "Cast away, Rita."
 
 The others emulated Elysia, conjuring comfortable chairs and settling back with their own drinks.
 
 "I think we all want to know, Ellie," Rita began. "_How?_"
 
-Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she said. "I just took the limiter off and took a few steps to mitigate the G-forces. My trousers, for instance, are charmed to tighten during intense maneuvering to keep the blood in my brain instead of pooling in my legs. It's a muggle fighter pilot trick, actually."
+Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the G-forces. My trousers, for instance, are charmed to tighten during intense maneuvering to keep the blood in my brain instead of pooling in my legs. It's a muggle fighter pilot trick, actually."
 
 "Muggles can fly that fast?" Rita asked incredulously.
 
-"Faster," Elysia said. "supersonic flight's been routine for them since the 1950s or so. They have an aeroplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969."
+"Faster," Elysia said. "Supersonic flight's been routine for them since the 1950s or so. They have an aeroplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969."
 
 The wizard-raised among them gaped.
 
 "In comparison," Elysia continued, "stripping the limiter lets the Firebolt top out at roughly Mach 1.8 -- 1,300 MPH or so. And it handles like a dream even at speed, by the way," she added, shooting a look at Engel. "I'd say it hits top speed in a straightaway at maybe 6 seconds? Figure out the G-force problem and nothing can touch it. Otherwise the rider's likely going to black out and crash almost immediately. It's like being kicked in the chest by a giant."
+
+"Try being caught in your wake," Cedric muttered. "And what did you do to my net, anyway?"
+
+"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco._ It only works on conjurations, and it's not a clean Vanishing so much as it destabilizes the magical matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she wrote it down. Dunno why it's in Swedish, though."
+
+"It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be much longer, too."
+
+Elysia nodded gratefully. "Makes sense. Thanks, Luna-love."
