@@ -4700,9 +4700,9 @@ The other two girls face-palmed. Robbie chuckled.
 
 A glowing path drew itself out from Elysia's feet, and the four of them took off, flying high enough to avoid most of the piles of detritus.
 
-"How does this place work, I wonder," Hermione mused aloud as they flew. "The Room isn't a static place, so I'd imagine the usual sort of wards wouldn't stick."
+"How does this place work, I wonder," Luna mused aloud as they flew. "The Room isn't static, so I'd imagine the usual sort of wards wouldn't stick."
 
-"I don't know about the Room," Luna said, "but I'd think that means most of the Diadem's defenses would be tied to it directly. Compulsions tied to trigger-fired curses, contact poisons, that sort of thing. Perhaps it's in a box, and _that's_ warded and trapped."
+"I don't know about the Room," Hermione said, "but I'd think that means most of the Diadem's defenses would be tied to it directly. Compulsions tied to trigger-fired curses, contact poisons, that sort of thing. Perhaps it's in a box, and _that's_ warded and trapped."
 
 "Given that our boy Tomothy hid the thing here when he was supposedly interviewing for the DADA position," Elysia commented, "I don't think he had much time to set up defenses. My money's on him trapping the Diadem itself, no matter _how_ the Room works."
 
@@ -4784,7 +4784,7 @@ Rita nodded faintly.
 
 Solicitor Bulstrode spoke up. "We'd like you, Ms. Skeeter, to work with our firm in an investigative capacity to build our case. We have all the testimony we could ever wish from Miss Potter, but we need to gather corroborating evidence as well. In return, you get exclusive rights to all stories stemming from what is uncovered, contingent on approval on behalf of Miss Potter before publishing, of course."
 
-"Of course," Skeeter murmured. She finished off her drink. "Well, this is quite a lot to process. But I think -- provisionally -- that I'm in. What do we start with?"
+"Of course," Skeeter murmured. She finished off her drink. "Well, this is quite a lot to process. But I think -- provisionally -- that I'm in. Where do we start?"
 
 "Sirius' lack of a trial, I think," Elysia said. "There are public records there that not only prove the matter, but bring up openings to all the rest. And I'm pretty sure Gringotts can say conclusively whether or not Peter Pettigrew is still alive -- and time of death if he isn't -- if the Wizengamot formally requests the information."
 
@@ -4798,11 +4798,11 @@ The interview and contract negotiations took until nearly dinner time.
 
 ## Chapter 16:
 
-The week leading up to the race, not to put too fine a point on it, flew by. The triad spent most of their spare time helping Elysia prepare. The modifications to Elysia's Firebolt only took a few hours, as it turned out, and so the rest of the time was spent practicing in the Room of Requirement, with Hermione and Luna doing their best to throw Elysia off course -- or off her broom.
+The week leading up to the race, not to put too fine a point on it, flew by. The triad spent most of their spare time helping Elysia prepare. The modifications to Elysia's Firebolt only took a few hours, as it turned out, and so the rest of the time was spent practicing in the Room of Requirement, with Hermione and Luna (and frequently Nell, Ginny, and Ron) doing their best to throw Elysia off course -- or off her broom.
 
 They quickly found that the most troublesome situations were when something interfered with Elysia's vision -- smoke, mirrors, and so forth. This led to a slew of adjustments to Elysia's glasses, from variable-frequency vision filters to a full ley line-based navigation suite built into the HUD (all of which were immediately copied to Luna and Hermione's goggles).
 
-"What about sonar?" Luna asked at one point.
+"What about echolocation?" Luna asked at one point.
 
 "Not terribly helpful when you're flying faster than the echoes can bounce back," Hermione replied, "but it might come in handy for a different task."
 
@@ -4870,7 +4870,7 @@ As he watched, though, the net disintegrated into dust, wafting away on the bree
 
 And then she blew past him again.
 
-Back at the finish line, Elysia crossed for the fifth time, finishing her final lap with a Hammerhead stall. She back-flipped off her broom at the apex, casting βροντή (_vrontí_), the Greek Thunder-Step charm, and free-fell into a Hero Landing with her broom swept back behind her like a sword as the ground cratered beneath her.
+Back at the finish line, Elysia crossed for the fifth time, finishing her final lap with a Hammerhead Stall. She back-flipped off her broom at the apex, casting βροντή (_vrontí_), the Greek Thunder-Step charm, and free-fell into a Hero Landing with her broom swept back behind her like a sword as the ground cratered beneath her.
 
 As she stood, the last strains of _Ace of Spades_ faded out to the absolutely deafening applause from the crowd.
 
@@ -4956,13 +4956,13 @@ Fleur waved as if she were in a pageant.
 
 Elysia bowed with a flourish to thunderous applause.
 
-"That concludes the First Task of the first-ever Hex Games! We'll see you right back here in two weeks for a spectacle of daring, nerve, prowess like you've never seen before: the Second Task!"
+"That concludes the First Task of the first-ever Hex Games! We'll see you right back here in two weeks for a spectacle of daring, nerve, and prowess like you've never seen before: the Second Task!"
 
-As the professors began tearing down the course, Bagman called the champions back up to the judges' booth for an informal press conference.
+As the professors began tearing down the course, Bagman called the champions back up to the judges' booth for an informal press Q&A.
 
 "We were going to do this in the Great Hall," he said, "but it's so nice out today!"
 
-"It is, at that," Elysia agreed, settling back between Hermione & Luna and cracking open a butterbeer. Her broom had disappeared back into her left-hand mage-space holster. "Cast away, Rita."
+"It is, at that," Elysia agreed, settling back between Hermione & Luna and cracking open a butterbeer. Her broom disappeared back into her left-hand mage-space holster. "Cast away, Rita."
 
 The others emulated Elysia, conjuring comfortable chairs and settling back with their own drinks.
 
@@ -4980,8 +4980,11 @@ The wizard-raised among them gaped.
 
 "Try being caught in your wake," Cedric muttered. "And what did you do to my net, anyway?"
 
-"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco._ It only works on conjurations, and it's not a clean Vanishing so much as it destabilizes the magical matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she wrote it down. Dunno why it's in Swedish, though."
+"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco._ It only works on conjurations, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
 
 "It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be much longer, too."
 
 Elysia nodded gratefully. "Makes sense. Thanks, Luna-love."
+
+"Speaking of spells," Izzy chimed in. "What did you hit us all with right at the start? It left me twitchy for like half a lap!"
+
