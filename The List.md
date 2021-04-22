@@ -5008,7 +5008,7 @@ Elysia winked. "That'd be telling."
 
 "That's a 'no' if I ever heard one," Izzy muttered.
 
-"And anyway," Elysia continued, "Professor Snape is ecstatic about it. He actually did a happy-dance when he found out."
+"And anyway," Luna continued, "Professor Snape is ecstatic about it. He actually did a happy-dance when he found out."
 
 "That might have been because muggle electronics work here now," Hermione said. 
 
@@ -5034,3 +5034,4 @@ Elysia giggled. "Hey Robbie? Think you can snag a copy by tonight?"
 
 "Oh, right. The chain-lightning stunner." Elysia grinned a bit sheepishly. "Bit of a family secret, that, sorry. You can't expect me to give away _all_ of my tricks, after all."
 
+"A girl can dream," Rita retorted.
