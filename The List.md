@@ -4840,7 +4840,7 @@ A black curtain hung before them, hiding the course for the moment. Elysia surre
 
 "Champions, mount your brooms!" Bagman boomed. "Three, two, one, GO!"
 
-The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a shouted "_kettenblitzschlag!_" behind her and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
+The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a muttered (and unheard) "_kettenblitzschlag!_" behind her and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
 
 The spell she'd cast, a German chain-lightning stunner, caught all five of the other champions. It didn't knock them unconscious, but it did lock their muscles for several crucial seconds -- plenty of time for Elysia to gain an early and dominating lead.
 
@@ -4958,7 +4958,7 @@ Elysia bowed with a flourish to thunderous applause.
 
 "That concludes the First Task of the first-ever Hex Games! We'll see you right back here in two weeks for a spectacle of daring, nerve, and prowess like you've never seen before: the Second Task!"
 
-As the professors began tearing down the course, Bagman called the champions back up to the judges' booth for an informal press Q&A.
+As the professors began tearing down the course, Bagman called the champions back up to the judges' booth for an informal Q&A with Rita Skeeter. The other judges had already left.
 
 "We were going to do this in the Great Hall," he said, "but it's so nice out today!"
 
@@ -4987,4 +4987,50 @@ The wizard-raised among them gaped.
 Elysia nodded gratefully. "Makes sense. Thanks, Luna-love."
 
 "Speaking of spells," Izzy chimed in. "What did you hit us all with right at the start? It left me twitchy for like half a lap!"
+
+"That's a bit of a long story, actually," Elysia said sheepishly.
+
+"It must be," Fleur said. "Lightning magic is ze stuff of myth!"
+
+Hermione snorted. "That's only because anti-lightning wards are overly broad, and nobody bothered to update them over the centuries."
+
+Izzy stared. "Wait, _seriously?_ Why didn't they just use lightning rods?"
+
+"That's what _I_ said!" Hermione agreed. "Anyway, we fixed it."
+
+"_What._" Cedric said.
+
+Luna giggled. "We fixed it! There's a lightning rod now, and the wards are fixed."
+
+"By 'we'," Anna asked, slowly, "you mean your professors, right?"
+
+Elysia winked. "That'd be telling."
+
+"That's a 'no' if I ever heard one," Izzy muttered.
+
+"And anyway," Elysia continued, "Professor Snape is ecstatic about it. He actually did a happy-dance when he found out."
+
+"That might have been because muggle electronics work here now," Hermione said. 
+
+"Is _that_ why he's been so much nicer this year?" Cedric asked.
+
+"Nah, he only found out a week ago," Elysia said. "The lightning ward's been fixed all semester. We've been having movie nights and everything."
+
+"Ohmygosh, have you seen Jurassic Park yet?" Izzy gushed. "It just came out on tape last month!"
+
+Hermione's eyes gleamed.
+
+Elysia giggled. "Hey Robbie? Think you can snag a copy by tonight?"
+
+"No problem!" Robbie said, snapping a jaunty salute.
+
+"Awesome! Movie night in the Room tonight, then! You lot care to join us?" Elysia asked.
+
+"Yeah!" Izzy bounced gleefully in her seat.
+
+"Alright," Anna agreed.
+
+"*Ahem,*" Rita interjected. "You were saying about the lightning spell?"
+
+"Oh, right. The chain-lightning stunner." Elysia grinned a bit sheepishly. "Bit of a family secret, that, sorry. You can't expect me to give away _all_ of my tricks, after all."
 

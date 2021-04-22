@@ -177,7 +177,7 @@ Frenemies-with-benefits (dating?) with Dorea?
 
 ### Draco/Dorea
 
-Transfem enby. Pansexual.
+Transfem enby (genderfluid). Pansexual. They/them.
 
 Frenemies-with-benefits (dating?) with Ron?
 
@@ -195,6 +195,8 @@ In a triad with Laura Madley and Lisa Turpin.
 
 #### Cedric Diggory
 
+Pureblood cis male. Bi. He/him.
+
 | **Wand:** | |
 |----:|-----|
 | Wood: | Ash |
@@ -206,6 +208,8 @@ In a triad with Laura Madley and Lisa Turpin.
 
 
 #### Viktor Krum
+
+Pureblood cishet male. He/him.
 
 | **Wand:** | |
 |----:|-----|
@@ -219,6 +223,8 @@ In a triad with Laura Madley and Lisa Turpin.
 
 #### Fleur Delacour
 
+Pureblood (veela) cis female. Pansexual. She/her.
+
 | **Wand:** | |
 |----:|-----|
 | Wood: | Rosewood |
@@ -230,6 +236,8 @@ In a triad with Laura Madley and Lisa Turpin.
 
 
 #### Anna Katya Kozlov
+
+Half-blood cis female. Bi. She/her.
 
 From Novosibirsk Oblast, Russia. 5'7", 112 lbs.
 
@@ -248,6 +256,8 @@ Built like a dancer, fights like a spiked chain. Elegant, indirect, brutal. Has 
 
 
 #### Izabella Aurelia Maradona
+
+Muggleborn cis female. Sapphic. She/her.
 
 From Basque Country, Spain. 5'3", 154 lbs.
 
