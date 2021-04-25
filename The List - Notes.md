@@ -552,6 +552,9 @@ What it says on the tin.
 - [x] Do the ritual to make Sirius, Hermione, Luna, Ginny, and Nell all metamorphmagi
 - [x] Do the Unlimited Flight ritual
 - [x] Transfer the knowledge on shapeshifting to Sirius, Hermione, Luna, Ginny, and Nell
+- [x] Interview with Rita Skeeter
+- [x] Soup up the Firebolt
+- [x] Crush the broom race in the First Task
 
 #### To Do
 
@@ -559,19 +562,16 @@ What it says on the tin.
 - [x]  Make a plan with The Horcrux-Hunting Handbook
   - [ ] Seek & Destroy the horcrux in Slytherin's Locket
     - [ ] Get Sirius to help access 12 Grimmauld Place 
-  - [ ] Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
+  - [x] Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
   - [ ] Seek & Destroy the horcrux in Ring (Gaunt Shack)
     - [ ] Have Robbie glass it with Fiendfyre during Riddle's resurrection
   - [ ] Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
   - [ ] Seek & Destroy the Snake (Little Hangleton Graveyard)
-- [ ] Interview with Rita Skeeter
-- [ ] Soup up the Firebolt
-- [ ] Crush the broom race in the First Task
 - [ ] Deal with the dragon in the Second Task
 - [ ] Dazzle at the Yule Ball
 - [ ] Dominate the duels in the Third Task
 - [ ] Rescue the hostage in the Fourth Task
-- [ ] Destroy the competition in the duels for the Fifth Task
+- [ ] Wipe out the competition in the wandless duels for the Fifth Task
 - [ ] Get to the Triwizard Cup first in the Final Task
 - [ ] Seek & Destroy Voldemort (_after_ he reincorporates)
 

@@ -4656,7 +4656,7 @@ Ginny blushed.
 
 
 
-After a late breakfast, Elysia went with Nell to speak with Professor McGonagall about switching dorms and about leaving the castle to get her a new, more appropriate, wardrobe. McGonagall offered to take her to get the basics, and anything more could be acquired at the next Hogsmeade weekend on the 19th.
+After a late breakfast, wherein Rita Skeeter's article about the champions proved to be as fair as promised, Elysia went with Nell to speak with Professor McGonagall about switching dorms and about leaving the castle to get her a new, more appropriate, wardrobe. McGonagall offered to take her to get the basics, and anything more could be acquired at the next Hogsmeade weekend on the 19th.
 
 "I'm surprised at you, Miss Longbottom," she admonished. "You're certainly not the first girl in your situation I've had in my care. Had you but told me, I would've helped you have the ritual performed through proper channels."
 
@@ -4734,6 +4734,10 @@ _Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water tri
 
 "Janet says I've got instructions on making a new Diadem," Elysia informed the others. "Let's wipe this abomination from the face of the planet."
 
+> To Do:
+>
+> - [x] Seek & Destroy the horcrux in Ravenclaw's Diadem (Room of Requirement)
+
 
 
 +++++
@@ -4794,9 +4798,11 @@ Solicitor Bulstrode spoke up. "We'd like you, Ms. Skeeter, to work with our firm
 
 The interview and contract negotiations took until nearly dinner time.
 
+> To Do:
+>
+> - [x] Interview with Rita Skeeter
 
-
-## Chapter 16:
+## Chapter 16: Don't Stop Me Now
 
 The week leading up to the race, not to put too fine a point on it, flew by. The triad spent most of their spare time helping Elysia prepare. The modifications to Elysia's Firebolt only took a few hours, as it turned out, and so the rest of the time was spent practicing in the Room of Requirement, with Hermione and Luna (and frequently Nell, Ginny, and Ron) doing their best to throw Elysia off course -- or off her broom.
 
@@ -4810,7 +4816,9 @@ They quickly found that the most troublesome situations were when something inte
 
 Finally, the week was over, the preparations were done, and Elysia was as ready as she could be.
 
-
+> To Do:
+>
+> - [x] Soup up the Firebolt
 
 +++++
 
@@ -4876,7 +4884,9 @@ As she stood, the last strains of _Ace of Spades_ faded out to the absolutely de
 
 "That might be the hottest thing I've ever seen," Luna gasped to Hermione, who agreed vehemently before dragging her down to meet their girlfriend on the sidelines with a crushing hug and many passionate kisses.
 
-
+> To Do:
+>
+> - [x] Crush the broom race in the First Task
 
 +++++
 
@@ -4972,15 +4982,15 @@ Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good bro
 
 "Muggles can fly that fast?" Rita asked incredulously.
 
-"Faster," Elysia said. "Supersonic flight's been routine for them since the 1950s or so. They have an aeroplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969."
+"Faster," Elysia said. "Supersonic flight's been routine for them since the 1950s or so. They have an airplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969."
 
 The wizard-raised among them gaped.
 
 "In comparison," Elysia continued, "stripping the limiter lets the Firebolt top out at roughly Mach 1.8 -- 1,300 MPH or so. And it handles like a dream even at speed, by the way," she added, shooting a look at Engel. "I'd say it hits top speed in a straightaway at maybe 6 seconds? Figure out the G-force problem and nothing can touch it. Otherwise the rider's likely going to black out and crash almost immediately. It's like being kicked in the chest by a giant."
 
-"Try being caught in your wake," Cedric muttered. "And what did you do to my net, anyway?"
+"Try being caught in your wake," Cedric grumbled. "And what did you do to my net, anyway?"
 
-"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco._ It only works on conjurations, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
+"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco._ Only works on conjurations, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
 
 "It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be much longer, too."
 
@@ -5016,7 +5026,7 @@ Elysia winked. "That'd be telling."
 
 "Nah, he only found out a week ago," Elysia said. "The lightning ward's been fixed all semester. We've been having movie nights and everything."
 
-"Ohmygosh, have you seen Jurassic Park yet?" Izzy gushed. "It just came out on tape last month!"
+"Ohmygosh, have you seen _Jurassic Park_ yet?" Izzy gushed. "It just came out on tape last month!"
 
 Hermione's eyes gleamed.
 
@@ -5035,3 +5045,33 @@ Elysia giggled. "Hey Robbie? Think you can snag a copy by tonight?"
 "Oh, right. The chain-lightning stunner." Elysia grinned a bit sheepishly. "Bit of a family secret, that, sorry. You can't expect me to give away _all_ of my tricks, after all."
 
 "A girl can dream," Rita retorted.
+
+"And maybe someday that dream will come true," Elysia agreed. "But not in the middle of the Games! There's still five more Tasks to go, y'know, and I _am_ still the youngest competitor. This lot would stomp me flat if I didn't have _something_ to even the playing field."
+
+Cedric snorted.
+
+"What?" Elysia gave him a look. "Why do you think I went for sheer speed? I didn't want to get caught in cursing range!"
+
+"Why don't I believe you?" Fleur muttered.
+
+"Because you've seen me furious?" Elysia retorted.
+
+"That would do it," Hermione said.
+
+
+
++++++
+
+
+
+They talked for a little while longer, covering the exploits of each of the champions in turn. Finally, the siren song of lunch proved too irresistible, and they adjourned to the Great Hall while Robbie popped away to acquire a copy of _Jurassic Park._
+
+That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie Night group. (Cedric begged off as he already had plans with Cho, and Krum had grumbled that he had no interest in such idle frivolities -- which got an eyeroll out of everyone who heard.) They all sat around chatting after the movie, and Hermione explained that, while muggles couldn't clone extinct animals _yet,_ it was probably only a matter of time.[^3] The wizard-raised among them were shocked that muggles had their own form of bio-alchemy, and even more shocked that it was so developed.
+
+
+
+[^3]: [Dolly the Sheep](https://en.wikipedia.org/wiki/Dolly_(sheep)) was cloned from mature cells in 1996, with the by-then-extinct Pyrenean ibex following in 2009. While this isn't _quite_ the same technique as used in _Jurassic Park,_ it's close enough to prove Hermione's point.
+
+
+
+## Chapter 17:
