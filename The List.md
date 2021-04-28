@@ -5075,3 +5075,7 @@ That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie N
 
 
 ## Chapter 17:
+
+The next two weeks were surprisingly uneventful. Sirius got Elysia to give Remus the Secret to the Kiln the following weekend, and she spent an enjoyable day catching up. Remus also performed the Unlimited Flight ritual, though because of his lycanthropy he couldn't become a shifter yet. He kept making _Airwolf_ jokes, though nobody else got them.
+
+That Sunday, Elysia and her girlfriends happened to be in the Three Broomsticks when 
