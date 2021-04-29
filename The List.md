@@ -5128,3 +5128,8 @@ Luna cackled.
 
 
 
+The next week, quite a bit of time was spent in Elysium running scenarios and choreography. None of them knew for sure what the final layout of the Task would be, so Elysia ran timing drills with _tximista ibili,_ the Lightning Leap spell. She'd decided on entering to AC/DC's _Thunderstruck,_ and since she didn't expect this task to take very long at all, timed her leaps to the beat's drop.
+
+She'd thought about mentioning the dragons to Cedric, since she'd seen not only Madame Maxime with Hagrid, but also Karkaroff skulking around in the shadows -- it was likely the other schools' champions already knew. But he was always with Cho, it seemed, in a world of their own, so she finally resorted to having Robbie leave a note on his pillow. And by then it was already Thursday.
+
+She wasn't too worried. Both Sirius and Remus would be there, and Sirius at least could handle a dragon no problem, if any of the other champions ran into trouble.
