@@ -5078,4 +5078,53 @@ That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie N
 
 The next two weeks were surprisingly uneventful. Sirius got Elysia to give Remus the Secret to the Kiln the following weekend, and she spent an enjoyable day catching up. Remus also performed the Unlimited Flight ritual, though because of his lycanthropy he couldn't become a shifter yet. He kept making _Airwolf_ jokes, though nobody else got them.
 
-That Sunday, Elysia and her girlfriends happened to be in the Three Broomsticks when 
+That Sunday, Elysia and company happened to be in the Three Broomsticks when Hagrid passed by and surreptitiously dropped a note on her lap, covering it with his usual exuberant greeting.
+
+_Wow, that was downright cunning for Hagrid,_ Hermione sent. _What's it say?_
+
+_He wants me to meet him just before midnight, with my invisibility cloak,_ Elysia replied.
+
+_Think it's about the next Task?_ Luna asked.
+
+_Probably,_ Elysia sent. _Bit concerning, considering._
+
+The other two sent agreement tinged with concern.
+
+
+
++++++
+
+
+
+That night, Elysia shadow-walked to Hagrid's doorstep with her cloak on, knocking three quick knocks. The door opened swiftly. 
+
+"That you, Ellie?" Hagrid said, stepping out. He wore a flower in his button-hole, and had broken teeth from some poor comb stuck in his hair (which Elysia quietly Vanished for him).
+
+"It's me," she said, flipping back the cloak's hood.
+
+"Righ'," Hagrid said. "Stay quiet, stay hidden, and stay close. There's summat ye should see."
+
+"Gotcha," she said, flipping the hood back into place and casting a few stealth charms.
+
+Hagrid led her over to the Beauxbatons carriage, where Madame Maxime met him with a smile. She wrapped a shawl around her shoulders, and they set off for what seemed to be a romantic moonlit stroll in the Forbidden Forest. 
+
+Elysia followed them to a secluded set of paddocks tucked away in the forest, where great gouts of flame lit the night amidst shouting. As they drew closer, she could make out -- 
+
+_Dragons!?_
+
+_What._ Luna sent.
+
+_There's a bunch of dragons in the forest! Hang on, Ron's brother Charlie's here too. Apparently the next Task is to get something out of the dragon's nest. Thank Merlin, I was afraid I'd be expected to kill the poor thing!_
+
+Luna's relief was palpable. _So what do you think? Fast, flashy, effective, pick two?_
+
+Elysia sent a mental smirk. _Why choose? Time to show off another lightning spell._
+
+Luna cackled.
+
+
+
++++++
+
+
+
