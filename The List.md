@@ -5114,7 +5114,7 @@ _Dragons!?_
 
 _What._ Luna sent.
 
-_There's a bunch of dragons in the forest! Hang on, Ron's brother Charlie's here too. Apparently the next Task is to get something out of the dragon's nest. Thank Merlin, I was afraid I'd be expected to kill the poor thing!_
+_There's a bunch of dragons in the forest! Hang on, Charlie Weasley's here too. Apparently the next Task is to get something out of the dragon's nest. Thank Merlin, I was afraid I'd be expected to kill the poor thing!_
 
 Luna's relief was palpable. _So what do you think? Fast, flashy, effective, pick two?_
 
@@ -5130,6 +5130,15 @@ Luna cackled.
 
 The next week, quite a bit of time was spent in Elysium running scenarios and choreography. None of them knew for sure what the final layout of the Task would be, so Elysia ran timing drills with _tximista ibili,_ the Lightning Leap spell. She'd decided on entering to AC/DC's _Thunderstruck,_ and since she didn't expect this task to take very long at all, timed her leaps to the beat's drop.
 
-She'd thought about mentioning the dragons to Cedric, since she'd seen not only Madame Maxime with Hagrid, but also Karkaroff skulking around in the shadows -- it was likely the other schools' champions already knew. But he was always with Cho, it seemed, in a world of their own, so she finally resorted to having Robbie leave a note on his pillow. And by then it was already Thursday.
+Since she'd seen not only Madame Maxime with Hagrid, but also Karkaroff skulking around in the shadows, it was likely the other schools' champions already knew about the dragons. She'd thought about mentioning it to Cedric, but he was always with Cho, it seemed, in a world of their own, so she finally resorted to having Robbie leave a note on his pillow. And by then it was already Thursday.
 
-She wasn't too worried. Both Sirius and Remus would be there, and Sirius at least could handle a dragon no problem, if any of the other champions ran into trouble.
+She wasn't too worried. Both Sirius and Remus would be there, and Sirius at least could handle a dragon no problem, if any of the other champions ran into trouble. Not to mention Dumbledore, little though she trusted him.
+
+By the time Saturday rolled around, Elysia felt like she could finish off the Second Task in her sleep.
+
+
+
++++++
+
+
+
