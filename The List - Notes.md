@@ -38,6 +38,13 @@
 
 - [ ] Dealing With Dragons: Elysia walks in to AC/DC's _Thunderstruck._ As the kick-drums hit at the 1:50 mark, she does a double _tximista ibili,_ grabs the egg, and saunters off to the chorus.
 
+- [ ] welsh green - Krum
+  chinese fireball - Fleur
+  ukrainian ironbelly - Elysia
+  hungarian horntail - Anna
+  norwegian ridgeback - Izzy
+  hebridean black - Cedric
+
 - CAST: Computer-Aided Spellcrafting and Thaumaturgy. Useful for virtual prototyping of spells and schema. (This needs to be in Elysiad, too.)
 
 - Personal ward amulet

@@ -5142,3 +5142,55 @@ By the time Saturday rolled around, Elysia felt like she could finish off the Se
 
 
 
+"It's another fine day here at Hogwarts School of Witchcraft and Wizardry!" Ludo Bagman's voice boomed out. "Welcome, one and all, to the Second Task of the Hex Games!"
+
+Elysia and the other champions had been sequestered in a tent a short walk away from the arena, and had been made to draw a numbered statue of a dragon from a sack. Elysia had drawn a tiny Ukrainian Ironbelly with a number 3 around its neck. Fitting, she'd thought, considering her favorite outfit.
+
+"Now then," Bagman had said once they'd all drawn. "Your objective is to retrieve the golden egg. This is a test of your nerve and ability to think on your feet, so you'll only be allowed to bring your wands in."
+
+Elysia took off her glasses and pendant, calling Robbie to hold them for her during the Task. "Are sizing-charmed clothes okay?" She asked Bagman.
+
+"Oh, sure," he'd said. "As long as you don't try to put them on the dragon!" They'd laughed, and he'd left to begin announcing the event.
+
+She'd flopped down on her stomach on the tent's floor to play with the tiny Ironbelly, which was small enough to sit in her hand like a kitten. Izzy joined her with her own tiny dragon, a Norwegian Ridgeback, as Krum was called out to face the Welsh Green. Fleur and Anna were sitting like twin statues, tension only visible if you knew what to look for.
+
+"How can you lot be so calm about this?" Cedric railed, pacing back and forth and running his hands through his hair.
+
+"Well, it's a bit late to panic now, innit?" Elysia retorted, stroking the Ironbelly's snout.
+
+"But it's a _dragon!_" Cedric exclaimed.
+
+"And you without a will?" Elysia said. "You _do_ know people have died in past tournaments, right?"
+
+"It just never hit me quite like this before," Cedric admitted.
+
+"Better now than when you're staring down its jaws."
+
+"Are you _trying_ to psych me out?" Cedric growled.
+
+Elysia winked. "Is it working?"
+
+"Yes!" He yelled.
+
+Anna snorted. "Be glad you didn't get the Horntail."
+
+
+
++++++
+
+
+
+"Next up, our youngest competitor, Elysia Potter!" Bagman announced.
+
+Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains of AC/DC's _Thunderstruck_ began to ring out across the stadium.
+
+_Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena).
+
+The minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
+
+The kick-drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
+
+"Thunderstruck!" The crowd yelled.
+
+Elysia bowed with a flourish and raised the egg high above her head. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
+

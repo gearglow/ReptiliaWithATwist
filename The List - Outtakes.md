@@ -42,22 +42,6 @@ Krum _whimpered,_ a low, primal sound like that of a cornered prey animal, befor
 
 
 
-## Dealing With Dragons
-
-"Next up, our youngest competitor, Elysia Potter!" Bagman announced.
-
-Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains of AC/DC's _Thunderstruck_ began to ring out across the stadium.
-
-_Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous, horn-covered dragon across the arena).
-
-"You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
-
-The kick-drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
-
-"Thunderstruck!" The crowd yelled.
-
-Elysia bowed with a flourish and raised the egg high above her head. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
-
 ## Going Grey
 
 "Fuck it," Hermione spat. "Playing by the rules has gotten us _nowhere._"
