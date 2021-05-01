@@ -5186,11 +5186,33 @@ Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains o
 
 _Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena).
 
-The minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
+She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
 
-The kick-drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
+The drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
 
 "Thunderstruck!" The crowd yelled.
 
 Elysia bowed with a flourish and raised the egg high above her head. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
+
+"The Green-Eyed Lightning does it again!" Bagman shouted. "Our youngest champion is by far the fastest to retrieve her egg, in a stunning and flawless performance! Let's go to the judges!" He waved his wand, and a large, glowing '10' appeared. The others followed suit, even Karkaroff, who had a sour look on his face as he gave his score.
+
+Elysia, Luna, and Hermione made their way into the stands to join Remus and Sirius (who had wavy brown hair to his shoulder blades, pulled back into a ponytail, and warm brown eyes instead of his usual steel-grey). They looked quite cozy together, and when Elysia raised an eyebrow Remus blushed.
+
+"Hey, who am I to judge?" She said, snuggling between Luna and Hermione. "Anyway, how's the competition so far?"
+
+"Compared to you? Dismal," Sirius said. "Krum tried cursing his dragon in the eye. He made the shot, but she trampled half her eggs and clawed him pretty good before he made it out."
+
+The girls all winced at that.
+
+"Ms. Delacour fared somewhat better," Remus picked up the thread. "She put her dragon to sleep somehow --"
+
+ "-- And half the stands --" Sirius cut in.
+  
+ "-- But Chinese Fireballs apparently breathe flames when they snore, and her skirt caught fire before she made it out."
+ 
+ "Who wears a skirt when facing a dragon?" Hermione scoffed. "Honestly!"
+ 
+ "Hey, it was the most exciting part of the whole thing!" Ron protested, from the next row down. He was promptly smacked upside the head by Ginny, who then went back to cuddling with Nell on her other side.
+
+"Anyway, they're both back in the medical tent," Remus added.
 
