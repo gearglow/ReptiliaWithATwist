@@ -5240,7 +5240,7 @@ The girls all winced at that.
 
 The last three champions put on a good show, Elysia had to give them that. Anna went for a sensory-overload approach, with lots of colored, scented smoke, sparks, loud noises, and a clever disillusionment charm which _almost_ got her through the ordeal unscathed. Unfortunately, Hungarian Horntails are aptly-named, and she was caught by a tail-horn as she made her escape. It went straight through her left arm and sent her flying halfway to the exit.
 
-Izzy did something _nobody_ saw coming: she cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her, first punching her in the snout, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
+Izzy did something _nobody_ saw coming: she cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her, first punching her in the snout as the dragon reared back to breathe a gout of flame, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
 
 "Holy shit," Elysia breathed.
 
