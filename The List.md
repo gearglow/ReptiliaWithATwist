@@ -4824,13 +4824,13 @@ Finally, the week was over, the preparations were done, and Elysia was as ready 
 
 
 
-### Hogwarts Grounds, Scotland	1994/11/12, 10:30
+### Hex Games Stadium, Hogwarts Grounds, Scotland	1994/11/12, 10:30
 
 "Welcome, one and all, to the first event in the newly-christened Hex Games!" Ludo Bagman's voice rang out. "Our six competitors are the best and brightest from the top three schools of magic in Europe, and they're raring to go on this beautiful November morning here at our host school, Hogwarts!"
 
 The six champions were sequestered away in a tent just off the quidditch pitch, performing last-minute preparations under the watchful eye of Bartemius Crouch.
 
-"Our event today is a 5-lap no-holds-barred broom race, on one of the most challenging courses ever devised! As the course is being assembled," Bagman continued, "allow me to direct your attention to the Judges' Booth, and the array of Projecting Pensieves just below it. Each of our champions will be given a special amulet with a monitoring charm, tying them to one of the pensieves. We'll be able to view all the action as if we were following just a broom-length or two behind!"
+"Our event today is a five-lap, no-holds-barred broom race, on one of the most challenging courses ever devised! As the course is being assembled," Bagman continued, "allow me to direct your attention to the Judges' Booth, and the array of Projecting Pensieves just below it. Each of our champions will be given a special amulet with a monitoring charm, tying them to one of the pensieves. We'll be able to view all the action as if we were following just a broom-length or two behind!"
 
 "That's your cue," Crouch announced flatly, handing out the amulets.
 
@@ -5074,7 +5074,9 @@ That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie N
 
 
 
-## Chapter 17:
++++++
+
+
 
 The next two weeks were surprisingly uneventful. Sirius got Elysia to give Remus the Secret to the Kiln the following weekend, and she spent an enjoyable day catching up. Remus also performed the Unlimited Flight ritual, though because of his lycanthropy he couldn't become a shifter yet. He kept making _Airwolf_ jokes, though nobody else got them.
 
@@ -5140,7 +5142,7 @@ By the time Saturday rolled around, Elysia felt like she could finish off the Se
 
 +++++
 
-
+### Hex Games Stadium, Hogwarts Grounds, Scotland	1994/11/26	10:00
 
 "It's another fine day here at Hogwarts School of Witchcraft and Wizardry!" Ludo Bagman's voice boomed out. "Welcome, one and all, to the Second Task of the Hex Games!"
 
@@ -5151,6 +5153,8 @@ Elysia and the other champions had been sequestered in a tent a short walk away 
 Elysia took off her glasses and pendant, calling Robbie to hold them for her during the Task. "Are sizing-charmed clothes okay?" She asked Bagman.
 
 "Oh, sure," he'd said. "As long as you don't try to put them on the dragon!" They'd laughed, and he'd left to begin announcing the event.
+
+("Oh good," Izzy said, trying to look innocent.)
 
 She'd flopped down on her stomach on the tent's floor to play with the tiny Ironbelly, which was small enough to sit in her hand like a kitten. Izzy joined her with her own tiny dragon, a Norwegian Ridgeback, as Krum was called out to face the Welsh Green. Fleur and Anna were sitting like twin statues, tension only visible if you knew what to look for.
 
@@ -5204,15 +5208,107 @@ Elysia, Luna, and Hermione made their way into the stands to join Remus and Siri
 
 The girls all winced at that.
 
-"Ms. Delacour fared somewhat better," Remus picked up the thread. "She put her dragon to sleep somehow --"
+"Miss Delacour fared somewhat better," Remus picked up the thread. "She put her dragon to sleep somehow --"
 
  "-- And half the stands --" Sirius cut in.
-  
+
  "-- But Chinese Fireballs apparently breathe flames when they snore, and her skirt caught fire before she made it out."
- 
+
  "Who wears a skirt when facing a dragon?" Hermione scoffed. "Honestly!"
- 
+
  "Hey, it was the most exciting part of the whole thing!" Ron protested, from the next row down. He was promptly smacked upside the head by Ginny, who then went back to cuddling with Nell on her other side.
 
-"Anyway, they're both back in the medical tent," Remus added.
+"Anyway, they're both back in the healers' tent," Remus added.
+
+("When did _that_ happen?" Hermione nudged Elysia, gesturing to Nell and Ginny.
+
+"The day after the race," she answered. "Nell panicked a bit at first and asked my advice."
+
+"Good for them," Luna said, snuggling closer herself.)
+
+"The handlers have switched dragons," Bagman boomed, "and now it's time for Durmstrang's second champion, Anna Kozlov!"
+
+> To Do:
+>
+> - [x] Deal with the dragon in the Second Task
+
+
+
++++++
+
+
+
+The last three champions put on a good show, Elysia had to give them that. Anna went for a sensory-overload approach, with lots of colored, scented smoke, sparks, loud noises, and a clever disillusionment charm which _almost_ got her through the ordeal unscathed. Unfortunately, Hungarian Horntails are aptly-named, and she was caught by a tail-horn as she made her escape. It went straight through her left arm and sent her flying halfway to the exit.
+
+Izzy did something _nobody_ saw coming: she cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her, first punching her in the snout, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
+
+"Holy shit," Elysia breathed.
+
+"And _we're_ the scary ones?" Luna asked rhetorically.
+
+("Norberta!" Hagrid wailed.
+
+"_Norberta!?_" Hermione asked. "Seriously?")
+
+"Did- did that just happen?" Bagman asked.
+
+Needless to say, Izzy also got a perfect score.
+
+After that, Cedric really didn't stand much chance. He kept transfiguring boulders into livestock, attempting to draw the Hebridean Black away from her nest, but she was having none of it. Eventually, he switched tactics, transfiguring a bull which charged the dragon. Using that as a distraction, he skulked along the edge of the arena, then bolted for the nest. He'd just grabbed the golden egg and made a break for it when the dragon noticed him, sending a wash of flames over him. He stumbled out of the arena and was immediately whisked to the healers' tent.
+
+
+
++++++
+
+
+
+With four of the six champions sequestered away in the hospital wing for the next couple of days, Rita Skeeter had to content herself with the two stars of the Second Task, Elysia and Izzy.
+
+"So, Miss Maradona," Skeeter began. "Can you tell me _what in the name of Magic_ you were thinking?"
+
+"Yeah, Izzy, you _suplexed a dragon._ Just. _Seriously?_" Elysia added.
+
+"What, like you have a monopoly on arse-kicking?" Izzy retorted.
+
+"That was one of the hottest things I've ever seen!" Elysia gushed, her girlfriends nodding emphatically alongside her.
+
+Izzy blushed, but grinned. "Coming from Miss 'Hero Landing' that means a lot."
+
+It was Elysia's turn to blush as her girlfriends giggled.
+
+"So you've trained in muggle martial arts, Miss Maradona?" Rita asked.
+
+"A few," Izzy replied. "Jiu-jitsu, mostly."
+
+"I thought I recognized that hold!" Elysia said.
+
+Izzy cocked an eyebrow. "You train too?"
+
+Elysia nodded. "Yeah. Some jiu-jitsu, some soft-style kung fu, a few others."
+
+"We should spar sometime!" Izzy gushed.
+
+"Might could do," Elysia said. "Maybe we could make our wandless duel a _kumite_ match!"
+
+Izzy held out her little finger. "I love it! Pinky pact!"
+
+The two girls shook pinkies on it.
+
+"I look forward to seeing that," Rita said.
+
+"You need a nickname, Izzy" Luna suddenly said.
+
+"Yeah!" Elysia agreed. "Hmm. What was that wand core of yours from again?"
+
+"A matagot?" Izzy asked.
+
+"That's it!" Hermione cried. "Izabella 'The Matagot' Maradona!"
+
+"Yeah, alright! It _does_ flow nicely," Izzy agreed.
+
+"That settles it, then," Rita agreed.
+
+
+
+## Chapter 17: Ballroom Blitz
 

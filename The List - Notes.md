@@ -36,9 +36,9 @@
 
 - [ ] ~~Dealing with Dragons: Hermione & Luna help Elysia carve out a full-sensory illusion runic schema, remote-triggered by an aetheric rune, which puts on a show and distracts the dragon. Meanwhile, Elysia uses {a tunneling spell | fumation | lightning leap | shadow striding } to circle under the arena, pop out next to the golden egg, snag it, and escape. She dispels the illusion at the exit, takes a bow, and saunters off.~~
 
-- [ ] Dealing With Dragons: Elysia walks in to AC/DC's _Thunderstruck._ As the kick-drums hit at the 1:50 mark, she does a double _tximista ibili,_ grabs the egg, and saunters off to the chorus.
+- [x] Dealing With Dragons: Elysia walks in to AC/DC's _Thunderstruck._ As the kick-drums hit at the 1:50 mark, she does a double _tximista ibili,_ grabs the egg, and saunters off to the chorus.
 
-- [ ] welsh green - Krum
+- [x] welsh green - Krum
   chinese fireball - Fleur
   ukrainian ironbelly - Elysia
   hungarian horntail - Anna
@@ -218,7 +218,7 @@ Pureblood cis male. Bi. He/him.
 
 #### Viktor Krum
 
-Pureblood cishet male. He/him.
+Pureblood cishet male. He/him. Plays quidditch professionally. Brought his team to the World Cup final but lost it to Ireland.
 
 | **Wand:** | |
 |----:|-----|
@@ -232,7 +232,11 @@ Pureblood cishet male. He/him.
 
 #### Fleur Delacour
 
-Pureblood (veela) cis female. Pansexual. She/her.
+Pureblood (veela) cis female. Pansexual. She/her. Races brooms professionally.
+
+AKA:
+
+- Flurry Rush
 
 | **Wand:** | |
 |----:|-----|
@@ -254,6 +258,10 @@ Second champion for Durmstrang.
 
 Built like a dancer, fights like a spiked chain. Elegant, indirect, brutal. Has long, flowing brown hair that's straight as a razor, and dark grey eyes like unyielding basalt.
 
+AKA:
+
+- Nobody has dared nickname her yet.
+
 | **Wand:** | |
 |-----|-----|
 | Wood: | Prickly Ash |
@@ -273,6 +281,11 @@ From Basque Country, Spain. 5'3", 154 lbs.
 Second champion for Beauxbatons.
 
 Goes by Izzy. Is a little ball of curves and raw muscle. Likes to get up close and hit hard. Has short black hair with purple highlights, much like Elysia, and vibrant violet eyes.
+
+AKA:
+
+- Izzy
+- The Matagot
 
 | **Wand:** | |
 |----:|-----|
@@ -562,6 +575,7 @@ What it says on the tin.
 - [x] Interview with Rita Skeeter
 - [x] Soup up the Firebolt
 - [x] Crush the broom race in the First Task
+- [x] Deal with the dragon in the Second Task
 
 #### To Do
 
@@ -574,7 +588,6 @@ What it says on the tin.
     - [ ] Have Robbie glass it with Fiendfyre during Riddle's resurrection
   - [ ] Seek & Destroy the horcrux in Hufflepuff's Cup (Lestrange Vault)
   - [ ] Seek & Destroy the Snake (Little Hangleton Graveyard)
-- [ ] Deal with the dragon in the Second Task
 - [ ] Dazzle at the Yule Ball
 - [ ] Dominate the duels in the Third Task
 - [ ] Rescue the hostage in the Fourth Task
