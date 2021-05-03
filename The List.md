@@ -4896,7 +4896,7 @@ Madame Pomfrey insisted on giving Elysia a quick check-over, despite her complai
 
 Elysia just shrugged, tapping her goggles with her wand to revert them to glasses.
 
-Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to drink that all down, now," she instructed. "You need to replenish your electrolytes."
+Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to drink that all down, now, until it stops tasting good," she instructed. "You need to replenish your electrolytes."
 
 "Cheers," Elysia said, toasting Madame Pomfrey and chugging the entire mug in one go, hands shaking as the adrenaline wore off.
 
@@ -4978,7 +4978,7 @@ The others emulated Elysia, conjuring comfortable chairs and settling back with 
 
 "I think we all want to know, Ellie," Rita began. "_How?_"
 
-Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the G-forces. My trousers, for instance, are charmed to tighten during intense maneuvering to keep the blood in my brain instead of pooling in my legs. It's a muggle fighter pilot trick, actually."
+Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the maneuvering stresses -- the muggles call those 'G-forces,' G for gravitational. My trousers, for instance, are charmed to tighten during intense maneuvering to keep the blood in my brain instead of pooling in my legs. It's a muggle fighter pilot trick, actually."
 
 "Muggles can fly that fast?" Rita asked incredulously.
 
@@ -4990,7 +4990,7 @@ The wizard-raised among them gaped.
 
 "Try being caught in your wake," Cedric grumbled. "And what did you do to my net, anyway?"
 
-"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco._ Only works on conjurations, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
+"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco;_ same wand movement, too. Only works on conjurations, though, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
 
 "It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be much longer, too."
 
@@ -5090,7 +5090,7 @@ _Think it's about the next Task?_ Luna asked.
 
 _Probably,_ Elysia sent. _Bit concerning, considering._
 
-The other two sent agreement tinged with concern.
+The other two sent agreement tinged with trepidation.
 
 
 
@@ -5130,7 +5130,7 @@ Luna cackled.
 
 
 
-The next week, quite a bit of time was spent in Elysium running scenarios and choreography. None of them knew for sure what the final layout of the Task would be, so Elysia ran timing drills with _tximista ibili,_ the Lightning Leap spell. She'd decided on entering to AC/DC's _Thunderstruck,_ and since she didn't expect this task to take very long at all, timed her leaps to the beat's drop.
+The next week, quite a bit of time was spent in Elysium running scenarios and choreography. None of them knew for sure what the final layout of the Task would be, so Elysia ran timing drills with _tximista ibili,_ the Lightning Leap spell. She'd decided on entering to AC/DC's _Thunderstruck,_ and since she didn't expect this task to take very long at all, timed her leaps to the song.
 
 Since she'd seen not only Madame Maxime with Hagrid, but also Karkaroff skulking around in the shadows, it was likely the other schools' champions already knew about the dragons. She'd thought about mentioning it to Cedric, but he was always with Cho, it seemed, in a world of their own, so she finally resorted to having Robbie leave a note on his pillow. And by then it was already Thursday.
 
@@ -5262,7 +5262,7 @@ After that, Cedric really didn't stand much chance. He kept transfiguring boulde
 
 
 
-With four of the six champions sequestered away in the hospital wing for the next couple of days, Rita Skeeter had to content herself with the two stars of the Second Task, Elysia and Izzy.
+With four of the six champions sequestered away in the hospital wing for the next few days, Rita Skeeter had to content herself with the two stars of the Second Task, Elysia and Izzy.
 
 "So, Miss Maradona," Skeeter began. "Can you tell me _what in the name of Magic_ you were thinking?"
 
