@@ -4107,7 +4107,7 @@ Lily and Elysia cracked up.
 
 "Okay, so music, then," Elysia finally said. "I at least need a song for the Weighing of the Wands, though if we can think of a good one for the broom race too I wouldn't say no."
 
-"What's that nickname your friends keep calling you? Heart-Breaker?" Lily asked. "Isn't that a Zeppelin song?"
+"What's that nickname your friends keep calling you? Heart-Breaker?" Lily asked. "Isn't that a Pat Benatar song?"
 
 "That's perfect!" James cried.
 
@@ -4163,7 +4163,7 @@ Lunch ended, and her girlfriends kissed her goodbye and wished her luck. She sha
 
 The pair waited under her invisibility cloak outside the Great Hall until everyone else was inside.
 
-"3. 2. 1. Let's jam!" Robbie said, pressing Play. Ellie Banished the doors open and sauntered in, Jimmy Page's iconic riff blaring as Robbie, boom-box held overhead, followed right behind her.
+"3. 2. 1. Let's jam!" Robbie said, pressing Play. Ellie Banished the doors open and sauntered in, Benatar's dulcet tones blaring as Robbie, boom-box held overhead, followed right behind her.
 
 The effect was better than she could've hoped.
 
@@ -4177,7 +4177,7 @@ But the best reactions were Dumbledore and Ollivander. Dumbledore wore a look of
 
 _That's one for the pensieve,_ Elysia grinned.
 
-"Woo, _izorratu,_ now _that's_ an entrance!" Izabella said when Robbie faded the music out just before the solo 2 minutes in. "You've got _style!_ Potter, right?"
+"Woo, _izorratu,_ now _that's_ an entrance!" Izabella said when Robbie faded the music out. "You've got _style!_ Potter, right?"
 
 "That's right," Elysia said with a grin.
 
@@ -5316,3 +5316,6 @@ The two girls shook pinkies on it.
 
 ## Chapter 17: Ballroom Blitz
 
+As much of a whirlwind as November had been, December was a much-needed return to some semblance of normal, and gave Elysia the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, Nell's parents.
+
+But on top of everything else, a new concern was dropped on her lap before December even arrived: the Yule Ball.
