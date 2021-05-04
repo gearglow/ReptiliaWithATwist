@@ -5319,3 +5319,4 @@ The two girls shook pinkies on it.
 As much of a whirlwind as November had been, December was a much-needed return to some semblance of normal, and gave Elysia the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, Nell's parents.
 
 But on top of everything else, a new concern was dropped on her lap before December even arrived: the Yule Ball.
+
