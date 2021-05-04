@@ -114,7 +114,7 @@ Harry looked even more confused, somehow. Eleanor sighed. "Jeez, kid, get a radi
 
 Harry shook her head. Pulling herself together finally, she asked, "So, what, I need to go back, kill the Dark Plonker once and for all, get the girl -- girls? -- *be* a girl, and live to a ripe old age? How am I supposed to do that if I keep forgetting everything every time I go back?"
 
-Eleanor thought for a minute, then grinned. "Cheat like mad. And remember, vengeance is a dish best served when they don't see it coming. Oh, Janet!"
+"Oh, your destiny's bigger than _that._" Eleanor thought for a minute, then grinned. "So we're gonna cheat like mad. And remember, vengeance is a dish best served when they don't see it coming. Oh, Janet!"
 
 
 
@@ -174,7 +174,7 @@ James and Lily were both brilliant and terrifying, though each had their special
 
 And speaking of shape-shifting, Harry was also a latent metamorphmagus. The overnight hair-growth incident after a bad haircut during Harry's childhood had been an unmistakable sign, if only anyone had known to look. Oh, she wasn't nearly as innately talented at it as, say, Tonks, but the possibility was there, and so she was trained in that too. This, coupled with her animagus training, of course led to some interesting possibilities which were thoroughly explored.
 
-She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, etiquette, politics, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt that it might've killed her all over again.
+She trained in mental magic, myriad styles of martial arts and dueling, melee weapons, archery, firearms, spell-crafting, wandless magic, wards, enchanting, engineering, math, science, logic, rhetoric, etiquette, politics, diplomacy, history, and many *many* other subjects. Her tutors crammed her brain full of every last bit of knowledge, skill, and instinct they thought could possibly be beneficial. If she hadn't already been dead, she felt that it might've killed her all over again.
 
 Eventually, after a time impossible to quantify by mortal standards, she was ready.
 
@@ -1506,7 +1506,7 @@ Since their seats were also in the Top Box, Elysia decided she'd better pop into
 > To Do
 >
 > - [x] Stop the Twins from betting and losing their life savings
-> - [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
+> - [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
 
 As the afternoon wore on, the lanes between the tents began to fill with salesmen, hawking souvenirs of all sorts. Ron purchased a dancing shamrock hat; an animated figurine of Viktor Krum, the Bulgarian seeker; and a large green luminous rosette.
 
@@ -1762,7 +1762,7 @@ Hermione couldn't keep the smirk from her face. "It kind of says, 'I don't care 
 
 Elysia raised an eyebrow at her, grinning. "Oh *really?*"
 
-Hermione, despite her caramel complexion,  blushed the brightest of them all.
+Hermione, despite her caramel complexion, blushed the brightest of them all.
 
 > To Do
 >
@@ -2179,6 +2179,18 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 
 
+"Oh, by the way, d'you want that tattoo of yours removed?"
+
+"You can do that? Yes, please!"
+
+"_Lotu askatu!_"
+
+
+
++++++
+
+
+
 "One last thing, Russ," Lily said. "That prophecy? The one you overheard, that caused Albus to ruin so many lives? Trelawney faked it because she thought it'd get her hired."
 
 "_WHAT!?_"
@@ -2384,7 +2396,7 @@ The next morning, after their usual training routine, Elysia and Hermione sat ac
 
 "I know," Hermione pouted. "You know how I get, though."
 
-"All in your head?" Elysia snorted. "Hermione. You'll be in _my_ head. I'll be right there with you every step of the way."
+"All up in your head?" Elysia snorted. "Hermione. You'll be in _my_ head. I'll be right there with you every step of the way."
 
 Hermione took a deep breath and puffed it out. "Okay. Let's do this. _Legilimens._"
 
@@ -2439,35 +2451,21 @@ Janet handed Hermione a book, with a list tucked into the cover page. "Here, sta
 > Hermione's Reading List:
 >
 > - Magical Mastery: Mind Magic - How To Cheat At Life
->
-> - Magical Mastery: Runes, Wards, and Enchanting
-> 
+>- Magical Mastery: Runes, Wards, and Enchanting
 > - Magical Mastery: Illusions and Glamours
->
 > - Magical Mastery: Wandless Magic
->
 > - Martial Mastery: Tai Chi Chuan
->
-> - Martial Mastery: Systema
->
-> - Martial Mastery: Aikijutsu
->
+>- Martial Mastery: Systema
+> - Martial Mastery: Jiu-Jitsu
+>- Martial Mastery: Aikijutsu
 > - Freedom Of Form: A Note on Morphogenesis
->
-> - Freedom Of Form: Animagi
->
+>- Freedom Of Form: Animagi
 > - Magical Mobility: From Apparition to Zero-Gravity
->
-> - Divination And Privacy: Information Control In The Magical World
->
+>- Divination And Privacy: Information Control In The Magical World
 > - Countering Control: Potions, Spells, and Debts
->
-> - Acting Naturally
->
-> - Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
->
-> - Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
->
+>- Acting Naturally
+> - Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
+>- Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 > - Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
 
 Smiling fondly as Hermione settled into one of the armchairs by the window and began devouring the book, Elysia settled in and devoured her own. Something suddenly struck her as she finished, and she went over to the desk.
@@ -2824,7 +2822,13 @@ The girls all made their way to dinner together after Runes, chattering away exc
 
 Elysia rolled her eyes. "They're not all Malfoy or Parkinson."
 
-"Millicent Bulstrode's positively sweet," Hermione agreed.
+"Millicent Bulstrode's positively sweet," Hermione agreed. 
+
+"Didn't she put you in a headlock in second year?" Elysia asked, smirking.
+
+"Yeah," Hermione grinned, exaggerating a dreamy sigh, at which Elysia, Luna, and Ginny all giggled.
+
+"Seriously, those arms, though," Elysia said.
 
 "But they're slimy Slytherins!" Ron shouted.
 
@@ -3019,7 +3023,7 @@ The spider grew to the size of a small dog, causing Ron to whimper.
 
 "The Imperius curse allows the caster to completely control the target," Moody lectured. "Like so. _Imperio!_"
 
-There was no visible glow of spell-fire. There was no visible indication at all, until the spider began to tap-dance around the desk. Many of the class laughed at its antics, until Moody continued.
+There was no visible glow of spell-fire. There was no visible indication at all (aside from the HUD in Elysia's glasses), until the spider began to tap-dance around the desk. Many of the class laughed at its antics, until Moody continued.
 
 "Think it's funny, do you? What if I made it bite one of you?" He glowered. "Imagine this cast on your mother. I could make her kill her entire family and then herself. I could make her wander into the Ministry and assassinate people. I could make her wander out into Muggle London and blow the Statute of Secrecy wide open." The class sobered immediately.
 
@@ -3127,7 +3131,7 @@ Then a hand on her shoulder stopped her and spun her around to face the headmast
 
 "You must have me confused for someone else, sir," Elysia said stiffly. "My name is _Elysia,_ not Harry. Nor am I a 'mister.'"
 
-"Come now, Harry," Dumbledore said, eyes twinkling in such a way that Elysia was tempted to lock eyes and shift in a basilisk stare. "We both no there are no other Potters."
+"Come now, Harry," Dumbledore said, eyes twinkling in such a way that Elysia was tempted to lock eyes and shift in a basilisk stare. "We both know there are no other Potters."
 
 Elysia's glare sharpened to a knife-edge. "You are mistaken, _sir,_" she bit out. "I'm from _Canada._ There are _tons_ of Potters out there, especially in the mundane world. I'd've expected the Supreme Mugwump of the ICW, of all people, to know that. And _furthermore,_ do I _look_ like your silly little Golden Boy? Last I heard, _he_ had green eyes and a great big scar on his forehead. I have neither. Not to mention, _I'm a girl._"
 
@@ -3205,13 +3209,13 @@ Luna was in an airy floral-pattern dress with a pale blue cardigan, which had El
 
 "Damn, Potter, you femme up nice!" Millicent Bulstrode said as they arrived.
 
-"Thanks, Millie," Elysia said, giving her friend a once-over and biting her lip. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on, and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
+"Thanks, Millie," Elysia said, giving her friend a once-over and biting her lip. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on (and revealing washboard abs even through the material), and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
 
 "Hey there, Heart-Breaker," Parvati greeted her. "Save it for the party. Hullo, Hermione, and happy birthday!"
 
 They all trooped up to the Room of Requirement, which Robbie had commandeered earlier. He was waiting for them in a twenty-something version of his human form, flopped on a sofa in what looked for all the world like a basement game room in a large muggle home. There were several table games -- ping-pong, foosball, billiards -- and a wet-bar along one wall covered in food and drinks. Another corner had a few arcade cabinets and a pinball table (titled, appropriately enough, _Pinball Wizard_). Along the back were more sofas, over-sized bean-bags, floor pillows, and a big-screen TV and VCR. There was a stereo behind the bar, and enough room to dance, errant billiard cues aside.
 
-"Morgana!" Hermione gasped. "Is that _pepperoni pizza?_ Robbie, you've outdone yourself!"
+"Sweet Morgana!" Hermione gasped. "Is that _pepperoni pizza?_ Robbie, you've outdone yourself!"
 
 "I also picked up a few movies," Robbie said, hopping up off the sofa. "_The Princess Bride, Star Wars, Raiders of the Lost Ark, Superman, Aladdin, The Goonies,_ a few Monty Python flicks..."
 
@@ -3221,9 +3225,9 @@ _Why the older look, bro?_ Elysia asked over their bond.
 
 Robbie smirked. _It's closer to my actual age,_ he replied. _Besides, it makes it more awkward for any of your friends to hit on me._ 
 
-_Oh right, good point. Sometimes I forget straight girls exist._
+_Oh right, good point. Sometimes I forget girls who like boys exist._
 
-_Or the boys, though aside from Ickle Ronnikins, bi disaster, I don't think it'd matter._
+_Or the boys themselves, though aside from Ickle Ronnikins, bi disaster, I don't think it'd matter._
 
 Elysia snorted at that.
 
@@ -3315,7 +3319,7 @@ Finally, as dinner approached, they all settled down with food to watch _The Pri
 
 ### Gryffindor Common Room, Hogwarts	1994/09/24 16:11
 
-The third event was arguably less positive, though some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
+The third notable event of the month was arguably less positive, though some good _did_ come of it in the end. One Saturday afternoon, near the end of the month, a bemused Neville clambered through the portrait.
 
 "Alright, Nev?" Elysia asked.
 
@@ -3351,7 +3355,7 @@ Other than regular movie nights and Hogsmeade triad dates, October passed relati
 
 Another party in the Room of Requirement occurred, the weekend before, in similar vein to Hermione's. Elysia gave Luna her own set of curse-breaker's goggles and amulet, a matched set to Hermione's but trimmed in chrome instead of brass. Hermione gave her a bracelet that let her mind-speak at a distance with the other two girls as if they were using legilimency. They ended the night watching _Star Wars,_ and Luna taught everyone her lightsaber spell.
 
-The second was another confrontation between Elysia and Dumbledore. She was called to his office after dinner one night, and entered to find him glaring at her over his desk.
+The second exception was another confrontation between Elysia and Dumbledore. She was called to his office after dinner one night, and entered to find him glaring at her over his desk.
 
 "Did you think I wouldn't figure it out, Harry?" He said, with a look of grandfatherly disappointment.
 
@@ -3433,7 +3437,7 @@ _We should broadcast 'silly' at dinner sometime!_ Luna giggled.
 
 The other two cackled.
 
-A few minutes later the Durmstrang delegation arrived, on a derelict pirate ship rising from the depths of the lake on a whirlpool. As the ship docked, a gangplank was lowered by hands unseen, and the students marched down, led by their headmaster. He had a goatee, close-cropped black hair with silver streaks, and an oily demeanor. Like his students, he was draped in heavy furs.
+A few minutes later the Durmstrang delegation arrived, on a derelict galleon rising from the depths of the lake on a whirlpool. As the ship docked, a gangplank was lowered by hands unseen, and the students marched down, led by their headmaster. He had a goatee, close-cropped black hair with silver streaks, and an oily demeanor. Like his students, he was draped in heavy furs.
 
 "Headmaster Dumbledore!" He cried jovially, clasping hands with him.
 
@@ -3737,7 +3741,7 @@ They adjourned to an unused classroom, where Hermione conjured a sofa and an arm
 
 The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
-"Well," Mr. Tonks said hesitantly. "Maybe not _murder,_ as such, but anything short? Almost certainly."
+"Well," Mr. Tonks said hesitantly. "I would hope not _murder,_ as such, but anything short? Almost certainly."
 
 "Well _that's_ food for thought," Hermione said.
 
@@ -3757,7 +3761,7 @@ A lot of things happened very quickly once the Goblet issue was settled, and Ely
 
 She'd written Sirius first thing in the morning, telling him about how she'd already contacted Eberhardt, Bulstrode, & Tonks about the matter, but it looked like she was stuck competing. She embedded a password-protected portkey to the Kiln, saying that if he absolutely could not stay away, it would take him somewhere safe to stay and to call for Robbie when he arrived.
 
-She spent History in Elysium, plotting with Janet, Robbie, and her parents. Hermione was a bit annoyed, but understood.
+She spent History class in Elysium, plotting with Janet, Robbie, and her parents. Hermione was a bit annoyed, but understood.
 
 "Assuming you _do_ get emancipated," Lily said, "the Kiln would make for a fantastic base of operations. There's a ritual room in the basement, right James? You could do the Unlimited Flight and Morphogenesis rituals there."
 
@@ -3875,7 +3879,7 @@ Robbie nodded. "I figured, while I was at Gringotts getting a basilisk-harvestin
 
 "True, true. Well, let's get to it!"
 
-Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally childish. "Stilts and Beaky, James? Honestly. No.") Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into a magpie. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
+Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally childish. "Stilts and Beaky, James? _Honestly!_ No.") Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into a magpie. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
 
 Hermione performed the ritual, making Elysia the Secret Keeper. She then promptly told the others the secret, and they trooped back into the closet and into the trunk-flat.
 
@@ -4111,7 +4115,7 @@ Lily and Elysia cracked up.
 
 "It's full-contact, right?" Lily asked. "Drop a wave of stun lightning behind you as you go."
 
-"Firebolts and lightning: very very frightening!" James cackled.
+"Firebolts and lightning: very, very frightening!" James cackled.
 
 "No, Bohemian Rhapsody's got the wrong vibe." Lily retorted.
 
@@ -4143,7 +4147,7 @@ Over lunch, she had Robbie take their jackets to Madame Malkin for some custom w
 
 "About being from Canada?" 
 
-Moody nodded. 
+Moody nodded.
 
 "With respect, sir," Elysia responded, "you're an unknown quantity. And Hogwarts doesn't exactly have the best track record with Defense professors. Besides," she smirked. "You bought it. Constant vigilance, Professor!"
 
@@ -4189,7 +4193,7 @@ Izzy giggled. "_We're not_ all _that bad. Wait, you speak Basque?_"
 
 "_It turns out my family has roots there,_" Elysia answered. "_Way,_ way _back, like over a millennium, we were known as Eltzegilea. Not sure when we ended up in England, come to think of it. I picked up the language over the summer so I could read the older family records._"
 
-"_Hem, hem_" Dumbledore interjected. "Now that our final champion has arrived, perhaps we can get started?"
+"_Hem, hem,_" Dumbledore interjected. "Now that our final champion has arrived, perhaps we can get started?"
 
 Elysia rolled her eyes. "I walked in not 30 seconds after Cedric."
 

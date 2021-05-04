@@ -544,7 +544,7 @@ What it says on the tin.
 - [x] Find and read the primers on Strategy, Tactics, and the Art of War
 - [x] Find and read the highlight spoilers for the events of the 1994 Quidditch World Cup
   - [x] Plan accordingly
-- [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
+- [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
 - [x] Stop the Twins from betting and losing their life savings
 - [x] Mess with Fudge
 - [x] Neutralize the rioting Death Eaters
@@ -625,14 +625,15 @@ What it says on the tin.
 > - [x] Martial Mastery: Ba Gua Chuan
 > - [x] Martial Mastery: Systema
 > - [x] Martial Mastery: Aikijutsu
+> - [x] Martial Mastery: Jiu-Jitsu
 > - [x] Freedom Of Form: A Note on Morphogenesis
 > - [x] Freedom Of Form: Animagi
-> - [ ] Freedom Of Form: Metamorphmagi
-> - [ ] Freedom Of Form: Shapeshifting
+> - [x] Freedom Of Form: Metamorphmagi
+> - [x] Freedom Of Form: Shapeshifting
 > - [x] Magical Mobility: From Apparition to Zero-Gravity
 > - [x] Divination And Privacy: Information Control In The Magical World
 > - [x] Countering Control: Potions, Spells, and Debts
 > - [x] Acting Naturally
 > - [x] Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
-> - [x] Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Spanish, Basque, Swiss, and German
+> - [x] Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
 > - [x] Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
