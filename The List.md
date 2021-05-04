@@ -3513,7 +3513,7 @@ Luna snorted. "Bet you never thought you'd say _that,_ love."
 
 +++++
 
-### Great Hall, Hogwarts	1994/10/31 17:00
+### Great Hall, Hogwarts	1994/10/31 17:00	Samhain
 
 The Goblet of Fire had been placed in the entrance hall the night before, with the headmaster's vaunted age line around it. Over the course of the day, many students had tried to place their names in the Goblet. The Durmstrang students all put theirs in as soon as they were able the night before, and the Beauxbatons students entered theirs first thing that morning. The Weasley twins spent the day sporting long white beards fit to rival Dumbledore's, which was apparently caused by trying to cross the age line while underage.
 
@@ -4349,7 +4349,7 @@ Robbie had finished furnishing and stocking the farmhouse. He'd set aside the ma
 
 "Is he--?" Hermione asked.
 
-"Singing the most obvious song possible while showering? Yup!" Robbie said, greeting them as they all entered the greatroom. "At least he's on-key."
+"Singing the most obvious song possible in the most obvious way possible? Yup!" Robbie said, greeting them as they all entered the greatroom. "At least he's on-key."
 
 "Alright then," Elysia said. "While we're waiting around, Nell, Ginny, it's time for you to become animagi."
 
@@ -4439,19 +4439,19 @@ She waved a hand and the lights went out, the room now only lit by the ritual ca
 
 Elysia sliced her finger, moved to the northernmost point and began pacing deasil, chanting and gesturing. As she moved, the others took up a completely different chant, and lines of light and magic began to take shape. At each point where the pentagram touched the inner circle, right behind each participant, she dripped a few drops of blood. When she had dripped at each point she shifted the wound closed, and a wall of faintly-shimmering magic enclosed the circle.
 
-A phantom bell began to toll, and Elysia gave the signal. Hermione took a sip, passing it to Luna, who passed it to Nell, then Ginny, then Sirius. The empty bottle was tucked away in a pocket.
+A phantom bell began to toll, and Elysia gave the signal. Hermione took a sip from the flask Elysia had given her, passing it to Luna, who passed it to Nell, then Ginny, then Sirius. The empty bottle was tucked away in a pocket.
 
 The chanting reached a crescendo. Elysia lifted her arms high and shouted the final words. The others all threw their heads back and screamed, blood feeling as if it were on fire and the glow of magic streaming from their eyes and wide-open mouths. Finally, the magic abated and they all slumped to the ground. The phantom bell gave a final toll, and the candles blew out in an otherworldly wind.
 
 In the pitch-black of the chamber, Elysia could hear only the gasping breath of the others. She brought the lights up slowly, and found them all sprawled on the chamber floor, wide-eyed and shaking.
 
-"Everyone okay?" She asked, moving to help her girlfriends sit up.
+"Everyone okay?" She asked, moving to help them sit up.
 
 "Yeah," Ginny said. Her voice was rough.
 
 Elysia floated some bottles of water to each of them, which they took gratefully and drained.
 
-"So that's the hard part done," She said, to everyone's relief.
+"So that's the hard part done," she said, to everyone's relief.
 
 "Worth it," Nell said.
 
@@ -4467,7 +4467,7 @@ Elysia floated some bottles of water to each of them, which they took gratefully
 
 After a break and snacks, Elysia and Robbie gathered the components for the Unlimited Flight ritual, and they all returned to the chamber. 
 
-Inside the rune circle, they removed the pentagram and inscribed a hexagram with a chalk made from crushed eggshells. At each point, nestled upon a bed of feathers, a crystal was placed which had been charged with a single component spell of the main Unlimited Flight spell: anti-gravity, acceleration, raw velocity, inertial compensation, agility, and a triggering charm. In the center, a larger crystal was placed; it was charged with the full Unlimited Flight spell. Its feather nest was woven through with a hair from each of them.
+Inside the rune circle, they removed the pentagram and inscribed a hexagram with a paint made from crushed eggshells. At each point, nestled upon a bed of feathers, a crystal was placed which had been charged with a single component spell of the main Unlimited Flight spell: anti-gravity, acceleration, raw velocity, inertial compensation, agility, and a triggering charm. In the center, a larger crystal was placed; it was charged with the full Unlimited Flight spell. Its feather nest was woven through with a hair from each of them.
 
 They each sliced a finger and dripped a few drops into the rune circle. Magic flared, the lights dimmed, and they drew their wands and began chanting, "_Hegan egin mugarik gabe! Hegan egin mugarik gabe!_"
 
@@ -4479,7 +4479,7 @@ They floated for a moment that lasted an eternity.
 
 Finally, the light faded, seeping into their very beings, and they opened their eyes to find themselves floating a foot above the ground.
 
-"Holy _shit,_" Hermione gasped.
+"Sweet _Morgana,_" Hermione gasped.
 
 "What a _rush!_" Nell exclaimed.
 
@@ -4538,7 +4538,7 @@ They all ended up in the living room in Elysium, where Janet carted in a stack o
 
 
 
-"You gonna tell them that they're functionally immortal now?" Lily asked.
+"You gonna tell the others that they're functionally immortal now?" Lily asked.
 
 "Nah," Elysia replied. "It's more fun if they figure it out themselves."
 
@@ -4674,7 +4674,7 @@ Nell smiled. "I'd very much appreciate it."
 
 +++++
 
-### Room of Lost Things, Hogwarts	1994/11/05 13:45
+### Room of Lost Things, Hogwarts	1994/11/05 13:45	Bonfire Night
 
 After Professor McGonagall left with Nell, Elysia took the opportunity to retrieve the Diadem from the Room of Requirement. She met Robbie and her girlfriends outside the Room and they went over the plan, such as it was.
 
