@@ -4596,7 +4596,11 @@ Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
 They _did_ manage to get back to Hogwarts and into bed before dawn, as it turned out. Granted, it was a near thing, but Elysia still managed most of a full night's sleep. After the late night, she felt justified in skipping most of her training for the day, but she still met Hermione and Luna (and now Ginny and Nell) for a quick run before breakfast and some calisthenics on the grounds right after.
 
-As it was later than they were usually out, other students were around enjoying the comparatively warm (though cloudy) weather. They saw Millie, Lisa, and Laura having a picnic by the lake, and Izzy doing pull-ups on a convenient tree. Cormac McLaggen, a Gryffindor 5th-year, was flying around on his broom and leered at them until all five of them hit him with a targeted "you're a bug and I'm going to splat you" aura, at which point he paled and flew off, nearly crashing several times.
+As it was later than they were usually out, other students were around enjoying the comparatively warm (though cloudy) weather. They saw Millie, Lisa, and Laura having a picnic by the lake, and Izzy doing pull-ups on a convenient tree. 
+
+("Merlin and Morgana, that girl's buff!" Nell commented as they drew close enough to see her muscles straining her workout gear.) 
+
+Cormac McLaggen, a Gryffindor 5th-year, was flying around on his broom and leered at them until all five of them hit him with a targeted "you're a bug and I'm going to splat you" aura, at which point he paled and flew off, nearly crashing several times.
 
 "You lot are scary sometimes," Izzy commented.
 
@@ -4626,6 +4630,8 @@ Izzy giggled. "No wonder they call you Heart-Breaker," she teased, switching bac
 
 Izzy whistled. "Smooth. Wish _I'd_ though of it." She winked at Anna. "True, too. I feel my temperature rising already."
 
+Anna blushed deeper, biting her lip.
+
 "Yeah, what the hell, Potter? You weren't this smooth last year," Ginny said.
 
 "You weren't this smooth _last week,_" Nell added.
@@ -4646,7 +4652,7 @@ Elysia shrugged. "You're like three years older than me and I'm very much taken 
 
 "Ooh, I _like_ you!" Ginny exclaimed with a grin.
 
-"You are a bit young for me, I think," Anna said, smirking.
+"You are a bit young for me, I think," Anna said, deadpan.
 
 Ginny blushed.
 
@@ -4756,6 +4762,8 @@ A man in business robes met her as she entered, introducing himself as Solicitor
 
 "Indeed," Solicitor Bulstrode agreed. "She speaks quite highly of you."
 
+"It's quite mutual, I assure you."
+
 They headed back to a private room, where Rita met them a few minutes later.
 
 "Miss Potter!" She greeted, a predatory gleam in her eye.
@@ -4808,7 +4816,7 @@ The interview and contract negotiations took until nearly dinner time.
 
 ## Chapter 16: Don't Stop Me Now
 
-The week leading up to the race, not to put too fine a point on it, flew by. The triad spent most of their spare time helping Elysia prepare. The modifications to Elysia's Firebolt only took a few hours, as it turned out, and so the rest of the time was spent practicing in the Room of Requirement, with Hermione and Luna (and frequently Nell, Ginny, and Ron) doing their best to throw Elysia off course -- or off her broom.
+The week leading up to the race, not to put too fine a point on it, flew by. The triad spent most of their spare time helping Elysia prepare. Between the three girls and Robbie, the modifications to Elysia's Firebolt only took a few hours, as it turned out, and so the rest of the time was spent practicing in the Room of Requirement, with Hermione and Luna (and frequently Nell, Ginny, and Ron) doing their best to throw Elysia off course -- or off her broom.
 
 They quickly found that the most troublesome situations were when something interfered with Elysia's vision -- smoke, mirrors, and so forth. This led to a slew of adjustments to Elysia's glasses, from variable-frequency vision filters to a full ley line-based navigation suite built into the HUD (all of which were immediately copied to Luna and Hermione's goggles).
 
@@ -4830,7 +4838,7 @@ Finally, the week was over, the preparations were done, and Elysia was as ready 
 
 ### Hex Games Stadium, Hogwarts Grounds, Scotland	1994/11/12, 10:30
 
-"Welcome, one and all, to the first event in the newly-christened Hex Games!" Ludo Bagman's voice rang out. "Our six competitors are the best and brightest from the top three schools of magic in Europe, and they're raring to go on this beautiful November morning here at our host school, Hogwarts!"
+"Welcome, one and all, to the first event in the newly-christened Hex Games!" Ludo Bagman's voice rang out. "Our six competitors are the best and brightest from the top three schools of magic in Europe, and they're raring to go on this beautiful November morning here at our host school, Hogwarts School of Witchcraft and Wizardry!"
 
 The six champions were sequestered away in a tent just off the quidditch pitch, performing last-minute preparations under the watchful eye of Bartemius Crouch.
 
@@ -4838,7 +4846,7 @@ The six champions were sequestered away in a tent just off the quidditch pitch, 
 
 "That's your cue," Crouch announced flatly, handing out the amulets.
 
-The crowd cheered as the pensieves flickered to life.
+The crowd cheered as the air above the pensieves flickered to life.
 
 "And there's the signal! Please welcome our champions!"
 
@@ -4852,15 +4860,15 @@ A black curtain hung before them, hiding the course for the moment. Elysia surre
 
 "Champions, mount your brooms!" Bagman boomed. "Three, two, one, GO!"
 
-The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a muttered (and unheard) "_kettenblitzschlag!_" behind her and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
+The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a muttered (and unheard) "_kettenblitzschlag!_" behind her, triggtred the modified windscreen bubble, and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
 
-The spell she'd cast, a German chain-lightning stunner, caught all five of the other champions. It didn't knock them unconscious, but it did lock their muscles for several crucial seconds -- plenty of time for Elysia to gain an early and dominating lead.
+The spell she'd cast, an ancient German chain-lightning stunner, caught all five of the other champions. It didn't knock them unconscious, but it did lock their muscles for several crucial seconds -- plenty of time for Elysia to gain an early and dominating lead.
 
 The curtain had hidden a tunnel of mirrors, twisting and looping all over Hogwarts' grounds, and Elysia's Perfect Reflexes spell was put to the test immediately. She tapped her goggles to adjust them to a spectrum the mirrors didn't reflect perfectly (a combination of radio and upper ultraviolet, which the goggles beamed out ahead of her into the dim tunnel of mirrors) and immediately had to veer left with a modified Split-S turn.
 
 "Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long-thought only the stuff of legend! And following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt! Mikhail, what _was_ that?"
 
-"Well, Ludo," Engel said, "the young Potter is definitely riding a Firebolt -- first-run, serial number of 86 -- which should have a theoretical top speed of 200 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
+"Well, Ludo," Engel said, "like most of the other champions, excepting Miss Delacour's signature customized Volière Soleil, the young Miss Potter is definitely riding a Firebolt -- first-run, serial number of 86 -- which should have a theoretical top speed of 200 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier from a cold start, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
 
 Bagman gaped like a fish as a collective gasp rose from the crowd. "But -- _how!?_"
 
@@ -4900,7 +4908,7 @@ Madame Pomfrey insisted on giving Elysia a quick check-over, despite her complai
 
 Elysia just shrugged, tapping her goggles with her wand to revert them to glasses.
 
-Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to drink that all down, now, until it stops tasting good," she instructed. "You need to replenish your electrolytes."
+Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to drink that all down, now, until it stops tasting good," she instructed. "All that wind in your face dries you out. You need to replenish your electrolytes."
 
 "Cheers," Elysia said, toasting Madame Pomfrey and chugging the entire mug in one go, hands shaking as the adrenaline wore off.
 
@@ -4982,7 +4990,7 @@ The others emulated Elysia, conjuring comfortable chairs and settling back with 
 
 "I think we all want to know, Ellie," Rita began. "_How?_"
 
-Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the maneuvering stresses -- the muggles call those 'G-forces,' G for gravitational. My trousers, for instance, are charmed to tighten during intense maneuvering to keep the blood in my brain instead of pooling in my legs. It's a muggle fighter pilot trick, actually."
+Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the maneuvering stresses -- the muggles call those 'G-forces,' G for gravitational. For instance," she misdirected, "trousers charmed to tighten during intense maneuvering to keep the blood in the brain instead of pooling in the legs. It's a muggle fighter pilot trick, actually."
 
 "Muggles can fly that fast?" Rita asked incredulously.
 
