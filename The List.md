@@ -3023,7 +3023,7 @@ The spider grew to the size of a small dog, causing Ron to whimper.
 
 "The Imperius curse allows the caster to completely control the target," Moody lectured. "Like so. _Imperio!_"
 
-There was no visible glow of spell-fire. There was no visible indication at all (aside from the HUD in Elysia's glasses), until the spider began to tap-dance around the desk. Many of the class laughed at its antics, until Moody continued.
+There was no visible glow of spell-fire. There was no visible indication at all (aside from the HUD in Elysia's glasses, which were still on active-scan mode), until the spider began to tap-dance around the desk. Many of the class laughed at its antics, until Moody continued.
 
 "Think it's funny, do you? What if I made it bite one of you?" He glowered. "Imagine this cast on your mother. I could make her kill her entire family and then herself. I could make her wander into the Ministry and assassinate people. I could make her wander out into Muggle London and blow the Statute of Secrecy wide open." The class sobered immediately.
 
@@ -4538,16 +4538,6 @@ They all ended up in the living room in Elysium, where Janet carted in a stack o
 
 
 
-"You gonna tell the others that they're functionally immortal now?" Lily asked.
-
-"Nah," Elysia replied. "It's more fun if they figure it out themselves."
-
-
-
-+++++
-
-
-
 Ginny and Nell both read _Processing Trauma,_ and the difference, while not as stark as with Sirius, was substantial. Nell was much more confident, especially now that she finally fit her own self-image. Ginny still had claws, but she'd lost the desperate edge and occasional spirals of despair she'd had for most of the last year.
 
 
@@ -4842,7 +4832,7 @@ Finally, the week was over, the preparations were done, and Elysia was as ready 
 
 The six champions were sequestered away in a tent just off the quidditch pitch, performing last-minute preparations under the watchful eye of Bartemius Crouch.
 
-"Our event today is a five-lap, no-holds-barred broom race, on one of the most challenging courses ever devised! As the course is being assembled," Bagman continued, "allow me to direct your attention to the Judges' Booth, and the array of Projecting Pensieves just below it. Each of our champions will be given a special amulet with a monitoring charm, tying them to one of the pensieves. We'll be able to view all the action as if we were following just a broom-length or two behind!"
+"Our event today is a five-lap, no-holds-barred broom race, on one of the most challenging courses ever devised! As the course is being assembled," Bagman continued, "allow me to direct your attention to the Judges' Booth, and the array of Projecting Pensieves just below it. Each of our champions will be given a special amulet with a monitoring charm, tying them to one of the pensieves. We'll be able to view all the action as if we were following just a broom-length or two behind! A seventh pensieve will give an overhead view of wherever the judges direct, so you won't miss a thing, folks!"
 
 "That's your cue," Crouch announced flatly, handing out the amulets.
 
@@ -4860,15 +4850,15 @@ A black curtain hung before them, hiding the course for the moment. Elysia surre
 
 "Champions, mount your brooms!" Bagman boomed. "Three, two, one, GO!"
 
-The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a muttered (and unheard) "_kettenblitzschlag!_" behind her, triggtred the modified windscreen bubble, and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
+The curtain fell. As Robbie took over the airwaves with Motörhead's _Ace of Spades,_ Elysia dropped a muttered (and unheard) "_kettenblitzschlag!_" behind her, triggered the modified windscreen bubble, and shot forward with an ear-splitting roar as the sound barrier shattered in her wake.
 
 The spell she'd cast, an ancient German chain-lightning stunner, caught all five of the other champions. It didn't knock them unconscious, but it did lock their muscles for several crucial seconds -- plenty of time for Elysia to gain an early and dominating lead.
 
 The curtain had hidden a tunnel of mirrors, twisting and looping all over Hogwarts' grounds, and Elysia's Perfect Reflexes spell was put to the test immediately. She tapped her goggles to adjust them to a spectrum the mirrors didn't reflect perfectly (a combination of radio and upper ultraviolet, which the goggles beamed out ahead of her into the dim tunnel of mirrors) and immediately had to veer left with a modified Split-S turn.
 
-"Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long-thought only the stuff of legend! And following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt! Mikhail, what _was_ that?"
+"Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long-thought only the stuff of legend, and following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt broom, who have graciously gifted several of our champions with Firebolts to help even the playing field. Mikhail, what _was_ that?"
 
-"Well, Ludo," Engel said, "like most of the other champions, excepting Miss Delacour's signature customized Volière Soleil, the young Miss Potter is definitely riding a Firebolt -- first-run, serial number of 86 -- which should have a theoretical top speed of 200 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier from a cold start, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
+"Well, Ludo," Engel said, a faint German accent tinting his words, "like most of the other champions, excepting Miss Delacour and her signature customized Volière Soleil, the young Miss Potter is definitely riding a Firebolt -- her own, first-run, serial number of 86 -- which should have a theoretical top speed of 250 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier from a cold start, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
 
 Bagman gaped like a fish as a collective gasp rose from the crowd. "But -- _how!?_"
 
@@ -4878,9 +4868,9 @@ Just then, Elysia blew past them.
 
 "And that's the first lap!" Bagman crowed. "Elysia Potter, with a time of just over 30 seconds! For reference, folks, this course was paced out with a Cleansweep 9 at 10 minutes per lap."
 
-On the pensieves, the other champions were fighting a fierce neck-and-neck battle partway down the track until Elysia lapped them. The sonic boom knocked them about like toy boats in a bathtub when the dog jumps in, and the others found out the hard way that the mirrors had been charmed unbreakable -- and _bouncy._
+On the pensieves, the other champions were fighting a fierce neck-and-neck battle partway down the track until Elysia lapped them. The sonic boom knocked them about like toy boats in a bathtub when the dog jumps in, and the others found out the hard way that the mirrors had been charmed unbreakable -- and bouncy.
 
-They'd barely gotten themselves sorted out and made it a scant few dozen meters down the track before she did it again.
+They'd barely gotten themselves sorted out and made it a scant few hundred meters down the track before she did it again.
 
 "Right, that's it!" Cedric said. He waved his wand and conjured a net across the full span of the tunnel behind him.
 
@@ -4888,7 +4878,7 @@ They'd made it just far enough past that Cedric thought his net had actually wor
 
 As he watched, though, the net disintegrated into dust, wafting away on the breeze. He tore his gaze away just in time to avoid ramming headlong into the side of the tunnel.
 
-And then she blew past him again.
+And then she blew past him again, and all he could do was growl.
 
 Back at the finish line, Elysia crossed for the fifth time, finishing her final lap with a Hammerhead Stall. She back-flipped off her broom at the apex, casting βροντή (_vrontí_), the Greek Thunder-Step charm, and free-fell into a Hero Landing with her broom swept back behind her like a sword as the ground cratered beneath her.
 
@@ -4912,7 +4902,7 @@ Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to dri
 
 "Cheers," Elysia said, toasting Madame Pomfrey and chugging the entire mug in one go, hands shaking as the adrenaline wore off.
 
-They made it up to the judges' booth while the rest of the champions were in the midst of their second lap. Hermione conjured a loveseat and the three girls snuggled up together to watch the rest of the race. Robbie popped in with a crate full of butterbeer and a tub of popcorn, joining them in his own conjured armchair.
+They made it up to the stands while the rest of the champions were in the midst of their second lap. Robbie was there with a crate full of butterbeer and a tub of popcorn, accompanied by Sirius (in disguise, of course, with wavy brown hair to his shoulder blades, pulled back into a ponytail, and warm brown eyes that sparkled with laughter instead of his usual steel-grey), the Weasleys, and Nell. The three girls snuggled up together to watch the rest of the race.
 
 "You're still on camera, Ellie," Hermione mentioned, grinning.
 
@@ -4974,7 +4964,7 @@ Fleur waved as if she were in a pageant.
 
 "I _do_ race professionally, you know," Fleur retorted.
 
-"And today's winner, with a frankly unbelievable time of 2:33, our youngest champion, the Green-Eyed Lightning, the Girl-Who-Lived herself, Elysia Potter!"
+"And today's winner, with a frankly unbelievable time of 02:33, our youngest champion, the Green-Eyed Lightning, the Girl-Who-Lived herself, Elysia Potter!"
 
 Elysia bowed with a flourish to thunderous applause.
 
@@ -4990,7 +4980,7 @@ The others emulated Elysia, conjuring comfortable chairs and settling back with 
 
 "I think we all want to know, Ellie," Rita began. "_How?_"
 
-Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the maneuvering stresses -- the muggles call those 'G-forces,' G for gravitational. For instance," she misdirected, "trousers charmed to tighten during intense maneuvering to keep the blood in the brain instead of pooling in the legs. It's a muggle fighter pilot trick, actually."
+Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good broom," she understated. "I just took the limiter off and took a few steps to mitigate the maneuvering stresses -- the muggles call those 'G-forces', G for gravitational. For instance," she misdirected, "trousers charmed to tighten during intense maneuvering to keep the blood in the brain instead of pooling in the legs. It's a muggle fighter pilot trick, actually."
 
 "Muggles can fly that fast?" Rita asked incredulously.
 
@@ -5016,13 +5006,13 @@ Elysia nodded gratefully. "Makes sense. Thanks, Luna-love."
 
 Hermione snorted. "That's only because anti-lightning wards are overly broad, and nobody bothered to update them over the centuries."
 
-Izzy stared. "Wait, _seriously?_ Why didn't they just use lightning rods?"
+Izzy stared. "Wait, _seriously?_ Those things are _everywhere!_ Why didn't they just use lightning rods?"
 
 "That's what _I_ said!" Hermione agreed. "Anyway, we fixed it."
 
 "_What._" Cedric said.
 
-Luna giggled. "We fixed it! There's a lightning rod now, and the wards are fixed."
+Luna giggled. "We fixed it! There's a lightning rod at Hogwarts now, and the wards are fixed."
 
 "By 'we'," Anna asked, slowly, "you mean your professors, right?"
 
@@ -5078,7 +5068,9 @@ Cedric snorted.
 
 They talked for a little while longer, covering the exploits of each of the champions in turn. Finally, the siren song of lunch proved too irresistible, and they adjourned to the Great Hall while Robbie popped away to acquire a copy of _Jurassic Park._
 
-That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie Night group. (Cedric begged off as he already had plans with Cho, and Krum had grumbled that he had no interest in such idle frivolities -- which got an eyeroll out of everyone who heard.) They all sat around chatting after the movie, and Hermione explained that, while muggles couldn't clone extinct animals _yet,_ it was probably only a matter of time.[^3] The wizard-raised among them were shocked that muggles had their own form of bio-alchemy, and even more shocked that it was so developed.
+That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie Night group. (Cedric begged off as he already had plans with Cho, and Krum had grumbled that he had no interest in such idle frivolities -- which got an eyeroll out of everyone who heard.) They all sat around chatting after the movie, and Hermione explained that, while muggles couldn't clone extinct animals _yet,_ it was probably only a matter of time.[^3] The wizard-raised among them were shocked that muggles had their own form of bio-alchemy, and even more shocked that it was so developed. 
+
+Ron also wondered what a dino-steak would taste like, and Fred & George had disturbing grins for most of the night. Elysia resolved to be more wary than usual where they were concerned.
 
 
 
@@ -5090,7 +5082,7 @@ That night after dinner, Izzy, Anna, and Fleur all joined Elysia's usual Movie N
 
 
 
-The next two weeks were surprisingly uneventful. Sirius got Elysia to give Remus the Secret to the Kiln the following weekend, and she spent an enjoyable day catching up. Remus also performed the Unlimited Flight ritual, though because of his lycanthropy he couldn't become a shifter yet. He kept making _Airwolf_ jokes, though nobody else got them.
+The next two weeks were surprisingly uneventful. The girls spent a portion of every morning training at the Kiln, and most mornings Sirius joined them. Sirius got Elysia to give Remus the Secret to the Kiln the following weekend, and she spent an enjoyable day catching up. Remus also performed the Unlimited Flight ritual, though because of his lycanthropy he couldn't become a shifter yet. He kept making _Airwolf_ jokes, though nobody else got them.
 
 That Sunday, Elysia and company happened to be in the Three Broomsticks when Hagrid passed by and surreptitiously dropped a note on her lap, covering it with his usual exuberant greeting.
 
@@ -5102,7 +5094,7 @@ _Think it's about the next Task?_ Luna asked.
 
 _Probably,_ Elysia sent. _Bit concerning, considering._
 
-The other two sent agreement tinged with trepidation.
+The others sent agreement tinged with trepidation.
 
 
 
@@ -5112,7 +5104,7 @@ The other two sent agreement tinged with trepidation.
 
 That night, Elysia shadow-walked to Hagrid's doorstep with her cloak on, knocking three quick knocks. The door opened swiftly. 
 
-"That you, Ellie?" Hagrid said, stepping out. He wore a flower in his button-hole, and had broken teeth from some poor comb stuck in his hair (which Elysia quietly Vanished for him).
+"That you, Ellie?" Hagrid said, stepping out. He wore a flower in his button-hole, and had broken teeth from some poor comb stuck in his hair (which Elysia surreptitiously Vanished for him).
 
 "It's me," she said, flipping back the cloak's hood.
 
@@ -5158,7 +5150,7 @@ By the time Saturday rolled around, Elysia felt like she could finish off the Se
 
 "It's another fine day here at Hogwarts School of Witchcraft and Wizardry!" Ludo Bagman's voice boomed out. "Welcome, one and all, to the Second Task of the Hex Games!"
 
-Elysia and the other champions had been sequestered in a tent a short walk away from the arena, and had been made to draw a numbered statue of a dragon from a sack. Elysia had drawn a tiny Ukrainian Ironbelly with a number 3 around its neck. Fitting, she'd thought, considering her favorite outfit.
+Elysia and the other champions had been sequestered in a tent a short walk away from the arena, and had been made to draw a numbered, animated miniature of a dragon from a sack. Elysia had drawn a tiny Ukrainian Ironbelly with a number 3 around its neck. Fitting, she'd thought, considering her favorite outfit.
 
 "Now then," Bagman had said once they'd all drawn. "Your objective is to retrieve the golden egg. This is a test of your nerve and ability to think on your feet, so you'll only be allowed to bring your wands in."
 
@@ -5200,19 +5192,19 @@ Anna snorted. "Be glad you didn't get the Horntail."
 
 Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains of AC/DC's _Thunderstruck_ began to ring out across the stadium.
 
-_Go time,_ Elysia thought, entering the arena in time with the beat. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena).
+_Go time,_ Elysia thought, entering the arena in time with the beat as the first verse started. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena). She played her own variation of the classic drinking game, and every time the song said "thunder!" she'd cast 球電 (_kyuu-den,_ a Japanese ball-lightning spell). The orbs flared to the melody. The audience loved it, and the dragon was entranced, moving like a charmed cobra as its head followed the orbs around the arena.
 
 She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
 
-The drums hit, and with it an echoing double-boom of thunder as she leapt to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit.
+The drums hit, and with it an echoing double-boom of thunder as she leapt across the arena to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit. The remaining orbs of ball-lightning exploded in showers of sparks.
 
 "Thunderstruck!" The crowd yelled.
 
-Elysia bowed with a flourish and raised the egg high above her head. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
+Elysia raised the egg high above her head, then bowed with a flourish. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
 
-"The Green-Eyed Lightning does it again!" Bagman shouted. "Our youngest champion is by far the fastest to retrieve her egg, in a stunning and flawless performance! Let's go to the judges!" He waved his wand, and a large, glowing '10' appeared. The others followed suit, even Karkaroff, who had a sour look on his face as he gave his score.
+"The Green-Eyed Lightning does it again!" Bagman shouted. "Our youngest champion is by far the fastest to retrieve her egg, in a stunning and flawless performance! Let's go to the judges!" He waved his wand, and a large, glowing '10' appeared. The others followed suit. Even Karkaroff couldn't find fault; he had a sour look on his face as he gave his score.
 
-Elysia, Luna, and Hermione made their way into the stands to join Remus and Sirius (who had wavy brown hair to his shoulder blades, pulled back into a ponytail, and warm brown eyes instead of his usual steel-grey). They looked quite cozy together, and when Elysia raised an eyebrow Remus blushed.
+Elysia, Luna, and Hermione made their way into the stands to join Remus and Sirius (in disguise again). They looked quite cozy together, and when Elysia raised an eyebrow Remus blushed.
 
 "Hey, who am I to judge?" She said, snuggling between Luna and Hermione. "Anyway, how's the competition so far?"
 
@@ -5232,9 +5224,9 @@ The girls all winced at that.
 
 "Anyway, they're both back in the healers' tent," Remus added.
 
-("When did _that_ happen?" Hermione nudged Elysia, gesturing to Nell and Ginny.
+("When did _that_ happen?" Elysia nudged Hermione, gesturing to Nell and Ginny.
 
-"The day after the race," she answered. "Nell panicked a bit at first and asked my advice."
+"The night you went to see Hagrid," she answered. "Nell was in a bit of a panic at first and asked my advice."
 
 "Good for them," Luna said, snuggling closer herself.)
 
@@ -5252,17 +5244,19 @@ The girls all winced at that.
 
 The last three champions put on a good show, Elysia had to give them that. Anna went for a sensory-overload approach, with lots of colored, scented smoke, sparks, loud noises, and a clever disillusionment charm which _almost_ got her through the ordeal unscathed. Unfortunately, Hungarian Horntails are aptly-named, and she was caught by a tail-horn as she made her escape. It went straight through her left arm and sent her flying halfway to the exit.
 
-Izzy did something _nobody_ saw coming: she cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her, first punching her in the snout as the dragon reared back to breathe a gout of flame, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
+Elysia winced. She knew from experience that Anna was looking at a night on skele-grow at minimum for that, and resolved to drop in on her later to help break up the painful monotony or re-growing an arm.
 
-"Holy shit," Elysia breathed.
+Izzy, mad little ball of energy that she was, did something _nobody_ saw coming. She cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her: first punching her in the snout as the dragon reared back to breathe a gout of flame, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
+
+"Holy fuck," Elysia breathed.
 
 "And _we're_ the scary ones?" Luna asked rhetorically.
 
 ("Norberta!" Hagrid wailed.
 
-"_Norberta!?_" Hermione asked. "Seriously?")
+"Norberta!?" Hermione asked. "_Seriously?_")
 
-"Did- did that just happen?" Bagman asked.
+"Did- did that just happen?" Bagman stammered.
 
 Needless to say, Izzy also got a perfect score.
 
@@ -5316,15 +5310,17 @@ The two girls shook pinkies on it.
 
 "That's it!" Hermione cried. "Izabella 'The Matagot' Maradona!"
 
+"Perfect," Luna agreed sagely.
+
 "Yeah, alright! It _does_ flow nicely," Izzy agreed.
 
-"That settles it, then," Rita agreed.
+"That settles it, then," Rita said.
 
 
 
 ## Chapter 17: Ballroom Blitz
 
-As much of a whirlwind as November had been, December was a much-needed return to some semblance of normal, and gave Elysia the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, Nell's parents.
+As much of a whirlwind as November had been, December was a much-needed return to some semblance of normal, and gave Elysia the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, for instance, and Nell's parents.
 
 But on top of everything else, a new concern was dropped on her lap before December even arrived: the Yule Ball.
 
