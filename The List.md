@@ -5344,13 +5344,15 @@ Elysia cocked an eyebrow. "You and Madame Hooch? That's perfect!"
 
 McGonagall smiled warmly. "It is, rather," she said, a bit misty-eyed. "We've been friends forever -- were in Gryffindor together, in fact -- and when Elphinstone died, Rolanda and I, well..."
 
-Elysia smiled. "I know what it's like to fall in love with your best friend. It's... special. And a little bit terrifying at first."
+Elysia smiled. "I know what it's like to fall in love with your best friend. It's... special. And more than a little bit terrifying sometimes."
 
-"Aye, that it is," McGonagall agreed with a wistful sigh.
+"Aye, that it is," McGonagall agreed with a wistful sigh. "And I'll let you in on a little secret: Rolanda is an animagus too. A great horned owl."
+
+Elysia giggled. "_So_ perfect!"
 
 
 
-[^4]: Using [this](https://files.magic-spells-and-potions.com/files/flower-language-dictionary.htm) flower-language dictionary, the bouquet means, in rough measure, admiration, flattery, and playfulness regarding the first dance.
+[^4]: Using [this](https://files.magic-spells-and-potions.com/files/flower-language-dictionary.htm) flower-language dictionary, the bouquet means, in rough measure, admiration, flattery, and playfulness regarding the dance.
 
 
 
