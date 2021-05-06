@@ -5152,7 +5152,7 @@ By the time Saturday rolled around, Elysia felt like she could finish off the Se
 
 Elysia and the other champions had been sequestered in a tent a short walk away from the arena, and had been made to draw a numbered, animated miniature of a dragon from a sack. Elysia had drawn a tiny Ukrainian Ironbelly with a number 3 around its neck. Fitting, she'd thought, considering her favorite outfit.
 
-"Now then," Bagman had said once they'd all drawn. "Your objective is to retrieve the golden egg. This is a test of your nerve and ability to think on your feet, so you'll only be allowed to bring your wands in."
+"Now then," Bagman had said once they'd all drawn. "Your objective is to retrieve the golden egg, which if you can solve it is a hint for the Fourth Task. This is a test of your nerve and ability to think on your feet, so you'll only be allowed to bring your wands in."
 
 Elysia took off her glasses and pendant, calling Robbie to hold them for her during the Task. "Are sizing-charmed clothes okay?" She asked Bagman.
 
@@ -5282,6 +5282,10 @@ Izzy blushed, but grinned. "Coming from Miss 'Hero Landing' that means a lot."
 
 It was Elysia's turn to blush as her girlfriends giggled.
 
+"You'll have to watch out for Charlie Weasley," Hermione said. "He's one of the dragon-handlers. Dunno if he'd want to kill you or kiss you for actually pulling off what you did."
+
+"Either way, not gonna happen," Izzy said, laughing.
+
 "So you've trained in muggle martial arts, Miss Maradona?" Rita asked.
 
 "A few," Izzy replied. "Jiu-jitsu, mostly."
@@ -5323,4 +5327,10 @@ The two girls shook pinkies on it.
 As much of a whirlwind as November had been, December was a much-needed return to some semblance of normal, and gave Elysia the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, for instance, and Nell's parents.
 
 But on top of everything else, a new concern was dropped on her lap before December even arrived: the Yule Ball.
+
+Unlike many of her classmates, her concern was not so much about asking the person (or _people,_ as the case may be) she liked. No, her problem was a bit trickier.
+
+"What do you mean, 'only _one_ partner?" Elysia whined.
+
+"I'm sorry, Miss Potter," Professor McGonagall said. "It's in the tournament rules. The opening dance is a _paired_ waltz. The rest of the night you may do as you please, but not for this."
 
