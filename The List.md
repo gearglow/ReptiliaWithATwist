@@ -5360,5 +5360,5 @@ Elysia giggled. "_So_ perfect!"
 
 
 
-Rita's opening salvo appeared in the Sunday Prophet the week after the Second Task.
+Rita's opening salvo appeared in the Sunday Prophet the week after the Second Task. It ignited a wildfire of public outcry, that a Lord of a Most Ancient and Noble House could be so... _betrayed_ by the very system the Houses claimed as birthright. _Ironic,_ Elysia thought. _Still, it's nice to have the sheep stampeding against someone else for once._
 
