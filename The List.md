@@ -5336,7 +5336,7 @@ Unlike many of her classmates, her concern was not so much about asking the pers
 
 "I'm sorry, Miss Potter," Professor McGonagall said. She'd called Elysia into her office after dinner the Sunday after the Second Task. "It's in the tournament rules. The opening dance is a _paired_ waltz. The rest of the night you may do as you please, but not for this."
 
-Elysia sighed, but then perked up as an idea came to her. "Well, then, milady McGonagall," she said, conjuring a bouquet[^4] of amethyst flower, butterfly orchis, _calla æthiopica,_ saffron crocus, reeds, and lyre-flower. "Mayhap you will grace my unworthy self with your illustrious company for the occasion, and we can show them how it's done." She presented the bouquet with a flourish, a wink, and a rakish lop-sided grin.
+Elysia sighed, but then perked up as an idea came to her. "Well, then, milady McGonagall," she said, conjuring a bouquet[^4] of amethyst flower, butterfly orchis, _calla æthiopica,_ saffron crocus, reeds, and lyre-flower. "Mayhap you will grace my unworthy self with your illustrious company for the occasion, and we can show them how it's done." She presented the bouquet with a flourish, a wink, and a rakish, lop-sided grin.
 
 Professor McGonagall laughed, blush staining her cheeks pink. "You charming rogue! Yes, alright, I'll open the Ball with you, you scoundrel." She conjured a vase for the flowers, placing the bouquet carefully within. "I'm sure Rolanda won't begrudge the one dance."
 
@@ -5344,7 +5344,7 @@ Elysia cocked an eyebrow. "You and Madame Hooch? That's perfect!"
 
 McGonagall smiled warmly. "It is, rather," she said, a bit misty-eyed. "We've been friends forever -- were in Gryffindor together, in fact -- and when Elphinstone died, Rolanda and I, well..."
 
-Elysia smiled. "I know what it's like to fall in love with your best friend. It's... special. And more than a little bit terrifying sometimes."
+Elysia smiled. "I know what it's like to fall in love with your best friend. It's... special. And more than a little bit terrifying at times."
 
 "Aye, that it is," McGonagall agreed with a wistful sigh. "And I'll let you in on a little secret: Rolanda is an animagus too. A great horned owl."
 
@@ -5360,5 +5360,6 @@ Elysia giggled. "_So_ perfect!"
 
 
 
-Rita's opening salvo appeared in the Sunday Prophet the week after the Second Task. It ignited a wildfire of public outcry, that a Lord of a Most Ancient and Noble House could be so... _betrayed_ by the very system the Houses claimed as birthright. _Ironic,_ Elysia thought. _Still, it's nice to have the sheep stampeding against someone else for once._
+Rita's opening salvo appeared in the Sunday Prophet the week after the Second Task. It spilled the beans about there never being a trial, and mentioned evidence that absolutely _had_ to have been suppressed, because otherwise there would have never been any doubt as to Sirius' innocence. The article ignited a wildfire of public outcry, that a Lord of a Most Ancient and Noble House could be so... _betrayed_ by the very system the Houses claimed as birthright. _Ironic,_ Elysia thought. _Still, it's nice to have the sheep stampeding against someone else for once._
 
+A proper trial was scheduled for the end of the week. She and the others met every evening with Rita and Solicitors Tonks and Bulstrode, who were representing Sirius under retainer from Elysia, to prepare evidence and testimony.
