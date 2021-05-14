@@ -5364,4 +5364,6 @@ Rita's opening salvo appeared in the Sunday Prophet the week after the Second Ta
 
 A proper trial was scheduled for the end of the week. She and the others met every evening with Rita and Solicitor Bulstrode, who was representing Sirius, to prepare evidence and testimony. Elysia, Hermione, and Sirius had given memories, as well -- even Professor Snape had consented to provide his testimony and memories of the night Pettigrew had escaped last summer.
 
-By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, he'd been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding at the trial due to conflict of interest. 
+By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, he'd been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding at the trial due to conflict of interest. This meant that Augusta Longbottom, Nell's gran, would be presiding in his place.
+
+"We'll have to cure your parents right quick then, Nell," Elysia said. "From what I've been told, it was Dumbledore who sold them out to the Death Eaters -- indirectly, of course, but there should be enough of a trail."
