@@ -2,7 +2,7 @@
 
 ## Summary
 
-Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously like The Good Place). The usual Reptilia28 Don't Fear the Reaper challenge ensues, with a twist or two.
+Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously like The Good Place). The usual Reptilia28 Don't Fear the Reaper challenge ensues, with a... _twist_ or two.
 
 ### Reptilia28 Don't Fear the Reaper Challenge Details
 
@@ -21,12 +21,11 @@ Harry is a trans girl, and ends up in the Afterlife (which looks suspiciously li
 
 ### Changes and Adjustments
 
-> + Make A Wish: What if Harry really was just that good?
->+ Can't keep timeline memories, but can train up in the afterlife and keep that. 
+> + Can't keep timeline memories, but can train up in the afterlife and keep that. 
 >   + Training includes mind magics 
->+ Can make a plan with whichever advisors are desired. The plan lives in Harry's mindscape and can only be accessed during occlumentic meditation.
->+ Death (Eleanor?) grants a boon: limited precognition so Harry (almost) always sees a direct attack coming far enough in advance to counter it. This might just be on an instinctive level, or it might go so far as to be a full-blown vision, depending on the attack.
->+ No way is Eleanor getting fired, but she's a romantic at heart (and *really* wants to hook up with Destiny if she can help her latest pet project along).
+> + Can make a plan with whichever advisors are desired. The plan lives in Harry's mindscape and can only be accessed during occlumentic meditation.
+> + No way is Eleanor getting fired, but she's a romantic at heart (and *really* wants to hook up with Destiny if she can help her latest pet project along).
+> + Voldemort's defeat is not the reason for being sent back. Magic is dying out due to a stagnant and oppressive society, and Harry is uniquely placed to fix it -- by any means necessary.
 
   
 
@@ -2802,7 +2801,7 @@ Luna smiled as Hermione nodded enthusiastically. "I'd love to!"
 
 
 
-After Arithmancy was Runes, which Professor Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Millicent Bulstrode and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Laura Madley and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna noted, smirking, that she was pretty sure none of them were straight (including the professor, if the tattoo of a labrys wreathed in violets on her wrist was any indication).
+After Arithmancy was Runes, which Professor Babbling had managed to wrangle as an accelerated track. In addition to Elysia, Hermione, and Luna, the class included Millicent Bulstrode and Tracy Davis from Slytherin, Lisa Turpin from Ravenclaw, and Susan Bones and Megan Jones from Hufflepuff. Hermione noted that there were two students from each house. Elysia noted that there were no boys. Luna noted, smirking, that she was pretty sure none of them were straight (including the professor, if the tattoo of a labrys wreathed in violets on her wrist was any indication).
 
 "Well, ladies," Professor Babbling said with a grin. "Now that it's just the best and brightest this section, we get to jump right into the fun stuff." An enormous Cheshire-cat grin split her face. "Welcome to Curse-Breaking 101."
 
@@ -3293,7 +3292,7 @@ They all leaned into a point between them and touched lips. It was gentle and si
 
 "You three finally make it official?"
 
-Elysia sat up, looking around to find Millie flanked by Lisa and Laura, and all three grinning.
+Elysia sat up, looking around to find Millie flanked by Lisa and Megan, and all three grinning.
 
 "Mm-hmm!" Luna nodded. Hermione wore a smugly contented smile.
 
@@ -4586,7 +4585,7 @@ Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
 They _did_ manage to get back to Hogwarts and into bed before dawn, as it turned out. Granted, it was a near thing, but Elysia still managed most of a full night's sleep. After the late night, she felt justified in skipping most of her training for the day, but she still met Hermione and Luna (and now Ginny and Nell) for a quick run before breakfast and some calisthenics on the grounds right after.
 
-As it was later than they were usually out, other students were around enjoying the comparatively warm (though cloudy) weather. They saw Millie, Lisa, and Laura having a picnic by the lake, and Izzy doing pull-ups on a convenient tree. 
+As it was later than they were usually out, other students were around enjoying the comparatively warm (though cloudy) weather. They saw Millie, Lisa, and Megan having a picnic by the lake, and Izzy doing pull-ups on a convenient tree. 
 
 ("Merlin and Morgana, that girl's buff!" Nell commented as they drew close enough to see her muscles straining her workout gear.) 
 
@@ -5367,3 +5366,5 @@ A proper trial was scheduled for the end of the week. She and the others met eve
 By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, he'd been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding at the trial due to conflict of interest. This meant that Augusta Longbottom, Nell's gran, would be presiding in his place.
 
 "We'll have to cure your parents right quick then, Nell," Elysia said. "From what I've been told, it was Dumbledore who sold them out to the Death Eaters -- indirectly, of course, but there should be enough of a trail."
+
+"Gran will be _furious_ when that comes out," Nell agreed.
