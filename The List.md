@@ -5369,3 +5369,13 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 "Gran will be _furious_ when that comes out," Nell agreed. "Hell, _I'm_ furious."
 
+"Me too," Elysia said. "Did you know that your mum is my godmother? If things had gone differently, we'd've grown up together, Nell."
+
+"I've always wanted a little sister," Nell smirked as Elysia put on an affronted face before giggling.
+
+
+
++++++
+
+
+
