@@ -561,7 +561,7 @@ He leaned over it, muttering quietly under his breath, and then nodded. "I don't
 
 "Thanks, Robbie," Elysia said, standing up and stretching. Between the two of them, they managed to get the schema stone, which was roughly the size of the Dursley's big-screen TV, maneuvered down into the trunk and settled into place on the pedestal. The trunk's interior, which had started as an empty 10ft^3^ room, shifted around them.
 
-When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, a view of the outside, and so on. Through the door was a spacious living room, with an elevator platform leading up out of the trunk (a button turned it into stairs and back) and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a spacious study with a workshop area, and a huge training room. The entire place was brightly lit by both an ambient *lumos* and large bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
+When everything stopped moving, they found themselves still in a 10ft^3^ room, but the ladder was gone and there was a door in its place. One of the walls was taken up with several displays, showing the status of the trunk's various wards, power levels, air and water, a view of the outside, and so on. Through the door was a spacious living room, with an elevator platform leading up out of the trunk (a button turned it into stairs and back) and an open kitchen separated by a cooktop island. A short hallway led to two bedroom suites, a spacious study with a workshop area, and a huge training room. The entire place was brightly lit by both an ambient *lumos* and large charmed bay windows throughout. It wasn't exactly a mansion, but for the two of them it was more than comfortable.
 
 The living area was piled high with all of the spoils from the day's errands, but between the two of them they made short work of it all. In less than an hour, everything was squared away, and they fell into their beds exhausted but delighted. It was, Elysia thought to herself as she drifted off, going to be the best summer ever.
 
@@ -838,7 +838,7 @@ The next day, Elysia noticed an addition to her to-do list.
 
 *Wait, blood wards? Is* that *why Dumbledore keeps sending me back here?*
 
-After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible -- such as ward-lines, which in this case glowed a deep, pulsing blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
+After reading the primer and finishing their morning workout, she and Robbie started poking around the Dursley home for wards, and potential anchors. Pushing her magic into her eyes, she activated what ward-crafters and curse-breakers called Mage-Sight, allowing her to see visual representations of magical manifestations which would otherwise be invisible -- such as ward-lines, which in this case glowed a deep, pulsing blood-red. They followed the ward traces to a flag-stone in the back garden, one of the path leading to the tool-shed.
 
 Flipping it over, they found a relatively straightforward ward schema and a smear of red. She checked the adjacent stones, too, just in case, but they were blank. *Hmm, possibilities,* she thought.
 
@@ -866,7 +866,7 @@ She and Robbie took advantage of the other flagstones to add to the wards -- asi
 
 Hermione had expressed (vocally and at great length) the desire to learn some of what Elysia could now do, so Elysia began teaching her the basics of both mind magic and free-form wandless casting. As part of these, she and Robbie also started teaching Hermione some martial arts, particularly tai chi as it lent itself well to spell-channeling.
 
-They still made time to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask* (which Robbie particularly enjoyed).
+They still made time to have fun, though. It was a good summer for cinema. Neither Elysia nor Robbie had ever been before, so Hermione had taken them both to see *The Lion King,* *Baby's Day Out,* *Little Rascals,* *Forrest Gump,* and *The Mask* (which Robbie particularly enjoyed).
 
 Robbie had wanted to examine the pedestal building at The Kiln again (and give the two friends some time without Elysia's 'brother' tagging along, he confided to her), so Elysia and Hermione saw *Black Beauty* just the two of them.
 
@@ -3650,9 +3650,9 @@ Robbie popped in. "Ellie?"
 
 "Could you bring the solicitor, please? Things are about to get ugly."
 
-Robbie snapped a salute and popped away, returning a few seconds later with an older man dressed in formal robes.
+Robbie snapped a salute and popped away, returning a few seconds later with an older woman dressed in formal robes.
 
-"Miss Potter? I'm Theodore Tonks," he introduced himself with a handshake.
+"Miss Potter? I'm Andromeda Tonks," she introduced herself with a handshake.
 
 Further discussion was interrupted as Dumbledore entered with the other Tournament officials.
 
@@ -3662,7 +3662,7 @@ Further discussion was interrupted as Dumbledore entered with the other Tourname
 
 "It's a binding magical contract," Crouch said flatly, to no-one in particular. "She'll lose her magic if she doesn't compete."
 
-Elysia growled again as the room erupted in outrage. Leaning over to Ted, she whispered, "if you can't get me out of this, see if you can leverage it into getting me emancipated. Dumbledore's dropped the ball where I'm concerned far too often."
+Elysia growled again as the room erupted in outrage. Leaning over to Andromeda, she whispered, "if you can't get me out of this, see if you can leverage it into getting me emancipated. Dumbledore's dropped the ball where I'm concerned far too often."
 
 She tuned back into the wider conversation just as Fleur was saying, "zo zis leetle girl is to compete?"
 
@@ -3702,7 +3702,7 @@ The officials gaped at her.
 
 "The girl has a point," Karkaroff said. "Perhaps ve could add some new tasks, as vell. Nothing so arduous as all that to organize," he temporalized. "A simple duel."
 
-"I like zis," Maxime said. "Make it _two_ duels -- one wanded, one without. Zat leaves just one more task to add."
+"I like zis," Maxime said. "Make it _two_ duels -- one wanded, one wizout. Zat leaves just one more task to add."
 
 Elysia shrugged. "Seeker's duel? I know at least three of us are seekers. Fleur, do you play quidditch, by chance?"
 
@@ -3732,15 +3732,15 @@ Elysia reunited with her girlfriends with much hugging and kissing, until they w
 
 "Of course," she replied. "Let's find somewhere more private."
 
-They adjourned to an unused classroom, where Hermione conjured a sofa and an armchair as Luna cast several privacy palings. They flanked Elysia on the sofa, while Mr. Tonks took the armchair, shuffling through a briefcase for a moment.
+They adjourned to an unused classroom, where Hermione conjured a sofa and an armchair as Luna cast several privacy palings. They flanked Elysia on the sofa, while Mrs. Tonks took the armchair, shuffling through a briefcase for a moment.
 
-"I confess, sir, that I'm in a bit of a daze," Elysia said. "How bad is it?"
+"I confess, ma'am, that I'm in a bit of a daze," Elysia said. "How bad is it?"
 
-"Not as bad as it could be, Miss Potter," he replied. "While, yes, you are irrevocably compelled to compete, that _does_ come with some privileges and concessions. For instance, you are now exempt from the end-of-year exams, may skip any classes you wish in order to prepare for the tasks, and are allowed a certain degree of immunity regarding interference. In short, if someone or something gets in the way of you competing, you are legally within your rights to, ahem, _handle_ it as you see fit."
+"Not as bad as it could be, Miss Potter," she replied. "While, yes, you are irrevocably compelled to compete, that _does_ come with some privileges and concessions. For instance, you are now exempt from the end-of-year exams, may skip any classes you wish in order to prepare for the tasks, and are allowed a certain degree of immunity regarding interference. In short, if someone or something gets in the way of you competing, you are legally within your rights to, ahem, _handle_ it as you see fit."
 
 The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
-"Well," Mr. Tonks said hesitantly. "I would hope not _murder,_ as such, but anything short? Almost certainly."
+"Well," Mrs. Tonks said hesitantly. "I would hope not _murder,_ as such, but anything short? Almost certainly."
 
 "Well _that's_ food for thought," Hermione said.
 
@@ -3750,7 +3750,7 @@ The girls gasped. "Are you saying I can get away with murder?" Elysia asked.
 
 "Certainly, and no, I don't believe I need anything more from you tonight. That Oath you swore makes my job much easier."
 
-"Great. Then if you'll excuse us, sir, I need to go blow off some steam."
+"Great. Then if you'll excuse us, ma'am, I need to go blow off some steam."
 
 
 
@@ -3804,7 +3804,7 @@ An owl arrived over lunch from Elysia's solicitor.
 >
 > A pleasure working with you,
 >
-> Theodore N. Tonks, Esq.
+> Andromeda N. Tonks, Esq.
 
 Elysia immediately read and signed the form. Once she tapped it with her wand, it disappeared with a flash. The owl had long since stolen a sausage and departed.
 
@@ -5367,4 +5367,5 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 "We'll have to cure your parents right quick then, Nell," Elysia said. "From what I've been told, it was Dumbledore who sold them out to the Death Eaters -- indirectly, of course, but there should be enough of a trail."
 
-"Gran will be _furious_ when that comes out," Nell agreed.
+"Gran will be _furious_ when that comes out," Nell agreed. "Hell, _I'm_ furious."
+
