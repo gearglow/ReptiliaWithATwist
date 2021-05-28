@@ -5201,6 +5201,8 @@ The drums hit, and with it an echoing double-boom of thunder as she leapt across
 
 Elysia raised the egg high above her head, then bowed with a flourish. The crowd roared, the music faded out, and she sauntered off to be swept into a bone-crushing double-hug from her girlfriends.
 
+In the distance, she heard the dragon hiss, "what the _fuck_ was that!?"
+
 "The Green-Eyed Lightning does it again!" Bagman shouted. "Our youngest champion is by far the fastest to retrieve her egg, in a stunning and flawless performance! Let's go to the judges!" He waved his wand, and a large, glowing '10' appeared. The others followed suit. Even Karkaroff couldn't find fault; he had a sour look on his face as he gave his score.
 
 Elysia, Luna, and Hermione made their way into the stands to join Remus and Sirius (in disguise again). They looked quite cozy together, and when Elysia raised an eyebrow Remus blushed.
@@ -5371,11 +5373,13 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 "Me too," Elysia said. "Did you know that your mum is my godmother? If things had gone differently, we'd've grown up together, Nell."
 
-"I've always wanted a little sister," Nell smirked as Elysia put on an affronted face before giggling.
+"I've always wanted a little sister!" Nell smirked as Elysia put on an affronted face before giggling.
 
 
 
 +++++
 
 
+
+That night, Wednesday night, Nell and Elysia shadow-walked into St. Mungo's.
 
