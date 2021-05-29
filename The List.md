@@ -1111,7 +1111,33 @@ Elysia gasped, whether in shock our outrage she wasn't sure.
 
 Elysia threw herself backwards into the chair. "No pressure, then," she said morosely.
 
-"Oh, and one more thing," Janet added. "There's going to be a bit of a Death Eater reunion the night of the match. Someone will cast the Dark Mark which will cause them all to apparate away. Plan accordingly."
+Janet smiled sadly. "I know it's a lot. And it's only the tip of the iceberg, though the rest isn't as urgent."
+
+Elysia cocked an eyebrow. "Now what?"
+
+"Magical society is stagnating," Janet replied, "in large part because of Dumbledore's policies -- and Magic is dying because of it. And _you,_" she continued, "are the one Destiny has chosen to fix it -- by _any means necessary._ If you have to become a tyrant and drag the entire magical world kicking and screaming into the 21st century through a sea of blood, then that's what it takes. Destiny's given you a blank check on the other side. Though obviously, if you can avoid the sea of blood and such, that'd be preferable."
+
+"I'm sure," Elysia said faintly, eyes wide.
+
+"You don't have to worry about that part yet," Janet reassured her. "Just focus on Voldemort for now. The thing about death by stagnation is that it takes awhile. You've got time."
+
+"Why me?" Elysia moaned, face in her hands.
+
+"You asked Destiny that yourself, before coming back," Janet said. "You're a pivot point in the time-stream, and so are ideally-placed to change things."
+
+"Oh. Wait, Destiny's a _person?_"
+
+"Yup!" Janet replied. "And Eleanor is right -- Destiny really does rock the Little Black Dress. Reminds me of Posh Spice a bit, actually."
+
+"Who?"
+
+"Oh, right. Give it a couple of years. You'll find out."
+
+Elysia sighed. "You just like bewildering me, don't you?"
+
+"Confusion means your brain is learning!" Janet sang.
+
+"Oh, and one more thing," she added. "There's going to be a bit of a Death Eater reunion the night of the match. Someone will cast the Dark Mark which will cause them all to apparate away. Plan accordingly."
 
 
 
