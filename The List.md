@@ -5413,7 +5413,7 @@ That night, Wednesday night, Nell and Elysia shadow-walked into St. Mungo's unde
 
 _You really think it'll be that simple?_ Nell sent hopefully.
 
-_Conceptually, anyway,_ Elysia said. _Obliviating that much psychological trauma after so long, though..._
+_Conceptually, anyway,_ Elysia replied. _Obliviating that much psychological trauma after so long, though..._
 
 _Yeah. Well, I suppose we'll find out in a bit, huh?_
 
@@ -5421,7 +5421,7 @@ They reached the end of the ward, where Frank and Alice Longbottom's private roo
 
 _Monitoring charms on the beds,_ Elysia sent, _but nothing on them. You've got the spuds?_
 
-Nell pulled out a pair of potatoes and set them on the ground between the beds. Elysia gestured, transfiguring them into replicas of Nell's parents, then shifted one finger into a needle-like probe with a tiny eye, which she inserted into first one, then the other replica's ear. Using the probe, she carved runes of permanency into the ear canal behind the eardrum, where they would be almost impossible to notice unless one knew where to look.
+Nell pulled out a pair of potatoes and set them on the ground between the beds. Elysia gestured, transfiguring them into replicas of Nell's parents, then shifted one finger into a needle-like probe with a tiny eye, which she inserted into first one, then the other replica's ear. Using the probe, she carved runes of minor permanency into the ear canal behind the eardrum, where they would be almost impossible to notice unless one knew where to look. This way the transfigurations would hold until dispelled instead of fading over time.
 
 _Merlin, that's unnerving,_ Nell shuddered.
 
@@ -5434,4 +5434,6 @@ They both cast wandless switching spells, trading the Longbottoms for their star
 +++++
 
 
+
+Luna and Hermione were waiting for them when they arrived. They'd prepared one of the bedrooms, and now they placed Nell's parents side by side on the bed.
 
