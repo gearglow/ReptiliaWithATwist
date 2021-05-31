@@ -4777,7 +4777,7 @@ A man in business robes met her as she entered, introducing himself as Solicitor
 
 "Indeed," Solicitor Bulstrode agreed. "She speaks quite highly of you."
 
-"It's quite mutual, I assure you."
+"It's mutual, I assure you."
 
 They headed back to a private room, where Rita met them a few minutes later.
 
@@ -4787,7 +4787,7 @@ They headed back to a private room, where Rita met them a few minutes later.
 
 "Don't mind if I do," Rita said.
 
-"Rita, this is Marius Bulstrode, of Eberhardt, Bulstrode, and Tonks. We have a proposition for you."
+"Rita, this is Marius Bulstrode, of Eberhardt, Bulstrode, & Tonks. We have a proposition for you."
 
 Rita raised one eyebrow, hastily swallowing her sip of firewhiskey. "Do tell."
 
@@ -4951,11 +4951,11 @@ For Izzy had narrowly dodged a hex from Krum as they rounded a hairpin turn. Ann
 
 Finally, after another twenty minutes or so, Krum and Diggory crossed the finish line of their final lap, bringing the First Task to a close. Bagman gestured for Elysia to join the others for the final scoring.
 
-Elysia kissed her girlfriends, grabbed her broom, and vaulted over the edge of the judges' box, hanging from her Firebolt by one hand as she drifted quickly down in a corona of illusory lightning, blowing kisses toward the stands the whole way. The crowd went wild.
+Elysia kissed her girlfriends, grabbed her broom, and vaulted over the edge of the stands, hanging from her Firebolt by one hand as she drifted quickly down in a corona of illusory lightning, blowing kisses toward the stands the whole way. The crowd went wild.
 
 "Sweet Circe," Izzy muttered. "Who even _is_ this girl?"
 
-"Whoever entered her didn't know what they were in for," Fleur agreed.
+"Whoever entered her didn't know what zey were in for," Fleur agreed.
 
 "And now, the times!" Bagman crowed. "In last place, with a time of 25:43, Viktor Krum!"
 
@@ -4995,7 +4995,7 @@ Elysia bowed with a flourish to thunderous applause.
 
 "That concludes the First Task of the first-ever Hex Games! We'll see you right back here in two weeks for a spectacle of daring, nerve, and prowess like you've never seen before: the Second Task!"
 
-As the professors began tearing down the course, Bagman called the champions back up to the judges' booth for an informal Q&A with Rita Skeeter. The other judges had already left.
+As the professors began tearing down the course, Bagman called the champions up to the judges' booth for an informal Q&A with Rita Skeeter. The other judges had already left.
 
 "We were going to do this in the Great Hall," he said, "but it's so nice out today!"
 
@@ -5271,7 +5271,7 @@ The girls all winced at that.
 
 The last three champions put on a good show, Elysia had to give them that. Anna went for a sensory-overload approach, with lots of colored, scented smoke, sparks, loud noises, and a clever disillusionment charm which _almost_ got her through the ordeal unscathed. Unfortunately, Hungarian Horntails are aptly-named, and she was caught by a tail-horn as she made her escape. It went straight through her left arm and sent her flying halfway to the exit.
 
-Elysia winced. She knew from experience that Anna was looking at a night on skele-grow at minimum for that, and resolved to drop in on her later to help break up the painful monotony or re-growing an arm.
+Elysia winced. She knew from experience that Anna was looking at a night on skele-grow at minimum for that, and resolved to drop in on her later to help break up the painful monotony of re-growing an arm.
 
 Izzy, mad little ball of energy that she was, did something _nobody_ saw coming. She cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her: first punching her in the snout as the dragon reared back to breathe a gout of flame, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
 
@@ -5369,7 +5369,7 @@ Professor McGonagall laughed, blush staining her cheeks pink. "You charming rogu
 
 Elysia cocked an eyebrow. "You and Madame Hooch? That's perfect!"
 
-McGonagall smiled warmly. "It is, rather," she said, a bit misty-eyed. "We've been friends forever -- were in Gryffindor together, in fact -- and when Elphinstone died, Rolanda and I, well..."
+McGonagall smiled warmly. "It is, rather," she agreed, a bit misty-eyed. "We've been friends forever -- were in Gryffindor together, in fact -- and when Elphinstone died, Rolanda and I, well..."
 
 Elysia smiled. "I know what it's like to fall in love with your best friend. It's... special. And more than a little bit terrifying at times."
 
@@ -5387,11 +5387,13 @@ Elysia giggled. "_So_ perfect!"
 
 
 
-Rita's opening salvo appeared in the Sunday Prophet the week after the Second Task. It spilled the beans about there never being a trial, and mentioned evidence that absolutely _had_ to have been suppressed, because otherwise there would have never been any doubt as to Sirius' innocence. The article ignited a wildfire of public outcry, that a Lord of a Most Ancient and Noble House could be so... _betrayed_ by the very system the Houses claimed as birthright. _Ironic,_ Elysia thought. _Still, it's nice to have the sheep stampeding against someone else for once._
+Rita's opening salvo appeared in the Sunday Prophet the week after the Second Task. It spilled the beans about there never being a trial for Sirius, and mentioned evidence that absolutely _had_ to have been suppressed, because otherwise there would have never been any doubt as to Sirius' innocence. The article ignited a wildfire of public outcry, that a Lord of a Most Ancient and Noble House could be so... _betrayed_ by the very system the Houses claimed as birthright. 
+
+_Ironic,_ Elysia thought. _Still, it's nice to have the sheep stampeding against someone else for once._
 
 A proper trial was scheduled for the end of the week. She and the others met every evening with Rita and Solicitor Bulstrode, who was representing Sirius, to prepare evidence and testimony. Elysia, Hermione, and Sirius had given memories, as well -- even Professor Snape had consented to provide his testimony and memories of the night Pettigrew had escaped last summer.
 
-By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, he'd been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding at the trial due to conflict of interest. This meant that Augusta Longbottom, Nell's gran, would be presiding in his place.
+By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, he'd been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding over the trial due to conflict of interest. This meant that Augusta Longbottom, Nell's gran, would be presiding in his place.
 
 "We'll have to cure your parents right quick then, Nell," Elysia said. "From what I've been told, it was Dumbledore who sold them out to the Death Eaters -- indirectly, of course, but there should be enough of a trail."
 
