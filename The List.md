@@ -5427,7 +5427,7 @@ _Merlin, that's unnerving,_ Nell shuddered.
 
 _It's not any better on this end either,_ Elysia agreed.
 
-They both cast wandless switching spells, trading the Longbottoms for their starchy doppelgangers. Some quick featherweight charms, and they each picked up a patient and shadow-walked to The Kiln.
+They both cast wandless switching spells, trading the Longbottoms for their starchy doppelgangers. Some quick sleep and featherweight charms, and they each picked up a patient and shadow-walked to The Kiln.
 
 
 
@@ -5435,5 +5435,75 @@ They both cast wandless switching spells, trading the Longbottoms for their star
 
 
 
-Luna and Hermione were waiting for them when they arrived. They'd prepared one of the bedrooms, and now they placed Nell's parents side by side on the bed.
+Luna and Hermione were waiting for them when they arrived. They'd prepared the ritual room, and now they placed Nell's parents side by side in the center.
+
+"Is everything ready?" Elysia asked. 
+
+Hermione nodded. "Should be. I'll take Alice, and Luna will take Frank."
+
+She lay down with her head towards the inside of the circle, on Alice's side. Luna copied her on Frank's side, and Nell lay down with her head towards her parents' heads. Elysia matched her at their feet. Sirius and Remus stood watch.
+
+The four girls held hands and began chanting.
+
+"_Animabus et mentibus intrare quod restituo. Et vectigal quidem damnis mederi vulneribus._"
+
+As they chanted, a glow began to fill the circle. They closed their eyes, and when they opened them again, they found themselves in a white room with black curtains. On one wall, two doors stood closed. One was labelled 'Frank' and the other 'Alice'.
+
+Elysia gestured, conjuring an orb of light. Two tendrils of magic sprang from it, one latching onto Hermione and the other Luna. A display flashed into place over the orb.
+
+"Anchor and tethers are nominal," Elysia said, giving the screen a once-over.
+
+Another set of tethers latched onto Elysia and Nell. "Power feed is green. Resonance feed is green. We are go." Luna and Hermione saluted, and stepped through their respective doors. "Good luck!"
+
+
+
++++++
+
+
+
+Luna stepped into the heart of a maelstrom.
+
+
+
++++++
+
+
+
+Hermione stepped into a dark, tangled forest, choked with poisonous-looking weeds.
+
+
+
++++++
+
+
+
+"Contact. It's... going to take awhile."
+
+
+
++++++
+
+
+
+After what seemed like days, with both Luna and Hermione drawing heavily on both Elysia and Nell, the maelstrom was quieted and the floodwaters retreated. The weeds were burned away and the forest bloomed with life.
+
+Hermione and Luna returned through the doors, looking haggard.
+
+"It's done," Hermione said.
+
+Luna nodded, grabbing Hermione's hand like a lifeline.
+
+"Damage report?" Elysia said, not without sympathy.
+
+"Minimal," Luna replied.
+
+"Ditto," Hermione agreed.
+
+"Excellent," Elysia smiled tiredly. "Let's get out of here and get some rest."
+
+
+
++++++
+
+
 
