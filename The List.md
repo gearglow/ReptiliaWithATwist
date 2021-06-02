@@ -1115,7 +1115,7 @@ Janet smiled sadly. "I know it's a lot. And it's only the tip of the iceberg, th
 
 Elysia cocked an eyebrow. "Now what?"
 
-"Magical society is stagnating," Janet replied, "in large part because of Dumbledore's policies -- and Magic is dying because of it. And _you,_" she continued, "are the one Destiny has chosen to fix it -- by _any means necessary._ If you have to become a tyrant and drag the entire magical world kicking and screaming into the 21st century through a sea of blood, then that's what it takes. Destiny's given you a blank check on the other side. Though obviously, if you can avoid the sea of blood and such, that'd be preferable."
+"Magical society is stagnating," Janet replied, "in large part because of Dumbledore's policies -- and Magic is dying because of it. And _you,_" she continued, "are the one Destiny has chosen to fix it -- _by any means necessary._ If you have to become a tyrant and drag the entire magical world kicking and screaming into the 21st century through a sea of blood, then that's what it takes. Destiny's given you a blank check on the other side. Though obviously, if you can avoid the sea of blood and such, that'd be preferable."
 
 "I'm sure," Elysia said faintly, eyes wide.
 
@@ -1125,9 +1125,9 @@ Elysia cocked an eyebrow. "Now what?"
 
 "You asked Destiny that yourself, before coming back," Janet said. "You're a pivot point in the time-stream, and so are ideally-placed to change things."
 
-"Oh. Wait, Destiny's a _person?_"
+"Oh. Wait a minute, Destiny's a _person?_"
 
-"Yup!" Janet replied. "And Eleanor is right -- Destiny really does rock the Little Black Dress. Reminds me of Posh Spice a bit, actually."
+"Yup!" Janet replied. "Well, _personification,_ really. And Eleanor is right -- Destiny really does rock the Little Black Dress. Reminds me of Posh Spice a bit, actually."
 
 "Who?"
 
@@ -1380,9 +1380,9 @@ Ginny blushed. "Um. Are you? No, I mean..." She shook her head. "Answer the ques
 
 Hermione thought for a while. "Well... I've certainly never found any *wizards* all that attractive."
 
-"Oh really?" Ginny said. "What about Lockhart? I recall you being quite starry-eyed at Flourish & Blotts that year."
+"Oh really?" Ginny said. "What about Lockhart? I recall you being quite starry-eyed at Flourish & Blotts that year. And what about those hearts in your planner?"
 
-"That ponce?" Hermione scoffed. "He wrote the books. I always get a little bit star-struck when I get to meet an author. There was certainly no *attraction* there." She shuddered.
+"That ponce?" Hermione scoffed. "He wrote the books. I always get a little bit star-struck when I get to meet an author. There was certainly no *attraction* there." She shuddered. "And blame Lavender for those blasted hearts. Girl had _no_ sense of boundaries back then. She's still a bit hazy on the subject, truthfully."
 
 "Alright, alright," Ginny said. "Then what about girls?"
 
