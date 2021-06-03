@@ -4933,9 +4933,9 @@ They made it up to the stands while the rest of the champions were in the midst 
 
 "Lucky them," Elysia smirked, planting another kiss on Hermione's lips.
 
-"Ooh, nice barrel-roll from Izzy!" Luna gushed.
+"Ooh, nice Immelmann from Izzy!" Luna gushed.
 
-For Izzy had narrowly dodged a hex from Krum as they rounded a hairpin turn. Anna took the chance to pull ahead, neck and neck with Fleur. Cedric lagged behind a bit; it seemed that he'd yet to recover from his net gambit.
+For Izzy had narrowly dodged a hex from Krum as they rounded a vertical hairpin turn. Anna took the chance to pull ahead, neck and neck with Fleur. Cedric lagged behind a bit; it seemed that he'd yet to recover from his net gambit.
 
 "Looks like quite the battle," Elysia said smugly. "Guess I got my wish after all."
 
@@ -5017,7 +5017,7 @@ The wizard-raised among them gaped.
 
 "Try being caught in your wake," Cedric grumbled. "And what did you do to my net, anyway?"
 
-"Oh, that," Elysia said. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco;_ same wand movement, too. Only works on conjurations, though, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
+"Oh, that," Elysia said, waving her butterbeer dismissively. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco;_ same wand movement, too. Only works on conjurations, though, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
 
 "It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be much longer, too."
 
@@ -5506,4 +5506,6 @@ Luna nodded, grabbing Hermione's hand like a lifeline.
 +++++
 
 
+
+While the kids returned to school, Sirius and Remus watched over Frank and Alice.
 

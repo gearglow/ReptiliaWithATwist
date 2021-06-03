@@ -66,3 +66,16 @@ Krum _whimpered,_ a low, primal sound like that of a cornered prey animal, befor
 
 "So petrify them," Luna said. "Or frame them. And nobody's said what happens after. What are we fighting for? What's worth getting our hands bloody?"
 
+
+
+## Tombstone Throw-Down
+
+When the portkey set her down, it was definitely _not_ anywhere near Hogwarts.
+
+Elysia saw headstones, and immediately dropped to the ground, quickly charming her tracking amulet with a disillusionment and a _notice-me-not._ 
+
+_I'm in the Riddle graveyard,_ she sent. _No contact yet._
+
+_Roger that,_ Robbie replied. _Holding position._
+
+Rising to a crouch, Elysia took a longer look at her surroundings.
