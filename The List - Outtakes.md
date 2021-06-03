@@ -76,6 +76,7 @@ Elysia saw headstones, and immediately dropped to the ground, quickly charming h
 
 _I'm in the Riddle graveyard,_ she sent. _No contact yet._
 
-_Roger that,_ Robbie replied. _Holding position._
+_Roger that,_ Robbie replied. _Relaying and holding position._
 
-Rising to a crouch, Elysia took a longer look at her surroundings.
+Rising to a crouch, Elysia took a longer look at her surroundings. There at the top of a hill was Riddle Manor, looking like nothing so much as a stereotypical haunted house. Closer to her position, headstones rose like teeth, and she was struck by how badly such a mouth would cause Hermione's parents to despair. Here and there were larger monuments, and the occasional tree. Overall, Elysia was reminded of that _Addams Family_ movie they'd watched last fall just before the tournament. _Hopefully no disembodied hands, though,_ she mused.
+
