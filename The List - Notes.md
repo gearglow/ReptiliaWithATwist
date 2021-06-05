@@ -65,11 +65,11 @@
 
 - Izzy hits it off immediately with the Furies.
 
-- Ellie and Izzy agree that they'll fight purely with muggle martial arts for their wandless duel.
+- [x] Ellie and Izzy agree that they'll fight purely with muggle martial arts for their wandless duel.
 
 - Elysia brings True Constructs of her parents into the confrontation with Dumbledore.
 
-- Elysia tells Rita it's possible to check with the goblins as to whether or not Pettigrew is alive, but the Wizengamot never did. 
+- [x] Elysia tells Rita it's possible to check with the goblins as to whether or not Pettigrew is alive, but the Wizengamot never did. 
 
 - Rita's articles lead to a trial for Sirius which, along with the hype from Elysia's first two tasks, cause Crouch to break a few key DEs out of Azkaban the same way he was. Likely candidates: Bella, Rookwood, Dolohov, Malfoy.
 
@@ -80,6 +80,8 @@
 - Whose lives to take over for greatest impact in the 1990s: Bill Gates, Albus Dumbledore, Tom Riddle
 
 - Lost Cities maybe? https://en.m.wikipedia.org/wiki/List_of_lost_lands
+
+- Final Task is on Saturday, June 24th, 1995
 
 
 
@@ -428,6 +430,9 @@ AKA:
 - Travel as a beam of light: _haizatu nazazu_ ("beam me up," Basque).
 - Disintegration Hex: _decrusto_ (Latin). Only works on non-living matter.
 - Conjuration Disruption: _stör störningar_ (Swedish).
+- Disintegration Curse: _hauts bihurtu_ ("crumble to dust," Basque).
+- Variable Deflector Shield: _desbideratu ezazu_ ("deflect it variably" in Basque).
+- Otherworldly Tentacles: πλοκάμια (_plokámia,_ Greek).
 
 ## Magic Technicalities
 
