@@ -200,9 +200,9 @@ Elysia slipped a step sideways, easily dodging the curse. It flew past and struc
 
 The death eaters grew steadily more enraged as every single curse missed, striking only other death eaters. Voldemort threw AKs and dark curses like confetti, while Elysia used only stinging jinxes and a Variable Deflector shield.
 
-"Can't touch this!" She cackled, moonwalking between a piercing hex and an entrail-expelling curse as she disrupted Bellatrix mid-Crucio with another stinger.
+"Can't touch this!" She cackled, moonwalking between a piercing hex and an entrail-expelling curse as she disrupted an unmasked Bellatrix Lestrange mid-Crucio with another stinger.
 
-Finally, only Bellatrix, Lucius, and Voldemort himself were left standing among a sea of bodies. Some were groaning, some gasping, some deathly silent. Elysia grinned as the music changed to Ini Kamoze's "Here Comes the Hotstepper."
+Finally, only Bellatrix, Lucius (whose mask had been shattered), and Voldemort himself were left standing among a sea of bodies. Some were groaning, some gasping, some deathly silent. Elysia grinned as the music changed to Ini Kamoze's "Here Comes the Hotstepper."
 
 "Good warm-up. I _almost_ broke a sweat!"
 
@@ -210,7 +210,7 @@ Finally, only Bellatrix, Lucius, and Voldemort himself were left standing among 
 
 "Aww, does widdle baby Bella think she can handle it?" Elysia taunted back, swirling her wand around her. "_Fulmen!_" Lightning surged out from her, crackling as it struck her foes. She used it as cover to cast _zulo_ and sink into the ground. She then cast Hermione's favorite poltergeist variant Ghostform spell, the Amharic የፖሊተር ሐኪም ቅፅ (_yepolīteri ḥākīmi k’it͟s’i_).
 
-"Where are you, you aggravating little brat?" Voldemort snarled, shaking off the effects of several gigawatts faster than his minions.
+"Where are you, you aggravating little brat?" Voldemort snarled, shaking off the effects of a multi-gigawatt jolt faster than his minions.
 
 Elysia giggled. "What say we even the playing field a bit? सबै इन्द्रिय चाल (_sabai indriya cāla_)!"
 
@@ -226,7 +226,7 @@ Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Po
 
 "What are you, a greaser?" Lily called out, flicking tentacles at Lucius with a manic grin.
 
-"Why, I'm greased lightnin'!" Elysia called back. "_Fulmen ignem!_" A bolt of crackling fire lanced towards Voldemort, who tried to flick it away disdainfully but winced as his hand spasmed around his wand, which had caught fire.
+"Why, I'm greased lightnin'!" Elysia called back. "_Fulmen ignem!_" A bolt of crackling flames lanced towards Voldemort, who tried to flick it away disdainfully but winced as his hand spasmed around his wand, which had caught fire.
 
 "I must say, Tommikins, you've been quite the letdown so far," Elysia taunted. "I expected a _fight,_ not schoolyard games."
 
