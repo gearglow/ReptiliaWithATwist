@@ -5349,7 +5349,7 @@ The two girls shook pinkies on it.
 
 
 
-## Chapter 17: Ballroom Blitz
+## Chapter 17: Turn Me Loose
 
 ### Deputy Headmistress' Office, Hogwarts, Scotland	1994/11/27 19:15
 
@@ -5409,7 +5409,7 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 
 
-That night, Wednesday night, Nell and Elysia shadow-walked into St. Mungo's under Elysia's invisibility cloak.
+That night, Tuesday night -- Wednesday morning, really, well after Astronomy had ended -- Nell and Elysia shadow-walked into St. Mungo's under Elysia's invisibility cloak.
 
 _You really think it'll be that simple?_ Nell sent hopefully.
 
@@ -5417,9 +5417,15 @@ _Conceptually, anyway,_ Elysia replied. _Obliviating that much psychological tra
 
 _Yeah. Well, I suppose we'll find out in a bit, huh?_
 
+_That we will. I'm glad Luna and 'Mione have such good control. Don't think I could do it myself._
+
 They reached the end of the ward, where Frank and Alice Longbottom's private room was. Elysia flipped her glasses to active mode, seeing nothing of note, and they shadow-walked to the other side of the door.
 
 _Monitoring charms on the beds,_ Elysia sent, _but nothing on them. You've got the spuds?_
+
+_Here. I still think it's weird that they'll show as actual brains, even if they are comatose._
+
+Elysia shrugged in response. _You and me both._
 
 Nell pulled out a pair of potatoes and set them on the ground between the beds. Elysia gestured, transfiguring them into replicas of Nell's parents, then shifted one finger into a needle-like probe with a tiny eye, which she inserted into first one, then the other replica's ear. Using the probe, she carved runes of minor permanency into the ear canal behind the eardrum, where they would be almost impossible to notice unless one knew where to look. This way the transfigurations would hold until dispelled instead of fading over time.
 
@@ -5447,7 +5453,7 @@ The four girls held hands and began chanting.
 
 "_Animabus et mentibus intrare quod restituo. Et vectigal quidem damnis mederi vulneribus._"
 
-As they chanted, a glow began to fill the circle. They closed their eyes, and when they opened them again, they found themselves in a white room with black curtains. On one wall, two doors stood closed. One was labelled 'Frank' and the other 'Alice'.
+As they chanted, a glow began to fill the circle. They closed their eyes, and when they opened them again, they found themselves in a white room with black curtains. On one wall, two doors stood closed. One was labeled 'Frank' and the other 'Alice'.
 
 Elysia gestured, conjuring an orb of light. Two tendrils of magic sprang from it, one latching onto Hermione and the other Luna. A display flashed into place over the orb.
 
@@ -5507,5 +5513,48 @@ Luna nodded, grabbing Hermione's hand like a lifeline.
 
 
 
-While the kids returned to school, Sirius and Remus watched over Frank and Alice.
+When the kids returned to school, Sirius and Remus awoke to stand watch over Frank and Alice.
 
+"Just think, Moony, in a couple of days I'll be a free man! Legally!"
+
+Remus snorted. "As if legalities mattered to you," he said fondly.
+
+"Still, though!" Sirius said. He sighed, flopping on the sofa with his head in Remus' lap. "Merlin, what even is my life?"
+
+"One hell of a ride," Remus said, running his fingers through Sirius' hair. "Can you imagine how Frank and Alice will feel when they wake up?"
+
+"Thirteen years of hell? Yeah, I can," Sirius said, squeezing his eyes closed for a moment. "It's not going to feel real. It won't for awhile. Hell, it _still_ doesn't for me."
+
+"Thirteen years of purgatory for me, but yeah. It's like a waking dream, being here with you, like this. Not to mention all the _other_ madness Elysia's brought with her this year. Seeing Lily and James again..."
+
+"Yeah."
+
+They sat quietly, enjoying the closeness and the quiet as the sun rose.
+
+
+
++++++
+
+
+
+Alice woke first.
+
+"Ow, my head... Neville!" She sat up quickly, flinging away an unfamiliar blanket. Looking frantically around, she noticed another bed across the small room, and a familiar head of hair upon the pillow. "Frank! Where's Neville?"
+
+"Huh? Owwww..." he woke with a start, sitting up and cradling his head in his hands.
+
+Sirius and Remus, alerted by monitoring charms, bustled in just then -- Sirius with a tea tray, Remus with several potion vials. They'd debated sending only a de-aged Sirius in first, to ease the transition, but in the end decided that would only confuse things.
+
+"Good morning, sleepy-heads!" Sirius chirped. "Welcome back to the world of the living!"
+
+"Sirius? Remus?" Alice stared. "Why do you look so... so _old?_"
+
+Frank looked up at that. "Alice? Why do _you_ look so old?"
+
+"Thirteen years in hell will do that," Sirius said. "Your kid's fine, by the way. Expect a visit after dinner this evening."
+
+Alice wilted with relief.
+
+"Wait, what do you mean _thirteen years!?_" Frank exclaimed.
+
+"That's a long story that we've set aside the day to tell," Remus answered. "But first, we need to make sure you're up for it. Restoratives first, then we'll talk over tea."

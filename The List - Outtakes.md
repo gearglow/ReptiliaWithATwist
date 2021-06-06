@@ -198,7 +198,7 @@ Elysia cast a sonic illusion, starting MC Hammer's "Can't Touch This" blasting t
 
 Elysia slipped a step sideways, easily dodging the curse. It flew past and struck one of the death eaters. She retaliated with a barrage of stinging jinxes, dancing among the death eaters as they retaliated with a hail of curses.
 
-The death eaters grew steadily more enraged as every single curse missed, striking only other death eaters. Voldemort threw AKs and dark curses like confetti, while Elysia used only stinging jinxes and a Variable Deflector shield.
+The death eaters grew steadily more enraged as every single curse missed, striking only other death eaters. Voldemort threw AKs and dark curses like confetti. Elysia, on the other hand, used only stinging jinxes, summoners, banishers, and a Variable Deflector shield to put foes and their spellfire exactly where she wanted them.
 
 "Can't touch this!" She cackled, moonwalking between a piercing hex and an entrail-expelling curse as she disrupted an unmasked Bellatrix Lestrange mid-Crucio with another stinger.
 
@@ -236,11 +236,12 @@ Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Po
 
 Voldemort's eyes narrowed and his wand became a flurry as he threw spell after spell at her. The air grew hot with residual magic as she countered everything he cast.
 
-"Finally! A challenge! Oh, and by the way," Elysia said, still counter-casting silently. "My parents over there? Illusions." She disappeared in a gout of phoenix fire, simultaneously dispelling her illusory parents. Voldemort's wave of spells washed over Bellatrix and Lucius, and they fell with cries of anguish.
+"Finally! A challenge! Oh, and by the way," Elysia said, still counter-casting silently. "My parents over there? Illusions. _Fenix sua!_" She disappeared in a gout of phoenix fire, simultaneously dispelling her illusory parents. Voldemort's wave of spells washed over Bellatrix and Lucius, and they fell with cries of anguish.
 
 Another gout of phoenix fire bloomed at Voldemort's back as Elysia reappeared, eyes shifted to those of a basilisk. "Heya, Tom!"
 
-Voldemort spun in shock, eyes meeting hers, and as the life was snuffed from him she darted forward with a vicious head-butt. As the lifeless corpse fell, she shifted her eyes back and her tracking amulet back out.
+Voldemort spun in shock, eyes meeting hers, and even while the life was snuffed from him by her deadly yellow gaze, she darted forward with a vicious head-butt. As the lifeless corpse fell, she shifted her eyes back and her tracking amulet back out.
 
-_Clear,_ she sent. _You can let the old meddler in now._
+_Clear,_ she sent. _You can let the old meddler in now. I'm heading back._
 
+She slashed her wand, cutting off the former Dark Tosser's head. Raising it in one hand, she summoned the Cup to the other and disappeared in a flash of phoenix fire.

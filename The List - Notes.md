@@ -322,7 +322,7 @@ AKA:
 - [ ] Wandless Duel 4 (Viktor): Metallica - Seek & Destroy
 - [ ] Wandless Duel 5 (Cedric): Pantera - Walk
 - [ ] The Maze: AC/DC - For Those About to Rock
-- [ ] Graveyard Throw-Down: MC Hammer - Can't Touch This / Ini Kamoze - Here Comes the Hotstepper
+- [x] Graveyard Throw-Down: MC Hammer - Can't Touch This / Ini Kamoze - Here Comes the Hotstepper
 - [ ] Victory: AC/DC - It's A Long Way To The Top (If You Wanna Rock & Roll)
 
 
