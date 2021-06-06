@@ -216,7 +216,7 @@ Elysia giggled. "What say we even the playing field a bit? सबै इन्�
 
 Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Potter, wands drawn. As she cackled at the looks upon the faces of her foes, color flowed into James and Lily and they grew solid. She shunted control of the illusions to the mental constructs of her parents, leaving Janet in charge of the music.
 
-"_Now_ it's a party!" James said. "_Gladius magnus!_" A glowing blade of pure magic grew from the tip of his wand.
+"_Now_ it's a party!" James said. "_Gladius magnus!_" A glowing golden blade of pure magic grew from the tip of his wand.
 
 "_Plokámia!_" Lily cast, conjuring eldritch tentacles of solid darkness, brimming with stray eyes, teeth, and worse. "So it is. And we're the life of the party!"
 

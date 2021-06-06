@@ -5573,3 +5573,5 @@ She huffed, but assented and downed her own potions. "Oh wow, that's much better
 
 "Alright," Sirius started, once everyone was settled. "What's the last thing you remember?"
 
+"I remember the wards fell, and those horrible Lestranges burst in -- and the Crouch boy! Barty Jr." Alice replied.
+
