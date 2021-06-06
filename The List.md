@@ -737,6 +737,8 @@ Elysia shrugged. "I guess? Is that the word for not knowing you're a girl at fir
 
 
 
+### The Kiln, Red Wharf Bay, Wales, UK	1994/06/27	13:02
+
 After activating the portkey at Gringotts, the three of them appeared in an unpaved lane across from a fenced plot of land. A branch of the lane led into the property, with an arched gate proclaiming this place to be 'The Kiln.' In the distance, they could see a building of some sort.
 
 Elysia immediately shifted back to girl-shape, and Robbie back to elf-shape. "Ah, much better," they both said, then looked at each other and burst out laughing. 
@@ -5409,6 +5411,8 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 
 
+### Dai Llewellyn Ward, St. Mungo's Hospital for Magical Maladies, London, UK	1994/12/07	03:15
+
 That night, Tuesday night -- Wednesday morning, really, well after Astronomy had ended -- Nell and Elysia shadow-walked into St. Mungo's under Elysia's invisibility cloak.
 
 _You really think it'll be that simple?_ Nell sent hopefully.
@@ -5513,6 +5517,8 @@ Luna nodded, grabbing Hermione's hand like a lifeline.
 
 
 
+### The Kiln, Red Wharf Bay, Wales, UK	1994/12/07	06:35
+
 When the kids returned to school, Sirius and Remus awoke to stand watch over Frank and Alice.
 
 "Just think, Moony, in a couple of days I'll be a free man! Legally!"
@@ -5558,3 +5564,12 @@ Alice wilted with relief.
 "Wait, what do you mean _thirteen years!?_" Frank exclaimed.
 
 "That's a long story that we've set aside the day to tell," Remus answered. "But first, we need to make sure you're up for it. Restoratives first, then we'll talk over tea."
+
+He passed the potions out. Frank downed his immediately, smiling as the life returned to his atrophied body. "Come on, love, shake the dust off," he teased Alice.
+
+She huffed, but assented and downed her own potions. "Oh wow, that's much better!" She exclaimed after polishing them off. "Merlin, how bad was it?"
+
+"Pretty bad," Sirius answered. "I wasn't exaggerating when I called it hell. Best have some tea first." He poured a bracing cuppa for all four of them, setting the tray of nibbles to hover between the beds. Remus conjured chairs for himself and Sirius.
+
+"Alright," Sirius started, once everyone was settled. "What's the last thing you remember?"
+
