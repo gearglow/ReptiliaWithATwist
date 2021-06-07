@@ -5575,3 +5575,21 @@ She huffed, but assented and downed her own potions. "Oh wow, that's much better
 
 "I remember the wards fell, and those horrible Lestranges burst in -- and the Crouch boy! Barty Jr." Alice replied.
 
+"I remember lots of _Cruciatus_ curses, but not the pain," Frank added.
+
+"Looks like it worked, then," Remus said, shooting a look at Sirius.
+
+"They're amazing, aren't they?" Sirius grinned. "You're next, you know."
+
+Remus' eyes widened. "They can _do_ that?"
+
+"Hey!" Alice cut in. "Can _someone_ explain just what is going on, already?"
+
+Sirius and Remus shared a sheepish look. "Right, sorry," Remus said. "Long story short, 13 years and -- a month, give or take -- ago, the Lestranges and Barty, Jr. tortured you two into oblivion. You've been in the Dai Llewellyn ward at St. Mungo's ever since, until last night." He sighed. "And now the story gets... complicated."
+
+Sirius patted him on the leg. "Now it gets _good,_ Moony."
+
+"Well... that's debatable." Remus retorted. "Most of the '80s were pretty much purgatory for all of us."
+
+"Point," Sirius acknowledged. "It was really only four years ago when things got... _complicated._" He waggled his eyebrows at Remus, who snorted and punched him lightly on the bicep.
+
