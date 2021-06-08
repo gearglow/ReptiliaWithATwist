@@ -5585,11 +5585,29 @@ Remus' eyes widened. "They can _do_ that?"
 
 "Hey!" Alice cut in. "Can _someone_ explain just what is going on, already?"
 
-Sirius and Remus shared a sheepish look. "Right, sorry," Remus said. "Long story short, 13 years and -- a month, give or take -- ago, the Lestranges and Barty, Jr. tortured you two into oblivion. You've been in the Dai Llewellyn ward at St. Mungo's ever since, until last night." He sighed. "And now the story gets... complicated."
+Sirius and Remus shared a sheepish look. "Right, sorry," Remus said. "Long story short, 13 years and... a month ago, give or take -- the Lestranges and Barty, Jr. tortured you two into oblivion. You've been in the Dai Llewellyn ward at St. Mungo's ever since, until last night." He sighed. "And now the story gets... complicated."
 
 Sirius patted him on the leg. "Now it gets _good,_ Moony."
 
 "Well... that's debatable." Remus retorted. "Most of the '80s were pretty much purgatory for all of us."
 
 "Point," Sirius acknowledged. "It was really only four years ago when things got... _complicated._" He waggled his eyebrows at Remus, who snorted and punched him lightly on the bicep.
+
+"Neither of us were in the picture until last year, Padfoot."
+
+"Yeah, yeah." Sirius rolled his eyes. "It all comes down to Ellie, though, doesn't it? And that's when it all started for her." He looked back to the Longbottoms. "First things first. Neville is Nell now, and Lily & James' kid Harry is Elysia. They're both in Gryffindor, and doing rather well for themselves in spite of everything."
+
+Remus took up the thread. "They're also the ones who got you out of St. Mungo's. And along with Ellie's girlfriends, Hermione Granger and Luna Lovegood, healed you. That lot are a force to be reckoned with."
+
+"Them and young Ginny Weasley," Sirius added. "Those girls are _scary_ sometimes. And we'd know; they've been training us. I think all of them can conjure the Singularity Shield now."
+
+Frank and Alice looked at each other, then back to Sirius and Remus, eyes wide with shock.
+
+
+
++++++
+
+
+
+Catching the Longbottoms up on the past 13 years took the rest of the day.
 
