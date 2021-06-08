@@ -5599,7 +5599,7 @@ Sirius patted him on the leg. "Now it gets _good,_ Moony."
 
 Remus took up the thread. "They're also the ones who got you out of St. Mungo's. And along with Ellie's girlfriends, Hermione Granger and Luna Lovegood, healed you. That lot are a force to be reckoned with."
 
-"Them and young Ginny Weasley," Sirius added. "Those girls are _scary_ sometimes. And we'd know; they've been training us. I think all of them can conjure the Singularity Shield now."
+"Them and young Ginny Weasley," Sirius added. "Those girls are _scary_ sometimes. And we'd know; they've been training us. I think all of them can dual-cast lightning bolts and the Singularity Shield now."
 
 Frank and Alice looked at each other, then back to Sirius and Remus, eyes wide with shock.
 

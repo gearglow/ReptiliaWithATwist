@@ -433,6 +433,7 @@ AKA:
 - Disintegration Curse: _hauts bihurtu_ ("crumble to dust," Basque).
 - Variable Deflector Shield: _desbideratu ezazu_ ("deflect it variably" in Basque).
 - Otherworldly Tentacles: πλοκάμια (_plokámia,_ Greek).
+- Diving Shield: โล่ดำน้ำ (_Lò dả n̂ả,_ Thai).
 
 ## Magic Technicalities
 
