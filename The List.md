@@ -5609,5 +5609,7 @@ Frank and Alice looked at each other, then back to Sirius and Remus, eyes wide w
 
 
 
-Catching the Longbottoms up on the past 13 years took the rest of the day.
+Catching the Longbottoms up on the past 13 years took the rest of the day. They were still rather shaken by it all when the girls all piled out of what they'd assumed was a linen closet.
+
+
 

@@ -122,9 +122,9 @@ It bore a striking resemblance to Vernon Dursley.
 
 _Huh. Must've been the pig bones,_ Elysia mused. _I wonder if he has a tail like Dudley's?_
 
-While Voldemort's new body was rather broad, there the resemblance ended, for not even in Elysia's nightmares did Vernon Dursley ever have scales for skin, nor slitted red eyes. Still, he _did_ bring to mind a ball python which had just finished off a juicy rat, complete with what could only be called a snoot.
+While Voldemort's new body was rather broad, not even in Elysia's nightmares did Vernon Dursley ever have scales for skin, nor slitted red eyes. Still, he _did_ bring to mind a ball python which had just finished off a juicy rat, complete with what could only be called a snoot.
 
-"Robe me, Wormtail!" He commanded. 
+"Robe me, Wormtail," he commanded. 
 
 Wormtail hurried to comply, and also handed over a bone-white wand.
 
@@ -178,7 +178,7 @@ Confused muttering began circulating among the death eaters.
 
 "_Elysia_ Potter, thank you, Mister Riddle, you half-blood bastard son of a muggle."
 
-More confused muttering swept around the death eaters.
+More confused muttering swept among the death eaters.
 
 "Silence, child! You are nothing! How could a mere infant vanquish I, Lord Voldemort, who has walked the road to immortality further than anyone! I, who has transcended the limits of humanity!"
 
@@ -190,7 +190,7 @@ More confused muttering swept around the death eaters.
 
 _Copy that. Verifying phoenix fire gap. Verified._
 
-_Commencing Operation Beatdown._
+_Commencing Operation Drop The Beatdown._
 
 Elysia cast a sonic illusion, starting MC Hammer's "Can't Touch This" blasting throughout the graveyard. She then flicked a quick _suntsitu arima lotua_ at Nagini before anyone could react, sending the last horcrux to a screaming death.
 
@@ -216,7 +216,7 @@ Elysia giggled. "What say we even the playing field a bit? सबै इन्�
 
 Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Potter, wands drawn. As she cackled at the looks upon the faces of her foes, color flowed into James and Lily and they grew solid. She shunted control of the illusions to the mental constructs of her parents, leaving Janet in charge of the music.
 
-"_Now_ it's a party!" James said. "_Gladius magnus!_" A glowing golden blade of pure magic grew from the tip of his wand.
+"_Now_ it's a party!" James said. "_Gladius magnus!_" A glowing golden blade of pure magic grew from the tip of his wand, humming with power as he flicked it to a low-guard position.
 
 "_Plokámia!_" Lily cast, conjuring eldritch tentacles of solid darkness, brimming with stray eyes, teeth, and worse. "So it is. And we're the life of the party!"
 
@@ -232,7 +232,7 @@ Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Po
 
 "_Avada kedavra!_" Voldemort bellowed in reply.
 
-"_Svartholsskjöldur,_" Elysia flicked her wand disdainfully. A tiny black hole flickered into being, intercepting the curse before flickering back out with a pop and a flash of Hawking radiation. "How lazy. You are a pathetic excuse for a wizard, aren't you?" She threw his words to Pettigrew back at him with a smirk.
+"_Svartholsskjöldur,_" Elysia flicked her wand disdainfully. A tiny black hole flickered into being, swallowing the curse before flickering back out with a pop and a flash of Hawking radiation. "How lazy. You are a pathetic excuse for a wizard, aren't you?" She threw his words to Pettigrew back at him with a smirk.
 
 Voldemort's eyes narrowed and his wand became a flurry as he threw spell after spell at her. The air grew hot with residual magic as she countered everything he cast.
 
@@ -244,4 +244,4 @@ Voldemort spun in shock, eyes meeting hers, and even while the life was snuffed 
 
 _Clear,_ she sent. _You can let the old meddler in now. I'm heading back._
 
-She slashed her wand, cutting off the former Dark Tosser's head. Raising it in one hand, she summoned the Cup to the other and disappeared in a flash of phoenix fire.
+She slashed her wand, cutting off the former Dark Tosser's head. Raising it in one hand, she summoned the Cup to the other and disappeared in another flash of phoenix fire.
