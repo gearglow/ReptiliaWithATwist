@@ -43,7 +43,7 @@ The first thing Harry saw was a white wall with green letters, which said, *Welc
 
 *For that matter,* Harry thought, *how did I get here? The last thing I remember was... Voldemort. And the Forbidden Forest, and a green light... He spouted some cliché line, too. What was it again? Oh, right. "Harry Potter, the Boy-Who-Lived. Come to die."* Something about those words made Harry very uncomfortable, but she couldn't quite... wait a minute. *She!?*
 
-"... Oh." Harry looked down at herself, and realized that for the first time she felt comfortable in her own skin.
+"... Oh." Harry looked down at herself, and realized that for the first time ever, she felt comfortable in her own skin.
 
 Of course, the fact that she was wearing clothes that actually *fit* for once didn't hurt either.
 
@@ -63,7 +63,7 @@ Harry sat. The chair was surprisingly comfy.
 
 Eleanor opened a folder on the desk, which Harry didn't think was there a second ago.
 
-"So. First things first. You, Harry James Potter, are dead."
+"So, first things first. You, Harry James Potter, are dead."
 
 Harry sat up with a start. "Wait, what?"
 
@@ -87,7 +87,7 @@ Harry snorted into her hands and looked up with a surprised giggle.
 
 Harry shrugged. "I don't remember."
 
-"Oh, right, that whole wipe-your-memory-so-you-don't-break-spacetime thing." Eleanor groused. "Sorry about that. Not my call. I'm just filling in for Michael this go-round," she continued, *sotto voce.* "Poor guy gets a little stir-crazy every few Beremies."
+"Oh, right, that whole wipe-your-memory-so-you-don't-break-spacetime-and-dating-isn't-creepy thing." Eleanor groused. "Sorry about that. Not my call. I'm just filling in for Michael this go-round," she continued, *sotto voce.* "Poor guy gets a little stir-crazy every few Beremies."
 
 Finally starting to relax, Harry settled back into her chair again. "So, um..." she started. "What's next? Actually, wait. First, why am I a girl? Or, why was I a guy? Or... whatever." She waved a hand vaguely. "Not that I'm complaining now, but what the *fork?*" Her eyes widened. "Fork? Why can't I say 'fork?'"
 
@@ -5599,7 +5599,7 @@ Sirius patted him on the leg. "Now it gets _good,_ Moony."
 
 Remus took up the thread. "They're also the ones who got you out of St. Mungo's. And along with Ellie's girlfriends, Hermione Granger and Luna Lovegood, healed you. That lot are a force to be reckoned with."
 
-"Them and young Ginny Weasley," Sirius added. "Those girls are _scary_ sometimes. And we'd know; they've been training us. I think all of them can dual-cast lightning bolts and the Singularity Shield now."
+"Them and Ginny Weasley, Arthur & Molly's youngest," Sirius added. "Those girls are _scary_ sometimes. And we'd know; they've been training us. I think all of them can dual-cast lightning bolts and the Singularity Shield now."
 
 Frank and Alice looked at each other, then back to Sirius and Remus, eyes wide with shock.
 
@@ -5609,7 +5609,9 @@ Frank and Alice looked at each other, then back to Sirius and Remus, eyes wide w
 
 
 
-Catching the Longbottoms up on the past 13 years took the rest of the day. They were still rather shaken by it all when the girls all piled out of what they'd assumed was a linen closet.
+Catching the Longbottoms up on the past 13 years took the rest of the day. They were still rather shaken by it all when the girls all piled out of what they'd assumed was a linen closet that evening.
 
+"Coming out of the closet? Really?" Alice asked sardonically.
 
+"Mum!" Nell perked up at her voice, and dashed over to where the elder Longbottoms lounged in the greatroom with Remus and Sirius. The others were close behind.
 
