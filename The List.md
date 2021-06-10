@@ -884,7 +884,7 @@ By now, Robbie and Elysia's bond had progressed to the point that they could, wi
 
 "You too, Ellie. Is that the bond's doing, do you think, or just different circumstances?"
 
-"A bit of both, I suppose. Anyone'd do better away from the Malfoys or Durzkaban. But the bond probably has a pretty big effect. I know my work ethic's increased, too, probably as a side-effect. Did I tell you I wrote McGonagall? She's letting me drop Divination if I can test into Arithmancy. Which I can. I could test *out* of Arithmancy if I read far enough in my mindscape library, but if I do that for classes I'm actually taking, school will be *so boring.* As it is, I do have the math down, just not the applications."
+"A bit of both, I suppose. Anyone'd do better away from the Malfoys or Durzkaban. But the bond probably has a pretty big effect. I know my work ethic's increased, too, probably as a side-effect. Did I tell you I wrote McGonagall? She's letting me drop Divination if I can test into Arithmancy and Runes. Which I can. I could test *out* of Arithmancy if I read far enough in my mindscape library, but if I do that for classes I'm actually taking, school will be *so boring.* As it is, I do have the math down, just not the applications."
 
 "And also, this way we share a class just the two of us," Hermione smiled.
 
@@ -1754,7 +1754,7 @@ Much to the delight of everyone, Lucius Malfoy had indeed been one of those petr
 
 "Wonder how Draco's going to handle it," Elysia mused. "I imagine either he'll be keeping his head down or he'll be on a hair-trigger."
 
-The other big thing that happened occurred at dinner the day after they returned from the World Cup, after Hermione had relayed the relevant part of her and Ginny's conversation from the other night.
+The other big thing that happened occurred at dinner the day after they returned from the World Cup, after Hermione had relayed the relevant part of her conversation with Ginny from the other night.
 
 "Hey, everyone? This summer's been an interesting one, and I've learned a lot about myself. And I need to share one of those things with you all." She took a deep breath. "I'm a girl. My name's Elysia now, or Ellie for short."
 
@@ -1952,7 +1952,7 @@ Luna split off to the Ravenclaw table, and the others took seats midway down the
 
 Elysia scanned the staff table again, and caught the eye of Professor Snape. She'd seen plenty of people do double-takes over her this summer, but this was the first time she'd seen someone pale so drastically at the same time. *Looks like he's seen a ghost,* she thought to herself.
 
-Professor McGonagall entered with the first-years, and as Hagrid took his seat the Sorting commenced. It was the first one since Elysia's own that she'd managed to see, as the past two years something had always come up. Colin Creevy's little brother, Dennis, was sorted into Gryffindor, and Elysia giggled to herself as Colin tried to point out 'the famous Harry Potter' to him but didn't recognize her.
+Professor McGonagall entered with the first-years, and as Hagrid took his seat the Sorting commenced. It was the first one since Elysia's own that she'd managed to see, as for the past two years something had always come up. Colin Creevy's little brother, Dennis, was sorted into Gryffindor, and Elysia giggled to herself as Colin tried to point out 'the famous Harry Potter' to him but didn't recognize her.
 
 The Sorting wrapped up, and the feast appeared. Everyone dove in with relish, and Elysia pondered how it was that she could be so hungry after stuffing herself silly with snacks on the train ride.
 
@@ -2227,13 +2227,13 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 
 
-After returning to the real world only a scant few minutes after entering Elysium, Elysia made her way to dinner as Professor Snape finished squaring away his classroom. She caught up with Ron and Hermione at the doors to the Great Hall.
+Upon returning to the real world only a scant few minutes after entering her mindscape, Elysia made her way to dinner as Professor Snape finished squaring away his classroom. She caught up with Ron and Hermione at the doors to the Great Hall.
 
 "What'd Snape want?" Ron asked.
 
 Elysia thought for a moment. "Honestly? I think he had a bit of an identity crisis seeing me not looking like my dad anymore. Anyway, we cleared the air a bit."
 
-"Think you can clear the *way* a bit, while you're at it?" Malfoy's voice said from behind them. "Some of us would like dinner."
+"Think you can clear the *way* a bit, while you're at it?" Malfoy's voice drawled from behind them. "Some of us would like dinner."
 
 "Shove off, Malfoy," Ron started, stepping towards him.
 
@@ -2243,7 +2243,7 @@ Elysia thought for a moment. "Honestly? I think he had a bit of an identity cris
 
 "Right? They're like sodium and water," Elysia replied. "You'd think their flirting would've moved past tugging on each other's pig-tails by now," she added, rather more loudly.
 
-Hermione burst out laughing, even as both Ron and Malfoy both shot her a dirty look.
+Hermione burst out laughing, even as both Ron and Malfoy shot her a dirty look.
 
 "And anyway," Ron said, turning back to Malfoy, "at least *my* dad's not in the paper for being an evil git! Does you mum prefer him as a glorified lawn ornament, or as dementor chow? My bet's the statue -- probably the only time it's gotten hard since she had you!"
 
@@ -2391,7 +2391,7 @@ Ron, who thankfully had swallowed his food first, gaped.
 
 After lunch was the Runes qualifier, which both girls completed in record time. Professor Babbling looked like Yule had come early.
 
-"Between you two and Miss Granger, I might actually get to hold an independent study track this year," she gushed. "It'd be a shame to hold so many brilliant minds back, now that there are enough of you to make a case for it."
+"Between you two and Miss Granger, I might actually get to hold an accellerated study track this year," she gushed. "It'd be a shame to hold so many brilliant minds back, now that there are enough of you to make a case for it."
 
 Hermione was ecstatic when Luna told her at dinner. "Do you think we'll be able to learn about warding and curse-breaking?"
 
@@ -2456,7 +2456,7 @@ Hermione bit her lip, clearly holding back a comment of some sort, causing both 
 
 "How about you give me the tour, Ellie?" Hermione said with a huff.
 
-Elysia grabbed her hand and they were off. Hermione was confused by the workshop, given that Elysium was a mindscape, but Elysia just said "prototyping and simulations," and that explained it all as far as Hermione was concerned. Finally, the tour ended in the study, where Janet greeted them.
+Elysia grabbed her hand and they were off. Hermione was confused by the workshop, given that Elysium was a mindscape, but Elysia just said "prototyping and simulations," and that explained it all as far as Hermione was concerned. Finally, the tour ended in the study, where Janet met them.
 
 "Hi, I'm Janet!" She greeted Hermione cheerfully.
 
@@ -2504,7 +2504,7 @@ Just then, they were interrupted by a shrieking Hermione. "_WHAT!?_ You mean thi
 
 "Um, 'Mione?" Elysia said, putting a calming hand on her shoulder. "You know we can fix it, right?"
 
-Hermione took a deep, gasping breath and held it for a 5-count, letting it all out in a sigh. "I know, Ellie. It's just, how are magicals so constantly lacking in common sense? 'Too much magic' indeed. And that single anti-lightning ward prevents entire _classes_ of magic from being even _discovered,_ much less _taught,_ and it just makes me so mad I could scream!"
+Hermione took a deep, gasping breath and held it for a 5-count, letting it all out in a sigh. "I know, Ellie. It's just, how are magicals so constantly lacking in common sense? 'Too much magic' indeed. And that single anti-lightning ward prevents entire _classes_ of magic from even being _discovered,_ much less _taught,_ and it just makes me so mad I could scream!"
 
 "Honestly, Hermione? Scream. Go off. And when you're done, we'll see who wants to go on a little adventure to fix it. Because everything else aside, I _really_ want to have movie nights sometime."
 
@@ -2544,7 +2544,7 @@ They found empty seats across from Ron, Ginny, and Neville, who were also invite
 
 "Well," Elysia started, "You know how Hogwarts: A History says that muggle electronics won't work at Hogwarts because there's too much magic?"
 
-Hermione let out a snort of fury as the others nodded. "It turns out," she growled, "that the original edition where that's brought up said that magicals _rely too much on magic,_ not that there's too much ambient magic. Someone set up an anti-lightning ward, centuries ago, and it stops electrical currents from working entirely. So stupid! All they had to do was transfigure a big metal stick on top of the highest tower, and run a grounding wire. But no, they put in an overly-broad ward and now whole _classes_ of magic don't work here!"
+Hermione let out a snort of fury as the others nodded. "It turns out," she growled, "that the original edition where that's brought up said that magicals _rely too much on magic,_ not that there's too much ambient magic. Someone set up an anti-lightning ward, centuries ago, and it stops electrical circuits from working entirely. So stupid! All they had to do was transfigure a big metal stick on top of the highest tower, and run a grounding wire. But no, they put in an overly-broad ward and now whole _classes_ of magic don't work here!"
 
 Ron and Neville gaped as she continued to rant. Ginny barely refrained from giggling.
 
