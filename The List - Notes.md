@@ -269,7 +269,7 @@ AKA:
 | **Wand:** | |
 |-----|-----|
 | Wood: | Prickly Ash |
-| Core: | Thestral Sinew |
+| Core: | Zmey Sinew |
 | Flexibility: | Solid |
 | Size: | Nearly 11 7/10 inches |
 | Manufacturer: | Mykew Gregorovitch |

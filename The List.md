@@ -1532,7 +1532,7 @@ Since their seats were also in the Top Box, Elysia decided she'd better pop into
 > To Do
 >
 > - [x] Stop the Twins from betting and losing their life savings
-> - [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Thai, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
+> - [x] Find and read the primers on French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Thai, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Euskara, Swiss, Swedish, Icelandic, Khmer, and German
 
 As the afternoon wore on, the lanes between the tents began to fill with vendors, hawking souvenirs of all sorts. Ron purchased a dancing shamrock hat; an animated figurine of Viktor Krum, the Bulgarian seeker; and a large green luminous rosette.
 
@@ -2490,7 +2490,7 @@ Janet handed Hermione a book, with a list tucked into the cover page. "Here, sta
 >- Divination And Privacy: Information Control In The Magical World
 > - Countering Control: Potions, Spells, and Debts
 >- Acting Naturally
-> - Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
+> - Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Euskara, Swiss, Swedish, Icelandic, Khmer, and German
 >- Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 > - Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
 
@@ -2568,7 +2568,7 @@ First, they all congregated on the grounds. Elysia, Ron, and Ginny had their bro
 
 "We should probably shield the cable..." Elysia mused, which led to them all gathering sticks and leaves. Hermione transfigured them into a sheet of rubber, then charmed the rubber into place around the cable. By the time she was done, Elysia had transfigured another stone into a metal plate, which was then transfigured into a junction box and connected to the cable. Luna then started carving runes of permanence into the transfigured materials, so they would keep their new form.
 
-About an hour after they'd started, they had one lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville, Luna, and Hermione kept control of the stake-end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three fliers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. A few notice-me-not runes, and then they all stood back to admire their work.
+About an hour after they'd started, they had one complete lightning rod ready for installation. The three with brooms flew up to the top of the tallest tower, levitating the rod and stabilizing the cable as they went. The cable spooled out below them, as Neville, Luna, and Hermione kept control of the stake-end. Once the rod portion was standing up straight atop the tower's spire, Elysia transfigured the end of the rod to cap the spire snugly, and sealed it in place with permanent sticking runes. The three fliers then flew down the cable, using sticking charms and runes to affix the cable to the side of the tower, until they landed and Elysia drove the anchor stake deep into the ground with a powerful banishing charm. A few notice-me-not runes, and then they all stood back to admire their work.
 
 "Wow, that looks rather good!" Neville said.
 
@@ -2634,7 +2634,7 @@ Elysia snorted. Luna started giggling hysterically.
 
 "These crystals are gargantuan!" Hermione exclaimed when she recovered. "Even the small ones are the size of a house! And those columns must be nearly a kilometer high!"
 
-The others ambled over to stare through the doorway and stared in awe.
+The others ambled over to peek through the doorway, and stared in awe.
 
 "Bloody hell!" Ron said.
 
@@ -2658,7 +2658,7 @@ Hermione, of course, had already picked up the Unlimited Flight spell from readi
 
 "So this is the infamous curse on the DADA position," she murmured.
 
-Hermione nodded. "It's hard to imagine just how much trouble this devious little cluster has caused, isn't it? Even in just the few years I've been at Hogwarts. First year, possessed by Voldemort, dead before the Leaving Feast. Second year, obliviated straight into the Janus Thickey Ward. Last year, run out of the castle for being a werewolf. It makes one wonder what's in store for Professor Moody this year, doesn't it?"
+Hermione nodded. "It's hard to imagine just how much trouble this devious little cluster has caused, isn't it? Even in just the few years I've been at Hogwarts: First year, possessed by Voldemort, dead before the Leaving Feast. Second year, obliviated straight into the Janus Thickey ward. Last year, run out of the castle for being a werewolf. It makes one wonder what's in store for Professor Moody this year, doesn't it?"
 
 "Nothing good, I'm sure," Luna said. "Even if we _do_ break the curse, I think it's already been set in motion for this year."
 
@@ -2670,7 +2670,7 @@ Hermione nodded. "It's hard to imagine just how much trouble this devious little
 
 "Huh?" Luna said.
 
-"The Potters have Basque roots," Elysia explained. "Over the summer I went through the Potter vaults, and found a bunch of old grimoires in Aquitanian. One of them had a bunch of spells to help with runes and sigils and such. Apparently the Potters were known for warding and enchanting at one point. Soul magic too, it turns out, because of golem-crafting, though those spells aren't all that useful most of the time. Anyway, _kendu akatsa_ got translated to modern Basque, and means roughly 'remove the blemish.' It's used for un-etching."
+"The Potters have Basque roots," Elysia explained. "Over the summer I went through the Potter vaults, and found a bunch of old grimoires in Aquitanian. One of them had a bunch of spells to help with runes and sigils and such. Apparently the Potters were known for warding and enchanting at one point. Soul magic too, it turns out, because of golem-crafting, though those spells aren't all that useful most of the time. Anyway, _kendu akatsa_ got translated to modern Euskara, and means roughly 'remove the blemish.' It's used for un-etching."
 
 Luna made puppy-eyes. "Ooh! Can you teach me? Pretty _pretty_ please?"
 
@@ -2728,7 +2728,7 @@ Hermione looked over at the blackboards. "Bollocks."
 
 Elysia wandered over to the worktable and started carving a simple schema for a glowing red arrow illusion into some sandstone. "Here, everyone copy this and we'll stick them to the problem clusters."
 
-Everyone else started copying the arrow stones, and Elysia grabbed a marker and started labeling each cluster on the blackboards.
+Everyone else started copying the arrow stones, and Elysia grabbed some chalk and started labeling each cluster on the blackboards.
 
 "Anyone know a good locator spell?" She asked.
 
@@ -2772,11 +2772,11 @@ As she released the spell, the lights came back up and the pole retreated back i
 
 Monday morning found Elysia and Hermione once again greeting a yawning Luna outside the Great Hall at breakfast with fond smiles. Both girls had talked the night before about how quickly Luna had become their friend, and how much they both enjoyed spending time with her.
 
-"I'm so excited for Runes and Arithmancy today!" Hermione gushed as the three joined their friends at the Gryffindor table.
+"I'm so excited for Runes and Arithmancy today!" Hermione gushed.
 
-"Me too!" Luna replied.
+"Me too!" Luna replied, smiling brightly.
 
-"Swots, the both of you," Elysia teased, and laughed as both girls smacked her on either arm in synchrony. "See? It's not just me and Hermione doing that."
+"Swots, the both of you," Elysia teased, and laughed as both girls smacked her on either arm in synchrony. "See? It's not just me and Hermione twinning like that."
 
 "'Hermione and _I_,'" Luna absently corrected, eyes sparkling.
 
@@ -2960,7 +2960,7 @@ Finally, Thursday rolled around, and with it the first Defense Against the Dark 
 
 "Constant vigilance!" Janet whispered in the back of Elysia's mind as she approached the classroom.
 
-_Is this going to be another one of those years where the Defense professor tries to kill me?_ Elysia mused. _Lovely._ She set her glasses to active scan as she entered, noting that while Professor Moody was not visible, there _was_ a blob of magic in the back corner of the classroom that was identified as a disillusionment charm. She took a desk in front, conjured a sandstone ball, quickly carved runes for an area-effect flash-bang stunner on a command-word trigger, then over-charged it.
+_Is this going to be another one of those years where the Defense professor tries to kill me?_ Elysia mused. _Lovely._ She set her glasses to active scan as she entered, noting that while Professor Moody was not visible, there _was_ a blob of magic in the back corner of the classroom that was identified as a disillusionment charm. She took a desk in front, conjured a clay ball, quickly press-carved runes for an area-effect flash-bang stunner on a command-word trigger, then over-charged it.
 
 The other students made their way in and took their seats, wondering where Professor Moody was. And then, as the clock ticked over and class began, spell-fire came from the corner. Several students screamed, and many fell to stunners. Elysia promptly hit the deck and rolled the marble towards the corner, casting a quick shield, shifting her ears closed, and shutting her eyes. 
 
@@ -2978,7 +2978,7 @@ The entire class was lying on the floor, stunned, as was the disillusioned lump 
 
 "I think so," Hermione responded. "Ellie, what happened? The last thing I remember was you yelling 'boom' and everything went white."
 
-Elysia knelt and picked up her sandstone ball, which promptly disintegrated into a handful of sand as she stood. "A little something I found in a curse-breaking adventure story - a flash-bang stunner. With the twins constantly repeating 'constant vigilance' after their first Defense class, I figured something was up. And there's not a whole lot who can block an area stunner after a flash-bang breaks their focus."
+Elysia knelt and picked up her conjured clay ball, which she wandlessly dispelled as she stood. "A little something I found in a curse-breaking adventure story - a flash-bang stunner. With the twins constantly repeating 'constant vigilance' after their first Defense class, I figured something was up. And there's not a whole lot who can block an area stunner after a flash-bang breaks their focus."
 
 "How'd you carve one so fast?" Hermione demanded.
 
@@ -3067,7 +3067,7 @@ Neville flinched. "Th-the Cruciatus curse," He stuttered.
 
 Moody's mundane eye softened. "Brave lad, bringing that one up. Pain beyond the tolerance of the mortal mind. Five points to you. Brace yourselves, class. _Crucio!_"
 
-An angry blood-red beam flew from his wand. The spider rolled onto its back atop the desk, all eight legs flailing in a grotesque mockery of its earlier dance. A high keening could be heard, which was surprising -- Elysia hadn't thought spiders _could_ scream.
+An angry blood-orange beam flew from his wand. The spider rolled onto its back atop the desk, all eight legs flailing in a grotesque mockery of its earlier dance. A high keening could be heard, which was surprising -- Elysia hadn't thought spiders _could_ scream.
 
 Elysia glanced at Neville as Moody let up on the curse, and saw tears streaking his face. She reached over and squeezed his hand consolingly.
 
@@ -3077,7 +3077,7 @@ Hermione put her hand down and said quietly, "the killing curse."
 
 "Aye, lass. Five points. The killing curse means instant death. Only one person has ever survived it, so the rumor goes. Personally, I think that's rubbish and something else happened that Samhain night, but good luck convincing Albus of anything once he's made his mind up. Anyway. _Avada kedavra!_"
 
-A sickly green bolt of spell-fire hit the spider, which curled up dead. Elysia felt as if a great, intangible _something_ had passed before her, and the weight of it chilled her to the core.
+A sinister green bolt of spell-fire hit the spider, which curled up dead. Elysia felt as if a great, intangible _something_ had passed before her, and the weight of it chilled her to the core.
 
 "Now," Moody said, breaking the shaken reverie of the students. "Who can tell me _why_ these spells are considered Unforgivable? You can kill someone with a simple cutting curse, cause pain with a well-placed boil hex, and control someone with judicious use of Confundus charms. What makes these three so special?"
 
@@ -3229,13 +3229,13 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 The second marked event of September was Sunday the 18th, the day before Hermione's 15th birthday, and the day Elysia had organized for her birthday party. At noon, after a somewhat longer training session than usual, Elysia, Hermione, and Luna met all their friends in the entrance hall -- the Curse-Breaking 101 girls, the Weasleys, the Chasers, Neville, and the rest of the Gryffindor fourth-year girls, with whom Hermione's relationship had improved significantly after Elysia joined them. Parvati brought her sister Padma along as well.
 
-They were all dressed casually for the day. Elysia had on a red sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
+They were all dressed casually for the day. Elysia had on a brick-red sundress with her Ironbelly-hide boots and jacket, and she'd taken the time to apply eyeliner and lip gloss. And judging from the glances both Hermione and Luna had been stealing, it was a good look on her.
 
 Luna was in an airy floral-pattern dress with a pale blue cardigan, which had Elysia stealing a few glances herself. Hermione was the only one not wearing a dress; she'd donned figure-hugging jeans and a gauzy white blouse over a lime-green cami, which set off her darker complexion and kept causing the other girls to almost walk into things.
 
 "Damn, Potter, you femme up nice!" Millicent Bulstrode said as they arrived.
 
-"Thanks, Millie," Elysia said, giving her friend a once-over and biting her lip. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on (and revealing washboard abs even through the material), and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
+"Thanks, Millie," Elysia said, giving her friend a once-over and biting her lip. Mille was in jeans, Doc Martens, a black vest tight enough to be painted on (and revealing washboard abs even through the fabric), and an open plaid button-up in Slytherin colors with the sleeves rolled up to show off her impressive biceps. "You look pretty damn good yourself."
 
 "Hey there, Heart-Breaker," Parvati greeted her. "Save it for the party. Hullo, Hermione, and happy birthday!"
 
@@ -3295,7 +3295,7 @@ Someone had started music playing, and Robbie was currently showing the Weasley 
 
 "Please don't make me choose," Luna said.
 
-"Wasn't going to," Elysia said. "Janet told me about something called polyamoury. We could just all date each other!"
+"Wasn't going to," Elysia said. "Janet told me about something called polyamory. We could just all date each other!"
 
 "Like, oh, what's the word? A triad?" Hermione said from the middle, wrapping an arm around each other girl and pulling them in to snuggle.
 
@@ -3425,7 +3425,7 @@ She swept out the door, leaving Dumbledore gaping behind her.
 
 At dinner on the last Saturday of October, Professor Dumbledore made the announcement that tomorrow afternoon, the 30th, the delegations from Beauxbatons and Durmstrang would be arriving in time for dinner. The school had been scrubbed from top to bottom by the house-elves, until one could practically eat off the floors. 
 
-The next day at 16:00, all of the students were made to stand in rows, in full uniform, on the castle's front steps. Elysia was standing with Hermione and Luna, holding hands and chatting over legilimency. Their conversation was interrupted as several students pointed overhead.
+The next day at 16:00, all of the students were made to stand in rows, in full uniform, on the castle's front steps. Elysia was standing with Hermione and Luna, holding hands and chatting over contact legilimency. Their conversation was interrupted as several students pointed overhead.
 
 "Look! Up in the sky!" Lavender yelled. 
 
@@ -3443,7 +3443,7 @@ As it turned out, the Beauxbatons delegation arrived in a truly _massive_ carria
 
 "Madame Maxime," Dumbledore greeted with a warm smile. "How lovely to see you again! I trust your journey went smoothly?"
 
-As they spoke, students had begun piling out of the carriage. They wore sky-blue uniforms of what looked like silk, and were obviously caught off-guard by the cold of a late autumn in Scotland.
+As they spoke, students had begun piling out of the carriage. They wore sky-blue uniforms of what looked like silk, and were obviously caught off-guard by the cold of autumn in Scotland, even one as mild as this year's had proven.
 
 Hermione rolled her eyes at that. _Are you mages or not? Cast a warming charm!_ The other two snorted.
 
@@ -3519,13 +3519,13 @@ Training that morning was intense, as all four of them -- the triad, plus Robbie
 
 "That's not something I ever expected to happen," Elysia said. "Now what?"
 
-"No black holes in the house?" Hermione said. 
+"No more conjuring black holes in the house?" Hermione said. 
 
 Luna snorted. "Bet you never thought you'd say _that,_ love."
 
 "Too right," Hermione giggled.
 
-"I think," said Robbie, "that I can repair the room at the Kiln, and replace this training room with a gate to there. It's got more _lignum vitae_ to work with, and I can install some grounding stones along the foundation too."
+"I think," Robbie mused, "that I can repair the room at the Kiln, and replace this training room with a gate to there. It's got more _lignum vitae_ to work with, and I can install some grounding stones along the foundation too."
 
 "That's brilliant, Robbie!" Hermione said.
 
@@ -3689,7 +3689,7 @@ Further discussion was interrupted as Dumbledore entered with the other Tourname
 
 "It's a binding magical contract," Crouch said flatly, to no-one in particular. "She'll lose her magic if she doesn't compete."
 
-Elysia growled again as the room erupted in outrage. Leaning over to Andromeda, she whispered, "if you can't get me out of this, see if you can leverage it into getting me emancipated. Dumbledore's dropped the ball where I'm concerned far too often."
+Elysia growled again as the room erupted in outrage. Leaning over to Andromeda, she whispered, "if you can't get me out of this, see if you can leverage it into getting me emancipated. The adults in my life have dropped the ball where I'm concerned far too often."
 
 She tuned back into the wider conversation just as Fleur was saying, "zo zis leetle girl is to compete?"
 
@@ -3905,7 +3905,7 @@ Robbie nodded. "I figured, while I was at Gringotts getting a basilisk-harvestin
 
 "True, true. Well, let's get to it!"
 
-Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally childish. "Stilts and Beaky, James? _Honestly!_ No.") Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into a magpie. Each grabbed a pre-carved runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
+Luna and Hermione both shifted to their animagus forms. Luna was a raven, whom Lily had named Hecate, and Hermione was a burrowing owl, whom Lily named Athena. (James was banned from naming the girls' forms, as his suggestions were unilaterally childish. "Stilts and Beaky, James? _Honestly!_ No.") Elysia joined them as Nemesis, her peregrine falcon form, and Robbie shifted into a magpie. Each grabbed a pre-carved, shrunken runestone in their claws and took off for a corner of the property, settled their runestones into place, and met back at the farmhouse a scant few minutes later.
 
 Hermione performed the ritual, making Elysia the Secret Keeper. She then promptly told the others the secret, and they trooped back into the closet and into the trunk-flat.
 
@@ -3951,7 +3951,7 @@ The next morning Elysia and company met the Gringotts team in the Entrance Hall.
 
 "Ah, Miss Potter," Claymore said. "When I heard about the basilisk I just had to come see for myself."
 
-"Good to see you, Claymore," Elysia said. "And I told you, call me Ellie. Gold still flowing, heads still rolling?"
+"Good to see you, Claymore," Elysia said. "And I thought I told you, call me Ellie. Gold still flowing, heads still rolling?"
 
 Claymore laughed. "Always, Ellie."
 
@@ -3973,7 +3973,7 @@ Eventually they came to the doors carved with snakes, their emerald eyes glintin
 
 "Honestly, Salazar," Elysia muttered. "_Working lights,_" she hissed. The room brightened considerably, and the torches changed to a neutral hue closer to daylight. "Much better."
 
-"Holy shit," Snape breathed, as they caught sight of the slain basilisk.
+"Salazar's saggy arse," Snape breathed, as they caught sight of the slain basilisk.
 
 "Language, Russ," Elysia sang.
 
@@ -3983,13 +3983,15 @@ Elysia cackled. "Sorry, sir, couldn't resist."
 
 Snape snorted. "I'm sure."
 
-"I thought I'd imagined how big it was," Ginny said softly, face pale. "I thought I'd come down and see it for real and it wouldn't look nearly so enormous. But it _does. Bigger,_ even."
+"I thought I'd imagined how big it was," Ginny said softly, face pale. "I thought I'd come down and see it again and it wouldn't look nearly so enormous. But it _does. Bigger,_ even."
 
 "You wanna kick it?" Elysia asked.
 
 "What?"
 
-"Go on, kick it! Give it a good one, right in the snoot. You too, Hermione," Elysia said.
+"Go on, kick it! Give it a good one, right in the snoot. You too, Hermione," Elysia said. "Boot the snoot!"
+
+"Boot the snoot! Boot the snoot!" Luna took up the chant.
 
 Nell giggled nervously.
 
@@ -4015,7 +4017,7 @@ Ron shook his head. "Nuh-uh. I know when I'm out of my depth. 'Sides, I'm a teen
 
 Hermione rolled her eyes.
 
-Luna was wandering around looking at the Chamber. "Hey, I think this place is a ritual chamber! Or was, at any rate."
+Luna was wandering around looking at the Chamber. "Hey, I think this place is a ritual room! Or was, at any rate."
 
 "That makes sense," Hermione said. "Isn't the Wardstone Chamber down here somewhere too?"
 
@@ -4035,7 +4037,7 @@ That set Hermione off. "It turns out the reason that muggle technology _supposed
 
 "You _fixed_ it."
 
-Hermione nodded, and the triad told him all about their foray via the Room of Requirement.
+Hermione nodded, and they told him all about their foray via the Room of Requirement.
 
 "So you mean to tell me," he said finally, "that a gaggle of fourth-years --"
 
@@ -4115,7 +4117,7 @@ Snape nodded. "Do that. Walk in with a soundtrack, and _own_ it."
 
 Eventually, the goblins didn't need them around anymore, and they tired of exploring the Chamber. They all went their separate ways, with the fourth-years making for Charms and the others their own classes. Snape swept off to teach, and now that he'd mentioned it, Elysia could match his stride to Geezer Butler's relentless rhythm as his cloak flared dramatically.
 
-All through Charms she turned the idea over in her head. They were starting Summoning Charms, which as a staple combat spell Elysia knew backwards, forwards, upside-down, and wandless, so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
+All through Charms she turned the idea over in her head. They were starting Summoning Charms -- which as a staple combat spell Elysia knew backwards, forwards, upside-down, and wandless -- so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
 
 "Padfoot and I were quite the hellions back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got mine, and Robbie's got Padfoot's. So that's a good start right there."
 
@@ -4127,7 +4129,7 @@ Lily snorted. "Like he doesn't do the exact same thing with Sabbath? If I recall
 
 "As if that'd stop him."
 
-"So whistle the harmonica part." James said.
+"So whistle the harmonica part at him," James said.
 
 Lily and Elysia cracked up.
 
@@ -4137,7 +4139,7 @@ Lily and Elysia cracked up.
 
 "That's perfect!" James cried.
 
-"Ooh, I _like_ it!" Elysia said. "So what about the broom race? I'm planning to strip the limiter on my Firebolt and rig a manual activator on the windscreen charm, and use the Unlimited Flight ritual for inertial compensation. If they can catch me, they bloody well _deserve_ to win."
+"Ooh, I _like_ it!" Elysia said. "So what about the broom race? I'm planning to strip the limiter on my Firebolt, rig a full enclosure on the windscreen charm, and use the Unlimited Flight ritual for inertial compensation. If they can catch me, they bloody well _deserve_ to win."
 
 "It's full-contact, right?" Lily asked. "Drop a wave of stun lightning behind you as you go."
 
@@ -4203,7 +4205,7 @@ But the best reactions were Dumbledore and Ollivander. Dumbledore wore a look of
 
 _That's one for the pensieve,_ Elysia grinned.
 
-"Woo, _izorratu,_ now _that's_ an entrance!" Izabella said when Robbie faded the music out. "You've got _style!_ Potter, right?"
+"Woo, _arraio,_ now _that's_ an entrance!" Izabella said when Robbie faded the music out. "You've got _style!_ Potter, right?"
 
 "That's right," Elysia said with a grin.
 
@@ -4213,9 +4215,9 @@ _That's one for the pensieve,_ Elysia grinned.
 
 "Yup!" She bounced a bit. "It's kinda _botika,_ but it's nice," she said _sotto voce._
 
-"_I'm sure, if Miss Delacour is any indication,_" Elysia answered in Basque, recognizing the word '_botika_' as 'snooty'. "_Her nose gets any higher, we'll be able to see up it._"
+"_I'm sure, if Miss Delacour is any indication,_" Elysia answered in Euskara, recognizing the word '_botika_' as 'snooty'. "_Her nose gets any higher, we'll be able to see up it._"
 
-Izzy giggled. "_We're not_ all _that bad. Wait, you speak Basque?_"
+Izzy giggled. "_We're not_ all _that bad. Wait, you speak Euskara?_"
 
 "_It turns out my family has roots there,_" Elysia answered. "_Way,_ way _back, like over a millennium, we were known as Eltzegilea. Not sure when we ended up in England, come to think of it. I picked up the language over the summer so I could read the older family records._"
 
@@ -4229,7 +4231,7 @@ Ollivander bowed. "Certainly, Headmaster. Miss Kozlov, you first."
 
 Anna prowled over and handed Ollivander her wand. He started as it touched his hand, and he peered closely at it. 
 
-"Oh my. Prickly ash, quite solid. Just shy of 11^7/10^ inches. And..." His eyes widened. "_Thestral sinew?_ I hadn't realized Gregorovitch had expanded his repertoire so." He waved the wand, and a blossom of silver fire erupted from the tip, accompanied by the tinkling of tiny bells. "Lovely."
+"Oh my. Prickly ash, quite solid. Just shy of 11^7/10^ inches. And..." His eyes widened. "_Zmey sinew?_ I hadn't realized Gregorovitch had expanded his repertoire so." He waved the wand, and a blossom of silver fire erupted from the tip, accompanied by the tinkling of tiny bells. "Lovely."
 
 Anna bobbed a curtsey as she took her wand and stepped back.
 
@@ -4297,7 +4299,7 @@ The others were gaping. Dumbledore just hung his head, pinching the bridge of hi
 
 "I've always felt that a wand is like a _judoka's_ belt," Elysia continued. "The wear is a record and a reminder of what you've gone through to get where you are. Like scars. I look at mine and think, _I'm still alive. Look what I survived._" She shrugged. "I mean, it's either that or go a bit mad, yeah?"
 
-"_Izorratu,_" Izzy breathed.
+"_Neska beldurgarria, madarikatua,_" Izzy breathed.
 
 "And yet, you hide your most distinctive scar," Rita finally piped up. "Why is that, Elysia -- can I call you Elysia?"
 
@@ -4321,11 +4323,11 @@ An enormous silvery bird exploded out of her wand, glowing like the sun. Its win
 
 "_Яички Распутина (yaichki rasputina),_" Anna breathed.
 
-"My word," Ollivander exclaimed. "A thunderbird! How fabulous!"
+"My word," Ollivander exclaimed. "What a fabulous thunderbird!"
 
 "Extraordinary!" Madame Maxime said.
 
-Karkaroff simply glared.
+Dumbledore looked utterly gob-smacked. Karkaroff simply glared.
 
 Rita looked like Yule had come early, and her photographer was clicking away like a rabid Geiger counter.
 
@@ -4638,7 +4640,7 @@ Anna blushed, eyes wide in surprise.
 
 Hermione smacked her arm, laughing, and Luna giggled.
 
-"What?" Elysia said in Basque, with an impish grin. "It's fun to fluster the stoic ones."
+"What?" Elysia said in Euskara, with an impish grin. "It's fun to fluster the stoic ones."
 
 Izzy giggled. "No wonder they call you Heart-Breaker," she teased, switching back to English. "What exactly did you say, anyway?"
 
@@ -5220,7 +5222,7 @@ Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains o
 
 _Go time,_ Elysia thought, entering the arena in time with the beat as the first verse started. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena). She played her own variation of the classic drinking game, and every time the song said "thunder!" she'd cast 球電 (_kyuu-den,_ a Japanese ball-lightning spell). The orbs flared to the melody. The audience loved it, and the dragon was entranced, moving like a charmed cobra as its head followed the orbs around the arena.
 
-She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Basque, but she wasn't as much of a Metallica fan).
+She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Euskara, but she wasn't as much of a Metallica fan).
 
 The drums hit, and with it an echoing double-boom of thunder as she leapt across the arena to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit. The remaining orbs of ball-lightning exploded in showers of sparks.
 
@@ -5410,7 +5412,7 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 
 
-### Dai Llewellyn Ward, St. Mungo's Hospital for Magical Maladies, London, UK	1994/12/07	03:15
+### Janus Thickey Ward, St. Mungo's Hospital for Magical Maladies, London, UK	1994/12/07	03:15
 
 That night, Tuesday night -- Wednesday morning, really, well after Astronomy had ended -- Nell and Elysia shadow-walked into St. Mungo's under Elysia's invisibility cloak.
 
@@ -5584,7 +5586,7 @@ Remus' eyes widened. "They can _do_ that?"
 
 "Hey!" Alice cut in. "Can _someone_ explain just what is going on, already?"
 
-Sirius and Remus shared a sheepish look. "Right, sorry," Remus said. "Long story short, 13 years and... a month ago, give or take -- the Lestranges and Barty, Jr. tortured you two into oblivion. You've been in the Dai Llewellyn ward at St. Mungo's ever since, until last night." He sighed. "And now the story gets... complicated."
+Sirius and Remus shared a sheepish look. "Right, sorry," Remus said. "Long story short, 13 years and... a month ago, give or take -- the Lestranges and Barty, Jr. tortured you two into oblivion. You've been in the Janus Thickey ward at St. Mungo's ever since, until last night." He sighed. "And now the story gets... complicated."
 
 Sirius patted him on the leg. "Now it gets _good,_ Moony."
 
