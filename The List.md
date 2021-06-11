@@ -5356,7 +5356,7 @@ The two girls shook pinkies on it.
 
 ### Deputy Headmistress' Office, Hogwarts, Scotland	1994/11/27 19:15
 
-As much of a whirlwind as November had been, December was a much-needed return to some semblance of normal, and gave Elysia the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, for instance, and Nell's parents.
+As much of a whirlwind as November had been, Elysia had hoped December would be a much-needed return to some semblance of normal, and give her the chance to catch her breath and take stock. The Hex Games, for all their flash and glamour, were a distraction from more important things, in the long term. Sirius was still a fugitive, Riddle still had horcruxes, and Dumbledore was still meddling. And beyond that, there were wrongs she could put to rights now, and just hadn't had a chance to yet: Remus' lycanthropy, for instance, and Nell's parents.
 
 But on top of everything else, a new concern was dropped on her lap before December even arrived: the Yule Ball.
 
@@ -5378,7 +5378,7 @@ Elysia smiled. "I know what it's like to fall in love with your best friend. It'
 
 "Aye, that it is," McGonagall agreed with a wistful sigh. "And I'll let you in on a little secret: Rolanda is an animagus too. A great horned owl."
 
-Elysia giggled. "_So_ perfect!"
+Elysia giggled. "How poetic!"
 
 
 
@@ -5394,9 +5394,9 @@ Rita's opening salvo appeared in the Sunday Prophet the week after the Second Ta
 
 _Ironic,_ Elysia thought. _Still, it's nice to have the sheep stampeding against someone else for once._
 
-A proper trial was scheduled for the end of the week. She and the others met every evening with Rita and Solicitor Bulstrode, who was representing Sirius, to prepare evidence and testimony. Elysia, Hermione, and Sirius had given memories, as well -- even Professor Snape had consented to provide his testimony and memories of the night Pettigrew had escaped last summer.
+A proper trial was scheduled for the end of the week. She and the others met every evening with Rita and Solicitor Bulstrode, who was building Sirius' case for Barrister Eberhardt, to prepare evidence and testimony. Elysia, Hermione, and Sirius had given memories, as well -- even Professor Snape had consented to provide his testimony and memories of the night Pettigrew had escaped last summer.
 
-By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, he'd been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding over the trial due to conflict of interest. This meant that Augusta Longbottom, Nell's gran, would be presiding in his place.
+By some small miracle, they'd managed to keep the trial off of Dumbledore's radar. Solicitor Bulstrode said that because of evidence of Dumbledore's involvement in the whole sordid affair, Barrister Eberhardt had been able to convince Amelia Bones, the head of the Department of Magical Law Enforcement, to have Dumbledore recused from presiding over the trial due to conflict of interest. This meant that Augusta Longbottom, Nell's gran, would be presiding in his place.
 
 "We'll have to cure your parents right quick then, Nell," Elysia said. "From what I've been told, it was Dumbledore who sold them out to the Death Eaters -- indirectly, of course, but there should be enough of a trail."
 
