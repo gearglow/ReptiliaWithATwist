@@ -3501,7 +3501,7 @@ Elysia pulled Hermione and Luna in, and they began to prepare for battle.
 > - [x] Find and read Curse-Breaking For Fun and Profit
 > - [x] Find and read Elysia's Combat Style: Stage 4
 
-"We've got some rituals to plan for," Elysia said. "I want to do the Unlimited Flight ritual and the metamorph ritual, at least, and then transfer the shapeshifter knowledge. I want Nell in on this, too; it'll make her life a lot easier if she can go back in the closet when her gran's around for now.
+"We've got some rituals to plan for," Elysia said. "I want to do an Imbuement ritual for the Unlimited Flight spell, and the Morphogenesis ritual, at least, and then transfer the shapeshifter knowledge. I want Nell in on this, too; it'll make her life a lot easier if she can go back in the closet when her gran's around for now.
 
 "I think Ginny should be in on them too," Luna said.
 
@@ -3789,7 +3789,7 @@ She'd written Sirius first thing in the morning, telling him about how she'd alr
 
 She spent History class in Elysium, plotting with Janet, Robbie, and her parents. Hermione was a bit annoyed, but understood.
 
-"Assuming you _do_ get emancipated," Lily said, "the Kiln would make for a fantastic base of operations. There's a ritual room in the basement, right James? You could do the Unlimited Flight and Morphogenesis rituals there."
+"Assuming you _do_ get emancipated," Lily said, "the Kiln would make for a fantastic base of operations. There's a ritual room in the basement, right James? You could do the Unlimited Flight Imbuement and Morphogenesis rituals there."
 
 "And Sirius could stay there, too, until you catch the rat," James added. "Don't look at me like that! You _know_ he won't want to stay away once he knows you're neck-deep in it again."
 
@@ -4419,7 +4419,7 @@ Elysia, Nell, and Ginny had just opened their eyes when Sirius walked in, still 
 
 "Pup!? Is that you?" Sirius asked as the hug broke. "Wow, you look amazing! And happy," he added. "When I got your last letter I was worried."
 
-Elysia grinned, a bit ferally. "I'm not the one you should worry about. Everyone, the infamous Sirius Black. Siri, these are my girlfriends Hermione Granger, whom you already know, and Luna Lovegood. And then this is Ginny Weasley and Nell Longbottom."
+Elysia grinned, a feral spark in her eyes. "I'm not the one you should worry about. Everyone, the infamous Sirius Black. Siri, these are my girlfriends Hermione Granger, whom you already know, and Luna Lovegood. And then this is Ginny Weasley and Nell Longbottom."
 
 "Nell?" Sirius' brow furrowed, then cleared. "Ah, I see. She's like you, then?"
 
@@ -4447,7 +4447,7 @@ Lily snorted. "I wish."
 
 Elysia cocked an eyebrow. "Why would this be Mum's doing?"
 
-"Pup, dunno if you've noticed, but your mother is a little scary. As in, she's tiny and _eldritch._"
+"Pup, dunno if you've noticed, but your mother is a _little scary._ As in, she's tiny and _eldritch._"
 
 Lily grinned, James laughed, and Elysia looked thoughtful. 
 
@@ -4465,7 +4465,7 @@ Finally, Elysia and Sirius joined the others in the ritual chamber below the far
 
 She waved a hand and the lights went out, the room now only lit by the ritual candles. The subjects of the ritual -- Hermione, Luna, Ginny, Nell, and Sirius -- stood at each point of a pentagram. Between each point was a candle, and around the pentagram was a ring of runes between two circles. 
 
-Elysia sliced her finger, moved to the northernmost point and began pacing deasil, chanting and gesturing. As she moved, the others took up a completely different chant, and lines of light and magic began to take shape. At each point where the pentagram touched the inner circle, right behind each participant, she dripped a few drops of blood. When she had dripped at each point she shifted the wound closed, and a wall of faintly-shimmering magic enclosed the circle.
+Elysia sliced her finger, moved to the northernmost point and began pacing deosil, chanting and gesturing. As she moved, the others took up a completely different chant, and lines of light and magic began to take shape. At each point where the pentagram touched the inner circle, right behind each participant, she dripped a few drops of blood. When she had dripped at each point she shifted the wound closed, and a wall of faintly-shimmering magic enclosed the circle.
 
 A phantom bell began to toll, and Elysia gave the signal. Hermione took a sip from the flask Elysia had given her, passing it to Luna, who passed it to Nell, then Ginny, then Sirius. The empty bottle was tucked away in a pocket.
 
@@ -4493,7 +4493,7 @@ Elysia floated some bottles of water to each of them, which they took gratefully
 
 
 
-After a break and snacks, Elysia and Robbie gathered the components for the Unlimited Flight ritual, and they all returned to the chamber. 
+After a break and snacks, Elysia and Robbie gathered the components for the Unlimited Flight Imbuement ritual, and they all returned to the chamber. 
 
 Inside the rune circle, they removed the pentagram and inscribed a hexagram with a paint made from crushed eggshells. At each point, nestled upon a bed of feathers, a crystal was placed which had been charged with a single component spell of the main Unlimited Flight spell: anti-gravity, acceleration, raw velocity, inertial compensation, agility, and a triggering charm. In the center, a larger crystal was placed; it was charged with the full Unlimited Flight spell. Its feather nest was woven through with a hair from each of them.
 
@@ -4529,7 +4529,7 @@ Elysia smiled. "Not quite yet, Padfoot. First, I need to teach you all how to sh
 
 
 
-They all ended up in the living room in Elysium, where Janet carted in a stack of books for each of them. Luna and Hermione only had the metamorphmagus and shapeshifting books, while the others had the same reading list to catch up on. Elysia spent the time going over the information on the horcruxes and plotting with her parents and Janet.
+They all ended up in the living room in Elysium, where Janet carted in a stack of books for each of them. Luna and Hermione only had the metamorphmagus and shapeshifting books, along with the addition of _Battle Magic for the Baddest Bitches_ and _Magician, Heal Thyself,_ while the others had the same reading list and additions to catch up on. Elysia spent the time going over the information on the horcruxes and plotting with her parents and Janet.
 
 "Most of these will be pretty easy with Sirius helping," James said. "He can access the locket in Grimmauld Place, and as Lord Black he can annul Bellatrix's marriage to Rodolphus Lestrange. That triggers repayment of her dowry and reversion of all her assets, which, since the Cup is in her personal vault, means Sirius can simply walk into Gringotts and withdraw it."
 
@@ -4539,7 +4539,7 @@ They all ended up in the living room in Elysium, where Janet carted in a stack o
 
 "I'll probably grab it tomorrow, then," Elysia said. "I could use the help when I modify my Firebolt. The Ring is the one I'm worried about. Riddle will likely be watching the Gaunt Shack fairly closely right now."
 
-"Worry about that when the time comes," Janet said. "Worst case, just have Robbie on standby to glass the place with Fiendfyre as soon as Riddle's in the middle of the ritual."
+"Worry about that when the time comes," James said. "Worst case, just have Robbie on standby to glass the place with Fiendfyre as soon as Riddle's in the middle of the ritual."
 
 "That'll work," Lily said with an evil smile. "And then there's just the snake and the man himself, which should be no trouble for you in the moment."
 
@@ -4598,7 +4598,7 @@ Luna giggled. "You _do_ know we can go much faster _without_ a broom, now?"
 
 "I think I like the Amharic variation better," Hermione quipped. "It's got telekinesis built in. No having to split focus for another spell."
 
-"Good point," Elysia acknowledged. "But anyway. The Firebolt has a windscreen charm out to a couple of feet. Anything much smaller than a snitch gets shunted around. If I stretch it out to wrap completely, that should take care of both windburn and drafting problems. And if I can work in a silencer somehow, that should help mitigate the sonic boom. Leave the eardrum-shattering to Lemmy."
+"Good point," Elysia acknowledged. "Might be worth an imbuement ritual too, come to think of it. But anyway, the Firebolt has a windscreen charm out to a couple of feet. Anything much smaller than a snitch gets shunted around. If I stretch it out to wrap completely, that should take care of both windburn and drafting problems. And if I can work in a silencer somehow, that should help mitigate the sonic boom. Leave the eardrum-shattering to Lemmy."
 
 Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
@@ -4634,7 +4634,7 @@ Just then, Anna walked by in track pants and a sports bra, her hair back in a ti
 
 ("Oh, I am _way_ too gay for this," Izzy muttered, biting her lip.)
 
-"It's hotter now that you're here," Elysia said in Russian, winking.
+"It's even hotter now that you're here," Elysia said in Russian, winking.
 
 Anna blushed, eyes wide in surprise.
 
@@ -4644,7 +4644,7 @@ Hermione smacked her arm, laughing, and Luna giggled.
 
 Izzy giggled. "No wonder they call you Heart-Breaker," she teased, switching back to English. "What exactly did you say, anyway?"
 
-"She said," Anna said with an odd sort of tone to her voice, "that it's hotter now that I'm here."
+"She said," Anna said with an odd sort of tone to her voice, "that it's even hotter now that I'm here."
 
 Izzy whistled. "Smooth. Wish _I'd_ though of it." She winked at Anna. "True, too. I feel my temperature rising already."
 
@@ -4760,7 +4760,7 @@ Robbie shuddered with revulsion, and then asked the important question. "Can we 
 
 _Take off and nuke it from orbit,_ Janet said, with the feeling of ice-water trickling across Elysia's scalp. _Rowena left you the original recipe, so you can fry this one but good._
 
-"Janet says I've got instructions on making a new Diadem," Elysia informed the others. "Let's wipe this abomination from the face of the planet."
+_Kentucky-Fried Horcrux, huh?_ "Janet says I've got instructions on making a new Diadem," Elysia informed the others. "Let's wipe this abomination from the face of the planet."
 
 > To Do:
 >

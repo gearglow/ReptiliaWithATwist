@@ -644,6 +644,8 @@ What it says on the tin.
 > - [x] Divination And Privacy: Information Control In The Magical World
 > - [x] Countering Control: Potions, Spells, and Debts
 > - [x] Acting Naturally
+> - [x] Battle Magic for the Baddest Bitches
+> - [x] Magician, Heal Thyself
 > - [x] Preparing For Potions: What Snape Wants You To Know But Doesn't Have The Patience To Teach
 > - [x] Words of the World: French, Bulgarian, Irish Gaelic, Scots Gaelic, Welsh, Russian, Latin, Greek, Indonesian, Mongolian, Nepali, Amharic, Korean, Japanese, Vietnamese, Greek, Spanish, Aquitanian, Modern Basque, Swiss, Swedish, Icelandic, Khmer, and German
 > - [x] Hogwarts' Hidden History: What Hermione's Favorite Book Won't Tell You
