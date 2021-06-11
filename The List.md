@@ -4884,9 +4884,9 @@ The spell she'd cast, an ancient German chain-lightning stunner, caught all five
 
 The curtain had hidden a tunnel of mirrors, twisting and looping all over Hogwarts' grounds, and Elysia's Perfect Reflexes spell was put to the test immediately. She tapped her goggles to adjust them to a spectrum the mirrors didn't reflect perfectly (a combination of radio and upper ultraviolet, which the goggles beamed out ahead of her into the dim tunnel of mirrors) and immediately had to veer left with a modified Split-S turn.
 
-"Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long-thought only the stuff of legend, and following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt broom, who have graciously gifted several of our champions with Firebolts to help even the playing field. Mikhail, what _was_ that?"
+"Was that _lightning magic?_" An incredulous Bagman shouted over the music as the other champions began to shake off the stunner and get underway. "Yes indeed! Our youngest champion with an impossibly strong start, opening with the sort of magic long believed to be only the stuff of legend, and following that up with the fastest start any of the judges have ever seen! I have with me Mikhail Engel, of Ellerby & Spudmore, makers of the Firebolt broom, who have graciously gifted several of our champions with Firebolts to help even the playing field. Mikhail, what _was_ that?"
 
-"Well, Ludo," Engel said, a faint German accent tinting his words, "like most of the other champions, excepting Miss Delacour and her signature customized Volière Soleil, the young Miss Potter is definitely riding a Firebolt -- her own, first-run, serial number of 86 -- which should have a theoretical top speed of 250 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier from a cold start, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
+"Well, Ludo," Engel said, a faint German accent tinting his words, "like most of the other champions, excepting Miss Delacour and her signature customized Volière _Coup de Soleil,_ the young Miss Potter is definitely riding a Firebolt -- her own, first-run, serial number of 86 -- which should have a theoretical top speed of 250 miles per hour under ideal circumstances, such as a Suicide Dive. What we just witnessed was Potter breaking the sound barrier from a cold start, flying horizontally -- unless I miss my guess, going well over a thousand miler per hour!"
 
 Bagman gaped like a fish as a collective gasp rose from the crowd. "But -- _how!?_"
 
@@ -4928,7 +4928,7 @@ Elysia just shrugged, tapping her goggles with her wand to revert them to glasse
 
 Madame Pomfrey harrumphed and gave Elysia a mug of pickle juice. "Be sure to drink that all down, now, until it stops tasting good," she instructed. "All that wind in your face dries you out. You need to replenish your electrolytes."
 
-"Cheers," Elysia said, toasting Madame Pomfrey and chugging the entire mug in one go, hands shaking as the adrenaline wore off.
+"Cheers," Elysia said, toasting Madame Pomfrey and chugging the entire mug in one go. Her hands shook as the adrenaline wore off.
 
 They made it up to the stands while the rest of the champions were in the midst of their second lap. Robbie was there with a crate full of butterbeer and a tub of popcorn, accompanied by Sirius (in disguise, of course, with wavy brown hair to his shoulder blades, pulled back into a ponytail, and warm brown eyes that sparkled with laughter instead of his usual steel-grey), the Weasleys, and Nell. The three girls snuggled up together to watch the rest of the race.
 
@@ -5002,7 +5002,7 @@ As the professors began tearing down the course, Bagman called the champions up 
 
 "We were going to do this in the Great Hall," he said, "but it's so nice out today!"
 
-"It is, at that," Elysia agreed, settling back between Hermione & Luna and cracking open a butterbeer. Her broom disappeared back into her left-hand mage-space holster. "Cast away, Rita."
+"It is, at that," Elysia agreed, settling back in a conjured loveseat between her girlfriends, who'd followed her, and cracking open a butterbeer. Her broom disappeared back into her left-hand mage-space holster. "Cast away, Rita."
 
 The others emulated Elysia, conjuring comfortable chairs and settling back with their own drinks.
 
@@ -5012,7 +5012,7 @@ Elysia grinned as Luna and Hermione giggled. "Ellerby & Spudmore make a good bro
 
 "Muggles can fly that fast?" Rita asked incredulously.
 
-"Faster," Elysia said. "Supersonic flight's been routine for them since the 1950s or so. They have an airplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969."
+"Faster," Elysia said. "Supersonic flight's been routine for them since the 1950s or so. They have an airplane they call the Blackbird, which can fly at over Mach 3 -- Mach being a measure of the speed of sound. So Mach 3 means three times the speed of sound. They landed people on the moon, too, back in 1969, and to do that they had to go over 20,000 miles per hour."
 
 The wizard-raised among them gaped.
 
@@ -5022,7 +5022,7 @@ The wizard-raised among them gaped.
 
 "Oh, that," Elysia said, waving her butterbeer dismissively. "_Stör störningar._ Got that from my mum's old school notes. It's a degenerate form of _Evanesco;_ same wand movement, too. Only works on conjurations, though, and it's not a clean Vanishing so much as it destabilizes the thaumic matrix. Usually it causes the target to blink in and out of phase for a bit before going up in smoke. Not terribly useful, but Mum thought it looked cool, so she kept a copy. Dunno why it's in Swedish, though."
 
-"It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be much longer, too."
+"It makes the Arithmancy a bit easier," Luna chimed in. "The Latin would be longer, too."
 
 Elysia nodded gratefully. "Makes sense. Thanks, Luna-love."
 
@@ -5054,7 +5054,7 @@ Elysia winked. "That'd be telling."
 
 "Is _that_ why he's been so much nicer this year?" Cedric asked.
 
-"Nah, he only found out a week ago," Elysia said. "The lightning ward's been fixed all semester. We've been having movie nights and everything."
+"Nah, he only found out a week ago," Elysia said. "The lightning ward's been fixed all term. We've been having movie nights and everything."
 
 "Ohmygosh, have you seen _Jurassic Park_ yet?" Izzy gushed. "It just came out on tape last month!"
 
@@ -5222,9 +5222,9 @@ Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains o
 
 _Go time,_ Elysia thought, entering the arena in time with the beat as the first verse started. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena). She played her own variation of the classic drinking game, and every time the song said "thunder!" she'd cast 球電 (_kyuu-den,_ a Japanese ball-lightning spell). The orbs flared to the melody. The audience loved it, and the dragon was entranced, moving like a charmed cobra as its head followed the orbs around the arena.
 
-She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_" (which translated to "ride the lightning" in Euskara, but she wasn't as much of a Metallica fan).
+She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_."
 
-The drums hit, and with it an echoing double-boom of thunder as she leapt across the arena to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit. The remaining orbs of ball-lightning exploded in showers of sparks.
+The drums kicked in, and with them an echoing double-boom of thunder as she leapt across the arena to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit. The remaining orbs of ball-lightning exploded in showers of sparks.
 
 "Thunderstruck!" The crowd yelled.
 
@@ -5272,7 +5272,7 @@ The girls all winced at that.
 
 
 
-The last three champions put on a good show, Elysia had to give them that. Anna went for a sensory-overload approach, with lots of colored, scented smoke, sparks, loud noises, and a clever disillusionment charm which _almost_ got her through the ordeal unscathed. Unfortunately, Hungarian Horntails are aptly-named, and she was caught by a tail-horn as she made her escape. It went straight through her left arm and sent her flying halfway to the exit.
+The next two champions put on a good show, Elysia had to give them that. Anna went for a sensory-overload approach, with lots of colored, scented smoke, sparks, loud noises, and a clever disillusionment charm which _almost_ got her through the ordeal unscathed. Unfortunately, Hungarian Horntails are aptly-named, and she was caught by a tail-horn as she made her escape. It went straight through her left arm and sent her flying halfway to the exit.
 
 Elysia winced. She knew from experience that Anna was looking at a night on skele-grow at minimum for that, and resolved to drop in on her later to help break up the painful monotony of re-growing an arm.
 
