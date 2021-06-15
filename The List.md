@@ -4119,7 +4119,7 @@ Eventually, the goblins didn't need them around anymore, and they tired of explo
 
 All through Charms she turned the idea over in her head. They were starting Summoning Charms -- which as a staple combat spell Elysia knew backwards, forwards, upside-down, and wandless -- so she was left with quite a bit of time to think. Eventually, she dropped into Elysium to talk with her parents about it.
 
-"Padfoot and I were quite the hellions back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got mine, and Robbie's got Padfoot's. So that's a good start right there."
+"Padfoot and I were quite the hellions back in school," James said when she asked. "Those dragonhide boots and jackets were ours, actually. You've got Lily's, and Robbie's got mine. So that's a good start right there."
 
 "They really do go with almost everything," Lily agreed.
 
