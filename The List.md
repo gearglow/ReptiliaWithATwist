@@ -5616,3 +5616,4 @@ Catching the Longbottoms up on the past 13 years took the rest of the day. They 
 
 "Mum!" Nell perked up at her voice, and dashed over to where the elder Longbottoms lounged in the greatroom with Remus and Sirius. The others were close behind.
 
+The elder Longbottoms stood and engulfed both Nell and Elysia in a group hug.
