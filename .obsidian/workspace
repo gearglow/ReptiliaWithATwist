@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "b1a2914c7e9d4757",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e7c96bf867cfb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapters/017 - Turn Me Loose.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00c57d5c19283278",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d85f10c466b8eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffcb306826c7d5df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b42aaa33197c9e5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2d55a13e1bfc6bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4afbd47bb15e7a64",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ed8c022f3613ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfd06af900e21db0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapters/017 - Turn Me Loose.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6d7443567d72c87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapters/017 - Turn Me Loose.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "012081d0c827993a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapters/017 - Turn Me Loose.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75e7c96bf867cfb3",
+  "lastOpenFiles": [
+    "Chapters/017 - Turn Me Loose.md",
+    "The List - Outtakes.md"
+  ]
+}
