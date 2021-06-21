@@ -18,7 +18,7 @@ A door opened off to the left, and a voice startled her out of her reverie.
 
 
 
-+++++
+-----
 
 
 
@@ -82,7 +82,7 @@ Harry shook her head. Pulling herself together finally, she asked, "So, what, I 
 
 
 
-+++++
+-----
 
 
 
@@ -100,7 +100,7 @@ Harry smiled nervously. "It's better than going back blind like before, I suppos
 
 
 
-+++++
+-----
 
 
 
@@ -126,7 +126,7 @@ Janet and Eleanor looked at each other and grinned.
 
 
 
-+++++
+-----
 
 
 

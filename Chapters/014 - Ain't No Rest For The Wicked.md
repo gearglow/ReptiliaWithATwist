@@ -20,7 +20,7 @@ She spent History class in Elysium, plotting with Janet, Robbie, and her parents
 
 
 
-+++++
+-----
 
 
 
@@ -36,7 +36,7 @@ Elysia smirked. "I certainly hope so, Professor. If I'm stuck competing, I might
 
 
 
-+++++
+-----
 
 
 
@@ -62,7 +62,7 @@ _I'll have to skip History,_ Luna said. _No great loss there._
 >
 > - [x] Take over the affairs of House Potter
 
-+++++
+-----
 
 
 
@@ -96,7 +96,7 @@ It was Elysia's turn to crack up.
 
 
 
-+++++
+-----
 
 
 
@@ -134,7 +134,7 @@ Hermione performed the ritual, making Elysia the Secret Keeper. She then promptl
 
 
 
-+++++
+-----
 
 
 
@@ -160,7 +160,7 @@ A short, curvy girl with hair a lot like Elysia's, only with purple highlights, 
 
 
 
-+++++
+-----
 
 ### Chamber of Secrets, Hogwarts	1994/11/02 08:30
 
@@ -278,7 +278,7 @@ Elysia couldn't help it -- she broke down giggling, and soon everyone else joine
 
 
 
-+++++
+-----
 
 
 
@@ -290,7 +290,7 @@ Elysia couldn't help it -- she broke down giggling, and soon everyone else joine
 
 
 
-+++++
+-----
 
 
 
@@ -328,7 +328,7 @@ Snape nodded. "Do that. Walk in with a soundtrack, and _own_ it."
 
 
 
-+++++
+-----
 
 
 
@@ -376,7 +376,7 @@ James and Lily looked at each other. "Motörhead."
 
 
 
-+++++
+-----
 
 
 
@@ -384,7 +384,7 @@ Over lunch, she had Robbie take their jackets to Madame Malkin for some custom w
 
 
 
-+++++
+-----
 
 
 
@@ -398,7 +398,7 @@ Moody nodded.
 
 
 
-+++++
+-----
 
 ### Great Hall, Hogwarts	1994/11/04 13:00
 
@@ -566,7 +566,7 @@ They shook on it, and Elysia dropped the paling.
 
 
 
-+++++
+-----
 
 
 

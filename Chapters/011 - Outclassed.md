@@ -22,7 +22,7 @@ Hermione finally lost her composure completely and dragged them both to breakfas
 
 
 
-+++++
+-----
 
 
 
@@ -56,7 +56,7 @@ Luna smiled as Hermione nodded enthusiastically. "I'd love to!"
 
 
 
-+++++
+-----
 
 
 
@@ -70,7 +70,7 @@ The girls all cheered.
 
 
 
-+++++
+-----
 
 
 
@@ -96,7 +96,7 @@ Ron's ears turned bright red.
 
 
 
-+++++
+-----
 
 ### Elysium	1994/09/05 05:20
 
@@ -150,7 +150,7 @@ They settled into comfortable positions on the mat.
 
 
 
-+++++
+-----
 
 
 
@@ -182,7 +182,7 @@ Elysia relaxed with some stories about curse-breaking expeditions, as she was st
 
 
 
-+++++
+-----
 
 ### Hogwarts, DADA Classroom	1994/09/08 13:00
 
@@ -261,7 +261,7 @@ Hermione snorted.
 
 
 
-+++++
+-----
 
 
 
@@ -311,7 +311,7 @@ Hermione put her hand down and said quietly, "the killing curse."
 
 A sinister green bolt of spell-fire hit the spider, which curled up dead. Elysia felt as if a great, intangible _something_ had passed before her, and the weight of it chilled her to the core.
 
-"Now," Moody said, breaking the shaken reverie of the students. "Who can tell me _why_ these spells are considered Unforgivable? You can kill someone with a simple cutting curse, cause pain with a well-placed boil hex, and control someone with judicious use of Confundus charms. What makes these three so special?"
+"Now," Moody said, breaking the shaken reverie of the students. "Who can tell me _why_ these spells are considered Unforgivable? You can kill someone with a simple cutting curse, torture with a well-placed boil hex -- or even a tickling charm, and control someone with judicious use of Confundus charms. What makes these three so special?"
 
 "'Cuz using one's a one-way ticket to Azkaban," Seamus volunteered.
 
@@ -335,7 +335,7 @@ Professor McGonagall snorted, reminding them all of her presence.
 
 
 
-+++++
+-----
 
 
 
@@ -359,7 +359,7 @@ Ron just stalked away, grumbling.
 
 
 
-+++++
+-----
 
 
 
@@ -379,7 +379,7 @@ And finally, since Hermione's birthday party was fast approaching, she decided i
 
 
 
-+++++
+-----
 
 
 

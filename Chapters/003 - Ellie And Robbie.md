@@ -132,7 +132,7 @@ The rest of the folder was fine-print regarding the farm and business, but what 
 
 
 
-+++++
+-----
 
 
 
@@ -202,7 +202,7 @@ Finally, finished with the magical shopping, they decided to head into the Muggl
 And so Ellie and Robbie set off down Charing Cross Road.
 
 
-+++++
+-----
 
 
 After a quick stop for lunch, the two wandered the shops for the rest of the afternoon. Elysia managed to find a full set of free-weights and some gym mats, as well as both a heavy bag and a speed-bag. Gloves were a non-issue as she could simply shift them into place as needed.

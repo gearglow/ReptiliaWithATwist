@@ -49,7 +49,7 @@ They laughed, and headed out to finish their workout.
 
 
 
-+++++
+-----
 
 
 
@@ -78,7 +78,7 @@ Elysia winked at Luna. "No worries there. Can't have poor Professor McGonagall's
 
 
 
-+++++
+-----
 
 
 
@@ -100,7 +100,7 @@ Ron, who thankfully had swallowed his food first, gaped.
 
 
 
-+++++
+-----
 
 
 
@@ -125,7 +125,7 @@ None of them noticed the speculative look one Albus Dumbledore was giving them f
 
 
 
-+++++
+-----
 
 
 
@@ -231,7 +231,7 @@ Hermione took a deep breath, stood, and let out an ear-splitting roar of utter f
 
 
 
-+++++
+-----
 
 
 
@@ -273,7 +273,7 @@ Elysia and Hermione looked at each other and grinned.
 
 
 
-+++++
+-----
 
 ### Hogwarts Grounds, Scotland	1994/09/04 09:15
 
@@ -299,7 +299,7 @@ About an hour after they'd started, they had one complete lightning rod ready fo
 
 
 
-+++++
+-----
 
 ### Room of Requirement, Hogwarts	1994/09/04 13:08
 
@@ -365,7 +365,7 @@ Elysia grinned. "Maybe not. I've got a new spell to show you all."
 
 
 
-+++++
+-----
 
 
 

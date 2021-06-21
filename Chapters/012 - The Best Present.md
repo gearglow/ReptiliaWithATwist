@@ -16,7 +16,7 @@ Professor McGonagall's nostrils flared. "I quite agree, Miss Potter," she said. 
 
 
 
-+++++
+-----
 
 ### Hogwarts, DADA Classroom	1994/09/15 13:00
 
@@ -48,7 +48,7 @@ Dean came up to the front of the class, whereupon Professor Moody made him pirou
 
 
 
-+++++
+-----
 
 ### Room of Requirement, Hogwarts	1994/09/18 12:00	
 
@@ -86,7 +86,7 @@ _Besides,_ Robbie finished, _this way you can claim adult supervision._ "Alright
 
 
 
-+++++
+-----
 
 
 
@@ -156,7 +156,7 @@ Elysia sat up, looking around to find Millie flanked by Lisa and Megan, and all 
 
 
 
-+++++
+-----
 
 
 
@@ -166,7 +166,7 @@ Finally, as dinner approached, they all settled down with food to watch _The Pri
 
 
 
-+++++
+-----
 
 ### Gryffindor Common Room, Hogwarts	1994/09/24 16:11
 
@@ -196,7 +196,7 @@ Elysia tapped her chin in thought. "Hmm. Y'know, I _might_ be able to help you o
 
 
 
-+++++
+-----
 
 
 

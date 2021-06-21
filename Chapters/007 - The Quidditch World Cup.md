@@ -86,7 +86,7 @@ Hermione assumed a 'who, me?' face, but it failed miserably as her lip kept twit
 
 
 
-+++++
+-----
 
 
 
@@ -143,7 +143,7 @@ Winky shuddered and went back to hiding from the heights.
 
 
 
-+++++
+-----
 
 
 
@@ -213,7 +213,7 @@ Elysia caught his eye and burst out laughing.
 
 
 
-+++++
+-----
 
 
 
@@ -275,7 +275,7 @@ Before things could escalate, they heard a hoarse shout from deeper in the woods
 
 
 
-+++++
+-----
 
 
 

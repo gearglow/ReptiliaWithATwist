@@ -32,7 +32,7 @@ Elysia giggled. "How poetic!"
 
 
 
-+++++
+-----
 
 
 
@@ -54,7 +54,7 @@ By some small miracle, they'd managed to keep the trial off of Dumbledore's rada
 
 
 
-+++++
+-----
 
 
 
@@ -88,7 +88,7 @@ They both cast wandless switching spells, trading the Longbottoms for their star
 
 
 
-+++++
+-----
 
 
 
@@ -114,7 +114,7 @@ Another set of tethers latched onto Elysia and Nell. "Power feed is green. Reson
 
 
 
-+++++
+-----
 
 
 
@@ -122,7 +122,7 @@ Luna stepped into the heart of a maelstrom.
 
 
 
-+++++
+-----
 
 
 
@@ -130,7 +130,7 @@ Hermione stepped into a dark, tangled forest, choked with poisonous-looking weed
 
 
 
-+++++
+-----
 
 
 
@@ -138,7 +138,7 @@ Hermione stepped into a dark, tangled forest, choked with poisonous-looking weed
 
 
 
-+++++
+-----
 
 
 
@@ -160,7 +160,7 @@ Luna nodded, grabbing Hermione's hand like a lifeline.
 
 
 
-+++++
+-----
 
 
 
@@ -186,7 +186,7 @@ They sat quietly, enjoying the closeness and the quiet as the sun rose.
 
 
 
-+++++
+-----
 
 
 
@@ -250,11 +250,7 @@ Remus took up the thread. "They're also the ones who got you out of St. Mungo's.
 
 Frank and Alice looked at each other, then back to Sirius and Remus, eyes wide with shock.
 
-
-
-+++++
-
-
+-----
 
 Catching the Longbottoms up on the past 13 years took the rest of the day. They were still rather shaken by it all when the girls all piled out of what they'd assumed was a linen closet that evening.
 
@@ -262,4 +258,21 @@ Catching the Longbottoms up on the past 13 years took the rest of the day. They 
 
 "Mum!" Nell perked up at her voice, and dashed over to where the elder Longbottoms lounged in the greatroom with Remus and Sirius. The others were close behind.
 
-The elder Longbottoms stood and engulfed both Nell and Elysia in a group hug.
+The elder Longbottoms stood and engulfed both Nell and Elysia in a group hug before stepping back and giving the girls a once-over.
+
+"You look just like your mother when she was your age, Nell," Frank said.
+
+"But with Frank's eyes," Alice agreed.
+
+Nell snorted. "That's exactly the reverse of what everyone used to say about you, Ellie!"
+
+Alice raised an eyebrow. "Nah, she looks just like Lily, but with James' hair. Although yours is much less of a birds' nest," she teased.
+
+Elysia shifted her hair into her old boy-mode 'style'. "Like this?" She winked, before shifting it back.
+
+Frank shook his head. "Yeah, definitely better than James' mop."
+
+"So I guess Sirius and Remus filled you in?" Elysia asked.
+
+"Broad strokes, but yes," Frank replied.
+

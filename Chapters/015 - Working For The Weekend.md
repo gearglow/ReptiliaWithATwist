@@ -32,7 +32,7 @@ She led a tearfully-smiling Nell and a slightly dazed Ginny to the study.
 
 
 
-+++++
+-----
 
 
 
@@ -120,7 +120,7 @@ Elysia floated some bottles of water to each of them, which they took gratefully
 
 
 
-+++++
+-----
 
 
 
@@ -156,7 +156,7 @@ Elysia smiled. "Not quite yet, Padfoot. First, I need to teach you all how to sh
 
 
 
-+++++
+-----
 
 
 
@@ -193,7 +193,7 @@ They all ended up in the living room in Elysium, where Janet carted in a stack o
 
 
 
-+++++
+-----
 
 
 
@@ -201,7 +201,7 @@ Ginny and Nell both read _Processing Trauma,_ and the difference, while not as s
 
 
 
-+++++
+-----
 
 
 
@@ -237,7 +237,7 @@ Sirius cackled. "Let me guess, 'Ace of Spades?'"
 
 
 
-+++++
+-----
 
 
 
@@ -311,7 +311,7 @@ Ginny blushed.
 
 
 
-+++++
+-----
 
 
 
@@ -327,7 +327,7 @@ Nell smiled. "I'd very much appreciate it."
 
 
 
-+++++
+-----
 
 ### Room of Lost Things, Hogwarts	1994/11/05 13:45	Bonfire Night
 
@@ -399,7 +399,7 @@ _Kentucky-Fried Horcrux, huh?_ "Janet says I've got instructions on making a new
 
 
 
-+++++
+-----
 
 ### The Three Broomsticks, Hogsmeade, Scotland	1994/11/06 12:00
 
@@ -431,7 +431,7 @@ Rita dropped her glass.
 
 
 
-+++++
+-----
 
 
 

@@ -50,7 +50,7 @@ Hermione, despite her caramel complexion, blushed the brightest of them all.
 
 
 
-+++++
+-----
 
 
 
@@ -84,7 +84,7 @@ Elysia shifted back. "I'll have to duck out for a day to give myself an alibi, t
 
 
 
-+++++
+-----
 
 
 ### Hogwarts Express    1994/09/01  10:50
@@ -133,7 +133,7 @@ Neville blushed. "Do I know you -- *Harry!?*"
 
 
 
-+++++
+-----
 
 
 
@@ -150,7 +150,7 @@ As she retook her seat, the compartment exploded in laughter.
 
 
 
-+++++
+-----
 
 
 
@@ -180,7 +180,7 @@ They filed into the carriage after a last pat for the loyal thestral, and made t
 
 
 
-+++++
+-----
 
 
 
@@ -232,7 +232,7 @@ A chill of foreboding trickled down Elysia's spine.
 
 
 
-+++++
+-----
 
 
 

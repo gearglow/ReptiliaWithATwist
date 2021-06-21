@@ -100,7 +100,7 @@ Ending the call, Elysia made it back to her room just as she heard Aunt Petunia 
 
 
 
-+++++
+-----
 
 
 
@@ -122,7 +122,7 @@ Hermione gasped. "Your _what?_ Harry, I thought all your family were dead! Aside
 
 
 
-+++++
+-----
 
 
 
@@ -160,7 +160,7 @@ Elysia shrugged. "I guess? Is that the word for not knowing you're a girl at fir
 
 
 
-+++++
+-----
 
 
 
@@ -210,7 +210,7 @@ Robbie nodded. "There's bits of rock all over the floor, too, and some of these 
 
 
 
-+++++
+-----
 
 
 
@@ -230,7 +230,7 @@ Elysia winked at her and shifted into a hippogriff.
 
 
 
-+++++
+-----
 
 
 

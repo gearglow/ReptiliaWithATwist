@@ -60,7 +60,7 @@ Ginny reached over and smacked her brother. "Breathe, Ron," she murmured. "Befor
 
 
 
-+++++
+-----
 
 
 
@@ -90,7 +90,7 @@ Elysia pulled Hermione and Luna in, and they began to prepare for battle.
 
 
 
-+++++
+-----
 
 
 
@@ -116,7 +116,7 @@ Luna snorted. "Bet you never thought you'd say _that,_ love."
 
 
 
-+++++
+-----
 
 ### Great Hall, Hogwarts	1994/10/31 17:00	Samhain
 
@@ -168,7 +168,7 @@ Fleur smiled. "Of course. Thank you for the bouillabaisse." She turned and went 
 
 
 
-+++++
+-----
 
 
 
@@ -238,7 +238,7 @@ There was a flash, and she lit the end of her wand.
 
 
 
-+++++
+-----
 
 
 
@@ -322,7 +322,7 @@ The other three champions' eyes lit up.
 
 
 
-+++++
+-----
 
 
 

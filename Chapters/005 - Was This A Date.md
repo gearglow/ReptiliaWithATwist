@@ -25,7 +25,7 @@ A cold tingle crawled across Elysia's scalp, and she replaced the ward stone. "I
 
 
 
-+++++
+-----
 
 
 
@@ -177,7 +177,7 @@ Elysia smiled in relief. Hermione patted her arm, and said, "Well, after we eat,
 
 
 
-+++++
+-----
 
 
 
@@ -220,7 +220,7 @@ Elysia and Emerson shared a grin. "Never change, Hermione," Elysia said fondly.
 
 
 
-+++++
+-----
 
 
 

@@ -32,7 +32,7 @@ They'd all just settled down again when Professor Snape came back in, pointedly 
 
 
 
-+++++
+-----
 
 
 
@@ -71,7 +71,7 @@ James ushered Elysia outside. "We don't need to be there for this part," he said
 
 
 
-+++++
+-----
 
 
 
@@ -123,7 +123,7 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 
 
-+++++
+-----
 
 
 
@@ -135,7 +135,7 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 
 
-+++++
+-----
 
 
 
@@ -145,7 +145,7 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 
 
-+++++
+-----
 
 
 

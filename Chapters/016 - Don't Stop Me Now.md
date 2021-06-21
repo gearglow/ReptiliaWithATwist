@@ -16,7 +16,7 @@ Finally, the week was over, the preparations were done, and Elysia was as ready 
 >
 > - [x] Soup up the Firebolt
 
-+++++
+-----
 
 
 
@@ -84,7 +84,7 @@ As she stood, the last strains of _Ace of Spades_ faded out to the absolutely de
 >
 > - [x] Crush the broom race in the First Task
 
-+++++
+-----
 
 
 
@@ -114,7 +114,7 @@ For Izzy had narrowly dodged a hex from Krum as they rounded a vertical hairpin 
 
 
 
-+++++
+-----
 
 
 
@@ -256,7 +256,7 @@ Cedric snorted.
 
 
 
-+++++
+-----
 
 
 
@@ -272,7 +272,7 @@ Ron also wondered what a dino-steak would taste like, and Fred & George had dist
 
 
 
-+++++
+-----
 
 
 
@@ -292,7 +292,7 @@ The others sent agreement tinged with trepidation.
 
 
 
-+++++
+-----
 
 
 
@@ -324,7 +324,7 @@ Luna cackled.
 
 
 
-+++++
+-----
 
 
 
@@ -338,7 +338,7 @@ By the time Saturday rolled around, Elysia felt like she could finish off the Se
 
 
 
-+++++
+-----
 
 ### Hex Games Stadium, Hogwarts Grounds, Scotland	1994/11/26	10:00
 
@@ -378,7 +378,7 @@ Anna snorted. "Be glad you didn't get the Horntail."
 
 
 
-+++++
+-----
 
 
 
@@ -434,7 +434,7 @@ The girls all winced at that.
 
 
 
-+++++
+-----
 
 
 
@@ -460,7 +460,7 @@ After that, Cedric really didn't stand much chance. He kept transfiguring boulde
 
 
 
-+++++
+-----
 
 
 
@@ -470,7 +470,9 @@ With four of the six champions sequestered away in the hospital wing for the nex
 
 "Yeah, Izzy, you _suplexed a dragon._ Just. _Seriously?_" Elysia added.
 
-"What, like you have a monopoly on arse-kicking?" Izzy retorted.
+"What, like you have a monopoly on arse-kicking?" Izzy retorted. "Like the saying says, 'go big or go home.' I went big."
+
+"Yeah you did!" Luna giggled.
 
 "That was one of the hottest things I've ever seen!" Elysia gushed, her girlfriends nodding emphatically alongside her.
 
