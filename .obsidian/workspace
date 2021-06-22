@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75e7c96bf867cfb3",
+        "id": "2d4db1b9694bb08b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4afbd47bb15e7a64",
@@ -118,7 +117,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75e7c96bf867cfb3",
+  "active": "2d4db1b9694bb08b",
   "lastOpenFiles": [
     "Chapters/017 - Turn Me Loose.md",
     "Chapters/011 - Outclassed.md",
