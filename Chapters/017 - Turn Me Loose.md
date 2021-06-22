@@ -266,7 +266,7 @@ The elder Longbottoms stood and engulfed both Nell and Elysia in a group hug bef
 
 Nell snorted. "That's exactly the reverse of what everyone used to say about you, Ellie!"
 
-Alice raised an eyebrow. "Nah, she looks just like Lily, but with James' hair. Although yours is much less of a birds' nest," she teased.
+Alice raised an eyebrow. "Nah, she looks just like Lily, but with James' hair. Although yours is much less of a birds' nest, Ellie," she teased.
 
 Elysia shifted her hair into her old boy-mode 'style'. "Like this?" She winked, before shifting it back.
 

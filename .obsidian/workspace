@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4db1b9694bb08b",
+        "id": "9a61d09e3d953079",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -117,9 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d4db1b9694bb08b",
+  "active": "9a61d09e3d953079",
   "lastOpenFiles": [
     "Chapters/017 - Turn Me Loose.md",
+    "Resources/il_fullxfull.216786055.jpg",
     "Chapters/011 - Outclassed.md",
     "Chapters/001 - Making Memories.md",
     "Chapters/002 - Keep In Mind.md",
@@ -127,7 +128,6 @@
     "Chapters/004 - Harmony.md",
     "Chapters/005 - Was This A Date.md",
     "Chapters/006 - To The Burrow.md",
-    "Chapters/007 - The Quidditch World Cup.md",
-    "Chapters/008 - The New Girl.md"
+    "Chapters/007 - The Quidditch World Cup.md"
   ]
 }
