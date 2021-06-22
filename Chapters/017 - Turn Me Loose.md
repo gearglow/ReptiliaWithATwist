@@ -274,5 +274,5 @@ Frank shook his head. "Yeah, definitely better than James' mop."
 
 "So I guess Sirius and Remus filled you in?" Elysia asked.
 
-"Broad strokes, but yes," Frank replied.
+"Broad strokes, but yes," Frank replied. "It was... enlightening."
 
