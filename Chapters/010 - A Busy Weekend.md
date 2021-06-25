@@ -345,7 +345,7 @@ Hermione peered through the now wide-open door.
 
 "Morgana's left nut," Hermione gasped.
 
-Elysia snorted. Luna started giggling hysterically.
+Elysia snorted. Neville choked. Luna started giggling hysterically.
 
 "These crystals are gargantuan!" Hermione exclaimed when she recovered. "Even the small ones are the size of a house! And those columns must be nearly a kilometer high!"
 
@@ -353,7 +353,7 @@ The others ambled over to peek through the doorway, and stared in awe.
 
 "Bloody hell!" Ron said.
 
-"That model really doesn't do the real thing justice," Neville commented.
+"That model really doesn't do the real thing justice," Neville commented faintly.
 
 "We're gonna need more brooms," Ginny said.
 

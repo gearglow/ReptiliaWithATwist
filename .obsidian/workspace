@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The List - Outtakes.md",
+            "file": "Chapters/017 - Turn Me Loose.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0192c948b74a43a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The List - Notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The List - Outtakes.md",
+                "file": "Chapters/017 - Turn Me Loose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The List - Outtakes.md",
+                "file": "Chapters/017 - Turn Me Loose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The List - Outtakes.md"
+                "file": "Chapters/017 - Turn Me Loose.md"
               }
             }
           }
@@ -114,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9a61d09e3d953079",
   "lastOpenFiles": [
-    "The List - Outtakes.md",
     "Chapters/017 - Turn Me Loose.md",
+    "The List - Notes.md",
+    "Chapters/010 - A Busy Weekend.md",
+    "The List - Outtakes.md",
     "Resources/il_fullxfull.216786055.jpg",
     "Chapters/011 - Outclassed.md",
     "Chapters/001 - Making Memories.md",
     "Chapters/002 - Keep In Mind.md",
     "Chapters/003 - Ellie And Robbie.md",
-    "Chapters/004 - Harmony.md",
-    "Chapters/005 - Was This A Date.md",
-    "Chapters/006 - To The Burrow.md"
+    "Chapters/004 - Harmony.md"
   ]
 }

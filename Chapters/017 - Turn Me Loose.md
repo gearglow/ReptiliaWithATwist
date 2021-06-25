@@ -268,7 +268,7 @@ Nell snorted. "That's exactly the reverse of what everyone used to say about you
 
 Alice raised an eyebrow. "Nah, she looks just like Lily, but with James' hair. Although yours is much less of a birds' nest, Ellie," she teased.
 
-Elysia shifted her hair into her old boy-mode 'style'. "Like this?" She winked, before shifting it back.
+Elysia shifted her hair into her old boy-mode 'style'. "Like this?" She grinned impishly, before shifting it back.
 
 Frank shook his head. "Yeah, definitely better than James' mop."
 

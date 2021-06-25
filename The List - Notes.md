@@ -303,7 +303,7 @@ AKA:
 
 
 
-## Elysia's Entrance Songs
+## Soundtrack
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLY6Tzqq0DKe1O9nOTwLTSPGZ_fJpNRz7A)
 
@@ -316,16 +316,17 @@ AKA:
 - [ ] Wanded Duel 2 (Izzy): George Thorogood - Bad To The Bone
 - [ ] Wanded Duel 3 (Anna): AC/DC - TNT
 - [ ] Wanded Duel 4 (Fleur): The Runaways - Cherry Bomb
-- [ ] Wanded Duel 5 (Viktor): AC/DC - If You Want Blood
+- [ ] Wanded Duel 5 (Viktor): AC/DC - Hell's Bells
 - [ ] The Lake: Heart - Barracuda
 - [ ] Wandless Duel 1 (Izzy): AC/DC - Back In Black
 - [ ] Wandless Duel 2 (Anna): Queen - Another One Bites the Dust
-- [ ] Wandless Duel 3 (Fleur): Metallica - For Whom the Bell Tolls
-- [ ] Wandless Duel 4 (Viktor): Metallica - Seek & Destroy
+- [ ] Wandless Duel 3 (Fleur): Bon Jovi - You Give Love A Bad Name
+- [ ] Wandless Duel 4 (Viktor): Metallica - For Whom the Bell Tolls
 - [ ] Wandless Duel 5 (Cedric): Pantera - Walk
 - [ ] The Maze: AC/DC - For Those About to Rock
 - [x] Graveyard Throw-Down: MC Hammer - Can't Touch This / Ini Kamoze - Here Comes the Hotstepper
 - [ ] Victory: AC/DC - It's A Long Way To The Top (If You Wanna Rock & Roll)
+- [ ] Takeover Montage: Metallica - Unforgiven
 
 
 
