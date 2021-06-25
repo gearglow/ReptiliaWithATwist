@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapters/017 - Turn Me Loose.md",
+            "file": "The List - Outtakes.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4afbd47bb15e7a64",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/017 - Turn Me Loose.md",
+                "file": "The List - Outtakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters/017 - Turn Me Loose.md",
+                "file": "The List - Outtakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/017 - Turn Me Loose.md"
+                "file": "The List - Outtakes.md"
               }
             }
           }
@@ -120,6 +119,7 @@
   },
   "active": "9a61d09e3d953079",
   "lastOpenFiles": [
+    "The List - Outtakes.md",
     "Chapters/017 - Turn Me Loose.md",
     "Resources/il_fullxfull.216786055.jpg",
     "Chapters/011 - Outclassed.md",
@@ -128,7 +128,6 @@
     "Chapters/003 - Ellie And Robbie.md",
     "Chapters/004 - Harmony.md",
     "Chapters/005 - Was This A Date.md",
-    "Chapters/006 - To The Burrow.md",
-    "Chapters/007 - The Quidditch World Cup.md"
+    "Chapters/006 - To The Burrow.md"
   ]
 }

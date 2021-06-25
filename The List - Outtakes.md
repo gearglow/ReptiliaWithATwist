@@ -114,7 +114,7 @@ The snake, as mentioned, had taken up station circling the ritual area where the
 
 "Bone of the father..." Pettigrew intoned, beginning the ritual. 
 
-Elysia had to stifle a laugh; only Pettigrew's hand was what they thought it was. The remains of every last body in the graveyard had been surreptitiously replaced with transfigured pig bones months ago, when they'd taken the Ring from the Gaunt shack. And the blood Pettigrew had 'forcibly taken' from Elysia was actually from a muggle blood bank -- she'd shifted reservoirs into place under her skin to hold it, and shifted it all to where Pettigrew's knife 'cut' her when the time came.
+Elysia had to stifle a laugh; only the skin from Pettigrew's arm was what they thought it was. The remains of every last body in the graveyard had been surreptitiously replaced with transfigured pig bones months ago, when they'd taken the Ring from the Gaunt shack. And the blood Pettigrew had 'forcibly taken' from Elysia (with a whispered apology) was actually from a muggle blood bank -- she'd shifted reservoirs into place under her skin to hold it, and shifted it all to where Pettigrew's knife 'cut' her when the time came.
 
 Finally, Pettigrew dropped Babymort in the cauldron. Nothing happened for a moment -- and then, with a great gout of blinding (and oddly liquid) light, a human figure stood.
 
@@ -130,7 +130,7 @@ Wormtail hurried to comply, and also handed over a bone-white wand.
 
 "_Crucio,_" Voldemort cast casually, dispassionate as Pettigrew writhed and screamed under the curse. "You are a pathetic excuse for a wizard, aren't you, Wormtail?" He added, halting the spell.
 
-"Yes, my lord," Pettigrew gasped, clutching the still-bleeding stump of his right hand.
+"Yes, my lord," Pettigrew gasped, clutching at his still-bleeding right arm.
 
 "Though I suppose this body is serviceable, and I have you to thank for it," Voldemort continued. "Give me your arm, Wormtail."
 
@@ -150,19 +150,9 @@ A cloud of death eaters apparated in, forming a circle around them.
 
 _And here come the clowns,_ Elysia added.
 
-Voldemort began monologuing as Elysia and Robbie kept up a running commentary. 
+Voldemort began monologuing as Robbie kept Elysia updated on the Hogwarts end of things -- in particular, one Barty Crouch, Jr. had been handily neutralized by Nell, and was awaiting the DMLE's pleasure. The real Moody had been rescued and was recovering under Madam Pomfrey's strict eye.
 
-_Ooh, how shiny! I've got to hand it to him!_ Elysia sent as Voldemort spelled a silver appendage over Pettigrew's stump.
-
-_I guess Pettigrew's not so 'armless after all,_ Robbie added.
-
-_Bro. If I weren't tied up right now I'd be face-palming._
-
-_And now Peter can too!_
-
-_Ugh, why?_ Elysia sent, stifling her giggles.
-
-"And now we come to our guest of honor," Voldemort proclaimed, gesturing at Elysia. "The so-called Boy-Who-Lived."
+"And now we come to our guest of honor," Voldemort proclaimed finally, gesturing at Elysia. "The so-called Boy-Who-Lived."
 
 "Misgendering me? Really? What are you, a muggle?" Elysia said, rolling her eyes. "You and Dumbledore both, I swear."
 
@@ -196,7 +186,7 @@ Elysia cast a sonic illusion, starting MC Hammer's "Can't Touch This" blasting t
 
 "No!" Voldemort cried in alarm. "_Avada kedavra!_"
 
-Elysia slipped a step sideways, easily dodging the curse. It flew past and struck one of the death eaters. She retaliated with a barrage of stinging jinxes, dancing among the death eaters as they retaliated with a hail of curses.
+Elysia slipped a step sideways, easily dodging the curse. It flew past and struck one of the death eaters. She retaliated with a barrage of stinging jinxes, dancing among the death eaters as they retaliated with a hail of curses. And in the confusion, Peter Pettigrew transformed and took cover by the edge of the graveyard.
 
 The death eaters grew steadily more enraged as every single curse missed, striking only other death eaters. Voldemort threw AKs and dark curses like confetti. Elysia, on the other hand, used only stinging jinxes, summoners, banishers, and a Variable Deflector shield to put foes and their spellfire exactly where she wanted them.
 
@@ -242,6 +232,55 @@ Another gout of phoenix fire bloomed at Voldemort's back as Elysia reappeared, e
 
 Voldemort spun in shock, eyes meeting hers, and even while the life was snuffed from him by her deadly yellow gaze, she darted forward with a vicious head-butt. As the lifeless corpse fell, she shifted her eyes back and her tracking amulet back out.
 
-_Clear,_ she sent. _You can let the old meddler in now. I'm heading back._
+_Clear,_ she sent. _I'm heading back._
 
-She slashed her wand, cutting off the former Dark Tosser's head. Raising it in one hand, she summoned the Cup to the other and disappeared in another flash of phoenix fire.
+Wormtail ran up to her, scampering into a robe pocket. 
+
+"Hey, Pete. You alright?"
+
+He poked his nose out, whiskers twitching as he nodded with an admonishing chitter.
+
+"Okay, okay! We're going!" She slashed her wand, cutting off the former Dark Tosser's head. Raising it in one hand, she summoned the Cup to the other and disappeared in another flash of phoenix fire.
+
+
+## Traitor's Trial
+
+"Peter Pettigrew, you are hereby charged with two counts of accessory to murder, conspiracy, treason, and 12 counts of manslaughter. How do you plead?"
+
+Peter sat in the defendant's chair, its animate chains binding him tightly. They squeezed a bit tighter at Madam Bones' question. He shot a scared look at Elysia, who was flanked by her girlfriends. 
+
+She winked.
+
+He took a deep breath. "I plead guilty under duress, Madam Bones, and formally request to testify under Veritaserum."
+
+Gasps filled the courtroom. Madam Bones glared down through her monocle. "You claim the Imperius defense, then?"
+
+Peter shook his head as Barrister Eberhardt stood. "No, madam. _Duress,_ not compulsion. I have here a list of questions my client has consented to. We think the court will find them... _enlightening._" He waved his wand, sending copies floating to the assembled court.
+
+Madam Bones' eyes widened so much her monocle fell out as she read the parchment. "A _full_ follow-up to anything of interest that arises?"
+
+"With respect, ma'am," Peter said, "I'm tired. I've suffered too long for the secrets and lies of others. It's high time for the truth to be brought to light."
+
+"Very well," Madam Bones proclaimed, with a nod of respect to Peter. "Aurors, the veritaserum, if you please."
+
+> Trial of Peter Petigrew
+> 12 June 1995
+> Testimony: Peter Pettigrew
+> Veritaserum administered by Auror Kingsley Shacklebolt
+> 
+> Q: What is your full name?
+> A: Peter Pettigrew.
+>
+> Q: Were you the Potters' Secret Keeper on the night of 31 October 1981?
+> A: Yes.
+>
+> Q: Did you divulge this secret to You-Know -- er, Voldemort?
+> A: Yes.
+>
+> Q: Why?
+> A: Because Albus Dumbledore ordered me to, and threatened my mother to make sure of it. Not overtly, of course, but he made the threat quite clear.
+>
+> *Gasps*
+>
+> Q: What, exactly, were Albus Dumbledore's orders?
+> A: 
