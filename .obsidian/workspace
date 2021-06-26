@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4afbd47bb15e7a64",
@@ -125,13 +126,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9a61d09e3d953079",
   "lastOpenFiles": [
     "Chapters/017 - Turn Me Loose.md",
-    "The List - Notes.md",
     "Chapters/010 - A Busy Weekend.md",
+    "The List - Notes.md",
     "The List - Outtakes.md",
     "Resources/il_fullxfull.216786055.jpg",
     "Chapters/011 - Outclassed.md",

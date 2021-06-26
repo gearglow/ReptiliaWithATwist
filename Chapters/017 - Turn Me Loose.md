@@ -276,3 +276,11 @@ Frank shook his head. "Yeah, definitely better than James' mop."
 
 "Broad strokes, but yes," Frank replied. "It was... enlightening."
 
+"And infuriating," Alice growled. "He _swore_ the danger had passed! That our Sekret-Keeper was safe! And the very next day, we're betrayed. We hadn't even dropped the _fidelius_ yet!"
+
+"Augustus Rookwood was a death eater," Remus said. "And yes, Albus knew. Severus had told him. You were sold out from the beginning."
+
+Elysia's eyes flashed. "Albus Dumbledore has an awful lot to answer for."
+
+-----
+
