@@ -471,9 +471,9 @@ The DADA cluster proved to be on one of the shorter crystals, and as Elysia drew
 
 "I managed to get the lightning ward, at least," Hermione reported.
 
-"Wonderful!" Elysia crowed. "Now I can show you a nifty little spell I found in a travelogue from Hawai'i. It used to be used for fishing, and now apparently they use it on tourists who get too handsy. Room, if you would?"
+"Wonderful!" Elysia crowed. "Now I can show you a nifty little spell I found in a travelogue from Polynesia. It used to be used for fishing, and now apparently they use it on tourists who get too handsy. Room, if you would?"
 
-The lights dimmed, and a metal pole rose from the floor, roughly as tall as Elysia. She raised her wand and jabbed it forward, intoning, "_limahana!_" A spark jolted from her wand with an audible crackle, arcing from the tip of her wand to the metal pole. She held it for a few seconds, the electric glow casting dancing shadows.
+The lights dimmed, and a metal pole rose from the floor, roughly as tall as Elysia. She raised her wand and jabbed it forward, intoning, "_hiko!_" A spark jolted from her wand with an audible crackle, arcing from the tip of her wand to the metal pole. She held it for a few seconds, the electric glow casting dancing shadows.
 
 As she released the spell, the lights came back up and the pole retreated back into the floor.
 

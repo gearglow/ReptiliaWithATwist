@@ -131,7 +131,7 @@ Janet smirked, locking eyes with Snape. "In short? We cheated like mad." A book 
 
 "You can do that? Yes, please!"
 
-"_Lotu askatu!_"
+"_Askatu!_"
 
 
 

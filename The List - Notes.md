@@ -398,20 +398,20 @@ AKA:
 ## Grimoire
 
 - Horcruxes can be removed from whatever they possess via the spell _suntsitu arima lotua,_ which is Basque for "destroy the bound soul."
-- The Dark Mark can be removed with the spell _lotu askatu,_ which is Basque for "free the bound."
-- Runes can be cleanly removed from a surface with _kendu akatsa_ (Basque for "remove the blemish").
-- Magical travel by lightning bolt can be done via the _tximista ibili_ technique (Basque for "ride the lightning").
-- Move through the ground as if through water under the effects of gillyweed using the spell _zulo,_ which is Basque for "burrow."
+- The Dark Mark can be removed with the spell  _askatu,_ which is Basque for "release."
+- Runes can be cleanly removed from a surface with _kendu akatsa_ (Basque for "remove the error").
+- Magical travel by lightning bolt can be done via the _tximista jauzi_ technique (Basque for "lightning jump").
+- Move through the ground as if through water under the effects of gillyweed using the spell _zulo,_ which is Basque for "hole/burrow."
 - Unassisted flight with perfect maneuverability and immunity to inertia and wind resistance (speed and acceleration determined by intent when casting) is _hegan egin mugarik gabe_ (Basque for "fly without limits"). While this can be cast as a charm, there is also a ritual to grant this ability permanently, with all parameters able to be adjusted on-the-fly as desired.
-- Take on a ghost-like, insubstantial form with _mamuzko forma_ (Basque for "ghostly form"). Removes the need to breathe, but the subject can no longer physically interact with the physical world aside from anything on their person when the spell was cast. Interaction via magic still works just fine.
+- Take on a ghost-like, insubstantial form with 影 肉体 (_kage nikutai,_ Japanese for "shadow body"). Removes the need to breathe, but the subject can no longer physically interact with the physical world aside from anything on their person when the spell was cast. Interaction via magic still works just fine.
 - Hold and move something with the mind (classic telekinesis): _telekinetikoa_ ("telekinetic grasp" in Basque).
-- Poltergeist form, which combines the above two: የፖሊተር ሐኪም ቅፅ (Amharic, pronounced "yepolīteri ḥākīmi k’it͟s’i").
+- Poltergeist form, which combines the above two: 騒霊 肉体 (_sōrei nikutai,_ Japanese for "poltergeist body").
 - Conjures blades of pure arcane force which can be controlled with a thought: _indar-palak_ ("force blades" in Basque).
 - Magic lightsaber: _gladius magnus_ (Latin).
 - Training lightsaber: _ense lucis radium_ (Latin).
 - Spot-shield against any directed spell, even the Unforgivables, with _svartholsskjöldur_ (Icelandic for "black-hole shield").
 - Glowing-path-style locator spell: _monstrant viam._
-- Magic walkie-talkies: хол ярих (_khol yarikh_, Mongolian for "far speak").
+- Magic walkie-talkies: хол ярих (_khol yarikh_, Mongolian for "far/away speak/talk").
 - Ball Lightning: 球電 (_kyuu-den_, Japanese) or _pilota tximista_ (Basque).
 - Lightning bolt: _tximista_ (Basque) or _fulmen_ (Latin).
 - Lightning blade: _fulmineum_ (Latin) or _tximista pala_ (Basque).
@@ -420,23 +420,28 @@ AKA:
 - Chain-Lightning stunner: _kate tximista txundigarri_ (Basque) or _kettenblitzschlag_ (German).
 - Fire bolt: _fulmen ignem_ (Latin).
 - Ice blade: _izotz pala_ (Basque).
-- Ice spear: _बरफ_ (_barapha,_ Nepali).
+- Ice spear: _बरफ भाला_ (_barapha bhālā,_ Nepali).
+- Lightning lance: _tximista lantza_ (Basque). 
 - Shield wall: _scutum murum_ (Latin).
 - Phoenix fire: _fenix sua_ (Basque).
-- Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_, Khmer).
-- Instant Orgasm: дур тавих (_dur tavikh,_ Mongolian).
-- Full-sensory solid illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_ Nepali).
+- Tangling vine: _ស្រងែវល្លិ_ (_srangé vollí_("weeds"), Khmer).
+- Instant Orgasm: дур тавих (_dur tavikh,_("ejaculation") Mongolian).
+- Full-sensory solid illusion: सबै इन्द्रिय चाल (_sabai indriya cāla,_(roughly: "all sense moves") Nepali).
 - Perfect reflexes: _phản xạ hoàn hảo_ (Vietnamese).
 - Thunder step: βροντή (_vrontí,_ Greek).
-- Cluster bomb: 집속 탄 (_jibsong tan_, Korean).
+- Cluster bomb: 집속 탄 (_jibsong tan_ ("cluster shot"), Korean).
 - Echolocation: _ekolokasi_ (Indonesian).
-- Travel as a beam of light: _haizatu nazazu_ ("beam me up," Basque).
+- Travel as a beam of light: _haizatu nazazu_ ("beam me up" -> "fan me" in Basque, left because of the bad jokes).
 - Disintegration Hex: _decrusto_ (Latin). Only works on non-living matter.
-- Conjuration Disruption: _stör störningar_ (Swedish).
-- Disintegration Curse: _hauts bihurtu_ ("crumble to dust," Basque).
-- Variable Deflector Shield: _desbideratu ezazu_ ("deflect it variably" in Basque).
-- Otherworldly Tentacles: πλοκάμια (_plokámia,_ Greek).
+- Conjuration Disruption: _stör störningar_ ("disturbing disturbances," Swedish).
+- Disintegration Curse: _hauts bihurtu_ ("turned to dust," Basque).
+- Variable Deflector Shield: _desbideratu ezazu_ ("divert it" in Basque).
+- Otherworldly Tentacles: πλοκάμια (_plokámia,_("tentacles") Greek).
 - Diving Shield: โล่ดำน้ำ (_Lò dả n̂ả,_ Thai).
+- Luna's Wand-Hopper Hex: _Ble mae'r ffon_(Welsh for "where's the stick?) Derived from a Switching Spell, causes the opponent's wand to randomly switch with an unattended object within 100 feet whenever they get within grasping distance. Lasts roughly 5 minutes on minimal power.
+- Anti-Magic Field: _magiarik gabeko eremua_ ("An area without magic" in Basque).
+- Shape Earth: _cruth talún_ (Irish). Basically earth-bending.
+- Control Water: _mana wai_("water power," Maori). Basically water-bending.
 
 ## Magic Technicalities
 

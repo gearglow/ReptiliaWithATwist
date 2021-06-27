@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4afbd47bb15e7a64",
@@ -126,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9a61d09e3d953079",
   "lastOpenFiles": [
     "Chapters/017 - Turn Me Loose.md",
-    "Chapters/010 - A Busy Weekend.md",
     "The List - Notes.md",
+    "Chapters/016 - Don't Stop Me Now.md",
+    "Chapters/015 - Working For The Weekend.md",
+    "Chapters/014 - Ain't No Rest For The Wicked.md",
+    "Chapters/010 - A Busy Weekend.md",
+    "Chapters/009 - Clearing The Air.md",
     "The List - Outtakes.md",
     "Resources/il_fullxfull.216786055.jpg",
-    "Chapters/011 - Outclassed.md",
-    "Chapters/001 - Making Memories.md",
-    "Chapters/002 - Keep In Mind.md",
-    "Chapters/003 - Ellie And Robbie.md",
-    "Chapters/004 - Harmony.md"
+    "Chapters/011 - Outclassed.md"
   ]
 }

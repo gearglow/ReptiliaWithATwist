@@ -328,7 +328,7 @@ Luna cackled.
 
 
 
-The next week, quite a bit of time was spent in Elysium running scenarios and choreography. None of them knew for sure what the final layout of the Task would be, so Elysia ran timing drills with _tximista ibili,_ the Lightning Leap spell. She'd decided on entering to AC/DC's _Thunderstruck,_ and since she didn't expect this task to take very long at all, timed her leaps to the song.
+The next week, quite a bit of time was spent in Elysium running scenarios and choreography. None of them knew for sure what the final layout of the Task would be, so Elysia ran timing drills with _tximista jauzi,_ the Lightning Leap spell. She'd decided on entering to AC/DC's _Thunderstruck,_ and since she didn't expect this task to take very long at all, timed her leaps to the song.
 
 Since she'd seen not only Madame Maxime with Hagrid, but also Karkaroff skulking around in the shadows, it was likely the other schools' champions already knew about the dragons. She'd thought about mentioning it to Cedric, but he was always with Cho, it seemed, in a world of their own, so she finally resorted to having Robbie leave a note on his pillow. And by then it was already Thursday.
 
@@ -388,7 +388,7 @@ Robby pressed Play and hit the boom-box with a _sonorous._ The opening strains o
 
 _Go time,_ Elysia thought, entering the arena in time with the beat as the first verse started. The muggle-raised attendees were on their feet, stamping and shouting along, to the bemusement of the others (not to mention the enormous dragon across the arena). She played her own variation of the classic drinking game, and every time the song said "thunder!" she'd cast 球電 (_kyuu-den,_ a Japanese ball-lightning spell). The orbs flared to the melody. The audience loved it, and the dragon was entranced, moving like a charmed cobra as its head followed the orbs around the arena.
 
-She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista ibili_."
+She hopped up on a boulder for a better angle as the minute-fifty mark arrived. "You've been --" Brian Johnson's screech echoed across the stadium, and Elysia raised her wand, tapping her foot in time and muttering "_tximista jauzi._"
 
 The drums kicked in, and with them an echoing double-boom of thunder as she leapt across the arena to the golden egg in a bolt of lightning, scooped it up, and then rode another bolt to the arena's exit. The remaining orbs of ball-lightning exploded in showers of sparks.
 
@@ -442,7 +442,7 @@ The next two champions put on a good show, Elysia had to give them that. Anna we
 
 Elysia winced. She knew from experience that Anna was looking at a night on skele-grow at minimum for that, and resolved to drop in on her later to help break up the painful monotony of re-growing an arm.
 
-Izzy, mad little ball of energy that she was, did something _nobody_ saw coming. She cast an engorgement charm on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her: first punching her in the snout as the dragon reared back to breathe a gout of flame, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the _engorgio,_ picked up her egg, and swaggered out of the arena.
+Izzy, mad little ball of energy that she was, did something _nobody_ saw coming. She cast an enlarging spell on herself until she was as big as the dragon (a familiar-looking Norwegian Ridgeback), then went hand-to-claw with her: first punching her in the snout as the dragon reared back to breathe a gout of flame, then suplexing her and putting her in a dorsal body-lock with a choke-hold until the dragon passed out. Then she simply dispelled the enlarging spell picked up her egg, and swaggered out of the arena.
 
 "Holy fuck," Elysia breathed.
 

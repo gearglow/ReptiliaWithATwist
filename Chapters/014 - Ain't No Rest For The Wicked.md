@@ -470,7 +470,7 @@ Ollivander waved the wand, and with a muttered spell a bouquet of roses sprouted
 
 Cedric stepped forward and offered up his wand.
 
-"Ah, one of my own creations," Ollivander said with a smile. "Ash, and a tail-hair from a particularly statuesque unicorn stallion. 12^1/4^ inches, pleasantly springy, and in fine condition. You treat it regularly?"
+"Ah, one of my own creations," Ollivander said with a smile. "Ash, and a tail-hair from a particularly ornery unicorn stallion. 12^1/4^ inches, pleasantly springy, and in fine condition. You treat it regularly?"
 
 Cedric grinned. "Polished it last night!"
 

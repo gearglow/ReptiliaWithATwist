@@ -225,9 +225,9 @@ Luna giggled. "You _do_ know we can go much faster _without_ a broom, now?"
 
 "Just remember to shift your skin and eyes and such to something that can handle the friction," Hermione cautioned. "I imagine windburn at those speeds would be like being sandblasted."
 
-"Ghostform," Elysia said. "That's my secret weapon for the Tournament. Anything like that comes up, and a quick _mamuzko forma_ and I'll just ghost right through it."
+"Ghostform," Elysia said. "That's my secret weapon for the Tournament. Anything like that comes up, and a quick 影 肉体 (_kage nikutai,_ "shadow body") and I'll just ghost right through it."
 
-"I think I like the Amharic variation better," Hermione quipped. "It's got telekinesis built in. No having to split focus for another spell."
+"I think I like the poltergeist variation better," Hermione quipped. "It's got telekinesis built in. No having to split focus for another spell."
 
 "Good point," Elysia acknowledged. "Might be worth an imbuement ritual too, come to think of it. But anyway, the Firebolt has a windscreen charm out to a couple of feet. Anything much smaller than a snitch gets shunted around. If I stretch it out to wrap completely, that should take care of both windburn and drafting problems. And if I can work in a silencer somehow, that should help mitigate the sonic boom. Leave the eardrum-shattering to Lemmy."
 
