@@ -73,6 +73,10 @@
 
 - Rita's articles lead to a trial for Sirius which, along with the hype from Elysia's first two tasks, cause Crouch to break a few key DEs out of Azkaban the same way he was. Likely candidates: Bella, Rookwood, Dolohov, Malfoy.
 
+- Bellatrix was under experimental compulsion spells. She was the guinea pig for Voldemort's attempts to get around the _Fidelius._
+
+- Pettigrew was a DE spy under orders from Dumbledore, who compelled him to sell out the Potters. After the Azkaban breakout, he has a chance to slip away and make contact with Elysia and co. He then resumes his role as a spy, this time for Elysia, and helps orchestrate the graveyard showdown and the downfall of the death eaters.
+
 - Sirius' trial frees him, and he upends the Black family. Narcissa requests an annulment, and Draco sides with her. When Lucius breaks out, Draco goes to Elysia & co.
 
 - Donaghan Tremlett, bassist for The Weird Sisters, is a muggle-born. When Elysia hears that they're booked for the Yule Ball, she sends him an owl letting him know that electronics work at Hogwarts now, and she's got a ley jack to power things if he's got a need. The Weird Sisters bring a synth and some FX pedals and blow a few minds.

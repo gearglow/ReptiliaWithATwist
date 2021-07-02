@@ -190,15 +190,15 @@ Elysia slipped a step sideways, easily dodging the curse. It flew past and struc
 
 The death eaters grew steadily more enraged as every single curse missed, striking only other death eaters. Voldemort threw AKs and dark curses like confetti. Elysia, on the other hand, used only stinging jinxes, summoners, banishers, and a Variable Deflector shield to put foes and their spellfire exactly where she wanted them.
 
-"Can't touch this!" She cackled, moonwalking between a piercing hex and an entrail-expelling curse as she disrupted an unmasked Bellatrix Lestrange mid-Crucio with another stinger.
+"Can't touch this!" She cackled, moonwalking between a piercing hex and an entrail-expelling curse as she disrupted a death eater mid-Crucio with another stinger.
 
-Finally, only Bellatrix, Lucius (whose mask had been shattered), and Voldemort himself were left standing among a sea of bodies. Some were groaning, some gasping, some deathly silent. Elysia grinned as the music changed to Ini Kamoze's "Here Comes the Hotstepper."
+Finally, only Dolohov, Lucius (whose mask had been shattered), and Voldemort himself were left standing among a sea of bodies. Some were groaning, some gasping, some deathly silent. Elysia grinned as the music changed to Ini Kamoze's "Here Comes the Hotstepper."
 
 "Good warm-up. I _almost_ broke a sweat!"
 
-"Widdle baby Potter wants to play, huh?" Bellatrix taunted.
+"The little Potter chit wants to play, huh?" Dolohov taunted.
 
-"Aww, does widdle baby Bella think she can handle it?" Elysia taunted back, swirling her wand around her. "_Fulmen!_" Lightning surged out from her, crackling as it struck her foes. She used it as cover to cast _zulo_ and sink into the ground. She then cast Hermione's favorite poltergeist variant Ghostform spell, the Amharic የፖሊተር ሐኪም ቅፅ (_yepolīteri ḥākīmi k’it͟s’i_).
+"As if you could handle it?" Elysia taunted back, swirling her wand around her. "_Fulmen!_" Lightning surged out from her, crackling as it struck her foes. She used it as cover to cast _zulo_ and sink into the ground. She then cast Hermione's favorite poltergeist variant Ghostform spell, 騒霊 肉体 (_sōrei nikutai_).
 
 "Where are you, you aggravating little brat?" Voldemort snarled, shaking off the effects of a multi-gigawatt jolt faster than his minions.
 
@@ -208,7 +208,7 @@ Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Po
 
 "_Now_ it's a party!" James said. "_Gladius magnus!_" A glowing golden blade of pure magic grew from the tip of his wand, humming with power as he flicked it to a low-guard position.
 
-"_Plokámia!_" Lily cast, conjuring eldritch tentacles of solid darkness, brimming with stray eyes, teeth, and worse. "So it is. And we're the life of the party!"
+"_Avyssaléa plokámia!_" Lily cast, conjuring eldritch tentacles of solid darkness, brimming with stray eyes, teeth, and worse. "So it is. And we're the life of the party!"
 
 "_What._" Voldemort said, eyes bulging. "No magic can resurrect the dead!"
 
@@ -226,9 +226,9 @@ Her Nepali Solid Illusion spell coalesced into the spectres of James and Lily Po
 
 Voldemort's eyes narrowed and his wand became a flurry as he threw spell after spell at her. The air grew hot with residual magic as she countered everything he cast.
 
-"Finally! A challenge! Oh, and by the way," Elysia said, still counter-casting silently. "My parents over there? Illusions. _Fenix sua!_" She disappeared in a gout of phoenix fire, simultaneously dispelling her illusory parents. Voldemort's wave of spells washed over Bellatrix and Lucius, and they fell with cries of anguish.
+"Finally! A challenge! Oh, and by the way," Elysia said, still counter-casting silently. "My parents over there? This is for them. _Fenix sua!_" She disappeared in a gout of phoenix fire, simultaneously dispelling her illusory parents. Voldemort's wave of spells washed over Dolohov and Lucius, and they fell with cries of anguish.
 
-Another gout of phoenix fire bloomed at Voldemort's back as Elysia reappeared, eyes shifted to those of a basilisk. "Heya, Tom!"
+Another gout of phoenix fire bloomed at Voldemort's back as Elysia reappeared, eyes shifted to those of a basilisk. "'Bye, Tom!"
 
 Voldemort spun in shock, eyes meeting hers, and even while the life was snuffed from him by her deadly yellow gaze, she darted forward with a vicious head-butt. As the lifeless corpse fell, she shifted her eyes back and her tracking amulet back out.
 
@@ -247,7 +247,7 @@ He poked his nose out, whiskers twitching as he nodded with an admonishing chitt
 
 "Peter Pettigrew, you are hereby charged with two counts of accessory to murder, conspiracy, treason, and 12 counts of manslaughter. How do you plead?"
 
-Peter sat in the defendant's chair, its animate chains binding him tightly. They squeezed a bit tighter at Madam Bones' question. He shot a scared look at Elysia, who was flanked by her girlfriends. 
+Peter sat in the defendant's chair, its animate chains binding him tightly. They squeezed a bit tighter at Madam Bones' question. He shot a scared look at Elysia in the gallery, flanked by her girlfriends. 
 
 She winked.
 
@@ -255,7 +255,7 @@ He took a deep breath. "I plead guilty under duress, Madam Bones, and formally r
 
 Gasps filled the courtroom. Madam Bones glared down through her monocle. "You claim the Imperius defense, then?"
 
-Peter shook his head as Barrister Eberhardt stood. "No, madam. _Duress,_ not compulsion. I have here a list of questions my client has consented to. We think the court will find them... _enlightening._" He waved his wand, sending copies floating to the assembled court.
+Peter shook his head as Barrister Eberhardt stood. "No, madam. It's a bit more complicated than that. I have here a list of questions my client has consented to. We think the court will find them... _enlightening._" He waved his wand, sending copies floating to the assembled court.
 
 Madam Bones' eyes widened so much her monocle fell out as she read the parchment. "A _full_ follow-up to anything of interest that arises?"
 
@@ -278,7 +278,7 @@ Madam Bones' eyes widened so much her monocle fell out as she read the parchment
 > A: Yes.
 >
 > Q: Why?
-> A: Because Albus Dumbledore ordered me to, and threatened my mother to make sure of it. Not overtly, of course, but he made the threat quite clear.
+> A: Because Albus Dumbledore ordered me to, and threatened my mother to make sure of it. Not overtly, of course, but he made the threat quite clear. The added compulsion spells were just insurance at that point.
 >
 > *Gasps*
 >
