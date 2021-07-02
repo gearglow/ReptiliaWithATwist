@@ -288,3 +288,15 @@ In the end, Sirius' trial didn't take long. Between his own testimony under veri
 
 Dumbledore being, well, Dumbledore, Madam Bones and Madam Longbottom had managed to keep the newly-begun investigation into his illicit activities under wraps until they had an iron-clad case built against him. Eberhardt, Bulstrode, & Tonks were appointed as the prosecution, since they'd already been building a case.
 
+That very day, before he could be remanded into the custody of St. Mungo's finest mind-healers, Sirius escaped to Gringotts with a laundry-list of critical tasks. First on the list, of course, was taking up the mantle of Lord Black, which was as simple as putting on the Head's ring. Its inherent link to the Black family magic did the rest.
+
+Next, for his first act as Lord Black, he reinstated Andromeda Tonks and her daughter, Nymphadora, into the family. Second, of course, was dealing with Bellatrix.
+
+Several things needed to happen in specific order, and Sirius made a point of not only dating the parchment-work, but time-stamping it. First he nullified her marriage to Rudolphus Lestrange, which caused forfeiture of her dowry. Since the Lestranges no longer had enough to pay it back in full, due to helping to finance the death eaters in the first war, their entire vault was confiscated by the goblins and turned over to Sirius. He then attempted to cast her out of the family, declaring her forsworn and a traitor to the House of Black.
+
+This was the first big surprise.
+
+Family magics are strange things. More of a _genius loci_ than anything, only tied to a bloodline rather than a place, over the generations they became semi-sentient. And while, normally, all a Head needed to do to cast someone out was to declare it so while communing with the Family Magic, in this particular case the Magic refused.
+
+As it turned out, according to the Family Magic, Bellatrix had not been acting of her own free will since her betrothal to Lestrange, and with the suspicious death of Arcturus Black, the previous Head, just before, the Magic had been unable to do anything about it. Sirius made a note to deal with this later -- but quickly, because the Family Magic was panicking, had been the whole time, and it was starting to affect Sirius himself.
+
