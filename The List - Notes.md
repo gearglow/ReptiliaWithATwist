@@ -89,6 +89,8 @@
 
 - Elysia claims Right of Conquest against Voldemort and the Death Eaters after the Battle of Little Hangleton, then performs the Heirship Ritual of the Four Founders. This basically makes her queen of magical Britain, since she controls most of the Dark and some of the Unaligned, and also the Founding Houses. And after that, she has the goodwill among the Light to pull it off, too.
 
+- For the Wandless Duel, Elysia uses the prototype Fury armor and morphic channeling weapons she and her triad come up with while thinking up ways to enchant the basilisk-skin armor sets.
+
 
 
 ## Characters

@@ -300,3 +300,17 @@ Family magics are strange things. More of a _genius loci_ than anything, only ti
 
 As it turned out, according to the Family Magic, Bellatrix had not been acting of her own free will since her betrothal to Lestrange, and with the suspicious death of Arcturus Black, the previous Head, just before, the Magic had been unable to do anything about it. Sirius made a note to deal with this later -- but quickly, because the Family Magic was panicking, had been the whole time, and it was starting to affect Sirius himself.
 
+Regardless, his next task was to deal with a couple of the horcruxes. He made his way down to the former Lestrange vault, where he called Robbie in as back-up. They found that everything in the vault had been heavily cursed, such that touching anything would cause the interloper to be buried in super-heated copies of whatever was touched.
+
+"Honestly, Trixie," Sirius muttered. "Are you a witch or not?" Mage-sight active, he and Robbie quickly found Hufflepuff's Cup and levitated it into a pre-prepared lead containment box Robbie had brought. Before the box was sealed, Sirius hit the Cup with _suntsitu arima lotua,_ the horcrux-killer spell Elysia had taught him.
+
+The goblin by the cart burst in at the horcrux's death-wail. "What was that, wizard?"
+
+"Just some curse-breaking," Sirius shrugged. "The vault's _former_ holders were mean little bastards." He smirked. "It's almost like they _expected_ to lose their vault. Still, rather short-sighted of them."
+
+The goblin nodded. "We will, of course, be freezing all transactions for this vault until the curses are lifted."
+
+Sirius grinned. "Of course. I'll take care of it."
+
+Sirius and Robbie's next stop was the house where he grew up (_not_ his "childhood home," he insisted to himself), to deal with Kreacher and the Locket horcrux. Remus met them there.
+
