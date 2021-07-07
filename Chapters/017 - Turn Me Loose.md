@@ -282,7 +282,9 @@ Frank shook his head. "Yeah, definitely better than James' mop."
 
 Elysia's eyes flashed. "Albus Dumbledore has an awful lot to answer for."
 
------
+
+
+### London, UK	1994/12/09 15:30
 
 In the end, Sirius' trial didn't take long. Between his own testimony under veritaserum, the Gringotts-provided copy of the Potters' wills, and pensieve memories of the confrontation with Peter Pettigrew last June from Elysia, the verdict was a foregone conclusion. No, what really shook things up was what the evidence implied about Dumbledore: that he'd lied and covered up the truth for his own machinations, destroying families and leaving innocent people to over a decade in hell. More to the point, he single-handedly brought multiple Ancient and Noble Houses to the brink of destruction, which the Wizengamot, in their infinite self-interest, simply could not abide.
 
@@ -312,5 +314,8 @@ The goblin nodded. "We will, of course, be freezing all transactions for this va
 
 Sirius grinned. "Of course. I'll take care of it."
 
-Sirius and Robbie's next stop was the house where he grew up (_not_ his "childhood home," he insisted to himself), to deal with Kreacher and the Locket horcrux. Remus met them there.
 
+
+### The Kiln, Red Wharf Bay, Wales, UK	1994/12/09 19:00
+
+{TODO} Calling Kreacher

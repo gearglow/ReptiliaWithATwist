@@ -320,7 +320,7 @@ AKA:
 - [x] The Dragon: AC/DC - Thunderstruck
 - [ ] Wanded Duel 1 (Cedric): Queen - We Will Rock You
 - [ ] Wanded Duel 2 (Izzy): George Thorogood - Bad To The Bone
-- [ ] Wanded Duel 3 (Anna): AC/DC - TNT
+- [ ] Wanded Duel 3 (Anna): Pat Benatar - Hit Me With Your Best Shot
 - [ ] Wanded Duel 4 (Fleur): The Runaways - Cherry Bomb
 - [ ] Wanded Duel 5 (Viktor): AC/DC - Hell's Bells
 - [ ] The Lake: Heart - Barracuda
