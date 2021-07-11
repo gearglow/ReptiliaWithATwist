@@ -13,7 +13,7 @@ After reading the primer and finishing their morning workout, she and Robbie sta
 
 Flipping it over, they found a relatively straightforward ward schema and a smear of red. She checked the adjacent stones, too, just in case, but they were blank. *Hmm, possibilities,* she thought.
 
-Between the two of them, they were able to decode the ward schema. It was, in Elysia's divinely-expert opinion, amateurish at best. "Mage-repelling -- inverted muggle-repelling, really -- with intent-based blacklist, some ties to what I'm assuming is my blood there... a life-monitor, remote notifier link, ooh, *nasty* anti-Dark Mark ward... an arithmantic descriptor array -- for the blood protection thing, looks like..."
+Between the two of them, they were able to decode the ward schema. It was, in Elysia's divinely-expert opinion, amateurish at best. "Owl redirection, mage-repelling -- inverted muggle-repelling, really -- with intent-based blacklist, a clever little modified _fidelius,_ some ties to what I'm assuming is my blood there... a life-monitor, remote notifier link, ooh, *nasty* anti-Dark Mark ward... an arithmantic descriptor array -- for the blood protection thing, looks like..."
 
 "Are those *emotion-amplifiers?*" Robbie gasped incredulously.
 

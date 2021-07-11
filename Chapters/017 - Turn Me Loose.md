@@ -286,7 +286,7 @@ Elysia's eyes flashed. "Albus Dumbledore has an awful lot to answer for."
 
 ### London, UK	1994/12/09 15:30
 
-In the end, Sirius' trial didn't take long. Between his own testimony under veritaserum, the Gringotts-provided copy of the Potters' wills, and pensieve memories of the confrontation with Peter Pettigrew last June from Elysia, the verdict was a foregone conclusion. No, what really shook things up was what the evidence implied about Dumbledore: that he'd lied and covered up the truth for his own machinations, destroying families and leaving innocent people to over a decade in hell. More to the point, he single-handedly brought multiple Ancient and Noble Houses to the brink of destruction, which the Wizengamot, in their infinite self-interest, simply could not abide.
+In the end, Sirius' trial didn't take long. Between his own testimony under veritaserum, the Gringotts-provided copy of the Potters' wills, and pensieve memories of the confrontation with Peter Pettigrew last June from Elysia, the verdict was a foregone conclusion. No, what really shook things up was the testimony from the Longbottoms, and what that testimony (and corroborating evidence) implied about Dumbledore: that he'd lied and covered up the truth for his own machinations, destroying families and leaving innocent people to over a decade in hell. More to the point, he single-handedly brought multiple Ancient and Noble Houses to the brink of destruction, which the Wizengamot, in their infinite self-interest, simply could not abide.
 
 Dumbledore being, well, Dumbledore, Madam Bones and Madam Longbottom had managed to keep the newly-begun investigation into his illicit activities under wraps until they had an iron-clad case built against him. Eberhardt, Bulstrode, & Tonks were appointed as the prosecution, since they'd already been building a case.
 
@@ -318,4 +318,4 @@ Sirius grinned. "Of course. I'll take care of it."
 
 ### The Kiln, Red Wharf Bay, Wales, UK	1994/12/09 19:00
 
-{TODO} Calling Kreacher
+There was a bit of a party at The Kiln that night. Elysia's triad were there, as were Nell and Ginny, Nell's parents, Remus, and Sirius himself. The usual suspects, really.

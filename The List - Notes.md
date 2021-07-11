@@ -87,6 +87,8 @@
 
 - Final Task is on Saturday, June 24th, 1995
 
+- Dec. full moon is on the 18th, the Sunday before Christmas.
+
 - Elysia claims Right of Conquest against Voldemort and the Death Eaters after the Battle of Little Hangleton, then performs the Heirship Ritual of the Four Founders. This basically makes her queen of magical Britain, since she controls most of the Dark and some of the Unaligned, and also the Founding Houses. And after that, she has the goodwill among the Light to pull it off, too.
 
 - For the Wandless Duel, Elysia uses the prototype Fury armor and morphic channeling weapons she and her triad come up with while thinking up ways to enchant the basilisk-skin armor sets.
@@ -208,7 +210,7 @@ Frenemies-with-benefits (dating?) with Ron?
 
 Cis girl. Lesbian. Butch af.
 
-In a triad with Laura Madley and Lisa Turpin.
+In a triad with Megan Jones and Lisa Turpin.
 
 
 
