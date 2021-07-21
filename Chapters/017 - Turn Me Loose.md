@@ -318,4 +318,4 @@ Sirius grinned. "Of course. I'll take care of it."
 
 ### The Kiln, Red Wharf Bay, Wales, UK	1994/12/09 19:00
 
-There was a bit of a party at The Kiln that night. Elysia's triad were there, as were Nell and Ginny, Nell's parents, Remus, and Sirius himself. The usual suspects, really.
+There was a bit of a party at The Kiln that night. Elysia's triad were there, as were Nell and Ginny, Nell's parents, Remus, and Sirius himself. The usual suspects, really. Robbie had whipped up quite the feast, and as they all sat around the big, beat-up old dining table, the conversation wandered all over.
